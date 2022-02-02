@@ -8,12 +8,21 @@ Docker is a containerization service that allows for convenient deployment of we
 #### Table of Contents  
 
  [Study Design](#Reseach-Questions)  
-> Here we described the three main research questions that was answered in this study
+> We describe the methodology of this step as follows:
+- Our methodology include generating the set of topics to identify ML repositories hosted on GitHub
+- Use the keywords to extract the ML based repositories then filtered out the ML repositories that do not employ docker in their deployment process.
+- We categoried the curated list of ML projects that used the docker in to six categoies representing the types of ML/ domain.
+- Next step was to dig deeper and understand the purpose for using docker, the result of this step is presented in Figure 2
+- We then extracted the dockerfiles of the curated ML projects and analysed the information such as the instructions, the commands purposes, and the types of base images being used.
+
+- The final part of the methodology was to understant the characteristics of the actual images for building and deploying ML software projects.
+
+An overview of these step is presented in Figure 1.
 ![Purposes](Datasets/general/Methodology.png "The purposes for using docker")
 > Figure 1: An overview of the methodology we followed in this study
 
 [Purpose for Using Docker](#Purpose)  
-![Purposes](Datasets/general/Methodology.png "The purposes for using docker")
+![Purposes](Datasets/RQ2/Purpose.png "The purposes for using docker")
 > Figure 2: The mindmap represing the main purposes for using docker in ML based software projects
 
 

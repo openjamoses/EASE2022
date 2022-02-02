@@ -1,0 +1,62 @@
+﻿Category,BaseImage,Total
+MLOps/ AIOps,Operating System,15.29
+MLOps/ AIOps,Languange Runtime,12.53
+MLOps/ AIOps,Platform Runtime,8.02
+MLOps/ AIOps,Machine Learning Platform,7.27
+MLOps/ AIOps,Variable,4.26
+MLOps/ AIOps,Static Binary,2.76
+MLOps/ AIOps,Web Computing,2.51
+MLOps/ AIOps,"Data Processing 
+and Analysis",2.26
+MLOps/ AIOps,Database,1.75
+MLOps/ AIOps,Interactive Computing,1.5
+MLOps/ AIOps,"Compute resources and 
+Distributed processing",1.25
+MLOps/ AIOps,Network Communication,1
+MLOps/ AIOps,Monitoring System,0.25
+Documentation,Operating System,1.5
+Documentation,Platform Runtime,1.25
+Documentation,Machine Learning Platform,0.75
+Documentation,Variable,0.5
+Documentation,Languange Runtime,0.5
+Documentation,Network Communication,0.25
+Toolkit,Operating System,8.77
+Toolkit,Languange Runtime,7.02
+Toolkit,Platform Runtime,5.76
+Toolkit,Machine Learning Platform,4.51
+Toolkit,Variable,2.76
+Toolkit,Static Binary,1
+Toolkit,Interactive Computing,0.5
+Toolkit,"Data Processing 
+and Analysis",0.25
+Toolkit,"Compute resources and 
+Distributed processing",0.25
+Toolkit,Web Computing,0.25
+Model,Platform Runtime,2.26
+Model,Languange Runtime,1.75
+Model,Machine Learning Platform,1.75
+Model,Operating System,1.25
+Model,Variable,0.5
+Application System,Operating System,26.07
+Application System,Languange Runtime,22.31
+Application System,Platform Runtime,12.78
+Application System,Machine Learning Platform,8.77
+Application System,Variable,5.76
+Application System,Web Computing,4.01
+Application System,"Data Processing 
+and Analysis",1.5
+Application System,Static Binary,1.5
+Application System,Database,0.5
+Application System,Interactive Computing,0.5
+Application System,Network Communication,0.25
+DL Framwork,Operating System,10.53
+DL Framwork,Platform Runtime,9.27
+DL Framwork,Languange Runtime,6.77
+DL Framwork,Machine Learning Platform,6.52
+DL Framwork,Variable,5.01
+DL Framwork,Interactive Computing,1
+DL Framwork,Web Computing,0.5
+DL Framwork,"Compute resources and 
+Distributed processing",0.25
+DL Framwork,"Data Processing 
+and Analysis",0.25

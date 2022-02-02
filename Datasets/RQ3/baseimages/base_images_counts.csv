@@ -1,0 +1,54 @@
+﻿Category,BaseImage,Total
+Toolkit,ubuntu,8.02
+Toolkit,{}/cuda,5.51
+Toolkit,python,4.76
+Toolkit,{}/pytorch,2.01
+Toolkit,{}/tensorflow,1.75
+Toolkit,centos,1.25
+Toolkit,debian,1
+Toolkit,alpine,0.75
+Toolkit,julia,0.5
+Toolkit,{}/jupyter,0.5
+Application System,ubuntu,20.3
+Application System,python,15.04
+Application System,{}/cuda,12.53
+Application System,alpine,5.01
+Application System,node,4.51
+Application System,debian,3.01
+Application System,{}/tensorflow,2.51
+Application System,nginx,2.51
+Application System,centos,2.01
+Application System,ros,2.01
+MLOps/ AIOps,ubuntu,13.28
+MLOps/ AIOps,python,9.02
+MLOps/ AIOps,{}/cuda,7.52
+MLOps/ AIOps,alpine,4.26
+MLOps/ AIOps,golang,4.01
+MLOps/ AIOps,{}/tensorflow,3.26
+MLOps/ AIOps,node,2.26
+MLOps/ AIOps,debian,2.01
+MLOps/ AIOps,centos,2.01
+MLOps/ AIOps,openjdk,2.01
+Model,{}/cuda,2.01
+Model,python,1.75
+Model,{}/pytorch,1.5
+Model,ubuntu,1.25
+Model,{}/tensorflow,0.5
+Model,centos,0.25
+DL Framwork,ubuntu,9.52
+DL Framwork,{}/cuda,9.02
+DL Framwork,python,5.01
+DL Framwork,centos,2.76
+DL Framwork,{}/pytorch,2.51
+DL Framwork,{}/tensorflow,2.51
+DL Framwork,manylinux,1.25
+DL Framwork,debian,1.25
+DL Framwork,golang,1
+DL Framwork,{}/jupyter,1
+Documentation,ubuntu,1.5
+Documentation,{}/cuda,1.25
+Documentation,python,0.5
+Documentation,{}/tensorflow,0.5
+Documentation,alpine,0.25
+Documentation,julia,0.25
+Documentation,{}/pytorch,0.25

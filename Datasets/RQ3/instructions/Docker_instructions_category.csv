@@ -1,0 +1,1447 @@
+﻿Category,Repos,Instructions,Percentage
+Toolkit,keras-team/autokeras,Dependencies,50
+Toolkit,microsoft/nni,Dependencies,38.64
+Toolkit,optuna/optuna,Dependencies,52.63
+Toolkit,ClimbsRocks/auto_ml,Dependencies,40
+Toolkit,nidhaloff/igel,Dependencies,14.29
+Toolkit,funkey/gunpowder,Dependencies,60.87
+Toolkit,MLBazaar/AutoBazaar,Dependencies,25
+Toolkit,deepset-ai/FARM,Dependencies,50
+Toolkit,automl/Auto-PyTorch,Dependencies,41.38
+Toolkit,automl/auto-sklearn,Dependencies,41.38
+Toolkit,ludwig-ai/ludwig,Dependencies,60.98
+Toolkit,autogoal/autogoal,Dependencies,30
+Toolkit,keras-team/autokeras,Build/Execute,28.57
+Toolkit,microsoft/nni,Build/Execute,39.77
+Toolkit,optuna/optuna,Build/Execute,42.11
+Toolkit,ClimbsRocks/auto_ml,Build/Execute,36
+Toolkit,nidhaloff/igel,Build/Execute,42.86
+Toolkit,funkey/gunpowder,Build/Execute,30.43
+Toolkit,MLBazaar/AutoBazaar,Build/Execute,25
+Toolkit,deepset-ai/FARM,Build/Execute,31.58
+Toolkit,automl/Auto-PyTorch,Build/Execute,34.48
+Toolkit,automl/auto-sklearn,Build/Execute,34.48
+Toolkit,ludwig-ai/ludwig,Build/Execute,39.02
+Toolkit,autogoal/autogoal,Build/Execute,47.5
+Toolkit,keras-team/autokeras,Filesystem,21.43
+Toolkit,microsoft/nni,Filesystem,21.59
+Toolkit,optuna/optuna,Filesystem,5.26
+Toolkit,ClimbsRocks/auto_ml,Filesystem,24
+Toolkit,nidhaloff/igel,Filesystem,42.86
+Toolkit,funkey/gunpowder,Filesystem,8.7
+Toolkit,MLBazaar/AutoBazaar,Filesystem,50
+Toolkit,deepset-ai/FARM,Filesystem,18.42
+Toolkit,IBM/AutoMLPipeline.jl,Filesystem,100
+Toolkit,automl/Auto-PyTorch,Filesystem,10.34
+Toolkit,automl/auto-sklearn,Filesystem,10.34
+Toolkit,autogoal/autogoal,Filesystem,12.5
+Toolkit,automl/Auto-PyTorch,Environment,13.79
+Toolkit,automl/auto-sklearn,Environment,13.79
+Toolkit,autogoal/autogoal,Permissions,10
+Toolkit,intel/dffml,Dependencies,45.1
+Toolkit,intel/dffml,Build/Execute,43.79
+Toolkit,intel/dffml,Filesystem,11.11
+Toolkit,JaidedAI/EasyOCR,Dependencies,52.94
+Toolkit,dmlc/decord,Dependencies,44.44
+Toolkit,asciidoctor/docker-asciidoctor,Dependencies,61.54
+Toolkit,deepmind/open_spiel,Dependencies,49.18
+Toolkit,alicevision/AliceVision,Dependencies,22.64
+Toolkit,NVIDIA-AI-IOT/torch2trt,Dependencies,50
+Toolkit,open-mmlab/mmdetection3d,Dependencies,61.11
+Toolkit,ceccocats/tkDNN,Dependencies,30.95
+Toolkit,fuzzylite/fuzzylite,Dependencies,50
+Toolkit,Kitware/fletch,Dependencies,42.31
+Toolkit,scilus/scilpy,Dependencies,50
+Toolkit,BYU-PCCL/holodeck,Dependencies,46.67
+Toolkit,chainer/onnx-chainer,Dependencies,42.86
+Toolkit,knorth55/coral_usb_ros,Dependencies,48.53
+Toolkit,espnet/espnet,Dependencies,42.05
+Toolkit,openvinotoolkit/openvino,Dependencies,57.89
+Toolkit,Project-MONAI/MONAI,Dependencies,31.58
+Toolkit,NVIDIA/TensorRT,Dependencies,38.15
+Toolkit,stillwater-sc/universal,Dependencies,33.03
+Toolkit,1adrianb/face-alignment,Dependencies,52.38
+Toolkit,erdos-project/erdos,Dependencies,32
+Toolkit,shogun-toolbox/shogun,Dependencies,32.5
+Toolkit,Trusted-AI/adversarial-robustness-toolbox,Dependencies,47.83
+Toolkit,NVIDIA/DALI,Dependencies,41.76
+Toolkit,apple/coremltools,Dependencies,26.16
+Toolkit,flashlight/flashlight,Dependencies,33.64
+Toolkit,Waikato/moa,Dependencies,36.84
+Toolkit,IBM/fhe-toolkit-linux,Dependencies,25.78
+Toolkit,NervanaSystems/he-transformer,Dependencies,48.72
+Toolkit,JaidedAI/EasyOCR,Filesystem,23.53
+Toolkit,dmlc/decord,Filesystem,22.22
+Toolkit,asciidoctor/docker-asciidoctor,Filesystem,15.38
+Toolkit,deepmind/open_spiel,Filesystem,8.2
+Toolkit,alicevision/AliceVision,Filesystem,41.51
+Toolkit,open-mmlab/mmdetection3d,Filesystem,5.56
+Toolkit,ceccocats/tkDNN,Filesystem,45.24
+Toolkit,fuzzylite/fuzzylite,Filesystem,25
+Toolkit,Kitware/fletch,Filesystem,23.08
+Toolkit,scilus/scilpy,Filesystem,16.67
+Toolkit,chainer/onnx-chainer,Filesystem,28.57
+Toolkit,knorth55/coral_usb_ros,Filesystem,23.53
+Toolkit,espnet/espnet,Filesystem,40.99
+Toolkit,openvinotoolkit/openvino,Filesystem,5.26
+Toolkit,Project-MONAI/MONAI,Filesystem,31.58
+Toolkit,NVIDIA/TensorRT,Filesystem,27.69
+Toolkit,stillwater-sc/universal,Filesystem,20.18
+Toolkit,1adrianb/face-alignment,Filesystem,9.52
+Toolkit,erdos-project/erdos,Filesystem,20
+Toolkit,shogun-toolbox/shogun,Filesystem,32.5
+Toolkit,Trusted-AI/adversarial-robustness-toolbox,Filesystem,13.04
+Toolkit,NVIDIA/DALI,Filesystem,31.38
+Toolkit,apple/coremltools,Filesystem,36.92
+Toolkit,flashlight/flashlight,Filesystem,35.45
+Toolkit,Waikato/moa,Filesystem,52.63
+Toolkit,IBM/fhe-toolkit-linux,Filesystem,36.93
+Toolkit,NervanaSystems/he-transformer,Filesystem,4.27
+Toolkit,JaidedAI/EasyOCR,Build/Execute,23.53
+Toolkit,dmlc/decord,Build/Execute,33.33
+Toolkit,plstcharles/litiv,Build/Execute,100
+Toolkit,asciidoctor/docker-asciidoctor,Build/Execute,23.08
+Toolkit,deepmind/open_spiel,Build/Execute,42.62
+Toolkit,alicevision/AliceVision,Build/Execute,35.85
+Toolkit,NVIDIA-AI-IOT/torch2trt,Build/Execute,50
+Toolkit,open-mmlab/mmdetection3d,Build/Execute,33.33
+Toolkit,ceccocats/tkDNN,Build/Execute,21.43
+Toolkit,fuzzylite/fuzzylite,Build/Execute,25
+Toolkit,Kitware/fletch,Build/Execute,30.77
+Toolkit,scilus/scilpy,Build/Execute,33.33
+Toolkit,BYU-PCCL/holodeck,Build/Execute,46.67
+Toolkit,chainer/onnx-chainer,Build/Execute,28.57
+Toolkit,knorth55/coral_usb_ros,Build/Execute,27.21
+Toolkit,espnet/espnet,Build/Execute,15.55
+Toolkit,openvinotoolkit/openvino,Build/Execute,36.84
+Toolkit,Project-MONAI/MONAI,Build/Execute,31.58
+Toolkit,NVIDIA/TensorRT,Build/Execute,21.23
+Toolkit,stillwater-sc/universal,Build/Execute,35.78
+Toolkit,1adrianb/face-alignment,Build/Execute,28.57
+Toolkit,erdos-project/erdos,Build/Execute,32
+Toolkit,shogun-toolbox/shogun,Build/Execute,35
+Toolkit,Trusted-AI/adversarial-robustness-toolbox,Build/Execute,39.13
+Toolkit,NVIDIA/DALI,Build/Execute,17.38
+Toolkit,apple/coremltools,Build/Execute,36.2
+Toolkit,flashlight/flashlight,Build/Execute,30.91
+Toolkit,Waikato/moa,Build/Execute,7.89
+Toolkit,IBM/fhe-toolkit-linux,Build/Execute,28.92
+Toolkit,NervanaSystems/he-transformer,Build/Execute,37.61
+Toolkit,ceccocats/tkDNN,Permissions,2.38
+Toolkit,Kitware/fletch,Permissions,3.85
+Toolkit,BYU-PCCL/holodeck,Permissions,6.67
+Toolkit,espnet/espnet,Permissions,0.71
+Toolkit,Project-MONAI/MONAI,Permissions,5.26
+Toolkit,NVIDIA/TensorRT,Permissions,11.08
+Toolkit,stillwater-sc/universal,Permissions,5.5
+Toolkit,1adrianb/face-alignment,Permissions,9.52
+Toolkit,erdos-project/erdos,Permissions,16
+Toolkit,NVIDIA/DALI,Permissions,4.06
+Toolkit,IBM/fhe-toolkit-linux,Permissions,7.32
+Toolkit,NervanaSystems/he-transformer,Permissions,3.42
+Toolkit,knorth55/coral_usb_ros,Environment,0.74
+Toolkit,espnet/espnet,Environment,0.71
+Toolkit,NVIDIA/TensorRT,Environment,1.85
+Toolkit,stillwater-sc/universal,Environment,5.5
+Toolkit,NVIDIA/DALI,Environment,5.42
+Toolkit,apple/coremltools,Environment,0.72
+Toolkit,Waikato/moa,Environment,2.63
+Toolkit,IBM/fhe-toolkit-linux,Environment,1.05
+Toolkit,NervanaSystems/he-transformer,Environment,5.98
+Documentation,sony/nnabla-examples,Dependencies,44.95
+Documentation,yandexdataschool/Practical_RL,Dependencies,26.92
+Documentation,JdeRobot/RoboticsAcademy,Dependencies,38.28
+Documentation,flyteorg/flytesnacks,Dependencies,46.22
+Documentation,microsoft/computervision-recipes,Dependencies,54.76
+Documentation,prabhuomkar/pytorch-cpp,Dependencies,51.85
+Documentation,sony/nnabla-examples,Build/Execute,36.7
+Documentation,yandexdataschool/Practical_RL,Build/Execute,23.08
+Documentation,JdeRobot/RoboticsAcademy,Build/Execute,21.48
+Documentation,flyteorg/flytesnacks,Build/Execute,41.62
+Documentation,microsoft/computervision-recipes,Build/Execute,28.57
+Documentation,prabhuomkar/pytorch-cpp,Build/Execute,22.22
+Documentation,sony/nnabla-examples,Filesystem,16.51
+Documentation,yandexdataschool/Practical_RL,Filesystem,34.62
+Documentation,JdeRobot/RoboticsAcademy,Filesystem,36.33
+Documentation,flyteorg/flytesnacks,Filesystem,9.19
+Documentation,microsoft/computervision-recipes,Filesystem,16.67
+Documentation,prabhuomkar/pytorch-cpp,Filesystem,7.41
+Documentation,sony/nnabla-examples,Permissions,1.83
+Documentation,yandexdataschool/Practical_RL,Permissions,15.38
+Documentation,JdeRobot/RoboticsAcademy,Permissions,3.91
+Documentation,flyteorg/flytesnacks,Permissions,2.97
+Documentation,prabhuomkar/pytorch-cpp,Permissions,18.52
+DL Framwork,poets-ai/elegy,Dependencies,50
+DL Framwork,PyTorchLightning/pytorch-lightning,Dependencies,39.57
+DL Framwork,catalyst-team/catalyst,Dependencies,32.41
+DL Framwork,scikit-hep/pyhf,Dependencies,55
+DL Framwork,tensorlayer/tensorlayer,Dependencies,45.45
+DL Framwork,vanvalenlab/deepcell-tf,Dependencies,50
+DL Framwork,NVIDIA/DIGITS,Dependencies,27.27
+DL Framwork,takuseno/d3rlpy,Dependencies,38.89
+DL Framwork,pytorch/ignite,Dependencies,52.51
+DL Framwork,tensorflow/tensorflow,Dependencies,45.3
+DL Framwork,chainer/chainer,Dependencies,38.21
+DL Framwork,rlworkgroup/garage,Dependencies,33.33
+DL Framwork,SmartDataAnalytics/DL-Learner,Dependencies,50
+DL Framwork,open-mmlab/mmdetection,Dependencies,45.16
+DL Framwork,allenai/allennlp,Dependencies,43.48
+DL Framwork,hybridgroup/gocv,Dependencies,26.83
+DL Framwork,PaddlePaddle/Paddle,Dependencies,25.13
+DL Framwork,keras-team/keras,Dependencies,44.44
+DL Framwork,pytorch/pytorch,Dependencies,21.2
+DL Framwork,PaddlePaddle/Paddle-Lite,Dependencies,35.35
+DL Framwork,alibaba/MNN,Dependencies,20.59
+DL Framwork,sony/nnabla,Dependencies,33.33
+DL Framwork,spiceai/spiceai,Dependencies,36.36
+DL Framwork,dmlc/xgboost,Dependencies,49.32
+DL Framwork,tiny-dnn/tiny-dnn,Dependencies,49.02
+DL Framwork,Oneflow-Inc/oneflow,Dependencies,32.92
+DL Framwork,nicolas-chaulet/torch-points3d,Dependencies,40
+DL Framwork,kengz/SLM-Lab,Dependencies,57.14
+DL Framwork,DataCanvasIO/DeepTables,Dependencies,14.29
+DL Framwork,stardist/stardist,Dependencies,54.55
+DL Framwork,flexflow/FlexFlow,Dependencies,31.82
+DL Framwork,alicevision/popsift,Dependencies,25
+DL Framwork,JuliaReinforcementLearning/ReinforcementLearning.jl,Dependencies,41.67
+DL Framwork,BaguaSys/bagua,Dependencies,37.32
+DL Framwork,rlgraph/rlgraph,Dependencies,43.51
+DL Framwork,tinyms-ai/tinyms,Dependencies,46.67
+DL Framwork,carefree0910/carefree-learn,Dependencies,56.52
+DL Framwork,neuronets/nobrainer,Dependencies,56.25
+DL Framwork,fastestimator/fastestimator,Dependencies,52.38
+DL Framwork,RidgeRun/gst-inference,Dependencies,46.67
+DL Framwork,CampagneLaboratory/variationanalysis,Dependencies,31.58
+DL Framwork,apache/singa,Dependencies,38.36
+DL Framwork,deepchem/deepchem,Dependencies,53.06
+DL Framwork,achaiah/pywick,Dependencies,38.78
+DL Framwork,BVLC/caffe,Dependencies,35.42
+DL Framwork,horovod/horovod,Dependencies,34.86
+DL Framwork,jina-ai/jina,Dependencies,46.59
+DL Framwork,alibaba/Alink,Dependencies,45.45
+DL Framwork,intel/caffe,Dependencies,30.77
+DL Framwork,DLR-RM/stable-baselines3,Dependencies,40
+DL Framwork,deepjavalibrary/djl,Dependencies,37.84
+DL Framwork,tensorlayer/hyperpose,Dependencies,28.57
+DL Framwork,determined-ai/determined,Dependencies,56.14
+DL Framwork,DLR-RM/rl-baselines3-zoo,Dependencies,43.75
+DL Framwork,hughperkins/tf-coriander,Dependencies,48.98
+DL Framwork,microsoft/nnfusion,Dependencies,32.97
+DL Framwork,tlkh/ai-lab,Dependencies,32.78
+DL Framwork,robotology/gym-ignition,Dependencies,48.44
+DL Framwork,microsoft/tensorflow-directml,Dependencies,47.52
+DL Framwork,datamachines/cuda_tensorflow_opencv,Dependencies,36.22
+DL Framwork,Bluefog-Lib/bluefog,Dependencies,34.94
+DL Framwork,poets-ai/elegy,Build/Execute,50
+DL Framwork,PyTorchLightning/pytorch-lightning,Build/Execute,32.34
+DL Framwork,catalyst-team/catalyst,Build/Execute,34.26
+DL Framwork,scikit-hep/pyhf,Build/Execute,35
+DL Framwork,tensorlayer/tensorlayer,Build/Execute,30.3
+DL Framwork,vanvalenlab/deepcell-tf,Build/Execute,33.33
+DL Framwork,NVIDIA/DIGITS,Build/Execute,9.09
+DL Framwork,takuseno/d3rlpy,Build/Execute,22.22
+DL Framwork,pytorch/ignite,Build/Execute,22.01
+DL Framwork,tensorflow/tensorflow,Build/Execute,23.42
+DL Framwork,chainer/chainer,Build/Execute,34.15
+DL Framwork,rlworkgroup/garage,Build/Execute,27.38
+DL Framwork,SmartDataAnalytics/DL-Learner,Build/Execute,12.5
+DL Framwork,open-mmlab/mmdetection,Build/Execute,25.81
+DL Framwork,allenai/allennlp,Build/Execute,30.43
+DL Framwork,hybridgroup/gocv,Build/Execute,31.71
+DL Framwork,PaddlePaddle/Paddle,Build/Execute,31.47
+DL Framwork,keras-team/keras,Build/Execute,22.22
+DL Framwork,pytorch/pytorch,Build/Execute,39.93
+DL Framwork,PaddlePaddle/Paddle-Lite,Build/Execute,18.18
+DL Framwork,alibaba/MNN,Build/Execute,35.29
+DL Framwork,sony/nnabla,Build/Execute,33.91
+DL Framwork,spiceai/spiceai,Build/Execute,63.64
+DL Framwork,dmlc/xgboost,Build/Execute,23.47
+DL Framwork,tiny-dnn/tiny-dnn,Build/Execute,43.14
+DL Framwork,Oneflow-Inc/oneflow,Build/Execute,42.24
+DL Framwork,nicolas-chaulet/torch-points3d,Build/Execute,37.78
+DL Framwork,kengz/SLM-Lab,Build/Execute,19.05
+DL Framwork,DataCanvasIO/DeepTables,Build/Execute,14.29
+DL Framwork,stardist/stardist,Build/Execute,36.36
+DL Framwork,flexflow/FlexFlow,Build/Execute,31.82
+DL Framwork,alicevision/popsift,Build/Execute,35
+DL Framwork,JuliaReinforcementLearning/ReinforcementLearning.jl,Build/Execute,25
+DL Framwork,BaguaSys/bagua,Build/Execute,36.97
+DL Framwork,rlgraph/rlgraph,Build/Execute,46.1
+DL Framwork,tinyms-ai/tinyms,Build/Execute,33.33
+DL Framwork,carefree0910/carefree-learn,Build/Execute,43.48
+DL Framwork,neuronets/nobrainer,Build/Execute,18.75
+DL Framwork,fastestimator/fastestimator,Build/Execute,42.86
+DL Framwork,RidgeRun/gst-inference,Build/Execute,26.67
+DL Framwork,CampagneLaboratory/variationanalysis,Build/Execute,17.89
+DL Framwork,apache/singa,Build/Execute,26.85
+DL Framwork,deepchem/deepchem,Build/Execute,14.97
+DL Framwork,achaiah/pywick,Build/Execute,28.57
+DL Framwork,BVLC/caffe,Build/Execute,33.33
+DL Framwork,horovod/horovod,Build/Execute,28.5
+DL Framwork,jina-ai/jina,Build/Execute,28.41
+DL Framwork,alibaba/Alink,Build/Execute,18.18
+DL Framwork,intel/caffe,Build/Execute,23.08
+DL Framwork,DLR-RM/stable-baselines3,Build/Execute,35
+DL Framwork,deepjavalibrary/djl,Build/Execute,37.84
+DL Framwork,tensorlayer/hyperpose,Build/Execute,42.86
+DL Framwork,determined-ai/determined,Build/Execute,29.82
+DL Framwork,DLR-RM/rl-baselines3-zoo,Build/Execute,31.25
+DL Framwork,hughperkins/tf-coriander,Build/Execute,24.08
+DL Framwork,microsoft/nnfusion,Build/Execute,37.3
+DL Framwork,tlkh/ai-lab,Build/Execute,21.07
+DL Framwork,robotology/gym-ignition,Build/Execute,17.19
+DL Framwork,microsoft/tensorflow-directml,Build/Execute,25.08
+DL Framwork,datamachines/cuda_tensorflow_opencv,Build/Execute,32.28
+DL Framwork,Bluefog-Lib/bluefog,Build/Execute,34.34
+DL Framwork,PyTorchLightning/pytorch-lightning,Filesystem,24.68
+DL Framwork,catalyst-team/catalyst,Filesystem,33.33
+DL Framwork,scikit-hep/pyhf,Filesystem,10
+DL Framwork,tensorlayer/tensorlayer,Filesystem,24.24
+DL Framwork,vanvalenlab/deepcell-tf,Filesystem,16.67
+DL Framwork,NVIDIA/DIGITS,Filesystem,63.64
+DL Framwork,takuseno/d3rlpy,Filesystem,38.89
+DL Framwork,pytorch/ignite,Filesystem,25.1
+DL Framwork,tensorflow/tensorflow,Filesystem,25.35
+DL Framwork,chainer/chainer,Filesystem,25.2
+DL Framwork,rlworkgroup/garage,Filesystem,33.33
+DL Framwork,SmartDataAnalytics/DL-Learner,Filesystem,37.5
+DL Framwork,open-mmlab/mmdetection,Filesystem,12.9
+DL Framwork,allenai/allennlp,Filesystem,26.09
+DL Framwork,hybridgroup/gocv,Filesystem,41.46
+DL Framwork,PaddlePaddle/Paddle,Filesystem,41.79
+DL Framwork,keras-team/keras,Filesystem,16.67
+DL Framwork,pytorch/pytorch,Filesystem,36.4
+DL Framwork,PaddlePaddle/Paddle-Lite,Filesystem,46.46
+DL Framwork,alibaba/MNN,Filesystem,38.24
+DL Framwork,sony/nnabla,Filesystem,32.47
+DL Framwork,dmlc/xgboost,Filesystem,14.97
+DL Framwork,tiny-dnn/tiny-dnn,Filesystem,7.84
+DL Framwork,Oneflow-Inc/oneflow,Filesystem,21.74
+DL Framwork,nicolas-chaulet/torch-points3d,Filesystem,22.22
+DL Framwork,kengz/SLM-Lab,Filesystem,23.81
+DL Framwork,DataCanvasIO/DeepTables,Filesystem,57.14
+DL Framwork,stardist/stardist,Filesystem,9.09
+DL Framwork,flexflow/FlexFlow,Filesystem,31.82
+DL Framwork,alicevision/popsift,Filesystem,40
+DL Framwork,JuliaReinforcementLearning/ReinforcementLearning.jl,Filesystem,29.17
+DL Framwork,BaguaSys/bagua,Filesystem,22.89
+DL Framwork,rlgraph/rlgraph,Filesystem,10.39
+DL Framwork,tinyms-ai/tinyms,Filesystem,20
+DL Framwork,neuronets/nobrainer,Filesystem,18.75
+DL Framwork,RidgeRun/gst-inference,Filesystem,26.67
+DL Framwork,CampagneLaboratory/variationanalysis,Filesystem,42.11
+DL Framwork,apache/singa,Filesystem,34.79
+DL Framwork,deepchem/deepchem,Filesystem,27.89
+DL Framwork,achaiah/pywick,Filesystem,30.61
+DL Framwork,BVLC/caffe,Filesystem,31.25
+DL Framwork,horovod/horovod,Filesystem,31.04
+DL Framwork,jina-ai/jina,Filesystem,25
+DL Framwork,alibaba/Alink,Filesystem,27.27
+DL Framwork,intel/caffe,Filesystem,46.15
+DL Framwork,DLR-RM/stable-baselines3,Filesystem,20
+DL Framwork,deepjavalibrary/djl,Filesystem,24.32
+DL Framwork,tensorlayer/hyperpose,Filesystem,28.57
+DL Framwork,determined-ai/determined,Filesystem,12.28
+DL Framwork,DLR-RM/rl-baselines3-zoo,Filesystem,18.75
+DL Framwork,hughperkins/tf-coriander,Filesystem,24.08
+DL Framwork,eaplatanios/tensorflow_scala,Filesystem,100
+DL Framwork,microsoft/nnfusion,Filesystem,27.57
+DL Framwork,tlkh/ai-lab,Filesystem,43.48
+DL Framwork,robotology/gym-ignition,Filesystem,25
+DL Framwork,microsoft/tensorflow-directml,Filesystem,21.84
+DL Framwork,datamachines/cuda_tensorflow_opencv,Filesystem,28.35
+DL Framwork,Bluefog-Lib/bluefog,Filesystem,30.72
+DL Framwork,PyTorchLightning/pytorch-lightning,Environment,0.85
+DL Framwork,pytorch/ignite,Environment,0.39
+DL Framwork,tensorflow/tensorflow,Environment,0.41
+DL Framwork,rlworkgroup/garage,Environment,2.38
+DL Framwork,open-mmlab/mmdetection,Environment,3.23
+DL Framwork,PaddlePaddle/Paddle,Environment,0.51
+DL Framwork,pytorch/pytorch,Environment,0.71
+DL Framwork,alibaba/MNN,Environment,5.88
+DL Framwork,sony/nnabla,Environment,0.14
+DL Framwork,dmlc/xgboost,Environment,7.48
+DL Framwork,Oneflow-Inc/oneflow,Environment,1.86
+DL Framwork,JuliaReinforcementLearning/ReinforcementLearning.jl,Environment,4.17
+DL Framwork,BaguaSys/bagua,Environment,2.82
+DL Framwork,neuronets/nobrainer,Environment,6.25
+DL Framwork,CampagneLaboratory/variationanalysis,Environment,8.42
+DL Framwork,deepchem/deepchem,Environment,4.08
+DL Framwork,horovod/horovod,Environment,1.53
+DL Framwork,alibaba/Alink,Environment,9.09
+DL Framwork,hughperkins/tf-coriander,Environment,0.41
+DL Framwork,robotology/gym-ignition,Environment,3.12
+DL Framwork,microsoft/tensorflow-directml,Environment,1.21
+DL Framwork,PyTorchLightning/pytorch-lightning,Permissions,2.55
+DL Framwork,tensorflow/tensorflow,Permissions,5.52
+DL Framwork,chainer/chainer,Permissions,2.44
+DL Framwork,rlworkgroup/garage,Permissions,3.57
+DL Framwork,open-mmlab/mmdetection,Permissions,12.9
+DL Framwork,PaddlePaddle/Paddle,Permissions,1.1
+DL Framwork,keras-team/keras,Permissions,16.67
+DL Framwork,pytorch/pytorch,Permissions,1.77
+DL Framwork,sony/nnabla,Permissions,0.14
+DL Framwork,dmlc/xgboost,Permissions,4.76
+DL Framwork,Oneflow-Inc/oneflow,Permissions,1.24
+DL Framwork,DataCanvasIO/DeepTables,Permissions,14.29
+DL Framwork,flexflow/FlexFlow,Permissions,4.55
+DL Framwork,fastestimator/fastestimator,Permissions,4.76
+DL Framwork,achaiah/pywick,Permissions,2.04
+DL Framwork,horovod/horovod,Permissions,4.07
+DL Framwork,DLR-RM/stable-baselines3,Permissions,5
+DL Framwork,determined-ai/determined,Permissions,1.75
+DL Framwork,DLR-RM/rl-baselines3-zoo,Permissions,6.25
+DL Framwork,hughperkins/tf-coriander,Permissions,2.45
+DL Framwork,microsoft/nnfusion,Permissions,2.16
+DL Framwork,tlkh/ai-lab,Permissions,2.68
+DL Framwork,robotology/gym-ignition,Permissions,6.25
+DL Framwork,microsoft/tensorflow-directml,Permissions,4.35
+DL Framwork,datamachines/cuda_tensorflow_opencv,Permissions,3.15
+Toolkit,TuringLang/Turing.jl,Filesystem,66.67
+Toolkit,aksnzhy/xlearn,Filesystem,16.67
+Toolkit,dmlc/gluon-nlp,Filesystem,18.87
+Toolkit,RGF-team/rgf,Filesystem,11.76
+Toolkit,sepandhaghighi/pycm,Filesystem,13.64
+Toolkit,reiinakano/xcessiv,Filesystem,20
+Toolkit,catboost/catboost,Filesystem,20.59
+Toolkit,microsoft/LightGBM,Filesystem,29.25
+Toolkit,stellargraph/stellargraph,Filesystem,25
+Toolkit,yandex/rep,Filesystem,69.23
+Toolkit,vearch/vearch,Filesystem,51.52
+Toolkit,nlpodyssey/spago,Filesystem,25
+Toolkit,xaynetwork/xaynet,Filesystem,33.33
+Toolkit,TuringLang/Turing.jl,Environment,33.33
+Toolkit,RGF-team/rgf,Environment,5.88
+Toolkit,microsoft/LightGBM,Environment,2.83
+Toolkit,yandex/rep,Environment,7.69
+Toolkit,nlpodyssey/spago,Environment,12.5
+Toolkit,aksnzhy/xlearn,Dependencies,50
+Toolkit,OpenMined/TenSEAL,Dependencies,50
+Toolkit,pymc-devs/pymc,Dependencies,25
+Toolkit,dmlc/gluon-nlp,Dependencies,18.87
+Toolkit,RGF-team/rgf,Dependencies,47.06
+Toolkit,sepandhaghighi/pycm,Dependencies,50
+Toolkit,reiinakano/xcessiv,Dependencies,40
+Toolkit,catboost/catboost,Dependencies,47.06
+Toolkit,microsoft/LightGBM,Dependencies,36.79
+Toolkit,stellargraph/stellargraph,Dependencies,42.86
+Toolkit,yandex/rep,Dependencies,7.69
+Toolkit,greenelab/RNAseq_titration_results,Dependencies,66.67
+Toolkit,vearch/vearch,Dependencies,27.27
+Toolkit,nlpodyssey/spago,Dependencies,12.5
+Toolkit,xaynetwork/xaynet,Dependencies,41.67
+Toolkit,aksnzhy/xlearn,Build/Execute,33.33
+Toolkit,OpenMined/TenSEAL,Build/Execute,50
+Toolkit,pymc-devs/pymc,Build/Execute,75
+Toolkit,dmlc/gluon-nlp,Build/Execute,50.94
+Toolkit,RGF-team/rgf,Build/Execute,35.29
+Toolkit,sepandhaghighi/pycm,Build/Execute,27.27
+Toolkit,reiinakano/xcessiv,Build/Execute,40
+Toolkit,catboost/catboost,Build/Execute,23.53
+Toolkit,microsoft/LightGBM,Build/Execute,30.19
+Toolkit,stellargraph/stellargraph,Build/Execute,25
+Toolkit,yandex/rep,Build/Execute,15.38
+Toolkit,greenelab/RNAseq_titration_results,Build/Execute,33.33
+Toolkit,vearch/vearch,Build/Execute,21.21
+Toolkit,nlpodyssey/spago,Build/Execute,25
+Toolkit,xaynetwork/xaynet,Build/Execute,25
+Toolkit,dmlc/gluon-nlp,Permissions,11.32
+Toolkit,sepandhaghighi/pycm,Permissions,9.09
+Toolkit,catboost/catboost,Permissions,8.82
+Toolkit,microsoft/LightGBM,Permissions,0.94
+Toolkit,stellargraph/stellargraph,Permissions,7.14
+Toolkit,nlpodyssey/spago,Permissions,25
+Model,IntelAI/models,Dependencies,41.93
+Model,ultralytics/yolov5,Dependencies,50
+Model,ultralytics/yolov3,Dependencies,53.85
+Model,hanxiao/bert-as-service,Dependencies,50
+Model,qubvel/segmentation_models.pytorch,Dependencies,50
+Model,medipixel/rl_algorithms,Dependencies,52
+Model,alexandrainst/danlp,Dependencies,50
+Model,Ricardicus/recurrent-neural-net,Dependencies,50
+Model,huggingface/transformers,Dependencies,41.8
+Model,kakaobrain/pororo,Dependencies,56
+Model,faustomorales/keras-ocr,Dependencies,42.86
+Model,dmlc/gluon-cv,Dependencies,38.18
+Model,araffin/rl-baselines-zoo,Dependencies,47.83
+Model,IntelAI/models,Build/Execute,24.29
+Model,ultralytics/yolov5,Build/Execute,40
+Model,ultralytics/yolov3,Build/Execute,38.46
+Model,hanxiao/bert-as-service,Build/Execute,25
+Model,qubvel/segmentation_models.pytorch,Build/Execute,50
+Model,medipixel/rl_algorithms,Build/Execute,36
+Model,alexandrainst/danlp,Build/Execute,50
+Model,Ricardicus/recurrent-neural-net,Build/Execute,50
+Model,huggingface/transformers,Build/Execute,44.44
+Model,kakaobrain/pororo,Build/Execute,44
+Model,faustomorales/keras-ocr,Build/Execute,28.57
+Model,dmlc/gluon-cv,Build/Execute,30
+Model,araffin/rl-baselines-zoo,Build/Execute,39.13
+Model,IntelAI/models,Filesystem,16.59
+Model,ultralytics/yolov5,Filesystem,5
+Model,ultralytics/yolov3,Filesystem,7.69
+Model,hanxiao/bert-as-service,Filesystem,25
+Model,medipixel/rl_algorithms,Filesystem,12
+Model,huggingface/transformers,Filesystem,12.7
+Model,faustomorales/keras-ocr,Filesystem,28.57
+Model,dmlc/gluon-cv,Filesystem,27.27
+Model,araffin/rl-baselines-zoo,Filesystem,13.04
+Model,IntelAI/models,Permissions,16.71
+Model,huggingface/transformers,Permissions,1.06
+Model,dmlc/gluon-cv,Permissions,4.55
+Model,IntelAI/models,Environment,0.48
+Model,ultralytics/yolov5,Environment,5
+Application System,PX4/PX4-Autopilot,Dependencies,35.98
+Application System,ApolloAuto/apollo,Dependencies,26.67
+Application System,commaai/openpilot,Dependencies,31.82
+Application System,iNavFlight/inav,Dependencies,46.15
+Application System,huawei-noah/SMARTS,Dependencies,49.28
+Application System,sergionr2/RacingRobot,Dependencies,42.11
+Application System,JuliaMPC/MAVs,Dependencies,31.82
+Application System,paparazzi/paparazzi,Dependencies,40.54
+Application System,ArduPilot/ardupilot,Dependencies,25
+Application System,generalized-intelligence/GAAS,Dependencies,33.33
+Application System,naurril/SUSTechPOINTS,Dependencies,64.29
+Application System,PX4/PX4-Autopilot,Build/Execute,24.54
+Application System,ApolloAuto/apollo,Build/Execute,47.62
+Application System,commaai/openpilot,Build/Execute,22.73
+Application System,iNavFlight/inav,Build/Execute,15.38
+Application System,huawei-noah/SMARTS,Build/Execute,24.64
+Application System,sergionr2/RacingRobot,Build/Execute,36.84
+Application System,JuliaMPC/MAVs,Build/Execute,18.18
+Application System,paparazzi/paparazzi,Build/Execute,27.03
+Application System,ArduPilot/ardupilot,Build/Execute,8.33
+Application System,generalized-intelligence/GAAS,Build/Execute,66.67
+Application System,naurril/SUSTechPOINTS,Build/Execute,28.57
+Application System,PX4/PX4-Autopilot,Filesystem,36.35
+Application System,ApolloAuto/apollo,Filesystem,25.71
+Application System,commaai/openpilot,Filesystem,45.45
+Application System,iNavFlight/inav,Filesystem,30.77
+Application System,huawei-noah/SMARTS,Filesystem,22.46
+Application System,sergionr2/RacingRobot,Filesystem,16.84
+Application System,JuliaMPC/MAVs,Filesystem,40
+Application System,paparazzi/paparazzi,Filesystem,21.62
+Application System,ArduPilot/ardupilot,Filesystem,33.33
+Application System,naurril/SUSTechPOINTS,Filesystem,7.14
+Application System,PX4/PX4-Autopilot,Permissions,2.95
+Application System,iNavFlight/inav,Permissions,7.69
+Application System,huawei-noah/SMARTS,Permissions,2.17
+Application System,sergionr2/RacingRobot,Permissions,2.11
+Application System,JuliaMPC/MAVs,Permissions,9.55
+Application System,paparazzi/paparazzi,Permissions,8.11
+Application System,ArduPilot/ardupilot,Permissions,33.33
+Application System,PX4/PX4-Autopilot,Environment,0.18
+Application System,huawei-noah/SMARTS,Environment,1.45
+Application System,sergionr2/RacingRobot,Environment,2.11
+Application System,JuliaMPC/MAVs,Environment,0.45
+Application System,paparazzi/paparazzi,Environment,2.7
+MLOps/ AIOps,orchest/orchest,Dependencies,52.14
+MLOps/ AIOps,mars-project/mars,Dependencies,40.74
+MLOps/ AIOps,nipreps/fmriprep,Dependencies,34.48
+MLOps/ AIOps,madsjulia/Mads.jl,Dependencies,23.53
+MLOps/ AIOps,kubeflow/kubeflow,Dependencies,35.09
+MLOps/ AIOps,triton-inference-server/server,Dependencies,19.01
+MLOps/ AIOps,WasmEdge/WasmEdge,Dependencies,18.54
+MLOps/ AIOps,Hydrospheredata/hydro-serving-ui,Dependencies,48
+MLOps/ AIOps,uber/petastorm,Dependencies,46.88
+MLOps/ AIOps,flyteorg/flyte,Dependencies,43.33
+MLOps/ AIOps,nipreps/smriprep,Dependencies,35.62
+MLOps/ AIOps,NervanaSystems/ngraph,Dependencies,58.73
+MLOps/ AIOps,tensorflow/tfjs,Dependencies,46.15
+MLOps/ AIOps,mesosphere/dcos-commons,Dependencies,36.76
+MLOps/ AIOps,locationtech/rasterframes,Dependencies,42.11
+MLOps/ AIOps,augerai/a2ml,Dependencies,29.41
+MLOps/ AIOps,volcano-sh/volcano,Dependencies,56.76
+MLOps/ AIOps,microsoft/MLOpsPython,Dependencies,57.14
+MLOps/ AIOps,polyaxon/polyaxon,Dependencies,34.48
+MLOps/ AIOps,BlazingDB/blazingsql,Dependencies,26.78
+MLOps/ AIOps,openvinotoolkit/model_server,Dependencies,33.06
+MLOps/ AIOps,bentoml/BentoML,Dependencies,46.4
+MLOps/ AIOps,awslabs/multi-model-server,Dependencies,33.59
+MLOps/ AIOps,jolibrain/deepdetect,Dependencies,39.6
+MLOps/ AIOps,nabeel-oz/qlik-py-tools,Dependencies,50.81
+MLOps/ AIOps,RedisAI/RedisAI,Dependencies,29.27
+MLOps/ AIOps,Alluxio/alluxio,Dependencies,26.74
+MLOps/ AIOps,tensorflow/serving,Dependencies,40.24
+MLOps/ AIOps,feast-dev/feast,Dependencies,43.84
+MLOps/ AIOps,tensorflow/tfx,Dependencies,41.27
+MLOps/ AIOps,SeldonIO/seldon-core,Dependencies,50.77
+MLOps/ AIOps,allegroai/clearml-agent,Dependencies,55.26
+MLOps/ AIOps,blue-oil/blueoil,Dependencies,33.33
+MLOps/ AIOps,LLNL/merlin,Dependencies,37.04
+MLOps/ AIOps,UniversalDataTool/universal-data-tool,Dependencies,60
+MLOps/ AIOps,great-expectations/great_expectations,Dependencies,28.57
+MLOps/ AIOps,quantumblacklabs/kedro,Dependencies,53.33
+MLOps/ AIOps,tensorflow/model-optimization,Dependencies,42.86
+MLOps/ AIOps,aws/deep-learning-containers,Dependencies,34.5
+MLOps/ AIOps,kubeflow/mpi-operator,Dependencies,36.61
+MLOps/ AIOps,nnstreamer/nnstreamer,Dependencies,61.11
+MLOps/ AIOps,aws/sagemaker-tensorflow-serving-container,Dependencies,46.3
+MLOps/ AIOps,douban/tfmesos,Dependencies,50
+MLOps/ AIOps,intel/video-analytics-serving,Dependencies,42.11
+MLOps/ AIOps,petuum/adaptdl,Dependencies,26.32
+MLOps/ AIOps,imjoy-team/ImJoy,Dependencies,57.14
+MLOps/ AIOps,aniketmaurya/chitra,Dependencies,58.33
+MLOps/ AIOps,kleveross/klever-model-registry,Dependencies,44.76
+MLOps/ AIOps,aldor007/mort,Dependencies,42.86
+MLOps/ AIOps,vincentclaes/datajob,Dependencies,43.9
+MLOps/ AIOps,dcos-labs/dcos-jupyterlab-service,Dependencies,29.68
+MLOps/ AIOps,geekjr/quickai,Dependencies,42.86
+MLOps/ AIOps,Paperspace/gradient-cli,Dependencies,60
+MLOps/ AIOps,indigo-dc/DEEPaaS,Dependencies,57.89
+MLOps/ AIOps,cortexlabs/cortex,Dependencies,42.95
+MLOps/ AIOps,RedisAI/redisai-py,Dependencies,46.15
+MLOps/ AIOps,ray-project/ray,Dependencies,42.64
+MLOps/ AIOps,mlflow/mlflow,Dependencies,57.14
+MLOps/ AIOps,root-project/root,Dependencies,32.84
+MLOps/ AIOps,intel-analytics/BigDL,Dependencies,35.28
+MLOps/ AIOps,ufoym/deepo,Dependencies,41.52
+MLOps/ AIOps,intel-analytics/analytics-zoo,Dependencies,38.61
+MLOps/ AIOps,sql-machine-learning/sqlflow,Dependencies,30.3
+MLOps/ AIOps,kserve/kserve,Dependencies,51.48
+MLOps/ AIOps,4paradigm/OpenMLDB,Dependencies,46.67
+MLOps/ AIOps,SeldonIO/seldon-server,Dependencies,32.84
+MLOps/ AIOps,ml-tooling/ml-workspace,Dependencies,39.28
+MLOps/ AIOps,VertaAI/modeldb,Dependencies,50
+MLOps/ AIOps,PaddlePaddle/Serving,Dependencies,22.31
+MLOps/ AIOps,bytedance/fedlearner,Dependencies,42.86
+MLOps/ AIOps,ml-tooling/opyrator,Dependencies,37.8
+MLOps/ AIOps,zenml-io/zenml,Dependencies,65.31
+MLOps/ AIOps,aws/aws-neuron-sdk,Dependencies,53.78
+MLOps/ AIOps,dpressel/mead-baseline,Dependencies,39.02
+MLOps/ AIOps,metabrainz/acousticbrainz-server,Dependencies,29.51
+MLOps/ AIOps,learning-at-home/hivemind,Dependencies,50
+MLOps/ AIOps,kubedl-io/kubedl,Dependencies,22.22
+MLOps/ AIOps,ml-tooling/ml-hub,Dependencies,35.94
+MLOps/ AIOps,open-metadata/OpenMetadata,Dependencies,45.57
+MLOps/ AIOps,Novetta/adaptnlp,Dependencies,58.91
+MLOps/ AIOps,oap-project/raydp,Dependencies,33.33
+MLOps/ AIOps,cylondata/cylon,Dependencies,35.71
+MLOps/ AIOps,petuum/autodist,Dependencies,34.48
+MLOps/ AIOps,PINTO0309/tflite2tensorflow,Dependencies,43.39
+MLOps/ AIOps,equinor/gordo,Dependencies,32.26
+MLOps/ AIOps,learningOrchestra/learningOrchestra,Dependencies,48.21
+MLOps/ AIOps,PINTO0309/openvino2tensorflow,Dependencies,43.39
+MLOps/ AIOps,arangoml/arangopipe,Dependencies,43.66
+MLOps/ AIOps,omegaml/omegaml,Dependencies,52.5
+MLOps/ AIOps,orchest/orchest,Build/Execute,30.71
+MLOps/ AIOps,mars-project/mars,Build/Execute,29.63
+MLOps/ AIOps,nipreps/fmriprep,Build/Execute,8.62
+MLOps/ AIOps,madsjulia/Mads.jl,Build/Execute,23.53
+MLOps/ AIOps,kubeflow/kubeflow,Build/Execute,23.16
+MLOps/ AIOps,triton-inference-server/server,Build/Execute,14.88
+MLOps/ AIOps,WasmEdge/WasmEdge,Build/Execute,28.15
+MLOps/ AIOps,Hydrospheredata/hydro-serving-ui,Build/Execute,28
+MLOps/ AIOps,uber/petastorm,Build/Execute,39.06
+MLOps/ AIOps,flyteorg/flyte,Build/Execute,26.67
+MLOps/ AIOps,nipreps/smriprep,Build/Execute,8.22
+MLOps/ AIOps,NervanaSystems/ngraph,Build/Execute,35.71
+MLOps/ AIOps,tensorflow/tfjs,Build/Execute,30.77
+MLOps/ AIOps,mesosphere/dcos-commons,Build/Execute,33.82
+MLOps/ AIOps,locationtech/rasterframes,Build/Execute,18.42
+MLOps/ AIOps,augerai/a2ml,Build/Execute,23.53
+MLOps/ AIOps,volcano-sh/volcano,Build/Execute,27.03
+MLOps/ AIOps,microsoft/MLOpsPython,Build/Execute,28.57
+MLOps/ AIOps,polyaxon/polyaxon,Build/Execute,44.83
+MLOps/ AIOps,BlazingDB/blazingsql,Build/Execute,26.23
+MLOps/ AIOps,openvinotoolkit/model_server,Build/Execute,18.32
+MLOps/ AIOps,bentoml/BentoML,Build/Execute,15.47
+MLOps/ AIOps,awslabs/multi-model-server,Build/Execute,26.96
+MLOps/ AIOps,jolibrain/deepdetect,Build/Execute,22.48
+MLOps/ AIOps,nabeel-oz/qlik-py-tools,Build/Execute,49.19
+MLOps/ AIOps,RedisAI/RedisAI,Build/Execute,31.71
+MLOps/ AIOps,Alluxio/alluxio,Build/Execute,17.65
+MLOps/ AIOps,tensorflow/serving,Build/Execute,18.29
+MLOps/ AIOps,feast-dev/feast,Build/Execute,28.77
+MLOps/ AIOps,tensorflow/tfx,Build/Execute,47.62
+MLOps/ AIOps,SeldonIO/seldon-core,Build/Execute,26.53
+MLOps/ AIOps,allegroai/clearml-agent,Build/Execute,44.74
+MLOps/ AIOps,blue-oil/blueoil,Build/Execute,31.37
+MLOps/ AIOps,LLNL/merlin,Build/Execute,37.04
+MLOps/ AIOps,UniversalDataTool/universal-data-tool,Build/Execute,40
+MLOps/ AIOps,great-expectations/great_expectations,Build/Execute,28.57
+MLOps/ AIOps,quantumblacklabs/kedro,Build/Execute,26.67
+MLOps/ AIOps,tensorflow/model-optimization,Build/Execute,35.71
+MLOps/ AIOps,aws/deep-learning-containers,Build/Execute,23.97
+MLOps/ AIOps,kubeflow/mpi-operator,Build/Execute,25
+MLOps/ AIOps,nnstreamer/nnstreamer,Build/Execute,38.89
+MLOps/ AIOps,aws/sagemaker-tensorflow-serving-container,Build/Execute,22.5
+MLOps/ AIOps,douban/tfmesos,Build/Execute,33.33
+MLOps/ AIOps,intel/video-analytics-serving,Build/Execute,18.42
+MLOps/ AIOps,petuum/adaptdl,Build/Execute,44.74
+MLOps/ AIOps,imjoy-team/ImJoy,Build/Execute,28.57
+MLOps/ AIOps,aniketmaurya/chitra,Build/Execute,33.33
+MLOps/ AIOps,kleveross/klever-model-registry,Build/Execute,29.03
+MLOps/ AIOps,aldor007/mort,Build/Execute,25.97
+MLOps/ AIOps,vincentclaes/datajob,Build/Execute,26.83
+MLOps/ AIOps,PaddleFlow/paddle-operator,Build/Execute,100
+MLOps/ AIOps,dcos-labs/dcos-jupyterlab-service,Build/Execute,13.78
+MLOps/ AIOps,geekjr/quickai,Build/Execute,23.81
+MLOps/ AIOps,Paperspace/gradient-cli,Build/Execute,40
+MLOps/ AIOps,indigo-dc/DEEPaaS,Build/Execute,21.05
+MLOps/ AIOps,cortexlabs/cortex,Build/Execute,34.23
+MLOps/ AIOps,RedisAI/redisai-py,Build/Execute,46.15
+MLOps/ AIOps,ray-project/ray,Build/Execute,28.93
+MLOps/ AIOps,mlflow/mlflow,Build/Execute,35.16
+MLOps/ AIOps,root-project/root,Build/Execute,23.88
+MLOps/ AIOps,intel-analytics/BigDL,Build/Execute,15.98
+MLOps/ AIOps,ufoym/deepo,Build/Execute,24.05
+MLOps/ AIOps,intel-analytics/analytics-zoo,Build/Execute,22.57
+MLOps/ AIOps,sql-machine-learning/sqlflow,Build/Execute,23.23
+MLOps/ AIOps,kserve/kserve,Build/Execute,34.75
+MLOps/ AIOps,4paradigm/OpenMLDB,Build/Execute,16.67
+MLOps/ AIOps,SeldonIO/seldon-server,Build/Execute,23.7
+MLOps/ AIOps,ml-tooling/ml-workspace,Build/Execute,29.16
+MLOps/ AIOps,VertaAI/modeldb,Build/Execute,30
+MLOps/ AIOps,PaddlePaddle/Serving,Build/Execute,21.65
+MLOps/ AIOps,bytedance/fedlearner,Build/Execute,32.47
+MLOps/ AIOps,ml-tooling/opyrator,Build/Execute,29.27
+MLOps/ AIOps,zenml-io/zenml,Build/Execute,28.57
+MLOps/ AIOps,aws/aws-neuron-sdk,Build/Execute,25.21
+MLOps/ AIOps,dpressel/mead-baseline,Build/Execute,51.22
+MLOps/ AIOps,metabrainz/acousticbrainz-server,Build/Execute,18.03
+MLOps/ AIOps,learning-at-home/hivemind,Build/Execute,30
+MLOps/ AIOps,kubedl-io/kubedl,Build/Execute,44.44
+MLOps/ AIOps,ml-tooling/ml-hub,Build/Execute,29.69
+MLOps/ AIOps,open-metadata/OpenMetadata,Build/Execute,26.58
+MLOps/ AIOps,Novetta/adaptnlp,Build/Execute,33.33
+MLOps/ AIOps,oap-project/raydp,Build/Execute,33.33
+MLOps/ AIOps,cylondata/cylon,Build/Execute,35.71
+MLOps/ AIOps,petuum/autodist,Build/Execute,20.69
+MLOps/ AIOps,PINTO0309/tflite2tensorflow,Build/Execute,25.4
+MLOps/ AIOps,equinor/gordo,Build/Execute,19.35
+MLOps/ AIOps,learningOrchestra/learningOrchestra,Build/Execute,30.36
+MLOps/ AIOps,PINTO0309/openvino2tensorflow,Build/Execute,25.4
+MLOps/ AIOps,arangoml/arangopipe,Build/Execute,32.39
+MLOps/ AIOps,omegaml/omegaml,Build/Execute,40
+MLOps/ AIOps,orchest/orchest,Permissions,6.43
+MLOps/ AIOps,mars-project/mars,Permissions,7.41
+MLOps/ AIOps,nipreps/fmriprep,Permissions,5.17
+MLOps/ AIOps,madsjulia/Mads.jl,Permissions,11.76
+MLOps/ AIOps,kubeflow/kubeflow,Permissions,11.93
+MLOps/ AIOps,Hydrospheredata/hydro-serving-ui,Permissions,16
+MLOps/ AIOps,uber/petastorm,Permissions,1.56
+MLOps/ AIOps,flyteorg/flyte,Permissions,6.67
+MLOps/ AIOps,nipreps/smriprep,Permissions,6.85
+MLOps/ AIOps,mesosphere/dcos-commons,Permissions,2.94
+MLOps/ AIOps,locationtech/rasterframes,Permissions,7.89
+MLOps/ AIOps,volcano-sh/volcano,Permissions,2.7
+MLOps/ AIOps,microsoft/MLOpsPython,Permissions,14.29
+MLOps/ AIOps,polyaxon/polyaxon,Permissions,6.9
+MLOps/ AIOps,BlazingDB/blazingsql,Permissions,14.75
+MLOps/ AIOps,openvinotoolkit/model_server,Permissions,4.13
+MLOps/ AIOps,bentoml/BentoML,Permissions,5.87
+MLOps/ AIOps,awslabs/multi-model-server,Permissions,4.78
+MLOps/ AIOps,jolibrain/deepdetect,Permissions,5.03
+MLOps/ AIOps,Alluxio/alluxio,Permissions,9.63
+MLOps/ AIOps,tensorflow/serving,Permissions,3.66
+MLOps/ AIOps,feast-dev/feast,Permissions,5.48
+MLOps/ AIOps,tensorflow/tfx,Permissions,1.59
+MLOps/ AIOps,SeldonIO/seldon-core,Permissions,2.91
+MLOps/ AIOps,blue-oil/blueoil,Permissions,7.84
+MLOps/ AIOps,LLNL/merlin,Permissions,11.11
+MLOps/ AIOps,tensorflow/model-optimization,Permissions,7.14
+MLOps/ AIOps,aws/deep-learning-containers,Permissions,7.83
+MLOps/ AIOps,kubeflow/mpi-operator,Permissions,2.68
+MLOps/ AIOps,aws/sagemaker-tensorflow-serving-container,Permissions,5.52
+MLOps/ AIOps,intel/video-analytics-serving,Permissions,7.89
+MLOps/ AIOps,aldor007/mort,Permissions,2.6
+MLOps/ AIOps,vincentclaes/datajob,Permissions,2.44
+MLOps/ AIOps,dcos-labs/dcos-jupyterlab-service,Permissions,9.54
+MLOps/ AIOps,cortexlabs/cortex,Permissions,5.37
+MLOps/ AIOps,ray-project/ray,Permissions,1.52
+MLOps/ AIOps,intel-analytics/BigDL,Permissions,11.23
+MLOps/ AIOps,intel-analytics/analytics-zoo,Permissions,5.99
+MLOps/ AIOps,kserve/kserve,Permissions,4.26
+MLOps/ AIOps,SeldonIO/seldon-server,Permissions,0.99
+MLOps/ AIOps,ml-tooling/ml-workspace,Permissions,6.75
+MLOps/ AIOps,VertaAI/modeldb,Permissions,2.5
+MLOps/ AIOps,ml-tooling/opyrator,Permissions,9.76
+MLOps/ AIOps,aws/aws-neuron-sdk,Permissions,3.36
+MLOps/ AIOps,metabrainz/acousticbrainz-server,Permissions,9.84
+MLOps/ AIOps,ml-tooling/ml-hub,Permissions,9.38
+MLOps/ AIOps,open-metadata/OpenMetadata,Permissions,5.06
+MLOps/ AIOps,Novetta/adaptnlp,Permissions,4.65
+MLOps/ AIOps,oap-project/raydp,Permissions,16.67
+MLOps/ AIOps,cylondata/cylon,Permissions,4.76
+MLOps/ AIOps,PINTO0309/tflite2tensorflow,Permissions,3.17
+MLOps/ AIOps,equinor/gordo,Permissions,19.35
+MLOps/ AIOps,learningOrchestra/learningOrchestra,Permissions,1.79
+MLOps/ AIOps,PINTO0309/openvino2tensorflow,Permissions,3.17
+MLOps/ AIOps,omegaml/omegaml,Permissions,2.5
+MLOps/ AIOps,orchest/orchest,Filesystem,10.71
+MLOps/ AIOps,mars-project/mars,Filesystem,22.22
+MLOps/ AIOps,nipreps/fmriprep,Filesystem,51.72
+MLOps/ AIOps,madsjulia/Mads.jl,Filesystem,35.29
+MLOps/ AIOps,kubeflow/kubeflow,Filesystem,28.07
+MLOps/ AIOps,triton-inference-server/server,Filesystem,65.7
+MLOps/ AIOps,WasmEdge/WasmEdge,Filesystem,49.66
+MLOps/ AIOps,Hydrospheredata/hydro-serving-ui,Filesystem,8
+MLOps/ AIOps,uber/petastorm,Filesystem,10.94
+MLOps/ AIOps,flyteorg/flyte,Filesystem,13.33
+MLOps/ AIOps,nipreps/smriprep,Filesystem,49.32
+MLOps/ AIOps,NervanaSystems/ngraph,Filesystem,4.76
+MLOps/ AIOps,tensorflow/tfjs,Filesystem,10.26
+MLOps/ AIOps,mesosphere/dcos-commons,Filesystem,26.47
+MLOps/ AIOps,locationtech/rasterframes,Filesystem,31.58
+MLOps/ AIOps,augerai/a2ml,Filesystem,47.06
+MLOps/ AIOps,volcano-sh/volcano,Filesystem,13.51
+MLOps/ AIOps,polyaxon/polyaxon,Filesystem,10.34
+MLOps/ AIOps,BlazingDB/blazingsql,Filesystem,31.69
+MLOps/ AIOps,openvinotoolkit/model_server,Filesystem,42.7
+MLOps/ AIOps,bentoml/BentoML,Filesystem,26.4
+MLOps/ AIOps,awslabs/multi-model-server,Filesystem,29.74
+MLOps/ AIOps,jolibrain/deepdetect,Filesystem,27.85
+MLOps/ AIOps,RedisAI/RedisAI,Filesystem,9.76
+MLOps/ AIOps,Alluxio/alluxio,Filesystem,44.39
+MLOps/ AIOps,tensorflow/serving,Filesystem,37.8
+MLOps/ AIOps,feast-dev/feast,Filesystem,21.92
+MLOps/ AIOps,tensorflow/tfx,Filesystem,7.94
+MLOps/ AIOps,SeldonIO/seldon-core,Filesystem,19.48
+MLOps/ AIOps,blue-oil/blueoil,Filesystem,27.45
+MLOps/ AIOps,LLNL/merlin,Filesystem,14.81
+MLOps/ AIOps,great-expectations/great_expectations,Filesystem,42.86
+MLOps/ AIOps,quantumblacklabs/kedro,Filesystem,20
+MLOps/ AIOps,tensorflow/model-optimization,Filesystem,14.29
+MLOps/ AIOps,aws/deep-learning-containers,Filesystem,33.66
+MLOps/ AIOps,kubeflow/mpi-operator,Filesystem,35.71
+MLOps/ AIOps,aws/sagemaker-tensorflow-serving-container,Filesystem,25.69
+MLOps/ AIOps,oneapi-src/oneAPI-spec,Filesystem,100
+MLOps/ AIOps,douban/tfmesos,Filesystem,16.67
+MLOps/ AIOps,intel/video-analytics-serving,Filesystem,28.95
+MLOps/ AIOps,petuum/adaptdl,Filesystem,28.95
+MLOps/ AIOps,imjoy-team/ImJoy,Filesystem,14.29
+MLOps/ AIOps,aniketmaurya/chitra,Filesystem,8.33
+MLOps/ AIOps,kleveross/klever-model-registry,Filesystem,25.81
+MLOps/ AIOps,aldor007/mort,Filesystem,28.57
+MLOps/ AIOps,vincentclaes/datajob,Filesystem,19.51
+MLOps/ AIOps,dcos-labs/dcos-jupyterlab-service,Filesystem,46.29
+MLOps/ AIOps,geekjr/quickai,Filesystem,33.33
+MLOps/ AIOps,indigo-dc/DEEPaaS,Filesystem,21.05
+MLOps/ AIOps,cortexlabs/cortex,Filesystem,17.45
+MLOps/ AIOps,RedisAI/redisai-py,Filesystem,7.69
+MLOps/ AIOps,ray-project/ray,Filesystem,26.4
+MLOps/ AIOps,mlflow/mlflow,Filesystem,7.69
+MLOps/ AIOps,root-project/root,Filesystem,43.28
+MLOps/ AIOps,intel-analytics/BigDL,Filesystem,36.39
+MLOps/ AIOps,ufoym/deepo,Filesystem,34.43
+MLOps/ AIOps,intel-analytics/analytics-zoo,Filesystem,31.12
+MLOps/ AIOps,sql-machine-learning/sqlflow,Filesystem,35.35
+MLOps/ AIOps,kserve/kserve,Filesystem,9.18
+MLOps/ AIOps,4paradigm/OpenMLDB,Filesystem,36.67
+MLOps/ AIOps,SeldonIO/seldon-server,Filesystem,42.22
+MLOps/ AIOps,ml-tooling/ml-workspace,Filesystem,24.58
+MLOps/ AIOps,VertaAI/modeldb,Filesystem,17.5
+MLOps/ AIOps,PaddlePaddle/Serving,Filesystem,55.25
+MLOps/ AIOps,bytedance/fedlearner,Filesystem,23.38
+MLOps/ AIOps,ml-tooling/opyrator,Filesystem,21.95
+MLOps/ AIOps,zenml-io/zenml,Filesystem,6.12
+MLOps/ AIOps,aws/aws-neuron-sdk,Filesystem,17.65
+MLOps/ AIOps,dpressel/mead-baseline,Filesystem,9.76
+MLOps/ AIOps,metabrainz/acousticbrainz-server,Filesystem,42.62
+MLOps/ AIOps,learning-at-home/hivemind,Filesystem,20
+MLOps/ AIOps,kubedl-io/kubedl,Filesystem,33.33
+MLOps/ AIOps,ml-tooling/ml-hub,Filesystem,25
+MLOps/ AIOps,open-metadata/OpenMetadata,Filesystem,22.78
+MLOps/ AIOps,Novetta/adaptnlp,Filesystem,3.1
+MLOps/ AIOps,oap-project/raydp,Filesystem,16.67
+MLOps/ AIOps,cylondata/cylon,Filesystem,23.81
+MLOps/ AIOps,petuum/autodist,Filesystem,41.38
+MLOps/ AIOps,PINTO0309/tflite2tensorflow,Filesystem,26.98
+MLOps/ AIOps,equinor/gordo,Filesystem,29.03
+MLOps/ AIOps,learningOrchestra/learningOrchestra,Filesystem,19.64
+MLOps/ AIOps,PINTO0309/openvino2tensorflow,Filesystem,26.98
+MLOps/ AIOps,arangoml/arangopipe,Filesystem,18.31
+MLOps/ AIOps,omegaml/omegaml,Filesystem,5
+MLOps/ AIOps,madsjulia/Mads.jl,Environment,5.88
+MLOps/ AIOps,kubeflow/kubeflow,Environment,1.75
+MLOps/ AIOps,triton-inference-server/server,Environment,0.41
+MLOps/ AIOps,WasmEdge/WasmEdge,Environment,3.66
+MLOps/ AIOps,uber/petastorm,Environment,1.56
+MLOps/ AIOps,flyteorg/flyte,Environment,10
+MLOps/ AIOps,NervanaSystems/ngraph,Environment,0.79
+MLOps/ AIOps,tensorflow/tfjs,Environment,12.82
+MLOps/ AIOps,polyaxon/polyaxon,Environment,3.45
+MLOps/ AIOps,BlazingDB/blazingsql,Environment,0.55
+MLOps/ AIOps,openvinotoolkit/model_server,Environment,1.79
+MLOps/ AIOps,bentoml/BentoML,Environment,5.87
+MLOps/ AIOps,awslabs/multi-model-server,Environment,4.93
+MLOps/ AIOps,jolibrain/deepdetect,Environment,5.03
+MLOps/ AIOps,RedisAI/RedisAI,Environment,29.27
+MLOps/ AIOps,Alluxio/alluxio,Environment,1.6
+MLOps/ AIOps,tensorflow/tfx,Environment,1.59
+MLOps/ AIOps,SeldonIO/seldon-core,Environment,0.31
+MLOps/ AIOps,aws/deep-learning-containers,Environment,0.04
+MLOps/ AIOps,intel/video-analytics-serving,Environment,2.63
+MLOps/ AIOps,kleveross/klever-model-registry,Environment,0.4
+MLOps/ AIOps,vincentclaes/datajob,Environment,7.32
+MLOps/ AIOps,dcos-labs/dcos-jupyterlab-service,Environment,0.71
+MLOps/ AIOps,ray-project/ray,Environment,0.51
+MLOps/ AIOps,intel-analytics/BigDL,Environment,1.11
+MLOps/ AIOps,intel-analytics/analytics-zoo,Environment,1.71
+MLOps/ AIOps,sql-machine-learning/sqlflow,Environment,11.11
+MLOps/ AIOps,kserve/kserve,Environment,0.33
+MLOps/ AIOps,SeldonIO/seldon-server,Environment,0.25
+MLOps/ AIOps,ml-tooling/ml-workspace,Environment,0.24
+MLOps/ AIOps,PaddlePaddle/Serving,Environment,0.8
+MLOps/ AIOps,bytedance/fedlearner,Environment,1.3
+MLOps/ AIOps,ml-tooling/opyrator,Environment,1.22
+MLOps/ AIOps,petuum/autodist,Environment,3.45
+MLOps/ AIOps,PINTO0309/tflite2tensorflow,Environment,1.06
+MLOps/ AIOps,PINTO0309/openvino2tensorflow,Environment,1.06
+MLOps/ AIOps,arangoml/arangopipe,Environment,5.63
+Application System,esmBot/esmBot,Build/Execute,51.16
+Application System,mindsdb/mindsdb,Build/Execute,44.44
+Application System,alibaba/pipcook,Build/Execute,40
+Application System,wkentaro/labelme,Build/Execute,42.86
+Application System,k4yt3x/video2x,Build/Execute,28.57
+Application System,microsoft/malmo,Build/Execute,41.03
+Application System,mozilla/DeepSpeech,Build/Execute,26.58
+Application System,FederatedAI/FATE,Build/Execute,25
+Application System,carla-simulator/carla,Build/Execute,35.14
+Application System,takuya-takeuchi/FaceRecognitionDotNet,Build/Execute,15.56
+Application System,hamelsmu/ktext,Build/Execute,50
+Application System,interpretml/interpret,Build/Execute,24.44
+Application System,heartexlabs/label-studio,Build/Execute,36.36
+Application System,numenta/nupic,Build/Execute,50
+Application System,colmap/colmap,Build/Execute,45.83
+Application System,google/deepvariant,Build/Execute,21.74
+Application System,SAP/credential-digger,Build/Execute,33.33
+Application System,nipreps/mriqc,Build/Execute,17.81
+Application System,pyro-ppl/pyro,Build/Execute,31.82
+Application System,sentinel-hub/eo-learn,Build/Execute,29.63
+Application System,yoshida-lab/XenonPy,Build/Execute,19.23
+Application System,IQTLabs/NetworkML,Build/Execute,27.78
+Application System,mwydmuch/ViZDoom,Build/Execute,30.68
+Application System,MycroftAI/mycroft-core,Build/Execute,37.93
+Application System,LiberTEM/LiberTEM,Build/Execute,61.54
+Application System,asreview/asreview,Build/Execute,50
+Application System,RasaHQ/rasa,Build/Execute,44.87
+Application System,robotology/yarp,Build/Execute,28.32
+Application System,modernmt/modernmt,Build/Execute,20.59
+Application System,recognai/rubrix,Build/Execute,29.41
+Application System,sony/nnabla-ext-cuda,Build/Execute,34.35
+Application System,openvinotoolkit/cvat,Build/Execute,33.75
+Application System,microsoft/DeepSpeed,Build/Execute,24.73
+Application System,doccano/doccano,Build/Execute,30.67
+Application System,huseinzol05/malaya,Build/Execute,50
+Application System,Kitware/dive,Build/Execute,37.93
+Application System,jsbroks/coco-annotator,Build/Execute,47.37
+Application System,TensorSpeech/TensorFlowASR,Build/Execute,25
+Application System,deepfakes/faceswap,Build/Execute,29.55
+Application System,cmusatyalab/openface,Build/Execute,37.5
+Application System,nagadomi/waifu2x,Build/Execute,63.64
+Application System,openMVG/openMVG,Build/Execute,37.5
+Application System,autorope/donkeycar,Build/Execute,37.5
+Application System,alicevision/meshroom,Build/Execute,40.43
+Application System,jbarlow83/OCRmyPDF,Build/Execute,35.71
+Application System,cloud-annotations/cloud-annotations,Build/Execute,32
+Application System,mapbox/robosat,Build/Execute,52.63
+Application System,open-mmlab/mmclassification,Build/Execute,26.67
+Application System,SkalskiP/make-sense,Build/Execute,18.18
+Application System,BindsNET/bindsnet,Build/Execute,40.91
+Application System,MycroftAI/mycroft-precise,Build/Execute,38.46
+Application System,GeekAlexis/FastMOT,Build/Execute,30.3
+Application System,microsoft/TextWorld,Build/Execute,28.57
+Application System,basler/pypylon,Build/Execute,23.26
+Application System,owlbarn/owl,Build/Execute,33.63
+Application System,videoflow/videoflow,Build/Execute,22.22
+Application System,Kitware/kwiver,Build/Execute,35
+Application System,kundajelab/dragonn,Build/Execute,55.56
+Application System,alicevision/CCTag,Build/Execute,31.82
+Application System,tensorflow/recommenders-addons,Build/Execute,42.29
+Application System,neuml/paperai,Build/Execute,31.58
+Application System,BenAAndrew/Voice-Cloning-App,Build/Execute,40
+Application System,bit-bots/imagetagger,Build/Execute,26.09
+Application System,projectglow/glow,Build/Execute,30.19
+Application System,nipy/mindboggle,Build/Execute,16.88
+Application System,CBICA/CaPTk,Build/Execute,33.33
+Application System,bark-simulator/bark,Build/Execute,35.29
+Application System,rosette-api/java,Build/Execute,14.29
+Application System,MarvinLer/pypownet,Build/Execute,30.77
+Application System,ain-soph/trojanzoo,Build/Execute,20
+Application System,SKKU-ESLAB/ANT,Build/Execute,14.29
+Application System,clara-parabricks/AtacWorks,Build/Execute,26.09
+Application System,sirimullalab/DLSCORE,Build/Execute,13.64
+Application System,weiji14/deepbedmap,Build/Execute,20
+Application System,cair/deep-rts,Build/Execute,35.71
+Application System,mlrun/ui,Build/Execute,14.29
+Application System,AndrejOrsula/drl_grasping,Build/Execute,28.05
+Application System,jakowenko/double-take,Build/Execute,39.47
+Application System,spacechop/spacechop,Build/Execute,33.33
+Application System,itlab-vision/dl-benchmark,Build/Execute,28.43
+Application System,bsc-wdc/dislib,Build/Execute,23.33
+Application System,DCAN-Labs/abcd-hcp-pipeline,Build/Execute,14.89
+Application System,aldro61/kover,Build/Execute,33.33
+Application System,dice-group/TeBaQA,Build/Execute,33.33
+Application System,vwxyzjn/gym-microrts,Build/Execute,35.71
+Application System,Erechtheus/geolocation,Build/Execute,50
+Application System,HKU-BAL/Clair,Build/Execute,29.41
+Application System,viadee/bpmn.ai,Build/Execute,11.11
+Application System,cselab/korali,Build/Execute,47.46
+Application System,IntelRealSense/librealsense,Build/Execute,33.33
+Application System,OpenMined/PySyft,Build/Execute,38.3
+Application System,DeepLabCut/DeepLabCut,Build/Execute,32
+Application System,photoprism/photoprism,Build/Execute,19.69
+Application System,alphacep/vosk-api,Build/Execute,42.86
+Application System,PyTorchLightning/metrics,Build/Execute,40
+Application System,LBNL-UCB-STI/beam,Build/Execute,19.8
+Application System,fetchai/agents-aea,Build/Execute,33.56
+Application System,Project-MONAI/MONAILabel,Build/Execute,41.38
+Application System,masato-ka/airc-rl-agent,Build/Execute,33.33
+Application System,norkator/open-intelligence,Build/Execute,44.44
+Application System,farm-ng/tractor,Build/Execute,34.41
+Application System,lino-network/lino,Build/Execute,33.33
+Application System,nl8590687/ASRT_SpeechRecognition,Build/Execute,31.25
+Application System,open-mmlab/mmocr,Build/Execute,31.25
+Application System,richzhang/PerceptualSimilarity,Build/Execute,33.33
+Application System,ageitgey/face_recognition,Build/Execute,41.96
+Application System,deezer/spleeter,Build/Execute,19.05
+Application System,isl-org/Open3D,Build/Execute,26.6
+Application System,alfredfrancis/ai-chatbot-framework,Build/Execute,13.33
+Application System,notadamking/RLTrader,Build/Execute,37.5
+Application System,zhenghaoz/gorse,Build/Execute,40
+Application System,zhreshold/mxnet-ssd,Build/Execute,25
+Application System,hooram/ownphotos,Build/Execute,35.9
+Application System,blakeblackshear/frigate,Build/Execute,38.02
+Application System,Drakkar-Software/OctoBot,Build/Execute,36
+Application System,kermitt2/grobid,Build/Execute,14.93
+Application System,olivia-ai/olivia,Build/Execute,100
+Application System,opendatacam/opendatacam,Build/Execute,26.67
+Application System,DragonComputer/Dragonfire,Build/Execute,41.67
+Application System,jonaswinkler/paperless-ng,Build/Execute,30.23
+Application System,polakowo/vectorbt,Build/Execute,34.15
+Application System,exadel-inc/CompreFace,Build/Execute,22.22
+Application System,neuml/txtai,Build/Execute,34.62
+Application System,openml/openml-python,Build/Execute,50
+Application System,MrPowerScripts/reddit-karma-farming-bot,Build/Execute,44.44
+Application System,gnina/gnina,Build/Execute,35.64
+Application System,semi-technologies/weaviate,Build/Execute,50
+Application System,jeff1evesque/machine-learning,Build/Execute,29.03
+Application System,DigitalSlideArchive/HistomicsTK,Build/Execute,32.43
+Application System,photonixapp/photonix,Build/Execute,33.87
+Application System,rte-france/Grid2Op,Build/Execute,17.78
+Application System,erdos-project/pylot,Build/Execute,32.17
+Application System,johnolafenwa/DeepStack,Build/Execute,37.57
+Application System,obsei/obsei,Build/Execute,27.27
+Application System,intel/openfl,Build/Execute,16.13
+Application System,bioinform/neusomatic,Build/Execute,25
+Application System,qdrant/qdrant,Build/Execute,30
+Application System,ambianic/ambianic-edge,Build/Execute,42.86
+Application System,opendilab/DI-engine,Build/Execute,41.82
+Application System,roflcoopter/viseron,Build/Execute,36
+Application System,NRCan/geo-deep-learning,Build/Execute,33.33
+Application System,neuralet/smart-social-distancing,Build/Execute,32.23
+Application System,rock-learning/bolero,Build/Execute,29.41
+Application System,blakeblackshear/frigate-hass-integration,Build/Execute,50
+Application System,YeoLab/flotilla,Build/Execute,25
+Application System,sacdallago/bio_embeddings,Build/Execute,38
+Application System,KevinMenden/scaden,Build/Execute,45.45
+Application System,pyronear/pyro-vision,Build/Execute,22.22
+Application System,marco-willi/camera-trap-classifier,Build/Execute,33.33
+Application System,CogStack/MedCATtrainer,Build/Execute,33.33
+Application System,ModelChimp/modelchimp,Build/Execute,31.58
+Application System,uio-bmi/immuneML,Build/Execute,40
+Application System,Unity-Technologies/datasetinsights,Build/Execute,33.33
+Application System,ubc/compair,Build/Execute,40
+Application System,esmBot/esmBot,Dependencies,32.56
+Application System,mindsdb/mindsdb,Dependencies,40.74
+Application System,alibaba/pipcook,Dependencies,60
+Application System,wkentaro/labelme,Dependencies,42.86
+Application System,k4yt3x/video2x,Dependencies,42.86
+Application System,microsoft/malmo,Dependencies,36.54
+Application System,mozilla/DeepSpeech,Dependencies,44.3
+Application System,FederatedAI/FATE,Dependencies,30.92
+Application System,carla-simulator/carla,Dependencies,43.24
+Application System,takuya-takeuchi/FaceRecognitionDotNet,Dependencies,55.56
+Application System,hamelsmu/ktext,Dependencies,50
+Application System,interpretml/interpret,Dependencies,57.78
+Application System,heartexlabs/label-studio,Dependencies,54.55
+Application System,numenta/nupic,Dependencies,36.67
+Application System,colmap/colmap,Dependencies,29.17
+Application System,google/deepvariant,Dependencies,43.48
+Application System,SAP/credential-digger,Dependencies,53.33
+Application System,nipreps/mriqc,Dependencies,41.1
+Application System,pyro-ppl/pyro,Dependencies,36.36
+Application System,sentinel-hub/eo-learn,Dependencies,55.56
+Application System,yoshida-lab/XenonPy,Dependencies,19.23
+Application System,IQTLabs/NetworkML,Dependencies,55.56
+Application System,mwydmuch/ViZDoom,Dependencies,34.09
+Application System,MycroftAI/mycroft-core,Dependencies,41.38
+Application System,LiberTEM/LiberTEM,Dependencies,30.77
+Application System,asreview/asreview,Dependencies,50
+Application System,RasaHQ/rasa,Dependencies,33.33
+Application System,robotology/yarp,Dependencies,44.73
+Application System,modernmt/modernmt,Dependencies,38.24
+Application System,recognai/rubrix,Dependencies,41.18
+Application System,sony/nnabla-ext-cuda,Dependencies,34.35
+Application System,openvinotoolkit/cvat,Dependencies,35
+Application System,microsoft/DeepSpeed,Dependencies,35.48
+Application System,doccano/doccano,Dependencies,42.67
+Application System,huseinzol05/malaya,Dependencies,50
+Application System,Kitware/dive,Dependencies,41.38
+Application System,jsbroks/coco-annotator,Dependencies,47.37
+Application System,TensorSpeech/TensorFlowASR,Dependencies,50
+Application System,deepfakes/faceswap,Dependencies,56.82
+Application System,cmusatyalab/openface,Dependencies,26.56
+Application System,nagadomi/waifu2x,Dependencies,27.27
+Application System,openMVG/openMVG,Dependencies,37.5
+Application System,autorope/donkeycar,Dependencies,37.5
+Application System,alicevision/meshroom,Dependencies,23.4
+Application System,jbarlow83/OCRmyPDF,Dependencies,39.29
+Application System,cloud-annotations/cloud-annotations,Dependencies,44
+Application System,mapbox/robosat,Dependencies,23.68
+Application System,open-mmlab/mmclassification,Dependencies,43.33
+Application System,SkalskiP/make-sense,Dependencies,45.45
+Application System,BindsNET/bindsnet,Dependencies,31.82
+Application System,MycroftAI/mycroft-precise,Dependencies,53.85
+Application System,GeekAlexis/FastMOT,Dependencies,39.39
+Application System,microsoft/TextWorld,Dependencies,71.43
+Application System,basler/pypylon,Dependencies,16.28
+Application System,owlbarn/owl,Dependencies,38.05
+Application System,videoflow/videoflow,Dependencies,50
+Application System,Kitware/kwiver,Dependencies,20
+Application System,kundajelab/dragonn,Dependencies,33.33
+Application System,alicevision/CCTag,Dependencies,18.18
+Application System,tensorflow/recommenders-addons,Dependencies,36
+Application System,neuml/paperai,Dependencies,42.11
+Application System,BenAAndrew/Voice-Cloning-App,Dependencies,60
+Application System,bit-bots/imagetagger,Dependencies,34.78
+Application System,projectglow/glow,Dependencies,43.4
+Application System,nipy/mindboggle,Dependencies,32.47
+Application System,CBICA/CaPTk,Dependencies,41.67
+Application System,dice-group/LIMES,Dependencies,50
+Application System,bark-simulator/bark,Dependencies,31.37
+Application System,rosette-api/java,Dependencies,57.14
+Application System,MarvinLer/pypownet,Dependencies,46.15
+Application System,ain-soph/trojanzoo,Dependencies,40
+Application System,clara-parabricks/AtacWorks,Dependencies,52.17
+Application System,sirimullalab/DLSCORE,Dependencies,31.82
+Application System,weiji14/deepbedmap,Dependencies,30
+Application System,cair/deep-rts,Dependencies,50
+Application System,mlrun/ui,Dependencies,28.57
+Application System,AndrejOrsula/drl_grasping,Dependencies,34.15
+Application System,jakowenko/double-take,Dependencies,42.11
+Application System,spacechop/spacechop,Dependencies,22.22
+Application System,itlab-vision/dl-benchmark,Dependencies,37.25
+Application System,bsc-wdc/dislib,Dependencies,36.67
+Application System,DCAN-Labs/abcd-hcp-pipeline,Dependencies,29.79
+Application System,aldro61/kover,Dependencies,47.62
+Application System,dice-group/TeBaQA,Dependencies,66.67
+Application System,vwxyzjn/gym-microrts,Dependencies,42.86
+Application System,Erechtheus/geolocation,Dependencies,50
+Application System,HKU-BAL/Clair,Dependencies,52.94
+Application System,viadee/bpmn.ai,Dependencies,27.78
+Application System,cselab/korali,Dependencies,47.46
+Application System,IntelRealSense/librealsense,Dependencies,33.33
+Application System,OpenMined/PySyft,Dependencies,46.81
+Application System,DeepLabCut/DeepLabCut,Dependencies,52
+Application System,photoprism/photoprism,Dependencies,33.16
+Application System,alphacep/vosk-api,Dependencies,20.41
+Application System,PyTorchLightning/metrics,Dependencies,40
+Application System,LBNL-UCB-STI/beam,Dependencies,43.56
+Application System,fetchai/agents-aea,Dependencies,46.98
+Application System,jguwekarest/jguwekarest,Dependencies,6.25
+Application System,Project-MONAI/MONAILabel,Dependencies,51.72
+Application System,norkator/open-intelligence,Dependencies,51.85
+Application System,farm-ng/tractor,Dependencies,44.09
+Application System,lino-network/lino,Dependencies,33.33
+Application System,nl8590687/ASRT_SpeechRecognition,Dependencies,37.5
+Application System,open-mmlab/mmocr,Dependencies,62.5
+Application System,richzhang/PerceptualSimilarity,Dependencies,55.56
+Application System,ageitgey/face_recognition,Dependencies,39.29
+Application System,deezer/spleeter,Dependencies,49.52
+Application System,isl-org/Open3D,Dependencies,28.19
+Application System,alfredfrancis/ai-chatbot-framework,Dependencies,53.33
+Application System,notadamking/RLTrader,Dependencies,56.25
+Application System,zhreshold/mxnet-ssd,Dependencies,42.86
+Application System,hooram/ownphotos,Dependencies,38.46
+Application System,blakeblackshear/frigate,Dependencies,17.54
+Application System,Drakkar-Software/OctoBot,Dependencies,48
+Application System,kermitt2/grobid,Dependencies,22.39
+Application System,opendatacam/opendatacam,Dependencies,44
+Application System,DragonComputer/Dragonfire,Dependencies,41.67
+Application System,jonaswinkler/paperless-ng,Dependencies,32.56
+Application System,polakowo/vectorbt,Dependencies,41.46
+Application System,exadel-inc/CompreFace,Dependencies,47.22
+Application System,neuml/txtai,Dependencies,26.92
+Application System,openml/openml-python,Dependencies,16.67
+Application System,MrPowerScripts/reddit-karma-farming-bot,Dependencies,44.44
+Application System,gnina/gnina,Dependencies,30.2
+Application System,semi-technologies/weaviate,Dependencies,33.33
+Application System,jeff1evesque/machine-learning,Dependencies,45.16
+Application System,DigitalSlideArchive/HistomicsTK,Dependencies,31.08
+Application System,photonixapp/photonix,Dependencies,45.16
+Application System,rte-france/Grid2Op,Dependencies,73.33
+Application System,erdos-project/pylot,Dependencies,36.52
+Application System,johnolafenwa/DeepStack,Dependencies,41.27
+Application System,obsei/obsei,Dependencies,60.61
+Application System,intel/openfl,Dependencies,38.71
+Application System,bioinform/neusomatic,Dependencies,56.25
+Application System,qdrant/qdrant,Dependencies,50
+Application System,ambianic/ambianic-edge,Dependencies,14.29
+Application System,opendilab/DI-engine,Dependencies,43.64
+Application System,roflcoopter/viseron,Dependencies,16.71
+Application System,NRCan/geo-deep-learning,Dependencies,33.33
+Application System,neuralet/smart-social-distancing,Dependencies,42.83
+Application System,rock-learning/bolero,Dependencies,41.18
+Application System,blakeblackshear/frigate-hass-integration,Dependencies,50
+Application System,YeoLab/flotilla,Dependencies,25
+Application System,sacdallago/bio_embeddings,Dependencies,38
+Application System,KevinMenden/scaden,Dependencies,54.55
+Application System,pyronear/pyro-vision,Dependencies,55.56
+Application System,marco-willi/camera-trap-classifier,Dependencies,66.67
+Application System,CogStack/MedCATtrainer,Dependencies,54.17
+Application System,ModelChimp/modelchimp,Dependencies,52.63
+Application System,uio-bmi/immuneML,Dependencies,55
+Application System,Unity-Technologies/datasetinsights,Dependencies,38.1
+Application System,ubc/compair,Dependencies,48
+Application System,esmBot/esmBot,Filesystem,11.63
+Application System,mindsdb/mindsdb,Filesystem,14.81
+Application System,wkentaro/labelme,Filesystem,14.29
+Application System,k4yt3x/video2x,Filesystem,28.57
+Application System,microsoft/malmo,Filesystem,19.23
+Application System,mozilla/DeepSpeech,Filesystem,27.85
+Application System,FederatedAI/FATE,Filesystem,36.84
+Application System,carla-simulator/carla,Filesystem,16.22
+Application System,takuya-takeuchi/FaceRecognitionDotNet,Filesystem,15.56
+Application System,interpretml/interpret,Filesystem,13.33
+Application System,numenta/nupic,Filesystem,10
+Application System,colmap/colmap,Filesystem,25
+Application System,google/deepvariant,Filesystem,8.7
+Application System,SAP/credential-digger,Filesystem,6.67
+Application System,nipreps/mriqc,Filesystem,34.25
+Application System,pyro-ppl/pyro,Filesystem,18.18
+Application System,sentinel-hub/eo-learn,Filesystem,11.11
+Application System,yoshida-lab/XenonPy,Filesystem,38.46
+Application System,IQTLabs/NetworkML,Filesystem,16.67
+Application System,mwydmuch/ViZDoom,Filesystem,25
+Application System,MycroftAI/mycroft-core,Filesystem,20.69
+Application System,LiberTEM/LiberTEM,Filesystem,7.69
+Application System,RasaHQ/rasa,Filesystem,6.41
+Application System,robotology/yarp,Filesystem,25.59
+Application System,modernmt/modernmt,Filesystem,38.24
+Application System,recognai/rubrix,Filesystem,17.65
+Application System,sony/nnabla-ext-cuda,Filesystem,29.06
+Application System,openvinotoolkit/cvat,Filesystem,25
+Application System,microsoft/DeepSpeed,Filesystem,36.56
+Application System,doccano/doccano,Filesystem,10.67
+Application System,Kitware/dive,Filesystem,10.34
+Application System,jsbroks/coco-annotator,Filesystem,5.26
+Application System,TensorSpeech/TensorFlowASR,Filesystem,18.75
+Application System,deepfakes/faceswap,Filesystem,13.64
+Application System,cmusatyalab/openface,Filesystem,35.94
+Application System,nagadomi/waifu2x,Filesystem,9.09
+Application System,openMVG/openMVG,Filesystem,25
+Application System,autorope/donkeycar,Filesystem,25
+Application System,alicevision/meshroom,Filesystem,29.79
+Application System,jbarlow83/OCRmyPDF,Filesystem,25
+Application System,cloud-annotations/cloud-annotations,Filesystem,8
+Application System,mapbox/robosat,Filesystem,23.68
+Application System,open-mmlab/mmclassification,Filesystem,13.33
+Application System,SkalskiP/make-sense,Filesystem,36.36
+Application System,BindsNET/bindsnet,Filesystem,27.27
+Application System,MycroftAI/mycroft-precise,Filesystem,7.69
+Application System,GeekAlexis/FastMOT,Filesystem,30.3
+Application System,basler/pypylon,Filesystem,53.49
+Application System,owlbarn/owl,Filesystem,28.32
+Application System,videoflow/videoflow,Filesystem,22.22
+Application System,Kitware/kwiver,Filesystem,35
+Application System,kundajelab/dragonn,Filesystem,11.11
+Application System,alicevision/CCTag,Filesystem,50
+Application System,tensorflow/recommenders-addons,Filesystem,18.86
+Application System,neuml/paperai,Filesystem,26.32
+Application System,bit-bots/imagetagger,Filesystem,26.09
+Application System,projectglow/glow,Filesystem,22.64
+Application System,nipy/mindboggle,Filesystem,46.75
+Application System,CBICA/CaPTk,Filesystem,25
+Application System,dice-group/LIMES,Filesystem,50
+Application System,bark-simulator/bark,Filesystem,25.49
+Application System,rosette-api/java,Filesystem,14.29
+Application System,MarvinLer/pypownet,Filesystem,23.08
+Application System,ain-soph/trojanzoo,Filesystem,40
+Application System,SKKU-ESLAB/ANT,Filesystem,85.71
+Application System,clara-parabricks/AtacWorks,Filesystem,4.35
+Application System,sirimullalab/DLSCORE,Filesystem,54.55
+Application System,weiji14/deepbedmap,Filesystem,25
+Application System,cair/deep-rts,Filesystem,14.29
+Application System,mlrun/ui,Filesystem,57.14
+Application System,AndrejOrsula/drl_grasping,Filesystem,26.83
+Application System,jakowenko/double-take,Filesystem,18.42
+Application System,spacechop/spacechop,Filesystem,44.44
+Application System,itlab-vision/dl-benchmark,Filesystem,27.45
+Application System,bsc-wdc/dislib,Filesystem,33.33
+Application System,DCAN-Labs/abcd-hcp-pipeline,Filesystem,46.81
+Application System,aldro61/kover,Filesystem,19.05
+Application System,vwxyzjn/gym-microrts,Filesystem,14.29
+Application System,HKU-BAL/Clair,Filesystem,17.65
+Application System,viadee/bpmn.ai,Filesystem,22.22
+Application System,cselab/korali,Filesystem,5.08
+Application System,IntelRealSense/librealsense,Filesystem,33.33
+Application System,OpenMined/PySyft,Filesystem,2.13
+Application System,DeepLabCut/DeepLabCut,Filesystem,12
+Application System,photoprism/photoprism,Filesystem,32.12
+Application System,alphacep/vosk-api,Filesystem,36.73
+Application System,PyTorchLightning/metrics,Filesystem,20
+Application System,LBNL-UCB-STI/beam,Filesystem,27.72
+Application System,fetchai/agents-aea,Filesystem,11.41
+Application System,jguwekarest/jguwekarest,Filesystem,62.5
+Application System,Project-MONAI/MONAILabel,Filesystem,6.9
+Application System,masato-ka/airc-rl-agent,Filesystem,66.67
+Application System,norkator/open-intelligence,Filesystem,3.7
+Application System,farm-ng/tractor,Filesystem,14.52
+Application System,lino-network/lino,Filesystem,33.33
+Application System,nl8590687/ASRT_SpeechRecognition,Filesystem,18.75
+Application System,open-mmlab/mmocr,Filesystem,6.25
+Application System,richzhang/PerceptualSimilarity,Filesystem,11.11
+Application System,ageitgey/face_recognition,Filesystem,15.18
+Application System,deezer/spleeter,Filesystem,31.43
+Application System,isl-org/Open3D,Filesystem,39.89
+Application System,alfredfrancis/ai-chatbot-framework,Filesystem,20
+Application System,zhenghaoz/gorse,Filesystem,60
+Application System,zhreshold/mxnet-ssd,Filesystem,32.14
+Application System,hooram/ownphotos,Filesystem,25.64
+Application System,blakeblackshear/frigate,Filesystem,43.66
+Application System,Drakkar-Software/OctoBot,Filesystem,8
+Application System,kermitt2/grobid,Filesystem,56.72
+Application System,opendatacam/opendatacam,Filesystem,25.33
+Application System,DragonComputer/Dragonfire,Filesystem,16.67
+Application System,jonaswinkler/paperless-ng,Filesystem,25.58
+Application System,polakowo/vectorbt,Filesystem,17.07
+Application System,exadel-inc/CompreFace,Filesystem,27.78
+Application System,neuml/txtai,Filesystem,38.46
+Application System,openml/openml-python,Filesystem,33.33
+Application System,gnina/gnina,Filesystem,34.16
+Application System,semi-technologies/weaviate,Filesystem,16.67
+Application System,jeff1evesque/machine-learning,Filesystem,12.9
+Application System,DigitalSlideArchive/HistomicsTK,Filesystem,27.03
+Application System,photonixapp/photonix,Filesystem,17.74
+Application System,rte-france/Grid2Op,Filesystem,8.89
+Application System,erdos-project/pylot,Filesystem,25.22
+Application System,johnolafenwa/DeepStack,Filesystem,21.16
+Application System,obsei/obsei,Filesystem,9.09
+Application System,intel/openfl,Filesystem,25.81
+Application System,bioinform/neusomatic,Filesystem,18.75
+Application System,qdrant/qdrant,Filesystem,20
+Application System,ambianic/ambianic-edge,Filesystem,42.86
+Application System,opendilab/DI-engine,Filesystem,10.91
+Application System,roflcoopter/viseron,Filesystem,46.23
+Application System,NRCan/geo-deep-learning,Filesystem,33.33
+Application System,neuralet/smart-social-distancing,Filesystem,24.5
+Application System,rock-learning/bolero,Filesystem,17.65
+Application System,sacdallago/bio_embeddings,Filesystem,20
+Application System,pyronear/pyro-vision,Filesystem,22.22
+Application System,CogStack/MedCATtrainer,Filesystem,8.33
+Application System,ModelChimp/modelchimp,Filesystem,15.79
+Application System,uio-bmi/immuneML,Filesystem,5
+Application System,Unity-Technologies/datasetinsights,Filesystem,23.81
+Application System,ubc/compair,Filesystem,12
+Application System,esmBot/esmBot,Permissions,4.65
+Application System,microsoft/malmo,Permissions,3.21
+Application System,mozilla/DeepSpeech,Permissions,1.27
+Application System,FederatedAI/FATE,Permissions,3.95
+Application System,carla-simulator/carla,Permissions,5.41
+Application System,takuya-takeuchi/FaceRecognitionDotNet,Permissions,13.33
+Application System,interpretml/interpret,Permissions,4.44
+Application System,numenta/nupic,Permissions,3.33
+Application System,google/deepvariant,Permissions,26.09
+Application System,SAP/credential-digger,Permissions,6.67
+Application System,nipreps/mriqc,Permissions,6.85
+Application System,pyro-ppl/pyro,Permissions,13.64
+Application System,sentinel-hub/eo-learn,Permissions,3.7
+Application System,yoshida-lab/XenonPy,Permissions,19.23
+Application System,mwydmuch/ViZDoom,Permissions,6.82
+Application System,RasaHQ/rasa,Permissions,15.38
+Application System,robotology/yarp,Permissions,0.98
+Application System,recognai/rubrix,Permissions,11.76
+Application System,sony/nnabla-ext-cuda,Permissions,2.23
+Application System,openvinotoolkit/cvat,Permissions,2.5
+Application System,microsoft/DeepSpeed,Permissions,3.23
+Application System,doccano/doccano,Permissions,14.67
+Application System,Kitware/dive,Permissions,6.9
+Application System,alicevision/meshroom,Permissions,3.19
+Application System,cloud-annotations/cloud-annotations,Permissions,16
+Application System,open-mmlab/mmclassification,Permissions,13.33
+Application System,basler/pypylon,Permissions,6.98
+Application System,videoflow/videoflow,Permissions,5.56
+Application System,Kitware/kwiver,Permissions,10
+Application System,tensorflow/recommenders-addons,Permissions,2.86
+Application System,bit-bots/imagetagger,Permissions,8.7
+Application System,projectglow/glow,Permissions,1.89
+Application System,nipy/mindboggle,Permissions,2.6
+Application System,bark-simulator/bark,Permissions,1.96
+Application System,rosette-api/java,Permissions,14.29
+Application System,weiji14/deepbedmap,Permissions,15
+Application System,itlab-vision/dl-benchmark,Permissions,2.94
+Application System,bsc-wdc/dislib,Permissions,6.67
+Application System,DCAN-Labs/abcd-hcp-pipeline,Permissions,8.51
+Application System,vwxyzjn/gym-microrts,Permissions,7.14
+Application System,viadee/bpmn.ai,Permissions,38.89
+Application System,OpenMined/PySyft,Permissions,10.64
+Application System,DeepLabCut/DeepLabCut,Permissions,4
+Application System,photoprism/photoprism,Permissions,14.51
+Application System,LBNL-UCB-STI/beam,Permissions,5.94
+Application System,fetchai/agents-aea,Permissions,4.7
+Application System,jguwekarest/jguwekarest,Permissions,31.25
+Application System,z1pti3/jimi,Permissions,100
+Application System,farm-ng/tractor,Permissions,2.15
+Application System,nl8590687/ASRT_SpeechRecognition,Permissions,6.25
+Application System,ageitgey/face_recognition,Permissions,3.57
+Application System,isl-org/Open3D,Permissions,0.53
+Application System,notadamking/RLTrader,Permissions,6.25
+Application System,blakeblackshear/frigate,Permissions,0.54
+Application System,Drakkar-Software/OctoBot,Permissions,4
+Application System,kermitt2/grobid,Permissions,5.97
+Application System,opendatacam/opendatacam,Permissions,4
+Application System,jonaswinkler/paperless-ng,Permissions,11.63
+Application System,polakowo/vectorbt,Permissions,2.44
+Application System,exadel-inc/CompreFace,Permissions,2.78
+Application System,MrPowerScripts/reddit-karma-farming-bot,Permissions,11.11
+Application System,jeff1evesque/machine-learning,Permissions,12.9
+Application System,DigitalSlideArchive/HistomicsTK,Permissions,1.35
+Application System,photonixapp/photonix,Permissions,3.23
+Application System,erdos-project/pylot,Permissions,6.09
+Application System,obsei/obsei,Permissions,3.03
+Application System,intel/openfl,Permissions,12.9
+Application System,roflcoopter/viseron,Permissions,0.1
+Application System,neuralet/smart-social-distancing,Permissions,0.44
+Application System,rock-learning/bolero,Permissions,11.76
+Application System,YeoLab/flotilla,Permissions,50
+Application System,sacdallago/bio_embeddings,Permissions,4
+Application System,CogStack/MedCATtrainer,Permissions,4.17
+Application System,Unity-Technologies/datasetinsights,Permissions,4.76
+Application System,FederatedAI/FATE,Environment,3.29
+Application System,heartexlabs/label-studio,Environment,9.09
+Application System,yoshida-lab/XenonPy,Environment,3.85
+Application System,mwydmuch/ViZDoom,Environment,3.41
+Application System,robotology/yarp,Environment,0.39
+Application System,modernmt/modernmt,Environment,2.94
+Application System,openvinotoolkit/cvat,Environment,3.75
+Application System,doccano/doccano,Environment,1.33
+Application System,Kitware/dive,Environment,3.45
+Application System,TensorSpeech/TensorFlowASR,Environment,6.25
+Application System,alicevision/meshroom,Environment,3.19
+Application System,open-mmlab/mmclassification,Environment,3.33
+Application System,bit-bots/imagetagger,Environment,4.35
+Application System,projectglow/glow,Environment,1.89
+Application System,nipy/mindboggle,Environment,1.3
+Application System,bark-simulator/bark,Environment,5.88
+Application System,clara-parabricks/AtacWorks,Environment,17.39
+Application System,weiji14/deepbedmap,Environment,10
+Application System,AndrejOrsula/drl_grasping,Environment,10.98
+Application System,itlab-vision/dl-benchmark,Environment,3.92
+Application System,OpenMined/PySyft,Environment,2.13
+Application System,photoprism/photoprism,Environment,0.52
+Application System,LBNL-UCB-STI/beam,Environment,2.97
+Application System,fetchai/agents-aea,Environment,3.36
+Application System,farm-ng/tractor,Environment,4.84
+Application System,nl8590687/ASRT_SpeechRecognition,Environment,6.25
+Application System,isl-org/Open3D,Environment,4.79
+Application System,alfredfrancis/ai-chatbot-framework,Environment,13.33
+Application System,blakeblackshear/frigate,Environment,0.23
+Application System,Drakkar-Software/OctoBot,Environment,4
+Application System,polakowo/vectorbt,Environment,4.88
+Application System,DigitalSlideArchive/HistomicsTK,Environment,8.11
+Application System,intel/openfl,Environment,6.45
+Application System,opendilab/DI-engine,Environment,3.64
+Application System,roflcoopter/viseron,Environment,0.97

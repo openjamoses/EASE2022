@@ -1,0 +1,7 @@
+Category,configsize,architecture,os,environment,layers,layers_size,rootfs_layers,files,max_level
+Documentation,8.56,{'amd64'},{'linux'},5.5,12.0,2019597548.5,13.0,89581.0,18.0
+Application System,11.36,"{'amd64', 'arm64', 'arm'}",{'linux'},8.0,17.0,1458727973.0,19.0,62660.0,16.0
+Model,13.74,{'amd64'},{'linux'},9.0,19.5,2208312661.5,22.0,51942.5,17.0
+DL Framwork,12.45,{'amd64'},"{'windows', 'linux'}",10.0,16.0,2767730929.0,19.5,62967.0,17.0
+MLOps/ AIOps,11.7,{'amd64'},{'linux'},8.0,13.0,982709614.5,17.0,49767.5,14.0
+Toolkit,11.38,"{'amd64', 's390x'}","{'windows', 'linux'}",8.0,17.0,1664224779.5,19.5,61828.0,17.0

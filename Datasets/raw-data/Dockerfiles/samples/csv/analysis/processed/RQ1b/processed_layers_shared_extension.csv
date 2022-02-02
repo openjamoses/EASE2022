@@ -1,0 +1,345 @@
+Topic,Repos,ProjectID,fileType,Sharedfiles
+Application,wkentaro/labelme,P2,.svg,33
+Application,wkentaro/labelme,P2,none,9
+Application,wkentaro/labelme,P2,.png,2
+Application,wkentaro/labelme,P2,.pm,2
+Application,wkentaro/labelme,P2,.xml,2
+Application,wkentaro/labelme,P2,.pl,2
+DL Framwork,tensorflow/tensorflow,P2,.svg,3
+DL Framwork,tensorflow/tensorflow,P2,none,1
+DL Framwork,tensorflow/tensorflow,P2,.pm,0
+DL Framwork,tensorflow/tensorflow,P2,.pl,0
+DL Framwork,tensorflow/tensorflow,P2,.Debian.1,0
+DL Framwork,tensorflow/tensorflow,P2,.png,0
+DL Framwork,tensorflow/tensorflow,P2,none,3
+DL Framwork,tensorflow/tensorflow,P2,.svg,2
+DL Framwork,tensorflow/tensorflow,P2,.pm,1
+DL Framwork,tensorflow/tensorflow,P2,.sty,1
+DL Framwork,tensorflow/tensorflow,P2,.pl,1
+DL Framwork,tensorflow/tensorflow,P2,.po,1
+DL Framwork,pytorch/pytorch,P0,none,10
+DL Framwork,pytorch/pytorch,P0,.pm,1
+DL Framwork,pytorch/pytorch,P0,.pl,1
+DL Framwork,pytorch/pytorch,P0,.Debian.1,0
+DL Framwork,pytorch/pytorch,P0,.html,0
+DL Framwork,pytorch/pytorch,P0,.crt,0
+Machine Learning,scikit-learn/scikit-learn,P3,none,11
+Machine Learning,scikit-learn/scikit-learn,P3,.vim,4
+Machine Learning,scikit-learn/scikit-learn,P3,.pm,2
+Machine Learning,scikit-learn/scikit-learn,P3,.pl,2
+Machine Learning,scikit-learn/scikit-learn,P3,.Debian.1,1
+Machine Learning,scikit-learn/scikit-learn,P3,.txt,1
+Machine Learning,scikit-learn/scikit-learn,P3,none,28
+Machine Learning,scikit-learn/scikit-learn,P3,.xml,3
+Machine Learning,scikit-learn/scikit-learn,P3,.Debian.1,1
+Machine Learning,scikit-learn/scikit-learn,P3,.crt,1
+Machine Learning,scikit-learn/scikit-learn,P3,.pm,1
+Machine Learning,scikit-learn/scikit-learn,P3,.c,0
+Application,ageitgey/face_recognition,P1,none,10
+Application,ageitgey/face_recognition,P1,.crt,1
+Application,ageitgey/face_recognition,P1,.pm,1
+Application,ageitgey/face_recognition,P1,.Debian.1,0
+Application,ageitgey/face_recognition,P1,.json,0
+Application,ageitgey/face_recognition,P1,.py,0
+Application,deepfakes/faceswap,P3,none,6
+Application,deepfakes/faceswap,P3,.pm,1
+Application,deepfakes/faceswap,P3,.mo,1
+Application,deepfakes/faceswap,P3,.xml,1
+Application,deepfakes/faceswap,P3,.pl,1
+Application,deepfakes/faceswap,P3,.Debian.1,1
+Application,nagadomi/waifu2x,P4,.svg,22
+Application,nagadomi/waifu2x,P4,none,4
+Application,nagadomi/waifu2x,P4,.rst,3
+Application,nagadomi/waifu2x,P4,.mo,2
+Application,nagadomi/waifu2x,P4,.png,2
+Application,nagadomi/waifu2x,P4,.cmake,2
+DL Framwork,fastai/fastai,P1,none,4
+DL Framwork,fastai/fastai,P1,.pm,2
+DL Framwork,fastai/fastai,P1,.pl,1
+DL Framwork,fastai/fastai,P1,.Debian.1,1
+DL Framwork,fastai/fastai,P1,.crt,0
+DL Framwork,fastai/fastai,P1,.rb,0
+DL Framwork,fastai/fastai,P1,none,5
+DL Framwork,fastai/fastai,P1,.vim,2
+DL Framwork,fastai/fastai,P1,.mo,2
+DL Framwork,fastai/fastai,P1,.pm,1
+DL Framwork,fastai/fastai,P1,.pl,1
+DL Framwork,fastai/fastai,P1,.Debian.1,1
+Application,numenta/nupic,P0,none,6
+Application,numenta/nupic,P0,.rst,2
+Application,numenta/nupic,P0,.pl,2
+Application,numenta/nupic,P0,.pm,1
+Application,numenta/nupic,P0,.cmake,1
+Application,numenta/nupic,P0,.i,1
+Model,ultralytics/yolov5,P4,none,4
+Model,ultralytics/yolov5,P4,.js,3
+Model,ultralytics/yolov5,P4,.rst,2
+Model,ultralytics/yolov5,P4,.cmake,1
+Model,ultralytics/yolov5,P4,.vim,1
+Model,ultralytics/yolov5,P4,.svg,1
+Model,ultralytics/yolov5,P4,.js,5
+Model,ultralytics/yolov5,P4,none,4
+Model,ultralytics/yolov5,P4,.rst,2
+Model,ultralytics/yolov5,P4,.cmake,1
+Model,ultralytics/yolov5,P4,.js.1,1
+Model,ultralytics/yolov5,P4,.d.1,1
+DL Framwork,PaddlePaddle/Paddle,P4,none,4
+DL Framwork,PaddlePaddle/Paddle,P4,.3ssl.1,1
+DL Framwork,PaddlePaddle/Paddle,P4,.pm,1
+DL Framwork,PaddlePaddle/Paddle,P4,.rst,1
+DL Framwork,PaddlePaddle/Paddle,P4,.pl,1
+DL Framwork,PaddlePaddle/Paddle,P4,.xml,0
+DL Framwork,PaddlePaddle/Paddle,P4,none,5
+DL Framwork,PaddlePaddle/Paddle,P4,.rst,4
+DL Framwork,PaddlePaddle/Paddle,P4,.cmake,2
+DL Framwork,PaddlePaddle/Paddle,P4,.vim,2
+DL Framwork,PaddlePaddle/Paddle,P4,.pm,1
+DL Framwork,PaddlePaddle/Paddle,P4,.xml,1
+DL Framwork,PaddlePaddle/Paddle,P4,none,8
+DL Framwork,PaddlePaddle/Paddle,P4,.pl,2
+DL Framwork,PaddlePaddle/Paddle,P4,.3ssl.1,1
+DL Framwork,PaddlePaddle/Paddle,P4,.xml,1
+DL Framwork,PaddlePaddle/Paddle,P4,.rst,1
+DL Framwork,PaddlePaddle/Paddle,P4,.pm,1
+Machine Learning,microsoft/LightGBM,P1,none,7
+Machine Learning,microsoft/LightGBM,P1,.png,6
+Machine Learning,microsoft/LightGBM,P1,.symbolic.1,2
+Machine Learning,microsoft/LightGBM,P1,.mo,2
+Machine Learning,microsoft/LightGBM,P1,.rst,1
+Machine Learning,microsoft/LightGBM,P1,.cmake,1
+ToolKit,JaidedAI/EasyOCR,P4,none,11
+ToolKit,JaidedAI/EasyOCR,P4,.xml,1
+ToolKit,JaidedAI/EasyOCR,P4,.pm,1
+ToolKit,JaidedAI/EasyOCR,P4,.pl,1
+ToolKit,JaidedAI/EasyOCR,P4,.html,0
+ToolKit,JaidedAI/EasyOCR,P4,.Debian.1,0
+AutoML,microsoft/nni,P4,none,9
+AutoML,microsoft/nni,P4,.rst,2
+AutoML,microsoft/nni,P4,.vim,2
+AutoML,microsoft/nni,P4,.cmake,1
+AutoML,microsoft/nni,P4,.pm,1
+AutoML,microsoft/nni,P4,.pl,1
+AutoML,keras-team/autokeras,P0,none,5
+AutoML,keras-team/autokeras,P0,.sip,1
+AutoML,keras-team/autokeras,P0,.pm,0
+AutoML,keras-team/autokeras,P0,.gz,0
+AutoML,keras-team/autokeras,P0,.pl,0
+AutoML,keras-team/autokeras,P0,.html,0
+Machine Learning,catboost/catboost,P0,.crt,1
+Machine Learning,catboost/catboost,P0,none,0
+Machine Learning,catboost/catboost,P0,.alpinelinux.1.2.3,0
+Machine Learning,catboost/catboost,P0,.py,0
+Machine Learning,catboost/catboost,P0,.h,0
+Machine Learning,catboost/catboost,P0,.cpython-37.1.2,0
+Machine Learning,aksnzhy/xlearn,P4,none,19
+Machine Learning,aksnzhy/xlearn,P4,.rst,4
+Machine Learning,aksnzhy/xlearn,P4,.cmake,3
+Machine Learning,aksnzhy/xlearn,P4,.pm,2
+Machine Learning,aksnzhy/xlearn,P4,.pl,2
+Machine Learning,aksnzhy/xlearn,P4,.Debian.1,1
+Machine Learning,pymc-devs/pymc,P2,.tfm,12
+Machine Learning,pymc-devs/pymc,P2,.svg,11
+Machine Learning,pymc-devs/pymc,P2,none,6
+Machine Learning,pymc-devs/pymc,P2,.htf,5
+Machine Learning,pymc-devs/pymc,P2,.vf,4
+Machine Learning,pymc-devs/pymc,P2,.sty,3
+Documentation,yandexdataschool/Practical_RL,P3,none,2
+Documentation,yandexdataschool/Practical_RL,P3,.rst,1
+Documentation,yandexdataschool/Practical_RL,P3,.pm,1
+Documentation,yandexdataschool/Practical_RL,P3,.cmake,1
+Documentation,yandexdataschool/Practical_RL,P3,.Debian.1,1
+Documentation,yandexdataschool/Practical_RL,P3,.xml,1
+Model,qubvel/segmentation_models.pytorch,P2,.vim,6
+Model,qubvel/segmentation_models.pytorch,P2,.pm,4
+Model,qubvel/segmentation_models.pytorch,P2,none,4
+Model,qubvel/segmentation_models.pytorch,P2,.xml,3
+Model,qubvel/segmentation_models.pytorch,P2,.pl,3
+Model,qubvel/segmentation_models.pytorch,P2,.Debian.1,1
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.xml,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,.js,10
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.json,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.d.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.js.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.md,2
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.xml,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,.js,10
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.json,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.d.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.js.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.md,2
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.xml,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,.js,10
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.json,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.d.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.js.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.md,2
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.xml,0
+ToolKit,IBM/fhe-toolkit-linux,P3,none,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.rst,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.vim,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.cmake,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pm,1
+ToolKit,IBM/fhe-toolkit-linux,P3,.pl,0
+ToolKit,IBM/fhe-toolkit-linux,P3,.js,10
+ToolKit,IBM/fhe-toolkit-linux,P3,none,3
+ToolKit,IBM/fhe-toolkit-linux,P3,.json,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.d.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.js.1,2
+ToolKit,IBM/fhe-toolkit-linux,P3,.md,2
+ToolKit,shogun-toolbox/shogun,P1,none,10
+ToolKit,shogun-toolbox/shogun,P1,.png,7
+ToolKit,shogun-toolbox/shogun,P1,.mo,3
+ToolKit,shogun-toolbox/shogun,P1,.pm,2
+ToolKit,shogun-toolbox/shogun,P1,.symbolic.1,2
+ToolKit,shogun-toolbox/shogun,P1,.rst,2
+Documentation,prabhuomkar/pytorch-cpp,P2,none,20
+Documentation,prabhuomkar/pytorch-cpp,P2,.rst,3
+Documentation,prabhuomkar/pytorch-cpp,P2,.cmake,2
+Documentation,prabhuomkar/pytorch-cpp,P2,.pm,1
+Documentation,prabhuomkar/pytorch-cpp,P2,.pl,1
+Documentation,prabhuomkar/pytorch-cpp,P2,.Debian.1,0
+Model,araffin/rl-baselines-zoo,P1,none,3
+Model,araffin/rl-baselines-zoo,P1,.rst,2
+Model,araffin/rl-baselines-zoo,P1,.pm,1
+Model,araffin/rl-baselines-zoo,P1,.cmake,1
+Model,araffin/rl-baselines-zoo,P1,.xml,1
+Model,araffin/rl-baselines-zoo,P1,.pl,1
+Model,IntelAI/models,P3,none,2
+Model,IntelAI/models,P3,.pm,2
+Model,IntelAI/models,P3,.pl,1
+Model,IntelAI/models,P3,.xml,1
+Model,IntelAI/models,P3,.rst,1
+Model,IntelAI/models,P3,.Debian.1,0
+Model,IntelAI/models,P3,none,1
+Model,IntelAI/models,P3,.Debian.1,1
+Model,IntelAI/models,P3,.crt,1
+Model,IntelAI/models,P3,.pm,0
+Model,IntelAI/models,P3,.py,0
+Model,IntelAI/models,P3,.json,0
+AutoML,autogoal/autogoal,P2,none,5
+AutoML,autogoal/autogoal,P2,.vim,1
+AutoML,autogoal/autogoal,P2,.pm,1
+AutoML,autogoal/autogoal,P2,.pl,1
+AutoML,autogoal/autogoal,P2,.mo,1
+AutoML,autogoal/autogoal,P2,.Debian.1,1
+Documentation,JdeRobot/RoboticsAcademy,P1,.svg,7
+Documentation,JdeRobot/RoboticsAcademy,P1,.png,3
+Documentation,JdeRobot/RoboticsAcademy,P1,none,3
+Documentation,JdeRobot/RoboticsAcademy,P1,.xml,1
+Documentation,JdeRobot/RoboticsAcademy,P1,.Debian.1,1
+Documentation,JdeRobot/RoboticsAcademy,P1,.cmake,1
+Model,alexandrainst/danlp,P0,.tfm,17
+Model,alexandrainst/danlp,P0,.vf,7
+Model,alexandrainst/danlp,P0,.svg,6
+Model,alexandrainst/danlp,P0,none,5
+Model,alexandrainst/danlp,P0,.pfb,2
+Model,alexandrainst/danlp,P0,.mf,2
+MLops,kubeflow/kubeflow,P0,.alpinelinux.1.2.3,4
+MLops,kubeflow/kubeflow,P0,none,0
+MLops,bentoml/BentoML,P1,none,20
+MLops,bentoml/BentoML,P1,.pm,2
+MLops,bentoml/BentoML,P1,.xml,1
+MLops,bentoml/BentoML,P1,.pl,1
+MLops,bentoml/BentoML,P1,.crt,1
+MLops,bentoml/BentoML,P1,.tmpl,0
+MLops,bentoml/BentoML,P1,none,4
+MLops,bentoml/BentoML,P1,.mo,2
+MLops,bentoml/BentoML,P1,.pm,1
+MLops,bentoml/BentoML,P1,.xml,1
+MLops,bentoml/BentoML,P1,.pl,1
+MLops,bentoml/BentoML,P1,.gz,1
+MLops,bentoml/BentoML,P1,none,20
+MLops,bentoml/BentoML,P1,.pm,2
+MLops,bentoml/BentoML,P1,.xml,1
+MLops,bentoml/BentoML,P1,.pl,1
+MLops,bentoml/BentoML,P1,.crt,1
+MLops,bentoml/BentoML,P1,.tmpl,0
+MLops,bentoml/BentoML,P1,none,4
+MLops,bentoml/BentoML,P1,.mo,2
+MLops,bentoml/BentoML,P1,.pm,1
+MLops,bentoml/BentoML,P1,.xml,1
+MLops,bentoml/BentoML,P1,.pl,1
+MLops,bentoml/BentoML,P1,.gz,1
+MLops,SeldonIO/seldon-core,P3,none,16
+MLops,SeldonIO/seldon-core,P3,.pm,3
+MLops,SeldonIO/seldon-core,P3,.pl,2
+MLops,SeldonIO/seldon-core,P3,.xml,2
+MLops,SeldonIO/seldon-core,P3,.mo,1
+MLops,SeldonIO/seldon-core,P3,.gz,1
+MLops,tensorflow/tfx,P4,.svg,3
+MLops,tensorflow/tfx,P4,none,1
+MLops,tensorflow/tfx,P4,.pm,0
+MLops,tensorflow/tfx,P4,.pl,0
+MLops,tensorflow/tfx,P4,.Debian.1,0
+MLops,tensorflow/tfx,P4,.png,0
+MLops,tensorflow/tfx,P4,none,3
+MLops,tensorflow/tfx,P4,.svg,2
+MLops,tensorflow/tfx,P4,.pm,1
+MLops,tensorflow/tfx,P4,.sty,1
+MLops,tensorflow/tfx,P4,.pl,1
+MLops,tensorflow/tfx,P4,.po,1

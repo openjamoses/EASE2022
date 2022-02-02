@@ -1,0 +1,63 @@
+{
+    "Name": "docker.io/artifacts/variationanalysis-app",
+    "Digest": "sha256:40756449f41a75261bbf707f666ecf7ad984eaa9526f5d8d31631ad9a736625a",
+    "RepoTags": [
+        "1.0",
+        "1.0.1",
+        "1.0.2",
+        "1.0.3",
+        "1.0.4",
+        "1.0.5",
+        "1.0.6",
+        "1.0.7",
+        "1.0.8",
+        "latest"
+    ],
+    "Created": "2018-06-01T19:56:09.996260084Z",
+    "DockerVersion": "17.09.1-ce",
+    "Labels": {
+        "build-date": "20170605",
+        "license": "GPLv2",
+        "name": "CentOS Base Image",
+        "org.campagnelab.docker.createdWith": "org.campagnelab.docker",
+        "vendor": "CentOS"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:d5e46245fe40c2d1ab72bfe328de28549b605b2587ab2fa8715f54e3e2de9c5d",
+        "sha256:09f9f01a87965a1a07f0b4c8c917cafde7b5733f4e9ef141b3a8e5d94bffa0ee",
+        "sha256:06c18c8ed6470a11b042cf2d45fa6c516672a195b179c1b35f9d4c3b29fb8623",
+        "sha256:31cf16902c12ecbbba1fd1c6e9a06c84802a2ac506b000c6e4e94786f8ac8eda",
+        "sha256:9621d680d5bcbd61b47feab2691182eab0557e851bb5e0b02617e8a07c8aedbf",
+        "sha256:c196853f03bd8e0c9e3c0d6253beba9b80c11849ddcc3c216790a3201560c45a",
+        "sha256:e02c4fd043a80318ca83baeffca10a6218814e8d3d721e2be7e5a7e3b3d4bcae",
+        "sha256:30c2f5650ca11d051c35fbe85659c4403b9e3c608e40aea81f6956a20c5f44f9",
+        "sha256:76c13001a14dcbb9a2aae7c67f957031286c1407e344d07abd7fed4648b0ff0f",
+        "sha256:f5740713826f714ac6facf64449515d840c7463ffcf363f0d0bc5d32a3521056",
+        "sha256:9f5ed3a76a963fe2c2f39d8a39606440ba594fd2a5a270726973d2b0eb6b1fc2",
+        "sha256:d537b90af496fd4ad976243d68a8ae63f2879634bc1e2118ca4be1172ea8d545",
+        "sha256:91beed63359fc79190e2a29e09a869a8d30ab4f628622802e5e77507c767f987",
+        "sha256:3821c47ca1548cb520ee1cb5a52b980aa44fe38fa69e5914cfc04eb0c445f775",
+        "sha256:0aa6d075f936aed66c2f897681936fd0c941184a50f9cbb686ade3f21cccd145",
+        "sha256:5a303609a315ed11f857c64737ea2a3be0957bb03aed4f0dc8850945214306c7",
+        "sha256:3bdba53b53df6148bbcd8371530290632dda48273071ce6ecb010abb2ff87d6c",
+        "sha256:da7645f46b5135bd7c061fca793c93d3e14aa0ea6946040da057750d85ac3ffd",
+        "sha256:f07d9d34a7d8be817548c0e26ea64071eeb83f0fca88c9595339d135d3786f43",
+        "sha256:89f5a58a7640c22556a3be4ec2959ba1fe1289bda87a4692e6c70bcb1f0e1e15",
+        "sha256:4166216257e0d2ee8b0d9667e599a9095cc4b5e532470009123eec67a1a80ebe",
+        "sha256:26fb46686dde3130adf1da74d14c4fa8b72e24b2c6429c2f8465dc6ebbc0398e",
+        "sha256:271e2567affceb623acabec8a3cbd13ecd94787a25034877ca24352bab61ec4c",
+        "sha256:6fb8c502598729fcb8becf5ca5d402fa2cb669620cc07247760ee834c4f840f9",
+        "sha256:a402203550ebd3b91f0338081f2da10291e79af8628798b95dd8e74af2d375c8",
+        "sha256:15a8dd2d4a2f0e3aee7da54d20ce2d6d0156cfd1f0e087ed5e07410c5a8f39bb",
+        "sha256:52c91f7b5290420edefe0f90cc134cbb6eedc6e674fcdde141398f7ec47023fc",
+        "sha256:9e167ff1fedb450ce1952c18bfd4dd99b6a019b909aa44a05e7be95fbe6fa822",
+        "sha256:a188efccea04288a4bdc237171adcb793a8e5b2f31809a58e7b161abed438135",
+        "sha256:9b0a189dcbb9c0f95d1506eeaf5adbefbc40c138d24e1af721b7ccb001ff9976",
+        "sha256:db849aab6905e99a9605cc913792eaf08227ebbdeebeb40639d9a25b6e8b020a"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Name": "docker.io/flyteorg/flytesnacks",
+    "Digest": "sha256:f26e1099fb4c376d68ab02224e4e84bc2fd71ec9370126ff0c1817dc97da98c3",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-09-09T02:59:40.104721797Z",
+    "DockerVersion": "18.03.1-ee-3",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:35c102085707f703de2d9eaad8752d6fe1b8f02b5d2149f1d8357c9cc7fb7d0a",
+        "sha256:251f5509d51d9e4119d4ffb70d4820f8e2d7dc72ad15df3ebd7cd755539e40fd",
+        "sha256:8e829fe70a46e3ac4334823560e98b257234c23629f19f05460e21a453091e6d",
+        "sha256:6001e1789921cf851f6fb2e5fe05be70f482fe9c2286f66892fe5a3bc404569c",
+        "sha256:ef352a2102335b315daf5bc4c83f479f3d3a2cb33a7f358da84ac02821c1ce68",
+        "sha256:96e00f9a58f3df0313f904ddeb26a3964390614d26447af435d016082ffa64d3",
+        "sha256:6232da5e4aefa3abd9d15f5516cf948af764deba6ee7c6ae614497312057b991",
+        "sha256:82e2ef094db94d807516f1d41e7d4e074caeee528abcb1aa82da903cc9ef0b23",
+        "sha256:65c1140887ed30935d908ae34dc4c7d6e81027b9c9d623200f4327880eafd100",
+        "sha256:0df91529a778de3a6b20a850737412a632800f51f0a4b0f97ab2a34c7e646dc2",
+        "sha256:f6af2e33f97a14132436dba3cd38674bbf67196e810c48df21ec0c8cb6864e8c",
+        "sha256:addb40f496280e53aaeb4b5eea0957ee0e88293ca79c812cacdd160e86421603",
+        "sha256:49aeb6bf6a7c5d359399e234ba1318fa44bd0dc6b5912693cdb4361a96bbffb5"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "VENV=/root/venv",
+        "LANG=C.UTF-8",
+        "LC_ALL=C.UTF-8",
+        "PYTHONPATH=/root",
+        "FLYTE_INTERNAL_IMAGE="
+    ]
+}

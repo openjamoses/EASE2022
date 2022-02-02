@@ -1,0 +1,62 @@
+{
+    "Name": "docker.io/vwxyzjn/gym-microrts",
+    "Digest": "sha256:f9757229d9e17728e580627c008a0ef4daba61049b37ed53c870cbf8d967e11f",
+    "RepoTags": [
+        "1.4-cuda10.1-cudnn7-runtime-gym-microrts-0.0.1",
+        "1.4-cuda10.1-cudnn7-runtime-gym-microrts-0.1.0",
+        "1.4-cuda10.1-cudnn7-runtime-gym-microrts-0.1.1",
+        "1.8.0-cuda11.1-cudnn8-runtime-gym-microrts-0.2.0",
+        "latest"
+    ],
+    "Created": "2021-11-03T21:53:29.587726655Z",
+    "DockerVersion": "",
+    "Labels": {
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:35807b77a593c1147d13dc926a91dcc3015616ff7307cc30442c5a8e07546283",
+        "sha256:c63faf7ebb912a5959c11942160dacdf01e2325361a2dae80c8ac54753ee2a9f",
+        "sha256:d0af4aff2aacd91e60fd0e5d5761f8065aa40db9d64cd7a494b6eb4b00442675",
+        "sha256:4860ac2ea9aa7960f69e2f15af989bd40fcb85479d04d9d75df4fa5e100727b4",
+        "sha256:964f8d4cadc4a614dce2b20896dbe4c84d25686a8cbe696d5ed4fe49f962f055",
+        "sha256:f68bad238d01924ca5e1d2a3f0bdf2ccf42f742d9a67de0d8d2c0da49661cca0",
+        "sha256:75dd747f11f92841c3823e94e07c3b1ae0a6a6e6e4668f9a9d3bd75a11384eb4",
+        "sha256:a9af2d7e83dc805ca1414321f236498578304710ff50566696b83b5f0084c471",
+        "sha256:b239470aee8dc02d16337257c9af29d9b727cad1c9e03623c0e5018ed2fbbd5b",
+        "sha256:af00fbc636da6f52ded2976b9b0fdddbd6373ab212556605e3d48fa46c41e4c0",
+        "sha256:3381c8505bca18044dcb19f509ca10e1850754963b5dfacd351f4cfabc20eb20",
+        "sha256:eb06de21cd39e1f470fc94daef59646a8b46072a55b688b5a499659bd7507099",
+        "sha256:a36fc587928a762e362948182e02e4324f9c73c4933ec209bf8fadf1e6191fd6",
+        "sha256:9574a2280ddc748c35c462f42975ad80c3ad1a851bc95b3c3b36558b3db5cf23",
+        "sha256:2bddb0f33b8e2037a0223b449180a94e67688ea15fdc424c80e98bf1c44e2f96",
+        "sha256:98147b9287024f734b73b2c04c5110a8eff3a2600f11aa4033ce75441a4ff459",
+        "sha256:ea31dce7603026ce5df52aaf3c9bb0223141948e5ecef77a0b2cbdf324d62013",
+        "sha256:35d35f3b40c28f40e76a34251a5cee417d501e5fe316fe74dec06930c0c9c65a"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NVARCH=x86_64",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=11.4 brand=tesla,driver\u003e=418,driver\u003c419 brand=tesla,driver\u003e=440,driver\u003c441 driver\u003e=450",
+        "NV_CUDA_CUDART_VERSION=11.4.108-1",
+        "NV_CUDA_COMPAT_PACKAGE=cuda-compat-11-4",
+        "CUDA_VERSION=11.4.2",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NV_CUDA_LIB_VERSION=11.4.2-1",
+        "NV_NVTX_VERSION=11.4.120-1",
+        "NV_LIBNPP_VERSION=11.4.0.110-1",
+        "NV_LIBNPP_PACKAGE=libnpp-11-4=11.4.0.110-1",
+        "NV_LIBCUSPARSE_VERSION=11.6.0.120-1",
+        "NV_LIBCUBLAS_PACKAGE_NAME=libcublas-11-4",
+        "NV_LIBCUBLAS_VERSION=11.6.1.51-1",
+        "NV_LIBCUBLAS_PACKAGE=libcublas-11-4=11.6.1.51-1",
+        "NV_LIBNCCL_PACKAGE_NAME=libnccl2",
+        "NV_LIBNCCL_PACKAGE_VERSION=2.11.4-1",
+        "NCCL_VERSION=2.11.4-1",
+        "NV_LIBNCCL_PACKAGE=libnccl2=2.11.4-1+cuda11.4",
+        "DEBIAN_FRONTEND=noninteractive"
+    ]
+}

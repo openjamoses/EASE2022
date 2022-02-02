@@ -1,0 +1,34 @@
+{
+    "Name": "docker.io/universaldatatool/universaldatatool",
+    "Digest": "sha256:aa2149d4d70357370d1ea33c34dd3f8e881046c70ad205284ea8398f60a3eb38",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-03-26T18:42:19.194812212Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:16cf3fa6cb1190b4dfd82a5319faa13e2eb6e69b7b4828d4d98ba1c0b216e446",
+        "sha256:3ddd031622b35dad4be68eec6ac0787b0394f37b3dbb600a04e8b2363297b8d7",
+        "sha256:69c3fcab77df556f3a56ec3d2a5b5cc304f4c4d4341b6f8423dd86ebe5ddaebb",
+        "sha256:a403cc031caeb1ddbae71b9f7e47d7854415c8aa6f0b84b8e7be4b3db513867e",
+        "sha256:b900c5ffbaf4b4884b18eb27cec8a890510d745d6a65ba90efe10c9cdeaaade8",
+        "sha256:f877dc3acfca02604e73fb01208848941a1718b55297038decc5464f36edd649",
+        "sha256:88a30cbcc6cf128a0ab1d9bbe0b4feaa701c31cfd3579a70d16f3a01a8a6438c",
+        "sha256:f03739311a440857e91f1e7df46e8fee30a8df5ca6dcab31c6f1d6ad5986b86e",
+        "sha256:cd40154de8aa3f4b06720ef4e4b1139101a395c5771a350d618d5fe46cecc6b3",
+        "sha256:75ae9ed1630b8c184778c5bef6880e4d4d14a22c7ee09d9e9d7fed894e202fb6",
+        "sha256:ccc63c79d1b045e221ab9ed65e4c064de9241ea87fe547f06621be897679d9b5",
+        "sha256:b7284be9ef0f7871a039c677c54b58f3f67f91162adce25ab75ac1303235114a",
+        "sha256:49815da546100ddc33162a021f696e4425d9d1356e95c167ed6084fa6b9c4ce8",
+        "sha256:c2040c1f4398b22309f10d230ab9ef6dc50f0de37a34754b8fa6118ece188d13",
+        "sha256:3633a191f5efeb519ef2ddc08532ed9f34b3575789f1a0dd02e851b3ceff3345"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NODE_VERSION=12.21.0",
+        "YARN_VERSION=1.22.5"
+    ]
+}

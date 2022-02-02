@@ -1,0 +1,26 @@
+{
+    "Name": "docker.io/librealsense/librealsense",
+    "Digest": "sha256:820b2ce5306022341d0129a82fa3198416ca3b3be42dac6ff0cb3e85faccf67d",
+    "RepoTags": [
+        "latest",
+        "v2.44.0"
+    ],
+    "Created": "2021-05-24T16:25:05.40500918Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:345e3491a907bb7c6f1bdddcf4a94284b8b6ddd77eb7d93f09432b17b20f2bbe",
+        "sha256:57671312ef6fdbecf340e5fed0fb0863350cd806c92b1fdd7978adbd02afc5c3",
+        "sha256:5e9250ddb7d0fa6d13302c7c3e6a0aa40390e42424caed1e5289077ee4054709",
+        "sha256:a5d3566cb2f8e7263d163244544255c370c403bdc36fbf94c875231e02e89f1e",
+        "sha256:5b7688c5d32b62dd8b5a0e67da4c0300518849c751b6addf24fc59a247f74cc3",
+        "sha256:150538dbab2e97628af0b3a5df95b91a21634dd46318d73022224ce67baf4947",
+        "sha256:7083e0107e45ad985848f2d341de1519a633dbbd2d879d6dc024514fe57eed65"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "PYTHONPATH=:/usr/local/lib"
+    ]
+}

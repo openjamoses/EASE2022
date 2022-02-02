@@ -1,0 +1,26 @@
+{
+    "Name": "docker.io/synesthesiam/mycroft-precise-trainer",
+    "Digest": "sha256:f773ee9744bdd0faca07834e5a1da4544149b8fdb5c6521257c9de739464dd08",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-05-22T20:30:23.927987966Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:eeacba527962683a1b026af611fe162d35281159762b699172caa48c69480f79",
+        "sha256:25405ed4f245fc5627d0b03996d04c11d492c7a9ff937f4562a18e8757c39434",
+        "sha256:22752cd61bd53e9ac71e22fef539c165b3e11b368c1e54ca947260e317c4870a",
+        "sha256:9460de83957c509dd234ede9ea96d4d03b7f9cd252ef1497844f8450dedb6570",
+        "sha256:1d4a21783c52b3f2963c38f0105774a9f63611128913d3d72fa8b0489b156152",
+        "sha256:53a425ec8c1a64f247d864419ee05f26990076a8f1421da086ef3de769f22eac",
+        "sha256:92e60b44a5010aab51e711641cfd1a5a84b9c98bb43789ccaa69ca21ecb7a0dd",
+        "sha256:9d6bc57a76334ede8aac3e2208c1972a55f7bd598f767611f2c1ae5fd0035047",
+        "sha256:443048f2723db31bb477d945564ca45a5164bacb9c34f1e002c2dd8f4fa4b4a5"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

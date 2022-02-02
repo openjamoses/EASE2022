@@ -1,0 +1,57 @@
+{
+    "Name": "docker.io/openvino/winserver2019_runtime",
+    "Digest": "sha256:fb6c1b8b9222f0ceb38b7d29bb277193b4b3cd162f104efc6ff9d491474f79cb",
+    "RepoTags": [
+        "2020.2",
+        "2020.3.1",
+        "2020.3.2",
+        "2021.1",
+        "2021.2",
+        "2021.3",
+        "2021.4",
+        "2021.4.1",
+        "2021.4.2",
+        "latest"
+    ],
+    "Created": "2021-11-16T18:05:01.7458996Z",
+    "DockerVersion": "20.10.7",
+    "Labels": {
+        "description": "This is the runtime image for Intel(R) Distribution of OpenVINO(TM) toolkit on Windows Server LTSC 2019",
+        "vendor": "Intel Corporation"
+    },
+    "Architecture": "amd64",
+    "Os": "windows",
+    "Layers": [
+        "sha256:4612f6d0b889cad0ed0292fae3a0b0c8a9e49aff6dea8eb049b2386d9b07986f",
+        "sha256:c1f4c7287c99b95fce227924349d1d139aceb37d97b555144bd5808935b6eab0",
+        "sha256:eeadc0d0fd274c8e773d1d3a5fb217ce7edd373b56558c82b6fdbba19d4f3480",
+        "sha256:c8d52e5216b54aec1d51b184241faf7120dd83ba76e1d826f2d5d9a683161018",
+        "sha256:59e17bf0631bce885895d1e1aba5aa7b34101b1c70b749229c0eceda4521e502",
+        "sha256:2f70e61ccfaae26ce5f01be31e22227b69721096ad3d94e16c268c57a997ade2",
+        "sha256:9bb63cbf48b706e47a76cb660920b2e22abc8c4c88e79d113e3e2908d5c8e882",
+        "sha256:8c505a545495aa36423c8f631c6c696ce0e611306e76bf3191953cc744008f3e",
+        "sha256:d46424ca3913af49a69c8e0e67921dc7cb361630eaea436b002a1915543d1bb9",
+        "sha256:c9e096a7109e0ddf67ce98ff95ee005fab309fe02a7666ccc83e216fdffecdf2",
+        "sha256:38e98017dd9a7dd61574762fa48ac52bf8804811149af89b91c8e70f8827b2b6",
+        "sha256:99dcfe0901dcdb8a4715e8d8c9f8ef7ab5af7fbf5c1261126578292664ba60ca",
+        "sha256:540607cd05cabdd7ce39e415182a719807fe311fbb606487d81da8849f21f524",
+        "sha256:266464a9eedb51960b21e61a12d458655618b0366676762cc99ffc73d7654e8f",
+        "sha256:cd0642399fc8c0edc6de16587deb84cda541c13d56519bae4d39bca0be287015",
+        "sha256:3f313d3f800734dd75e6fee0265183ff50565fa3227a8a8d1777c02c54c6c58f",
+        "sha256:818007c7bf03ec660aa2fd8bd6688085127e2cb2f2a9c2a24b6c47858be190b8",
+        "sha256:01c66c8ff80c328979b6394dfc9d44efdb9f4657606df28c50f3aaee9951671b",
+        "sha256:4ca62a57b915812d80df71e2d31de8a3063c8794474807f9220219f822742d38",
+        "sha256:58997f5133864ec4a5fc47551e42c75c697cd846d5cb986367636136b6590ebc",
+        "sha256:cadff80fefbca0061a456f93327ce9fbd0f54adf2d765802cdc75177be385db7",
+        "sha256:6c1fdbf553cf1d21263076eb8d9cba22e8b19c323ed26d53b03d825b698f2eaf",
+        "sha256:4cff7199b976cabd50ac7314c192a2ddc74468de683b3d23a898da51630848fa",
+        "sha256:a541e902c0e59a74d60361da7e7a595ae391996f443ffab1767be7052a129202",
+        "sha256:1430a449f51c8cef0f7e034a7765734fd924b2260ce4da55d59fcd91493c7409",
+        "sha256:e5e89d70764153914b70c6f8313fe2ef5bdc08933bdea33a484bb67d02e9b1af",
+        "sha256:96a615290e2b5c1a4f70f829136323d81248ea1b463172689c371a1abfc75d36",
+        "sha256:84a25cddac9c6441599b78df24db6466b9a695502859d7b44724e60c52343322"
+    ],
+    "Env": [
+        "INTEL_OPENVINO_DIR=C:\\intel\\openvino_2021.4.752"
+    ]
+}

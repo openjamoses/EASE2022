@@ -1,0 +1,42 @@
+{
+    "Name": "docker.io/jahi9791/paperai_repo1",
+    "Digest": "sha256:c99293a238b85de44a0cd29d305c622fdfcef8c4150f0f66b3dfb76cdb2913e9",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-05-18T18:42:39.418302Z",
+    "DockerVersion": "20.10.5",
+    "Labels": {
+        "maintainer": "NeuML",
+        "repository": "paperetl"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:92dc2a97ff99354714f17180401813eb3073e4f62a67643d66b461505a604cbe",
+        "sha256:be13a9d27eb82db7e9c7f3a76f70919a2d690e34e78cda8cae60161b0f5e9137",
+        "sha256:c8299583700ab4cc65a0126f99ca6f2b836a097dedcc64270094bea59b8b4306",
+        "sha256:56de6e0491f16c883ebd712b52c8eded808eae763d1fdfe051a7e01d7ba89468",
+        "sha256:c1fc81b38cad13f4d59649f177451414aee9d3bd141b43fc2ac485cf3185051a",
+        "sha256:f08ba185b09ce25b814829ec4d8c9fc45ac8b1d3402d1ff3650871933e0aa8a5",
+        "sha256:381eef48df74dd3b3b3fd7136bf9ae8bfd2a05f618fb7fb6e770b8aa22888772",
+        "sha256:f32b2e22ade2314b935e7f2f69118e9a48f91ec6ed1b098e2b3cd56c98b08c8a",
+        "sha256:fd2fb9285a3cef00954718149943b89fea2c1fa07fa466072e5bb60cafee7e53",
+        "sha256:2dba6a5e0efb2618dd50339d40dcd74a50d534553443be3955cbcb9bfb03b269",
+        "sha256:ebb075e9dc3ab54d19d9e9aa2e0b842665d7479c211583f322bb6c9c8f8ed9ab",
+        "sha256:b707007d51ebdf5e395de4ac12f254d1741e913ea44372156d59463b015275c8",
+        "sha256:df362de3581cf6135c68e51293d5629f96753a581c0b94c7be9fa06ab44afcc6",
+        "sha256:de447127bb00e6c17466b907e5ec6692b44c43539f07ed0fef036955fc92ad9f",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:1c6d8cdb064b0aae78467721c468230b7f27ef7409adf32370820353d0f10e29",
+        "sha256:480987a1ed3d6c4f03568ead051e4cee1a369a9a93a6f118ddea1f2fdea6eff1",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:2fa4605ed996a7b2b0dafaa3d17403c5e31dc55f24177aa150ce7138eff331a3",
+        "sha256:d315619cb9982f9b6440270e335f240d31cc72e555459207f5cf6d422920fe3c"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LC_ALL=C.UTF-8",
+        "LANG=C.UTF-8"
+    ]
+}

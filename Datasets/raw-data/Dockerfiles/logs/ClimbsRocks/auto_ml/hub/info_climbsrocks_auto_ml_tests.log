@@ -1,0 +1,32 @@
+{
+    "Name": "docker.io/climbsrocks/auto_ml_tests",
+    "Digest": "sha256:5257d88884d75e23f4acb06dc80a12bc9f90e3852fd1adafeebd3232d511737e",
+    "RepoTags": [
+        "0.0.1",
+        "0.0.2",
+        "0.0.3",
+        "0.0.4",
+        "0.0.5",
+        "0.0.6",
+        "0.0.7",
+        "latest"
+    ],
+    "Created": "2017-10-05T18:34:39.768469977Z",
+    "DockerVersion": "17.09.0-ce",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:c62795f78da9ad31d9669cb4feb4e8fba995a299a0b2bd0f05b10fdc05b1f35e",
+        "sha256:d4fceeeb758e5103c39daf44c73404bf476ef6fd6b7a9a11e2260fcc1797c806",
+        "sha256:5c9125a401ae0cf5a5b4128633e7a4e84230d3eb4c541c661618a70e5d29aeff",
+        "sha256:0062f774e9942f61d13928855ab8111adc27def6f41bd6f7902c329ec836882b",
+        "sha256:6b33fd031facf4d7dd97afeea8a93260c2f15c3e795eeccd8969198a3d52678d",
+        "sha256:34f7269ab8681c78991eec96104dda89940604a94435085c75fd98d0b26a9ac4",
+        "sha256:fba8ccd99ebe8aba44b38ede09ec54eb28991f8ab0642659fcaa5d6e3832e071",
+        "sha256:0680bf1a5b957717e1a5f7f4e69ce9c7b152f99b309f0d91ed9d78ba34c4e483"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

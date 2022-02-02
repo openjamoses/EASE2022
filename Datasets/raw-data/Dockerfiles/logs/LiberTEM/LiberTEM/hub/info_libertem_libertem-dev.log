@@ -1,0 +1,35 @@
+{
+    "Name": "docker.io/libertem/libertem-dev",
+    "Digest": "sha256:8bef92439259eb253d2af68d9f2a24491942f67f1e39c8d53c21cbfdd6fd6bc2",
+    "RepoTags": [
+        "base",
+        "latest"
+    ],
+    "Created": "2022-01-13T14:55:27.918915613Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:a2abf6c4d29d43a4bf9fbb769f524d0fb36a2edab49819c1bf3e76f409f953ea",
+        "sha256:27003db43ed41a599ee4f212684be296e644c6a82868f0f34dc9bdc39dc93348",
+        "sha256:eba080ca5a70cc6fa2bcbab4c3ba67efb762171f7e63ea47c9e73c23e1b0d14d",
+        "sha256:00ceeca3d803e82aef2f42658d514b7f567a9aac28a45238a3e8891b6c372b1b",
+        "sha256:8980b900ecd203d1d844aea46144bda4a95ef3ebf22245279e14abdfa710840d",
+        "sha256:045c50f7b9fe144628a039af46c93e26600089cc2f9e619b0b995d7a6e35131f",
+        "sha256:77c23ad30187a2c2c7231a1fd275ac7d69abda20195dadc802d220f298b0ded1",
+        "sha256:e9949a4b273e4a9fd9fbff7805ee300746435a164a9785da5c0a5a78558ab010",
+        "sha256:e79024eafff98f1ac6d2169d09054d7304d940848a7c7f72fe54f77ce6ca6765"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568",
+        "PYTHON_VERSION=3.9.9",
+        "PYTHON_PIP_VERSION=21.2.4",
+        "PYTHON_SETUPTOOLS_VERSION=57.5.0",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/3cb8888cc2869620f57d5d2da64da38f516078c7/public/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=c518250e91a70d7b20cceb15272209a4ded2a0c263ae5776f129e0d9b5674309",
+        "PYTHONUNBUFFERED=1"
+    ]
+}

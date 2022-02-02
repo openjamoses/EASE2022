@@ -1,0 +1,39 @@
+{
+    "Name": "docker.io/cmusatyalab/openface",
+    "Digest": "sha256:48f0dba90389d3ad0ef1a207d7862328d57572cbbd9ac7f6832eae39fb37755e",
+    "RepoTags": [
+        "detect",
+        "latest"
+    ],
+    "Created": "2020-07-22T12:16:45.298753229Z",
+    "DockerVersion": "19.03.12",
+    "Labels": {
+        "Satyalab,": "satya-group@lists.andrew.cmu.edu"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:6599cadaf950a71af51aa84b85e6cdb1990287b79f8e71a78f6986b318d4c4a0",
+        "sha256:23eda618d4513331d49c6de76aaa051919f7b57752bcd8fee3cba37f816cbafd",
+        "sha256:f0be3084efe90c704df85e3bff8df5d858e1ff546511c8306d80de561cc18fb5",
+        "sha256:52de432f084bc072024d55b0f483358b607d0cf46d7053e3b6aefc98beaf27bf",
+        "sha256:a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4",
+        "sha256:1a2a2352384dca10e8fcde58c56e2f713de72d59ef8de674f80aa11a53e4f908",
+        "sha256:b3aa7028fd4a6648d70671d7d4f46bbb4deaf77cc9568e3b18f86d27e01d5419",
+        "sha256:521d576bcc132bff003c170b6011090cb7de9ea3ecfa16195e69bdde68c85b45",
+        "sha256:13b5061d177ee600d4be1049b3718ca35497497d929f8a68946aaaa536393964",
+        "sha256:22d240e00c6e439126e05e456d8e9e4d991fd7556eaf4d89227e1ae515647290",
+        "sha256:43876631ca7b8249a3a576a8d0a7285f0c5fb92cd02eaff712c996c97543e4b6",
+        "sha256:9f56151f62c612b106711ca23f95de655a90be044a629d63fd06281356964957",
+        "sha256:cf7fdb8275660e701958305dd93c65f1f2ce60917e4089645ca6fc74d4cf5420",
+        "sha256:6159137ea736fbb8e73004f0dc6ead6ef9663639e487ea241b43e836e5981827",
+        "sha256:6f95845cbfa1f52641912ec115fb5605a21355729c93674d07a301a63c740e86",
+        "sha256:04cd24b5af9e39a6b82a4279960c1d62ce93b0adebe2c75f278b1e1c995a3e30",
+        "sha256:030389a6d344949cc2ea9ff7aaae579a7447a54747188eb8c5571c335786e994",
+        "sha256:a8e248eaa6ecf183337a904c482c0432c4eb60a0c876dcb04c21cc7aae5b15fb",
+        "sha256:d5e560f40b2700184b65cd4bcfbc04131bc05b28fb1b2ff5419c40a76d8c44e1"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Name": "docker.io/geekjr/quickai",
+    "Digest": "sha256:55d571e64249f5153ce351743da6893094f573f43ba8c7ba23315b5450b29abe",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-08-16T15:28:37.1351181Z",
+    "DockerVersion": "20.10.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:feac5306138255e28a9862d3f3d29025d0a4d0648855afe1acd6131af07138ac",
+        "sha256:193e2b6c243329d5fbd4d17d3a105d9f0bf19aea4027ad2d955fd8821df0b3e0"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "Name": "docker.io/apache/singa",
+    "Digest": "sha256:a6aa8bc579657d65d50630d32c9b5d0eda35df28c5d88b3b4051bb69f24b94cc",
+    "RepoTags": [
+        "1.2.0-cpu-devel-ubuntu18.04",
+        "1.2.0-cpu-runtime-ubuntu16.04",
+        "1.2.0-cuda10.0-cudnn7.4.2-devel-ubuntu18.04",
+        "1.2.0-cuda10.0-cudnn7.4.2-ubuntu16.04",
+        "1.2.0-cuda9.0-cudnn7.4.2-devel-ubuntu16.04",
+        "1.2.0-cuda9.0-cudnn7.4.2-ubuntu16.04",
+        "2.0.0-cpu-devel-ubuntu18.04",
+        "2.0.0-cpu-ubuntu16.04",
+        "2.0.0-cuda10.0-cudnn7.4.2-devel-ubuntu18.04",
+        "2.0.0-cuda9.0-cudnn7.4.2-devel-ubuntu16.04",
+        "2.0.0-cuda9.0-cudnn7.4.2-ubuntu16.04",
+        "conda-cuda10.0",
+        "conda-cuda9.0",
+        "latest"
+    ],
+    "Created": "2019-04-06T07:25:17.090418343Z",
+    "DockerVersion": "18.09.0",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:898c46f3b1a1f39827ed135f020c32e2038c87ae0690a8fe73d94e5df9e6a2d6",
+        "sha256:63366dfa0a5076458e37ebae948bc7823bab256ca27e09ab94d298e37df4c2a3",
+        "sha256:041d4cd74a929bc4b66ee955ab5b229de098fa389d1a1fb9565e536d8878e15f",
+        "sha256:6e1bee0f8701f0ae53a5129dc82115967ae36faa30d7701b195dfc6ec317a51d",
+        "sha256:0115e540ab8c708e99c4fdfd1a09d001557d0bb2c413ab3e77d03b2f8577f2bc",
+        "sha256:02ab67ae59c61381dac884ed6f2ed256623f12fa486f9ab49b0addcb2dce2714",
+        "sha256:5e384f0cdfe9311296715cdcb279b1bb9bc22a946906f5820fddb907c158c79d",
+        "sha256:fc5a256c83f84e81a056f03db49080f1b0c24628865895115791df9c85338818",
+        "sha256:a2bb14482caf87a9dbf057c3b62955230002ccef2aa1db76b8e24311c608af87",
+        "sha256:02be646ef0e221de99be792d4f389eeb4a9d10bdff670f9394af97bacce7bf03",
+        "sha256:614f1e896b2349f193360390f530db726aa0e9747a77701efdca938c989b093d",
+        "sha256:307949104b51945f330ae93513c70b603ef1fa2d0edec96f4b08a968549b2d6b",
+        "sha256:1e885cc2c83a701b0086f8f7e269a1f4e5dce870ee003a09684157afa8fe39ca",
+        "sha256:9fabd7efd5f8fb523d28a573bf0b2524c94481b1a161a3473a7894394bfc4fc2"
+    ],
+    "Env": [
+        "PATH=/root/miniconda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

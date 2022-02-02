@@ -1,0 +1,46 @@
+{
+    "Name": "docker.io/alicevision/popsift",
+    "Digest": "sha256:502148d5a2ae0c04a2dcf13dcb914265278114b3807a527c099d160b8c0ddfa6",
+    "RepoTags": [
+        "latest",
+        "version-0.9-cuda10.2-ubuntu18.04"
+    ],
+    "Created": "2020-10-07T11:02:31.604309337Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "maintainer": "AliceVision Team alicevision@googlegroups.com"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7ddbc47eeb70dc7f08e410a6667948b87ff3883024eb41478b44ef9a81bf400c",
+        "sha256:c1bbdc448b7263673926b8fe2e88491e5083a8b4b06ddfabf311f2fc5f27e2ff",
+        "sha256:8c3b70e3904492c753652606df4726430426f42ea56e06ea924d6fea7ae162a1",
+        "sha256:45d437916d5781043432f2d72608049dcf74ddbd27daa01a25fa63c8f1b9adc4",
+        "sha256:d8f1569ddae616589c5a2dabf668fadd250ee9d89253ef16f0cb0c8a9459b322",
+        "sha256:902fc5ce82298797e09dc1b28ed942da3892a354321725fad6955ee651557e98",
+        "sha256:ae1bb79c5cfc1c10948684c3a2964ec7444b19cae7edc487aa474804336b52c1",
+        "sha256:fa6605c8fe7a3779c56b4768ac46738f160f005067f22c03e3cf5e87ad5d19d0",
+        "sha256:0508a679d3397b66fdf6cd56db9a99e2b7af5a8519e9f9534d2dff07779f2482",
+        "sha256:28007f0826487b3f86c2aa72c57339ee68a1087bbcdcaaffc43aaaff5275ae5f",
+        "sha256:dae478917b6fc2e3670b18155b845073c30e74b0138d57c187c16b30a2a5944c",
+        "sha256:12fbbdcf51aacbb1ac6e594e744de70a76c2360861edef170cbcb452037542a0",
+        "sha256:8b138439347372b0d328bb2cf7766e4c6767139c723b31a012776dff31acdcea",
+        "sha256:6f4d9486564ae7041c71449e499818c9353207b80e09445bf947c7a652edff1e",
+        "sha256:f8423621b39001cecd8045d3e7a283926e8b01239d9e3fab7461ef3288e43f08",
+        "sha256:58d879fa45ff10c5a4dc0b29de889ae1ca302e9b3660ec71301b73a4f1aae866"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.2.89",
+        "CUDA_PKG_VERSION=10-2=10.2.89-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.2 brand=tesla,driver\u003e=384,driver\u003c385 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411 brand=tesla,driver\u003e=418,driver\u003c419",
+        "NCCL_VERSION=2.5.6",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CMAKE_VERSION=3.17",
+        "CMAKE_VERSION_FULL=3.17.2"
+    ]
+}

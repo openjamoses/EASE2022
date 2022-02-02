@@ -1,0 +1,41 @@
+{
+    "Name": "docker.io/hkubal/clair3",
+    "Digest": "sha256:8b0560487d9c1f30382086e9767131fce42253d00d25f9ba8684622f37fd816f",
+    "RepoTags": [
+        "latest",
+        "v0.1",
+        "v0.1-r1",
+        "v0.1-r10",
+        "v0.1-r2",
+        "v0.1-r3",
+        "v0.1-r4",
+        "v0.1-r5",
+        "v0.1-r6",
+        "v0.1-r7",
+        "v0.1-r8",
+        "v0.1-r9"
+    ],
+    "Created": "2022-01-13T09:38:41.360366559Z",
+    "DockerVersion": "19.03.5",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:92473f7ef45574f608989888a6cfc8187d3a1425e3a63f974434acab03fed068",
+        "sha256:fb52bde70123ac7f3a1b88fee95e74f4bdcdbd81917a91a35b56a52ec7671947",
+        "sha256:64788f86be3fd71809b5de602deff9445f3de18d2f44a49d0a053dfc9a2008ae",
+        "sha256:33f6d5f2e001ababe3ddac4731d9c33121e1148ef32a87a83a5b470cb401abef",
+        "sha256:4e7d1401194ca1e3c5f929e6dd48b76911fb7b04af7a57f89d667740b8d0a8a1",
+        "sha256:52d59b558321af63e380240d19ba66b68e88268955898086c0867a1c507e4ab1",
+        "sha256:9b56f2fbe44032bb77732aae240935ef52e0132ec46e23978460acfc19e3b12f",
+        "sha256:74d271fab7516fc0b8d0b25d7eb00c036876a36b01e12737b9c67ca0a2ce9aaa",
+        "sha256:50de885358150e12abcc1cacfdd550f883ef416e60e0e4033bc0316b21564521",
+        "sha256:e4870870892d3f46bcd7bba2fa7f94687e1e354d677eddae05692aaf4ec8fb95"
+    ],
+    "Env": [
+        "PATH=/opt/conda/envs/clair3/bin:/opt/bin:/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "LC_ALL=C.UTF-8",
+        "CONDA_DEFAULT_ENV=clair3"
+    ]
+}

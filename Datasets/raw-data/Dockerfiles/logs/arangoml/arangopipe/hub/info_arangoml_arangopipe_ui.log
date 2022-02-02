@@ -1,0 +1,28 @@
+{
+    "Name": "docker.io/arangoml/arangopipe_ui",
+    "Digest": "sha256:412146ac2be708103dc65f78587d5ab1d1eddfda7b31f8d953aadce20457c840",
+    "RepoTags": [
+        "0.4",
+        "latest"
+    ],
+    "Created": "2020-04-29T18:46:31.189323948Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:88286f41530e93dffd4b964e1db22ce4939fffa4a4c665dab8591fbab03d4926",
+        "sha256:4dab7f8f0899f296bd7e38abadfd4b1f4f2d4dfee88a57cbb4582d88d8ba13d6",
+        "sha256:83dd140a1247f3a1ad9d91aa2f3c23a5c4520e4d0174380b1ba4e82ddf82673a",
+        "sha256:8f29892fc2b136d011a3982090b5bcbd0508aa6720aa5daa2903c46d70538d43",
+        "sha256:c1990930c5d6270d56296bdabecc262bb2fb45b4592db6308731a96c2469fe12",
+        "sha256:bbcfefabdb34af237b6eb38e3a26744de4db4966960efba8e253b339be819b0f",
+        "sha256:503bd9f753b39905926fb4be94fcafa546546487285ec6f192011ca7df130513"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NPM_CONFIG_LOGLEVEL=info",
+        "NODE_VERSION=8.7.0",
+        "YARN_VERSION=1.2.0"
+    ]
+}

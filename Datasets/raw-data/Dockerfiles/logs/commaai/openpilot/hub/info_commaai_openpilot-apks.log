@@ -1,0 +1,32 @@
+{
+    "Name": "docker.io/commaai/openpilot-apks",
+    "Digest": "sha256:6aa3c1fc59b081129133f44d2a826b0668f6a18ed97b42864faabc17aaf5676c",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-02-19T09:14:47.926358592Z",
+    "DockerVersion": "20.10.2+azure",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:4007a89234b4f56c03e6831dc220550d2e5fba935d9f5f5bcea64857ac4f4888",
+        "sha256:5dfa26c6b9c9d1ccbcb1eaa65befa376805d9324174ac580ca76fdedc3575f54",
+        "sha256:0ba7bf18aa406cb7dc372ac732de222b04d1c824ff1705d8900831c3d1361ff5",
+        "sha256:4c6ec688ebe374ea7d89ce967576d221a177ebd2c02ca9f053197f954102e30b",
+        "sha256:eefb356ce3ff1c904d1c63dcc38eb18575d0ab0cc914f8396bdb8ad63d29bf07",
+        "sha256:f9a0d348c5e0b60155b2e6a2caf5f5cd071ebb10369e66ff31188d72dd348c43",
+        "sha256:c9084fcfe4b8ad2a29b7d72f651931a34e9fad5e856d615961039fd210e64122",
+        "sha256:fee4e41caafe1f1d92bd5f2efb4acd811bce00f1d339af47ef7ec6fda5efa6f5",
+        "sha256:0e4910c2e616446f66fce8718e4e3abe56ad5af1afaa0c8e06510ddb49678254",
+        "sha256:0cde784cfc6785b78b877d50b11c09c9f49606128bd69c5260bfba056b024b8a",
+        "sha256:1645104eb3fc71a27f7fec2f21c4a1d187e6bbddc7f2ef03951784e48271e321",
+        "sha256:734ab71cd7d61500602e9e4654df492f2596f6341b9f5001e56e8f84ecc464e2"
+    ],
+    "Env": [
+        "PATH=/root/.pyenv/shims:/root/.pyenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/android-sdk/tools/bin",
+        "HOME=/root",
+        "PYENV_ROOT=/root/.pyenv",
+        "ANDROID_HOME=/usr/lib/android-sdk"
+    ]
+}

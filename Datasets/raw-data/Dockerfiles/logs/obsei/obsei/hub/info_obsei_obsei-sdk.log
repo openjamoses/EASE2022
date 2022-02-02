@@ -1,0 +1,53 @@
+{
+    "Name": "docker.io/obsei/obsei-sdk",
+    "Digest": "sha256:39477f577db2d5b2e225d54565898736d7eeaa59640bd998d689e83e2b98ad44",
+    "RepoTags": [
+        "latest",
+        "v0.0.10"
+    ],
+    "Created": "2021-10-17T15:33:35.6230689Z",
+    "DockerVersion": "",
+    "Labels": {
+        "org.opencontainers.image.description": "Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more.",
+        "org.opencontainers.image.source": "https://github.com/obsei/obsei",
+        "org.opencontainers.image.title": "obsei",
+        "org.opencontainers.image.url": "https://github.com/obsei/obsei",
+        "org.opencontainers.image.version": "v0.0.10"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:b380bbd43752f83945df8b5d1074fef8dd044820e7d3aef33b655a2483e030c7",
+        "sha256:14063a2781d6ddd50c6afb4a9e22cccf2205cb04a72caff066c71cf3e4d19c76",
+        "sha256:5a63271f8164c4a1fd42b70f29316cfe5ec83c34cb6de7289ecb802f6583a063",
+        "sha256:8bcf4fd3160ad38c522f2edcf11277e643a6ebc542bdbe7014eff790bd4baa89",
+        "sha256:31aed500758ca862f26aba69e07486cab51a610c5e03928dbff8f6b1543f2aff",
+        "sha256:721a86a138693a3126cafda43094fb73df50dd5f0fc6e1db13fe767a6428d873",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:2360bf5842c99f86384ad99b56a97cfa82c415dc5382d23867e3b41113ce7155",
+        "sha256:8f2ccf31ad88bc00198c63bd8d38363ddcc3e7e1c5c23f823ca3dc89368cc135",
+        "sha256:a5b70c47fa850b69d9b448700f02dd8cd8e077b946734817f98fe526f59bdd4b",
+        "sha256:c3684fd0ed1b4ea63135ceb29b6d01bdf0e2c3d016c32a50a4710851178b52ec",
+        "sha256:0c7ebfa34f3ebff82fc95ce5defd280da5e0951e97bc5c787e3f89539c2d26b9",
+        "sha256:61180c5404b5bd9cb87d9a73351d589811b066848b88eb35d5a258f343a73d78",
+        "sha256:d8f1ba4051e9abe520afa44374974c95dd52b72957dec316967012737eb7fcd6",
+        "sha256:2343a5dee27b1ec5631897e47444a16606bdbb47d4f1dd588a85c7d22e60d786",
+        "sha256:bb16fe8d3a2c242d1d94d23eb28c8a69fd6e6c77127844a252f12a89dd52b1db",
+        "sha256:16b7d64c93b1a0ada81854fca342c10c3be79427123643d6e804bcfeef43209c"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568",
+        "PYTHON_VERSION=3.9.7",
+        "PYTHON_PIP_VERSION=21.2.4",
+        "PYTHON_SETUPTOOLS_VERSION=57.5.0",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/d781367b97acf0ece7e9e304bf281e99b618bf10/public/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=01249aa3e58ffb3e1686b7141b4e9aac4d398ef4ac3012ed9dff8dd9f685ffe0",
+        "PIP_DISABLE_PIP_VERSION_CHECK=1",
+        "PIP_NO_CACHE_DIR=1",
+        "WORKFLOW_SCRIPT=/home/user/obsei/process_workflow.py",
+        "OBSEI_CONFIG_PATH=",
+        "OBSEI_CONFIG_FILENAME="
+    ]
+}

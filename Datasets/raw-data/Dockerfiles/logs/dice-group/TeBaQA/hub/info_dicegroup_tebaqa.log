@@ -1,0 +1,30 @@
+{
+    "Name": "docker.io/dicegroup/tebaqa",
+    "Digest": "sha256:2647c01976dab7a7492be1eaf692c941065494a1b850e263f177e7d893bd737c",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-06-09T10:52:23.845562778Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5a581c13a8b96af42c06955acd88fdb3aff53edcbdd33faa7bca9854fd8bfbaf",
+        "sha256:26cd02acd9c2b40dba18c3fe68882bcb5ebda0caeb5e550965d9ac81e3b55fbf",
+        "sha256:66727af51578917387f3fdc9ad6ed2d9fe890d4ad0f4523afc868b58b2e832e1",
+        "sha256:83161adb27034815f2ea4294120d9bf5dd03140e0673b5bbfbfcd8408b11f823",
+        "sha256:e4ea573606ae45f44369b3c961b6026141c7a2e70fdd5f8769a7768bcba11f3e",
+        "sha256:c3fd688b39270a3b71b7d4dcbbec01d84e1d855bec36d7d583114fd8053097d5",
+        "sha256:f765f6cfd118ceb7e6c94f953e9b5ef2c24ee12e6535bba294ee64361619ee27",
+        "sha256:6462e4b0c31428ebd94734d5bb5ed87fa8342a8db8e4edd7a9c2ae564838d4ed"
+    ],
+    "Env": [
+        "PATH=/usr/java/openjdk-16/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "JAVA_HOME=/usr/java/openjdk-16",
+        "LANG=C.UTF-8",
+        "JAVA_VERSION=16.0.1",
+        "MAVEN_HOME=/usr/share/maven",
+        "MAVEN_CONFIG=/root/.m2"
+    ]
+}

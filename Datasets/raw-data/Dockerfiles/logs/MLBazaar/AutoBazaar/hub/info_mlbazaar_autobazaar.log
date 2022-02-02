@@ -1,0 +1,38 @@
+{
+    "Name": "docker.io/mlbazaar/autobazaar",
+    "Digest": "sha256:82e9537acf7feb6c8236310b5a55fab3b185f74cbba0aa4900077eae45a1de97",
+    "RepoTags": [
+        "latest",
+        "profiling",
+        "profiling20190911"
+    ],
+    "Created": "2019-09-18T18:45:12.394929744Z",
+    "DockerVersion": "19.03.2",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:4ae16bd4778367b46064f39554128dd2fda2803a5747fddeff74059f353391c9",
+        "sha256:bbab4ec87ac4f89eaabdf68dddbd1dd930e3ad43bded38d761b89abf9389a893",
+        "sha256:2ea1f7804402db2da64e84a26bd591f41667ad69cd7f2a2c6106d9bb04dde260",
+        "sha256:96465440c20877524189ae75d361dd29e5d0df330a8dac9427f972b429fe0159",
+        "sha256:6ac892e64b941f376c41f33aa31e39a69bbc457c5b9e436b5ecf451a6d4c651e",
+        "sha256:943f57f16bdde226c2b7f70d841d5b76f59ff9e64ae684220a93ddf445c6bf5f",
+        "sha256:cad1284c08072fff5ab054588f78b8b9d7a6f0b4e674936ab83d4c76824ce724",
+        "sha256:38b0e25e4ab95d9e945b213ca0147e9413efe4deaba447cc26afe26e71aeb18b",
+        "sha256:2d8a71bba962aa2f1c6e9404270137c1e47ff08fda720de4cf0dbe486c2a57a2",
+        "sha256:7807db40ec8be6688cb14c62e64e90d342ba7572e4e67715734758e427548370",
+        "sha256:6a5cf8976470c8bd4014dee63a03cbdeaa727d8d8fd0cd6519f529d24a36498f",
+        "sha256:88b27416148164fcb3fb20dda8d4f29f099b5e23983bfd4db5c819a8d8571981",
+        "sha256:2707cc93c5b589869edb9798ea71a6da713faea8b6e5d00ad97314c70107930f"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.6.9",
+        "PYTHON_PIP_VERSION=19.2.3",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/309a56c5fd94bd1134053a541cb4657a4e47e09d/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=57e3643ff19f018f8a00dfaa6b7e4620e3c1a7a2171fd218425366ec006b3bfe"
+    ]
+}

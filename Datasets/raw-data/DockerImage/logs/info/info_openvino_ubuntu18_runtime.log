@@ -1,0 +1,62 @@
+{
+    "Name": "docker.io/openvino/ubuntu18_runtime",
+    "Digest": "sha256:09ba6486b19f2c0b21530dccf03a6532a27839c4391d7eea19d3069054a802dc",
+    "RepoTags": [
+        "2019_R3.1",
+        "2020.1",
+        "2020.2",
+        "2020.3",
+        "2020.3.1",
+        "2020.3.2",
+        "2020.3.2_src",
+        "2020.4",
+        "2021.1",
+        "2021.2",
+        "2021.3",
+        "2021.3_src",
+        "2021.4",
+        "2021.4.1",
+        "2021.4.1_20210512",
+        "2021.4.1_src",
+        "2021.4.2",
+        "2021.4.2_20210512",
+        "2021.4.2_src",
+        "2021.4_src",
+        "2021.4_tgl",
+        "latest"
+    ],
+    "Created": "2021-11-12T12:53:45.40397134Z",
+    "DockerVersion": "18.09.8",
+    "Labels": {
+        "description": "This is the runtime image for Intel(R) Distribution of OpenVINO(TM) toolkit on Ubuntu 18.04 LTS",
+        "vendor": "Intel Corporation"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:284055322776031bac33723839acb0db2d063a525ba4fa1fd268a831c7553b26",
+        "sha256:a30a153b9d3db50ccec2a881e4f253cdb8d7c28913a55e005d33871e1b363e88",
+        "sha256:c04d4b074809ad3aab9f9f19dd991b47b9c6873274243bbb6ca44a9af127a8fe",
+        "sha256:fd6a63025afa9f365937c39a555bfa1d9b27848b4af9fbde303aab813a3853c5",
+        "sha256:e5e9afbc0f958e3ed5a85e63a9e9a35e89034290a9c220317b975a0a8ee91a16",
+        "sha256:ce1dee597a4dc4f67f1eb1c01c2f5c77ffaf9bcf0c670f53ba8a2431c34a4273",
+        "sha256:af3b57c15501a8e97eab0f5ea65e3c69de9b0d811aa66e7e4995535d9df45c67",
+        "sha256:ef282318e285cb7796492ce80b72427b6a08450d80093036be16988d328f1ffe",
+        "sha256:4399f821c67245078f092b594859f54b8a6a104e040672192314ad06fe2e4ed2",
+        "sha256:e12f26369f8fb9121150bace48c90a6830a406565133c4f2ffdb190e92cffae9",
+        "sha256:13a195856c954981e10f55788f74076d0fe4c30a04b3130bbe9d46e351562132",
+        "sha256:822bb25af882f68f0b0fbfd307526f48c64732779cd0375691310652517bf6c5",
+        "sha256:087b52d16c9d44c56f81a8681d0ecea611db3585ff7f09a24c165cf764f0a55d",
+        "sha256:d46e18af0ee324249821a040770122d9edcc15f298e08141a0ab2d7f80c8fbc0",
+        "sha256:12030b4b0f677d0ced03e57ae7e477ca1fad7aa0874278fcf19010c05eacbd2a",
+        "sha256:d55a3ef71f7faf3c7fced5800a9a3f87255b09c9934e27939ce0b530f4f498aa",
+        "sha256:684d5967f21cd6750b3e6fedbefe745fe0c15f53b795c4ce53963d01c99d9f2a",
+        "sha256:a180e9232ab514ac7d2008a0191e87aadde9ace47264f2d53ff940042ffbf770"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "DEBIAN_FRONTEND=noninteractive",
+        "INTEL_OPENVINO_DIR=/opt/intel/openvino",
+        "PYTHON_VER=python3.6"
+    ]
+}

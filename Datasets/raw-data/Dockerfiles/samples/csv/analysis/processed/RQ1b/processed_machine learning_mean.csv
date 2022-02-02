@@ -1,0 +1,7 @@
+Topic,Repos,ProjectID,FileType,Sharedfiles,Memory
+Machine Learning,scikit-learn/scikit-learn,P3,.txt,3.615,0.025116666666666666
+Machine Learning,scikit-learn/scikit-learn,P3,.c,5.426666666666666,0.13961666666666667
+Machine Learning,microsoft/LightGBM,P4,.cmake,3.033333333333333,0.5955666666666667
+Machine Learning,catboost/catboost,P1,.cpython-37.1.2,0.19333333333333336,0.02125
+Machine Learning,aksnzhy/xlearn,P0,.Debian.1,5.155,0.16866666666666666
+Machine Learning,pymc-devs/pymc,P2,.sty,6.8016666666666685,0.8771333333333334

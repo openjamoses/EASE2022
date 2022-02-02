@@ -1,0 +1,209 @@
+version: "3.8"
+services:
+  docker-host:
+    image: qoomon/docker-host
+    cap_add:
+      - net_admin
+      - net_raw
+
+  tailscale:
+    hostname: ${DOMAIN_NAME?Variable not set}
+    image: "${DOCKER_IMAGE_TAILSCALE?Variable not set}:${VERSION-latest}"
+    build:
+      context: ./vpn
+      dockerfile: tailscale.dockerfile
+    environment:
+      - RELEASE=${RELEASE:-production}
+      - HOSTNAME=${DOMAIN_NAME?Variable not set}
+      - STACK_API_KEY=$STACK_API_KEY
+    volumes:
+      - tailscale-data:/var/lib/tailscale
+      - "/dev/net/tun:/dev/net/tun" # Required for tailscale to work
+    cap_add: # Required for tailscale to work
+      - net_admin
+      - sys_module
+    ports:
+      - "${HTTP_PORT}:81"
+      - "41641/udp"
+      - "4000"
+    depends_on:
+      - "docker-host"
+
+  proxy:
+    restart: always
+    image: ${DOCKER_IMAGE_TRAEFIK?Variable not set}
+    networks:
+      - "${TRAEFIK_PUBLIC_NETWORK?Variable not set}"
+      - default
+    network_mode: service:tailscale
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+    environment:
+      - RELEASE=${RELEASE:-production}
+    command:
+      - "--providers.docker"
+      - "--providers.docker.exposedbydefault=false"
+      - "--providers.docker.constraints=Label(`traefik.constraint-label-stack`, `${TRAEFIK_TAG?Variable not set}`)"
+      - "--entrypoints.web.address=:81"
+      - "--entrypoints.vpn.address=:80"
+
+      # Enable the access log, with HTTP requests
+      - "--accesslog"
+      # Enable the Traefik log, for configurations and errors
+      - "--log"
+
+  frontend:
+    restart: always
+    image: "${DOCKER_IMAGE_FRONTEND?Variable not set}-${NODE_TYPE}:${VERSION-latest}"
+    profiles:
+      - frontend
+    build:
+      context: ./frontend
+      dockerfile: frontend.dockerfile
+      target: "grid-ui-production"
+      args:
+        NODE_TYPE: ${NODE_TYPE}
+    environment:
+      - RELEASE=${RELEASE:-production}
+      - NODE_TYPE=${NODE_TYPE?Variable not set}
+      - VERSION=${VERSION}
+      - VERSION_HASH=${VERSION_HASH}
+    labels:
+      - "traefik.enable=true"
+      - "traefik.constraint-label-stack=${TRAEFIK_TAG?Variable not set}"
+      - "traefik.http.routers.${STACK_NAME?Variable not set}-frontend.rule=PathPrefix(`/`)"
+      - "traefik.http.services.${STACK_NAME?Variable not set}-frontend.loadbalancer.server.port=80"
+
+  db:
+    restart: always
+    image: postgres:12
+    volumes:
+      - app-db-data:/var/lib/postgresql/data
+    environment:
+      - RELEASE=${RELEASE:-production}
+    env_file:
+      - .env
+  queue:
+    restart: always
+    image: rabbitmq:3
+    environment:
+      - RELEASE=${RELEASE:-production}
+    volumes:
+      - ./rabbitmq/rabbitmq.conf:/etc/rabbitmq/rabbitmq.conf
+
+  backend:
+    restart: always
+    image: "${DOCKER_IMAGE_BACKEND?Variable not set}:${VERSION-latest}"
+    depends_on:
+      - db
+    env_file:
+      - .env
+    environment:
+      - RELEASE=${RELEASE:-production}
+      - VERSION=${VERSION}
+      - VERSION_HASH=${VERSION_HASH}
+      - NODE_TYPE=${NODE_TYPE?Variable not set}
+      - DOMAIN_NAME=${DOMAIN_NAME?Variable not set}
+      - STACK_API_KEY=${STACK_API_KEY}
+      - PORT=8001
+      - IGNORE_TLS_ERRORS=${IGNORE_TLS_ERRORS?False}
+    build:
+      context: ../
+      dockerfile: ./grid/backend/backend.dockerfile
+      target: "backend"
+    command: /start.sh
+    labels:
+      - "traefik.enable=true"
+      - "traefik.constraint-label-stack=${TRAEFIK_TAG?Variable not set}"
+      - "traefik.http.routers.${STACK_NAME?Variable not set}-backend.rule=PathPrefix(`/api`) || PathPrefix(`/docs`) || PathPrefix(`/redoc`)" # WARNING: this wont match /api/v1/syft/stream because of length
+      - "traefik.http.services.${STACK_NAME?Variable not set}-backend.loadbalancer.server.port=8001"
+    network_mode: service:proxy
+
+  backend_stream:
+    restart: always
+    image: "${DOCKER_IMAGE_BACKEND?Variable not set}:${VERSION-latest}"
+    depends_on:
+      - db
+      - backend
+    env_file:
+      - .env
+    environment:
+      - RELEASE=${RELEASE:-production}
+      - VERSION=${VERSION}
+      - VERSION_HASH=${VERSION_HASH}
+      - NODE_TYPE=${NODE_TYPE?Variable not set}
+      - DOMAIN_NAME=${DOMAIN_NAME?Variable not set}
+      - STACK_API_KEY=${STACK_API_KEY}
+      - PORT=8011
+      - STREAM_QUEUE=1
+      - IGNORE_TLS_ERRORS=${IGNORE_TLS_ERRORS?False}
+    build:
+      context: ../
+      dockerfile: ./grid/backend/backend.dockerfile
+      target: "backend"
+    command: "waitforit -address=http://localhost:8001/api/v1/syft/metadata -status=200 -timeout=600 -- /start.sh"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.constraint-label-stack=${TRAEFIK_TAG?Variable not set}"
+      - "traefik.http.routers.${STACK_NAME?Variable not set}-backend-stream.rule=PathPrefix(`/api`) && PathPrefix(`/api/v1/syft/stream`) || PathPrefix(`/docs`) || PathPrefix(`/redoc`)" # WARNING: this only matches /api/v1/syft/stream because of length
+      - "traefik.http.services.${STACK_NAME?Variable not set}-backend-stream.loadbalancer.server.port=8011"
+    network_mode: service:proxy
+
+  celeryworker:
+    restart: always
+    image: "${DOCKER_IMAGE_BACKEND?Variable not set}:${VERSION-latest}"
+    depends_on:
+      - db
+      - queue
+    env_file:
+      - .env
+    environment:
+      - RELEASE=${RELEASE:-production}
+      - VERSION=${VERSION}
+      - VERSION_HASH=${VERSION_HASH}
+      - NODE_TYPE=${NODE_TYPE?Variable not set}
+      - DOMAIN_NAME=${DOMAIN_NAME?Variable not set}
+      - C_FORCE_ROOT=1
+      - STACK_API_KEY=${STACK_API_KEY}
+      - IGNORE_TLS_ERRORS=${IGNORE_TLS_ERRORS?False}
+    command: "waitforit -address=http://localhost:8001/api/v1/syft/metadata -status=200 -timeout=600 -- /worker-start.sh"
+    build:
+      context: ../
+      dockerfile: ./grid/backend/backend.dockerfile
+      target: "backend"
+    network_mode: service:proxy
+
+  headscale:
+    profiles:
+      - network
+    hostname: headscale
+    image: "${DOCKER_IMAGE_HEADSCALE?Variable not set}:${VERSION-latest}"
+    build:
+      context: ./vpn
+      dockerfile: headscale.dockerfile
+    volumes:
+      - headscale-data:/headscale/data
+    environment:
+      - RELEASE=${RELEASE:-production}
+      - NETWORK_NAME=omnet
+      - STACK_API_KEY=$STACK_API_KEY
+    ports:
+      - "4000"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.constraint-label-stack=${TRAEFIK_TAG?Variable not set}"
+      - "traefik.http.routers.${STACK_NAME?Variable not set}-vpn.rule=PathPrefix(`/vpn`)"
+      - "traefik.http.routers.${STACK_NAME?Variable not set}-vpn.middlewares=${STACK_NAME?Variable not set}-vpn"
+      - "traefik.http.middlewares.${STACK_NAME?Variable not set}-vpn.stripprefix.prefixes=/vpn"
+      - "traefik.http.middlewares.${STACK_NAME?Variable not set}-vpn.stripprefix.forceslash=true"
+      - "traefik.http.services.${STACK_NAME?Variable not set}-vpn.loadbalancer.server.port=8080"
+
+volumes:
+  app-db-data:
+  tailscale-data:
+  headscale-data:
+
+networks:
+  traefik-public:
+    # Allow setting it to false for testing
+    external: ${TRAEFIK_PUBLIC_NETWORK_IS_EXTERNAL-true}

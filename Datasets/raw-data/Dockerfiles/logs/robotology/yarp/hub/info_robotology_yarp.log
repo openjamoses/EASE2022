@@ -1,0 +1,34 @@
+{
+    "Name": "docker.io/robotology/yarp",
+    "Digest": "sha256:d84c7fb514a23c3eb8edec42d0b00a4b17f5b9661f46e2d8c07e1118ad6a13d3",
+    "RepoTags": [
+        "bin",
+        "devel",
+        "latest",
+        "master"
+    ],
+    "Created": "2020-10-07T13:51:39.12248998Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "com.nvidia.volumes.needed": "nvidia_driver"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:4f53fa4d2cf0e29c6a522433e0ac71a7ce0fdab158481052b2198b5518b83248",
+        "sha256:6af7c939e38e8e3160fbbdcc26a32669529b962c79f7337df0a26bf0e9a76d59",
+        "sha256:903d0ffd64f6ca1355d2b2df702fc674f5663981dfd100fe4588fb390dd3382c",
+        "sha256:04feeed388b71fdca5cc3bce619d65a34f8a1a3e5b0ef03f8392d499970818eb",
+        "sha256:8b7802784d7ab7d72b68da2887ae80699cd1cf6d86b74f92e4e5b7d28cd4e3e1",
+        "sha256:0c4ec11542f25ab041afdcdaf8a32b659d024b6da20d46b4ab05321c9535a3d6",
+        "sha256:738b528929991f3b374c7b6d7a8237cdc9314fe7e66d309992b8e533703e57bf",
+        "sha256:f3e1e05da25b235b6a21e9344245d436be1f42287191af347354648158354f66",
+        "sha256:2c5c52c58c55369e163fbd6642bc6807fcd43446d131c4f7e46a9a04a73403fa",
+        "sha256:9f5a2220cb08b30bbd44269e499e312868c72cde72755a4087d8ec750f035fd7"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "QT_X11_NO_MITSHM=1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64:"
+    ]
+}

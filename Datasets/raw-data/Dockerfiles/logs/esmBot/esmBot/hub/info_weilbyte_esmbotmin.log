@@ -1,0 +1,40 @@
+{
+    "Name": "docker.io/weilbyte/esmbotmin",
+    "Digest": "sha256:0cec4efba1f00b86eb13d23fe0231ce0a270f9b5856ebcadd701448e3b191e16",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-04-06T03:55:22.626590409Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:9b794450f7b6db7c944ba1f4161edb68cb535052fe7db8ac06e613516c4a658d",
+        "sha256:295277efe4eaa0cf9a74749df8f3f3be48b410b14e47e8dfcbca8335e4ea7be1",
+        "sha256:c2defa2a5e06e34495fa081fa1142fbe8b74b06f7f2decd9799721d737ed5704",
+        "sha256:f0f3f45af0f2009c1e2db8d32dacb9a19df3def1c9216537c8b0f413700c8e79",
+        "sha256:bf52b666a2d1a683fcf7173fed481e6b8f91134ca7ee008c9bfc97c5a5cd7710",
+        "sha256:541f8ec36feddd20caaa432187c6fef81da968c5a315bd81288071f6c4d8d43c",
+        "sha256:13a8bd8b5d44d06c73bc8fd1c6f2e80db03dd57ed08f8aae149916a194f7fac5",
+        "sha256:36b2e6597263c54804b7bd4a33fa0ac18a4423cc04705e8b10f9443b093bf041",
+        "sha256:73155adf790ccc9765ba595b6b80f37776e2d7e9c17eac20167489ce2c6d181e",
+        "sha256:0445cb8242f0f883806cbf82d63c18f6821415fdc4227e4808d810c52ea3959a",
+        "sha256:f18a3eac94af4a9e6adb52ae3aae511448628c1f5cab4b8ae5bc450c062966bc",
+        "sha256:6de927344a099ec13e23578c3095eaba7bb921e58e0bdbd3de566b017e200ed8",
+        "sha256:ea81c2107f18385effce6fee318d4390a977b6724ad5937309ec152c0e329c64",
+        "sha256:1f85e9868c6915a9526b443f4635ead55da7ec3bed107e7f4ec9480ddbdbe7ab",
+        "sha256:ccfd2b40e356489a3190d325cb5b73589312b2cc043a9549a2684fa8728dde24",
+        "sha256:63b7c77a20aead6e4055466cd3d7efb355fcd06c0e9eb9daa5003ed38aa480aa",
+        "sha256:bd4be85b68ee2a034774ffc62298a4dadda5f33bf0b3fc7242df386f7263078a",
+        "sha256:efbd15546133303e03c46ef5c76d86f4c0cd8c75033439fc5341ec438234bbf2",
+        "sha256:5dda406bdbc2df6200a3b51c47888791157dd2d001a492d85cf4b63b40da8a9b",
+        "sha256:80b8c0e7f3b95f6c030d99310959a6ef8fde889ba4da3264422844fd5aaa72f4",
+        "sha256:34b7526ed2a7278c30936a59e8e37170186de980e74caa1717f4190a3405412d"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NODE_VERSION=15.13.0",
+        "YARN_VERSION=1.22.5"
+    ]
+}

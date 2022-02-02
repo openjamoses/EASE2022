@@ -1,0 +1,52 @@
+{
+    "Name": "docker.io/plstcharles/litiv",
+    "Digest": "sha256:8c1994115f8040debdc875b1b68bd3a20deb56274663113b7d8718ce37391ae2",
+    "RepoTags": [
+        "23d3afed987ec876b0747933113ae3c2f5ab5569",
+        "29aeaa0d08358a61b80eba8cdb51ece79e725f3b",
+        "471fa42475bfc704b39eb1b2d5475ce660d6442c",
+        "49aac407548e1ce5d18934f5880735f26deaf300",
+        "a116ed3dad87444635029613e3966c074823895f",
+        "latest",
+        "v1.3.4",
+        "v1.4.0",
+        "v1.5.0",
+        "v1.6.0",
+        "v1.6.1"
+    ],
+    "Created": "2018-07-11T23:37:38.317944987Z",
+    "DockerVersion": "17.09.0-ce",
+    "Labels": {
+        "Description": "LITIV framework test build"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:af49a5ceb2a56a8232402f5868cdb13dfdae5d66a62955a73e647e16e9f30a63",
+        "sha256:8f9757b472e7962a4304d4af61630e2cde66129218135b4093a43b9db8942c34",
+        "sha256:e931b117db38a05b9d0bbd28ca99a0abe5236a0026d88b3db804f520e59977ec",
+        "sha256:47b5e16c0811b08c1cf3198fa5ac0b920946ac538a0a0030627d19763e2fa212",
+        "sha256:9332eaf1a55b72fb779d2f249b65855c623c8ce7be83c822b7d80115ef5a3af3",
+        "sha256:f92a80e0474b7a19e6ad05ba1d777ca1293f5efe92647d5871b5b18b67018114",
+        "sha256:df72e1bf9106586868a0f6194bb7a7344640c558f4b2594a9a2a25ae6ecb963b",
+        "sha256:dc3fad520e17cd452276850828a3710d09010a6f8e4a3ac23d548afe850fdbec",
+        "sha256:9e3d978b6e64c7cd07c6f3c082ca1e4bc86b486919125f0f552e8bd04113e336",
+        "sha256:b01ce8e2fd6bf90791afa2b441fcf9c05724215964fdb462d972e281c7bfa592",
+        "sha256:c19d15cfc66526b9b4c7783380f9ece63075e6aeec3ec60cae06d027da931af9",
+        "sha256:b3767aafb60ae603ffae45f2b731b060a6f8273094baaf4778e104c43be888f2",
+        "sha256:86d6a10015155ef39a6969409f60933ad01d1437f86c0fd5a9eb7281c3ae3751",
+        "sha256:98ea16f9ce214b92fde8876dfcc0b8e55a78dc130b2aaaa32feb13e8dbe7d34b",
+        "sha256:d176e4139c863dd6fd44c539dae258d3b0284739b93fe21139bb90df414331c0",
+        "sha256:6a1ad6be37bdf6bc0fd2280aa63466a869b2b1415e95e42e5fdaf1bfe6cc3f05",
+        "sha256:0f5fa57e1d52d5aaeebfb213ca7626bca9ddc7978db718c16b9932760084a4cf",
+        "sha256:8589b93c3ad8906e71e7b61496242161ff2c9b8fa90e2e98d583d83f99a67514",
+        "sha256:4d5752305131a6adce2bdef69cd071e2ab0337609f8aebefdbad23b63d22d245"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "opencvtag=3.2.0",
+        "nbthreads=4",
+        "CMAKECFG_BUILD_SHARED_LIBS=ON",
+        "CMAKECFG_USE_WORLD_SOURCE_GLOB=OFF"
+    ]
+}

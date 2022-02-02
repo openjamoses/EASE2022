@@ -1,0 +1,46 @@
+{
+    "Name": "docker.io/rlgraph/rlgraph",
+    "Digest": "sha256:de8d226396fcaa712e393bcc21939f7e5faaccbf6a0da0a640aeb619b8d17db0",
+    "RepoTags": [
+        "full",
+        "latest",
+        "py3-full",
+        "py3-full-torch-jq",
+        "py3-minimal",
+        "py3-tf-minimal"
+    ],
+    "Created": "2019-06-03T11:46:33.7464697Z",
+    "DockerVersion": "18.09.2",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:89074f19944ee6c68e5da6dea5004e1339e4e8e9c54ea39641ad6e0bc0e4223b",
+        "sha256:6cd3a42e50dfbbe2b8a505f7d3203c07e72aa23ce1bdc94c67221f7e72f9af6c",
+        "sha256:26b902a7bf04aa8d7c02fd742898dab4b6c791b8e363fddc06298191167d5fac",
+        "sha256:adfbdaea355549764419a1367fdd2b47b0225281c2b9c977efaf78467289d718",
+        "sha256:b2e1a1a25acecb51905289c509d360b8927defe53bbe7ba258fa09cbbc4e88eb",
+        "sha256:12aaabb3ab6910660b1470ca9f7a337fa863dd4e162b25777c372ed28e6fe00f",
+        "sha256:88077fdcce7f88513c7b2be8f4c94328b584395cbfcb9eaca668a1aaa19d21f6",
+        "sha256:df627c198e5930b9a84b1db19fe88426212dc757bfe1462171fa7a9c3416b18c",
+        "sha256:0b4872a95328b1fd5cf65885435b2ecea320cd1e3ea7b467dc9c8d4da9002913",
+        "sha256:9305b38adea4f2e02273c25ea65b1a8f3465d542f619e0b2559bbd84c0fb27be",
+        "sha256:c515805d58be4230ee909903a3341686f591cefd6a47e8d5a56ddf98ff7b3cfa",
+        "sha256:557365102a31a21c95b1e8c9ea6e0700a593378dc09441b586c723391233f08c",
+        "sha256:9c52b28959732c855b6fd0f765a94d1e6efc6a88f3ff9f26e2140ed850adab7a",
+        "sha256:dc30d68f3658f5955c6e25058d7df5842e0b1366dc117a5de3991913e568b4be",
+        "sha256:a89f44a5240ba5ee1038755d42b3b60161ae14ac7d807ca328459e0bc7542bf9",
+        "sha256:80dee473f8928e9def54b89354e8ea5dd586206c0d2dfe6fdfff70c568beaa9e",
+        "sha256:a851fb9d0f69a75971627aa3bf351807402efd75e9ba714528c5d0742a339078",
+        "sha256:b685849eed3f4e009dcf89497761ca15d4492d6e633bcf774fb9e45c3fb99fcf",
+        "sha256:6a78506c83bc595fae289129b1beafe2a170571cc1cc0c28661e9eed7cc75cb4",
+        "sha256:3c76dd7a446e3337a6e769e0126e31b0e40a9c2b54c105adc6470c848e3254f5",
+        "sha256:cac19a4f80b23013cc13553de993e84a13b3a39a647fbeb480ec3ca10c7c8849",
+        "sha256:29136374e612dbf8e5259e0cfb86affe1a20a4fba95666a25633b0602f76239a",
+        "sha256:d4d85572d7858fb628bd555da7952be557add0cd7caf27f7f7535aebf7f780ef",
+        "sha256:95133ae1817dc99edee669a91cd0aff35968f07895dab97865bdfdb9811f71f8"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

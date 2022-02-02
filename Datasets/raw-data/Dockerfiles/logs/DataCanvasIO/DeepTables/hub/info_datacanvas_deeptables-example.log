@@ -1,0 +1,31 @@
+{
+    "Name": "docker.io/datacanvas/deeptables-example",
+    "Digest": "sha256:8198184604bc35fc25a27f1de99976c0b131cf45352e7f27384ce0a6facfd775",
+    "RepoTags": [
+        "0.1.9",
+        "latest"
+    ],
+    "Created": "2020-05-14T03:28:46.681041096Z",
+    "DockerVersion": "18.09.6",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5bed26d33875e6da1d9ff9a1054c5fef3bbeb22ee979e14b72acf72528de007b",
+        "sha256:f11b29a9c7306674a9479158c1b4259938af11b97359d9ac02030cc1095e9ed1",
+        "sha256:930bda195c84cf132344bf38edcad255317382f910503fef234a9ce3bff0f4dd",
+        "sha256:78bf9a5ad49e4ae42a83f4995ade4efc096f78fd38299cf05bc041e8cdda2a36",
+        "sha256:f3e7912ee09ce8f88eaeb71d7827a664eb991283b52712664357e2bf818a951a",
+        "sha256:16f9c6926115b940ff1739752e4e836b69b0a995235f5a6f51291d4c6b7d611f",
+        "sha256:7c3f6b9193da59c0081ed3bf75b083a41c7167833567b869b76d94a13b5f3cd4",
+        "sha256:89770ff9cd8cebea46ed8ea01e408a2f47155d1be4121ac7fb4cf5112523a136",
+        "sha256:17deb93ea29e29f70d7ef83265c6d441f2ca0fde0507393c47763fa1435776b3",
+        "sha256:36ee7892355d6e77b4d537f845b2dce50a612a336b7353cc14520f11bbe1c31b"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "NotebookToken=",
+        "PYTHONPATH=/opt/datacanvas/deeptables"
+    ]
+}

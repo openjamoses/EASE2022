@@ -1,0 +1,24 @@
+{
+    "Name": "docker.io/msxlol/tensorflow-directml-sample",
+    "Digest": "sha256:9a5663ad22fadaaa91e2694b9d94d01dc42c7264d9bfef73d7d986eb9c8ed570",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-07-24T09:11:14.4568785Z",
+    "DockerVersion": "19.03.5",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "windows",
+    "Layers": [
+        "sha256:78e7b4951ab38f1c807b9d4e62609bf443934715c48c4ebf3f59983fd2c87571",
+        "sha256:817e1a9aed6862c2ae0178f89ed22434a3594a1b32c25c3783bbd4160361aa28",
+        "sha256:d879ba6dc3f484c6e58192dfe34bc1c1d7ea2229d7abbd4e328413844f753f9f",
+        "sha256:d780d9875fd64b15a81d0bf19f99ee7ed163d2ce467862fc03656339bc9283fc",
+        "sha256:dc77651a13255886d963bd83ff4ceba31fb84d4efe2cd2f29195fedd56e3aa43",
+        "sha256:3a5734e8d98ac3eb7138d3eeba028496fa646d9f683adcda3590149be9379b84",
+        "sha256:4bd36296af910fdc4a49a7f7270122d83676ff0f30f9401ff18a6ad231aa7297",
+        "sha256:7773cbbd2203aafca65641fe55fc4d49d68f937ea6ece8109e6cbe523a00719d",
+        "sha256:e27c88039235e412809ba88437c35f5d5c7c86fea1cc3eb5764a27491961a27a"
+    ],
+    "Env": null
+}

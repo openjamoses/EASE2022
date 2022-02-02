@@ -1,0 +1,33 @@
+{
+    "Name": "docker.io/challisa/easyocr",
+    "Digest": "sha256:2dfcbeea5716be393fc59d69cf632a8a448b236c6b3e4aaa66d26daa163a3e81",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-08-16T13:09:03.589274692Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "com.nvidia.volumes.needed": "nvidia_driver"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:23884877105a7ff84a910895cd044061a4561385ff6c36480ee080b76ec0e771",
+        "sha256:bc38caa0f5b94141276220daaf428892096e4afd24b05668cd188311e00a635f",
+        "sha256:2910811b6c4227c2f42aaea9a3dd5f53b1d469f67e2cf7e601f631b119b61ff7",
+        "sha256:36505266dcc64eeb1010bd2112e6f73981e1a8246e4f6d4e287763b57f101b0b",
+        "sha256:3472d01858ba9ce89d2a493bb3964eaf26a63500a3b47ad0a4c72d5e5fe40e11",
+        "sha256:4a98b57681ffdd1fcba82e9aeb95171dbe0837980deb82464e4893f4449c4459",
+        "sha256:f3b419d1e6d54391719bc37b641b2c133915f207103d8dd28c776607e5d477d8",
+        "sha256:fc43f79296926930a5d3284a3990188c0989819e2027a384787b033a90b99c25",
+        "sha256:890eed789540aa729f6b9a16f89104754bc1d4a705fde21455a490007d0ab63f",
+        "sha256:bf08dfb98e28ae047d71611b82af67f674782add7cf538c8cb02632a8035fcb6",
+        "sha256:2c171b096afdc1e6335b7aee1d301eaca442644d099cf95876431fea659ffa1b"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    ]
+}

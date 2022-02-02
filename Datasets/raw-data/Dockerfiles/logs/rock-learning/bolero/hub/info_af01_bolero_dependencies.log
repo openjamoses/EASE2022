@@ -1,0 +1,21 @@
+{
+    "Name": "docker.io/af01/bolero_dependencies",
+    "Digest": "sha256:cd4017f27518d1afefdca96f1055468f9ec72a366b51a217a3b5148f90f1d25f",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-12-14T08:48:27.339618065Z",
+    "DockerVersion": "20.10.2",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:284055322776031bac33723839acb0db2d063a525ba4fa1fd268a831c7553b26",
+        "sha256:8da80f10cb26e6b472de6c3158db0a8df4fcd1aad59080ce401121097b2dcfd8",
+        "sha256:1a6cb7643a6ab1e76dbc9c10a645ad6832d4d219da3336ecd5d71039a9b00870"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "DEBIAN_FRONTEND=noninteractive"
+    ]
+}

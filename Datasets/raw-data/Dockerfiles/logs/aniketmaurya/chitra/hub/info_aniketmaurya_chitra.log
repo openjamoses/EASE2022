@@ -1,0 +1,33 @@
+{
+    "Name": "docker.io/aniketmaurya/chitra",
+    "Digest": "sha256:fc1750cd34bf5d1c82fff4b7d911518207fbc6356fb3b0a050ecc504cee38d55",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-08-15T06:36:02.937509009Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:627b765e08d177e63c9a202ca4991b711448905b934435c70b7cbd7d4a9c7959",
+        "sha256:c040670e5e559fd936db175530ad4c1dd014bd25b2bf25ea19fa20554fe2d736",
+        "sha256:073a180f4992853fa3dd8da604e7b041bc8ea92157749d042c0853312f178f6a",
+        "sha256:bf76209566d0c8d78df205b09e6e5b52ff7f10cb4e1c03d9336ed7dd2decd919",
+        "sha256:ca7044ed766e4129c30311ee109dffebdd28b1fd5285992b5785e0e9c1ce25a8",
+        "sha256:7b16520e0e665180796342f9777d6a8454b1707c0fed7d9e0b4b4466534d3375",
+        "sha256:07bc148fcbb7b284d6370423cb5f5b350a64401a30aacf4b8a3f75cb89d9aa11",
+        "sha256:a569e412c8c86e6aaeeea2ffd6d6d0d9206c037f7ee98c51351306041c25e066",
+        "sha256:2058655e9525f3001d09823025cd838460c10dbcf25832b4e3e94d508f93248e",
+        "sha256:04bab7633cab553e3175747c2fabdfd389482b4f19d6baf8e4ebd18099a1c915"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.7.11",
+        "PYTHON_PIP_VERSION=21.2.4",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/c20b0cfd643cd4a19246ccf204e2997af70f6b21/public/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=fa6f3fb93cce234cd4e8dd2beb54a51ab9c247653b52855a48dd44e6b21ff28b"
+    ]
+}

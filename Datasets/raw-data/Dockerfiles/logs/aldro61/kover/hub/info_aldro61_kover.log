@@ -1,0 +1,30 @@
+{
+    "Name": "docker.io/aldro61/kover",
+    "Digest": "sha256:3a5f673d8423f6d02b1cdac9c520780893295c2423562bb940ad47cd70bc5bc3",
+    "RepoTags": [
+        "latest",
+        "release-2.0.1",
+        "release-2.0.3"
+    ],
+    "Created": "2019-04-12T20:32:58.502484977Z",
+    "DockerVersion": "18.03.1-ee-3",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:898c46f3b1a1f39827ed135f020c32e2038c87ae0690a8fe73d94e5df9e6a2d6",
+        "sha256:63366dfa0a5076458e37ebae948bc7823bab256ca27e09ab94d298e37df4c2a3",
+        "sha256:041d4cd74a929bc4b66ee955ab5b229de098fa389d1a1fb9565e536d8878e15f",
+        "sha256:6e1bee0f8701f0ae53a5129dc82115967ae36faa30d7701b195dfc6ec317a51d",
+        "sha256:eb7b70b691a42104231cdc3a2358a28ce323cb9efe346e19956a6b4e6ca9022a",
+        "sha256:a64b6a50b64f32e033e201dffb0bbde791f2a073f27da48354527f7d34d56f89",
+        "sha256:56cdc92a48ea3487d4807c512c54e7e47c702cd20904ca82ffb485e377236649",
+        "sha256:fc6eefe5e4cf09a21d3a44b3d55e1f6aadbabb9e80fd30e2bc38f7cf43c1da26",
+        "sha256:9bc8e058f64cef4a8eefde807234e446a52373d3d47043646e3d98c6f0088c06",
+        "sha256:7a979954cde3ee87b873403f34d430f77767a257460c7211e7253544862a4ba5",
+        "sha256:a1e283b057e1a81d39e432d24e378ca7cfe9fc788d2d3bc2c1a8dcc36794a391"
+    ],
+    "Env": [
+        "PATH=/kover/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

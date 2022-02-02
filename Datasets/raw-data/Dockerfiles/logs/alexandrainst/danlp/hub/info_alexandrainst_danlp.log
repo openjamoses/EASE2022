@@ -1,0 +1,40 @@
+{
+    "Name": "docker.io/alexandrainst/danlp",
+    "Digest": "sha256:75b8db2e0643aca431ca3fd4ad239a28aa5a1208405aaf3df9986c345a77d18d",
+    "RepoTags": [
+        "0.0.2",
+        "0.0.2-notebook",
+        "latest",
+        "latest-notebook"
+    ],
+    "Created": "2019-08-19T14:23:39.578032394Z",
+    "DockerVersion": "18.09.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:4ae16bd4778367b46064f39554128dd2fda2803a5747fddeff74059f353391c9",
+        "sha256:bbab4ec87ac4f89eaabdf68dddbd1dd930e3ad43bded38d761b89abf9389a893",
+        "sha256:2ea1f7804402db2da64e84a26bd591f41667ad69cd7f2a2c6106d9bb04dde260",
+        "sha256:96465440c20877524189ae75d361dd29e5d0df330a8dac9427f972b429fe0159",
+        "sha256:6ac892e64b941f376c41f33aa31e39a69bbc457c5b9e436b5ecf451a6d4c651e",
+        "sha256:5b3ec9e84adff5a0d0caf3374a93c31f102915316d2d6dc9506464ca326a3c6f",
+        "sha256:317202007d7c760faebe60471bb99282f3b0ce19fe8778389027e579d049ee29",
+        "sha256:ba1ee226143f3d7d5eb932b44d5bce309ee2916bb38c0ce228d833dd3812f69d",
+        "sha256:cba5f4ed37827be116b1c38ccb73f70204bdc63f39adc57a852e38bbb989a05e",
+        "sha256:0d38dc51ac70d00290026d011a82707f17d956a34f81a085041939dfe2d12fac",
+        "sha256:1280321dcb09e5df2a0c7e9070eb01b8adf4779c90e9d9f22b04e721c3d25796",
+        "sha256:871ebb5700f66aa15569169a3372967c7a371d0f00b311f281383ce6f8817bee",
+        "sha256:90d54e15643df91896a00cf64d44770b66489923c93637898ff1cf6110cf4f99",
+        "sha256:170fd65c09c12a7de4b3883288d62a122a84c37bd995cf370aba41ab21246eee"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.7.4",
+        "PYTHON_PIP_VERSION=19.2.2",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/0c72a3b4ece313faccb446a96c84770ccedc5ec5/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=201edc6df416da971e64cc94992d2dd24bc328bada7444f0c4f2031ae31e8dad"
+    ]
+}

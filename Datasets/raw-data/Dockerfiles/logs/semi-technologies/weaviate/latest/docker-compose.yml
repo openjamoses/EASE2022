@@ -1,0 +1,52 @@
+##
+# This docker-compose is used for developing Weaviate, i.e. for contributors. 
+# THIS IS NOT INTENDED FOR USERS !!
+#
+# To get a docker-compose file to run Weaviate, please follow the instructions at
+# https://www.semi.technology/developers/weaviate/current/getting-started/installation.html#customize-your-weaviate-setup
+##
+version: '3.4'
+services:
+  contextionary:
+    image: semitechnologies/contextionary:en0.16.0-v1.1.0
+    ports:
+      - "9999:9999"
+    environment:
+      EXTENSIONS_STORAGE_MODE: weaviate
+      EXTENSIONS_STORAGE_ORIGIN: http://host.docker.internal:8080
+      OCCURRENCE_WEIGHT_LINEAR_FACTOR: 0.75
+      LOG_LEVEL: debug
+  keycloak:
+    image: jboss/keycloak:5.0.0
+    environment:
+      KEYCLOAK_USER: admin
+      KEYCLOAK_PASSWORD: admin
+      KEYCLOAK_IMPORT: /tmp/weaviate-realm.json
+    volumes:
+      - ./tools/dev/keycloak/weaviate-realm.json:/tmp/weaviate-realm.json
+    ports:
+      - "9090:8080"
+  t2v-transformers:
+    image: semitechnologies/transformers-inference:distilbert-base-uncased-1.1.0
+    ports: 
+      - "8000:8080"
+  qna-transformers:
+    image: semitechnologies/qna-transformers:bert-large-uncased-whole-word-masking-finetuned-squad
+    ports:
+      - "8001:8080"
+  i2v-neural:
+    image: semitechnologies/img2vec-pytorch:resnet50-07dd697
+    ports:
+      - "8002:8080"
+  ner-transformers:
+    image: semitechnologies/ner-transformers:latest
+    ports:
+      - "8003:8080"
+  text-spellcheck:
+    image: semitechnologies/text-spellcheck-model:pyspellchecker-d933122
+    ports:
+      - "8004:8080"
+  multi2vec-clip:
+    image: semitechnologies/multi2vec-clip:sentence-transformers-clip-ViT-B-32-multilingual-v1-783f3f9
+    ports:
+      - "8005:8080"

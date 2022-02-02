@@ -1,0 +1,58 @@
+{
+    "Name": "docker.io/alicevision/cctag",
+    "Digest": "sha256:0dcf66e5364452ee0d24793afa853a6a991391f2012ee887b197e7798d8447e7",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-05-29T10:08:17.008008527Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "maintainer": "AliceVision Team alicevision@googlegroups.com"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7ddbc47eeb70dc7f08e410a6667948b87ff3883024eb41478b44ef9a81bf400c",
+        "sha256:c1bbdc448b7263673926b8fe2e88491e5083a8b4b06ddfabf311f2fc5f27e2ff",
+        "sha256:8c3b70e3904492c753652606df4726430426f42ea56e06ea924d6fea7ae162a1",
+        "sha256:45d437916d5781043432f2d72608049dcf74ddbd27daa01a25fa63c8f1b9adc4",
+        "sha256:d8f1569ddae616589c5a2dabf668fadd250ee9d89253ef16f0cb0c8a9459b322",
+        "sha256:902fc5ce82298797e09dc1b28ed942da3892a354321725fad6955ee651557e98",
+        "sha256:ae1bb79c5cfc1c10948684c3a2964ec7444b19cae7edc487aa474804336b52c1",
+        "sha256:fa6605c8fe7a3779c56b4768ac46738f160f005067f22c03e3cf5e87ad5d19d0",
+        "sha256:0508a679d3397b66fdf6cd56db9a99e2b7af5a8519e9f9534d2dff07779f2482",
+        "sha256:dfbc8a0b04182ad4d447be63bcedf1b166b405d7b0ac8d8e3ac6cfd5771462d6",
+        "sha256:b944d92f3e0ec45369d1fc6d9e9827de5a5527bb9206ec7ae277a0adc9729d72",
+        "sha256:bba65d4a4f290243b41b612f008044c83d78376e9a2c8e7d22599b6fd1745f52",
+        "sha256:786e87d7e92d5f36f5da814d27a74721c758b67f71a6d9e1e6fdb4692b08da7e",
+        "sha256:0f36274796eef344206c12cad16524264cf04724c55bfdb451078ce2e8c962d3",
+        "sha256:b406c8fe9f18328b942d266f8780c9473d3d4cdd516f19fd492af3c7b990aefa",
+        "sha256:c1bed8946dc4f3230e8e4f4627478fd002df44a8f12e3a3457fbd80179a26e14",
+        "sha256:88107495f371671816aaced70da871f98257c47da2b8d93b9d35c7a8ac6fe50b",
+        "sha256:804ef1a6d8e336a2053b9630cf1a5fe858ce2948bc340ce8595776c396d9555d",
+        "sha256:36bfaf9bbb7155ce5663ddc2ff95ce413fef665456d64310d9a4dbc8daa7b3cc",
+        "sha256:47a78c7df58af7f100eefb3bfe07e5239633f8474341b3ea9df1d8d7c49699e6",
+        "sha256:8d0f5905b2a14733f2658ae670c37e5caff668637610108338b6f9b66ee4476e",
+        "sha256:da86c6a35c474674b663aa068aebfe0a6fa4439af2c0e069a9ead908041f4335",
+        "sha256:5f6e0783fd8ad8867a847b4a1a422c27f13da9d29180077ab864f0a893f5e3ce",
+        "sha256:4d4d7e1e3214e3b37fc874c83a6b0e20306b0846cf54f011a909caffce0c783d"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.2.89",
+        "CUDA_PKG_VERSION=10-2=10.2.89-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.2 brand=tesla,driver\u003e=384,driver\u003c385 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411 brand=tesla,driver\u003e=418,driver\u003c419",
+        "NCCL_VERSION=2.5.6",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "DEPS_INSTALL_PATH=/opt",
+        "CMAKE_VERSION=3.17",
+        "CMAKE_VERSION_FULL=3.17.2",
+        "BOOST_VERSION=1.70.0",
+        "BOOST_VERSION_FILENAME=1_70_0",
+        "EIGEN_VERSION=3.3.7",
+        "OPENCV_VERSION=3.4.10"
+    ]
+}

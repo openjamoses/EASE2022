@@ -1,0 +1,44 @@
+{
+    "Name": "docker.io/local0state/trojanzoo",
+    "Digest": "sha256:d47904f9d30f5e1bcd57ecfd8d0ca7978d1008adb6e041a434348ed21fbfd102",
+    "RepoTags": [
+        "1.0.10",
+        "1.0.10-cpu",
+        "1.0.10-gpu",
+        "1.0.11",
+        "1.0.11-cpu",
+        "1.0.11-gpu",
+        "1.0.12",
+        "1.0.12-cpu",
+        "1.0.12-gpu",
+        "cpu",
+        "gpu",
+        "latest"
+    ],
+    "Created": "2021-11-30T05:02:21.160679971Z",
+    "DockerVersion": "",
+    "Labels": {
+        "maintainer": "Ren Pang \u003crbp5354@psu.edu\u003e",
+        "org.opencontainers.image.source": "https://github.com/ain-soph/base"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:33847f680f63fb1b343a9fc782e267b5abdbdb50d65d4b9bd2a136291d67cf75",
+        "sha256:f5a80bcd14133fe8e0166900eb4bfb714939510e490403e82f3a32776cd41a8f",
+        "sha256:8d0d14d1334a21b14dcb9a9bbb16aa692282173db137856ce8c315a05e3397c7",
+        "sha256:8b57c008802ad065eb23379f5daadc53a993232f85c991148d3dfcab3839541d",
+        "sha256:b073170589377e077d15f176ee1638838f3b985fcdebb78bbfb2c9d3c8d2834c",
+        "sha256:fbdc3899d6695a13a8bb7a0e487f9ca9e5d7eb490a091b009f5fdc9d50a74c0f",
+        "sha256:f086f0837db1ccf68434c8c47138bc347ea062d0c488ba8f987dc90d15e585e5",
+        "sha256:ba99ebc88a9ad5f606c2e3a184f29cb9238183b6ccda24be8a317fef24509f0b",
+        "sha256:01b55dd7e77473029afb17fc5275ca95c43101990020d4356c8dcb90459c1fb2",
+        "sha256:83cf630c6ca3053d9bca8c3c38051d9b3e5e4c581d747ba54316b0c054680b95",
+        "sha256:759423e196797c9da8f7680680821c1986ec33bf799b924b179b9900bc9bf676"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "LC_ALL=C.UTF-8"
+    ]
+}

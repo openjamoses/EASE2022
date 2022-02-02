@@ -1,0 +1,34 @@
+{
+    "Name": "docker.io/tnarik/malmo",
+    "Digest": "sha256:ed8795cd53ecdf31ed82fb8ea9db09f423dc677bb35623b94a0bec7e653f8645",
+    "RepoTags": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "from_source",
+        "latest"
+    ],
+    "Created": "2016-10-14T00:32:03.533691494Z",
+    "DockerVersion": "1.12.0",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:6bbedd9b76a496816d86a0af731ea984f40467ef8fb23be752f801cb80436ac6",
+        "sha256:fc19d60a83f11bbddc7bd2dfca6095b49100314bfde61d83729112a6b6e11d48",
+        "sha256:de413bb911fd848383ef2e5068a42c258c898d6ee869fb441fb2391eb327b576",
+        "sha256:2879a7ad31445fe2cea410b8ba76704003c11ee05c0a4d32d1113009ea1a1aae",
+        "sha256:668604fde02e75dddb4b44c80d4ce20baaac4832c41c3a945f4a236cd7d2f164",
+        "sha256:123d052a25ac4aca5d909b7041d43d08d154408dcd313f662df588aa7f08352a",
+        "sha256:06ad5694759291bbe492b6c9393e47a8df58aafc660e6b3f947d038d700ebe8d",
+        "sha256:e3f6de11bf69f657e1766c424a7a7565c9b6a10536bef01431abe00dc97b7a26",
+        "sha256:ebcdf904aac4381abf33b143e2580ddc5ebcef74e3d7cfd94f9de9189a135de5"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "MALMO_PATH=/opt/malmo",
+        "MALMO_XSD_PATH=/opt/malmo/Schemas",
+        "PYTHONPATH=/opt/malmo/Python_Examples",
+        "VNC_PASS=vnc_pass"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "docker.io/deliah/bert-as-service",
+    "Digest": "sha256:4c9e35d4909a47a7b73ab13935bdfd9cf6f82286aa7b2c764c29f218fb2bde0e",
+    "RepoTags": [
+        "base",
+        "latest"
+    ],
+    "Created": "2020-06-11T14:48:25.212698293Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "com.nvidia.cuda.version": "9.0.176",
+        "com.nvidia.volumes.needed": "nvidia_driver",
+        "maintainer": "Craig Citro \u003ccraigcitro@google.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:18d680d616571900d78ee1c8fff0310f2a2afe39c6ed0ba2651ff667af406c3e",
+        "sha256:0addb6fece630456e0ab187b0aa4304d0851ba60576e7f6f9042a97ee908a796",
+        "sha256:78e58219b215b359fe002f0ca1f416617b75ca9b36cb274c98d7a5f808711179",
+        "sha256:eb6959a66df2ea26a26452ba11f84fb64bb45af90204374862ec71ee59f795e7",
+        "sha256:e3eb30fe484462c537bcad0662db21dbe0360c6c2de917cdb9e9694e499eb3d2",
+        "sha256:852c9b7a4425f818d9f5c1b84e6e0390d5c76d7892225ccb31c67210c6a6c493",
+        "sha256:0a298bf31111dced7ef70d4690ad0fc459483f0de53ef6251736544fc86b6c49",
+        "sha256:f43ecd71dda85a8c5179292b786a16078e4aad5e86b4dab34713757c93f7ddfd",
+        "sha256:9f554feaeba1e780e69e110ad068e54a967b8fc400417a500f2b6a3fcbc0e19c",
+        "sha256:abf1fc85d970388db895ed7c39698c05b1df73f6c1608c4c08843db5a309af62",
+        "sha256:3e67c4ad17bb14ad03e7da80d114685ff656ceac82f0e945609390c53581b585",
+        "sha256:c60e8159f45c1b38f6f8ed292bc21273249ea960647fe66c9e5de83c442b631c",
+        "sha256:2b01db739666fffc9e8779f7c514df3073648f42564650b9c37d740eca0d5894",
+        "sha256:1553de0cb9acdfaf11db0e914e796a2e08bf601d1e5ca645d85b90cfe24d10a4",
+        "sha256:1ed5c01b02188e35506f31912ec6fec703f766c1c411db8e57be09175b7fb27e",
+        "sha256:9913722703a5ce7c9fd65f645a71c995112e45026f6f2b75d87477afc879f9c6",
+        "sha256:442335dc9a85437c19e626c5c8050adf8fb011245302d0da47ce864a9c0e6e47",
+        "sha256:11581f4cac532e8080839097830192b57e0be4d50168407797357b84809b5f1c",
+        "sha256:bb04274c95aa78c49717f4566789986903124d5f3fb302bf04ee95ef1a98c117",
+        "sha256:b28794df837ff856f9df3a195f4f909a4d167d5254d716ea2f964ec7d56284df",
+        "sha256:64322063db4c555b868ebd0b91525563ac110c47c682c3dae514ecf55ee66d08",
+        "sha256:4fb7844b9df19e8aebb1077ce22ae3090cac92a7262006264d4d41b50484866f",
+        "sha256:0fa81a9cdb17f11ea3000975d461578df1a1073585b1910c669d3823c2f83a1a"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=9.0.176",
+        "CUDA_PKG_VERSION=9-0=9.0.176-1",
+        "LD_LIBRARY_PATH=/usr/local/cuda/extras/CUPTI/lib64:/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=9.0"
+    ]
+}

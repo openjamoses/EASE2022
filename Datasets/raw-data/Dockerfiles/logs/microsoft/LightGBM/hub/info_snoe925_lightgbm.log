@@ -1,0 +1,25 @@
+{
+    "Name": "docker.io/snoe925/lightgbm",
+    "Digest": "sha256:29a556f8801e01f380cf6a98f1ff236251058be1078e7e4726d0f40f1718b731",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-06-06T16:51:11.7843595Z",
+    "DockerVersion": "18.09.2",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:22dbe790f71562dfd3d49406b1dfd1e85e50f3dd7cb2e97b3918376ca39cae4e",
+        "sha256:375040dd7290250b2a3deb6579e55311f20edc8bb53127633a310de3b5fca74a",
+        "sha256:adaebd245e2f04415fc3c61a1b714e047c5a99ea943d9945b3e359fb89d2935c",
+        "sha256:4bfc51ab2f04b85ad373cc9e630ea29f697a911b87e65d40c91985af771088e7",
+        "sha256:81d6551dec77dce0dd9fc5b3c68f632289c2546584af0a6ceb6851e8cfcb358d",
+        "sha256:d891f253bd57946e411db183d055f7286e7fa2768df6e87618325eab6a08ac31",
+        "sha256:7fec2ea32c17e1bcdb295f2daa0869bb5bd6c132ea22f5c0e1c8ac969f1dd3f1"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/google-cloud-sdk/bin/",
+        "CLOUD_SDK_VERSION=248.0.0"
+    ]
+}

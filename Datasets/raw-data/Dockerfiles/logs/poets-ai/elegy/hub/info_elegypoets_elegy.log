@@ -1,0 +1,35 @@
+{
+    "Name": "docker.io/elegypoets/elegy",
+    "Digest": "sha256:9b82cbeb269ab014029b20ea36b87418230ee9a72f91bf271710d2a733369252",
+    "RepoTags": [
+        "gpu-latest",
+        "latest"
+    ],
+    "Created": "2020-07-20T20:16:48.658680099Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:97ffe7d27bc554d1e77092be3d531d285fbfe897622b9fa33a95fa34f53db8b3",
+        "sha256:b92a3846b86fdc21713684b60c32c3e7b8816390cae2aedd455ccab3e5e1399b",
+        "sha256:4534e9874c109a4a3496723513b55fa0f4698555e1b1c97d31c2f5d44fc46d6b",
+        "sha256:7229f625553bc7fa9a636bfd113df87e9f5b84cdf9ef063a75cddbb3b3bac527",
+        "sha256:ddf9b8603840066c58998f29347780232827e62963885e8164920dca46ca5ece",
+        "sha256:9a26a9bbdbbe20b540863a91be6b0d270e9147d4355e33366fea4deee216a0fd",
+        "sha256:d4e499557c57b4312db1570875ce696356c6a370674bb5612acdcdfe5d67733f",
+        "sha256:860d4c640880b920e79f7f202cbcb0b0bdad937f8124ff23f0c41de936c2162b",
+        "sha256:6ecccbd524307bd717d86a20c6e2040ba7e443846785a6063f15c2fc88a3ec3b",
+        "sha256:fb8629d9c798d7f5acb0c9abf1c34edb95e51177201f1fa6a92a39947531bc4e",
+        "sha256:8dc7c5a971c7cd4bd9695e323e2ccaae121fbf44de5a5e06433b6a705338f933"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568",
+        "PYTHON_VERSION=3.8.4",
+        "PYTHON_PIP_VERSION=20.1.1",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/eff16c878c7fd6b688b9b4c4267695cf1a0bf01b/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=b3153ec0cf7b7bbf9556932aa37e4981c35dc2a2c501d70d91d2795aa532be79"
+    ]
+}

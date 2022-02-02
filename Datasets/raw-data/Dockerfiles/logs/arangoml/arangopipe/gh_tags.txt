@@ -1,0 +1,5 @@
+b'refs/tags/0.1 Fri Sep 20 06:04:36 2019 -0700\n'
+b'refs/tags/0.2 Fri Oct 4 16:42:34 2019 +0530\n'
+b'refs/tags/0.4 Mon Feb 17 17:25:57 2020 +0530\n'
+b'refs/tags/0.0.70.0.0 Thu Dec 2 15:42:09 2021 -0500\n'
+b'refs/tags/0.0.70.0.1 Fri Dec 10 15:51:33 2021 -0500\n'

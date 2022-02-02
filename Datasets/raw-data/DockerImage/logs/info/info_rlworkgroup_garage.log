@@ -1,0 +1,42 @@
+{
+    "Name": "docker.io/rlworkgroup/garage",
+    "Digest": "sha256:977e599f391428b59d654a2a7e628c850216b067533391afeb11fb6b82d28cdc",
+    "RepoTags": [
+        "2021.03.0",
+        "latest"
+    ],
+    "Created": "2021-06-22T03:20:01.311130325Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:25fa05cd42bd8fabb25d2a6f3f8c9f7ab34637903d00fd2ed1c1d0fa980427dd",
+        "sha256:ba7a2a442ecafb70989ed4bf2d620a8d25a57443627ed23d4f72e755fc1da4b8",
+        "sha256:e643547f77a82d41202283bcfb3694f6fce10f05c18c040dba2f1cfd2d981123",
+        "sha256:07b95424c3fe23a3f3c6511e2ed8b9768a445e61d6b31620fbd0d2629b601a49",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:e97dbab9f3342a08bc4a49a504907dfc98324b7fbc65b495ef3c79286807edb2",
+        "sha256:59efc8c4ec795df549e6a9b32a4d8bbdf75d023aff9efd4bcd082ff77f7869ca",
+        "sha256:bfd330cc9f1c294ba06b5785473ee0a93faf63c3f84cd0b96258e79dc9b453da",
+        "sha256:a801a873e7118e10fdc8efd96f2cd0479d63dfd1f48106d6441cdd8d900f0b17",
+        "sha256:a5feb8117388995532e6527ffab5eb3042f58844c906b4b3e1a5e0339aefe847",
+        "sha256:c6b4dd912ba36c4b2712500e4584bacf272d96e2a47cfd73febddee405294178",
+        "sha256:3723c82ec5b66ee4c27d1933f89bc39433224199c4863645a0ad830fb576bc15",
+        "sha256:2b4c0bf0bf695012b9e226448469b27a4c1ad26a04f46474716175224aba358b",
+        "sha256:3a70d291c8e4999f1f7808377460cfe414e8c3f69498278f23a03ae35edf6d5f"
+    ],
+    "Env": [
+        "PATH=/home/garage-user/venv/bin:/home/garage-user/.pyenv/shims:/home/garage-user/.pyenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/garage-user/.local/bin",
+        "LANG=C.UTF-8",
+        "USER=garage-user",
+        "HOME=/home/garage-user",
+        "PYENV_ROOT=/home/garage-user/.pyenv",
+        "PATH_NO_VENV=/home/garage-user/.pyenv/shims:/home/garage-user/.pyenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/garage-user/.local/bin",
+        "LD_LIBRARY_PATH=:/home/garage-user/.mujoco/mujoco200/bin:/usr/lib/nvidia-000",
+        "LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so",
+        "MUJOCO_GL=glfw",
+        "VIRTUAL_ENV=/home/garage-user/venv",
+        "MJKEY_PATH=/home/garage-user/.mujoco/mjkey.txt"
+    ]
+}

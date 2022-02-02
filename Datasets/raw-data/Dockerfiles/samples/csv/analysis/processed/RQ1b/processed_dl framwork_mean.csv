@@ -1,0 +1,9 @@
+Topic,Repos,ProjectID,FileType,Sharedfiles,Memory
+DL Framwork,tensorflow/tensorflow,P1,.png,0.7066666666666667,0.12003333333333331
+DL Framwork,tensorflow/tensorflow,P1,.po,1.3516666666666668,0.11820000000000001
+DL Framwork,pytorch/pytorch,P3,.crt,2.245,0.034183333333333336
+DL Framwork,fastai/fastai,P0,.rb,1.2616666666666667,0.12241666666666666
+DL Framwork,fastai/fastai,P0,.Debian.1,2.021666666666667,0.4173166666666666
+DL Framwork,PaddlePaddle/Paddle,P2,.xml,1.0683333333333334,0.06508333333333333
+DL Framwork,PaddlePaddle/Paddle,P2,.xml,2.471666666666667,0.04829999999999999
+DL Framwork,PaddlePaddle/Paddle,P2,.pm,2.501666666666667,0.0

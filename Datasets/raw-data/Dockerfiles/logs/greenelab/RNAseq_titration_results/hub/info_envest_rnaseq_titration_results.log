@@ -1,0 +1,47 @@
+{
+    "Name": "docker.io/envest/rnaseq_titration_results",
+    "Digest": "sha256:6236378411cfa1abf4e0bcd3d27c2a70a24374ac62fde3b1800830c339d9679e",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-11-09T20:53:56.0536053Z",
+    "DockerVersion": "",
+    "Labels": {
+        "maintainer": "Carl Boettiger \u003ccboettig@ropensci.org\u003e",
+        "org.label-schema.license": "GPL-2.0",
+        "org.label-schema.vcs-url": "https://github.com/rocker-org/rocker-versioned",
+        "org.label-schema.vendor": "Rocker Project"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:be2ea06d55bb33c31098151d199a24029c4e0dd6bc5b3da9f617bb04e37d79d9",
+        "sha256:148a88928c5ff20284e94ec3f83b6a29e37b6ab0f2dc216dd0512fead08218a6",
+        "sha256:66ce2e3ecfe97a53674ce4981ee1ea3da09fb5c9d272f8db9a6568d64e13a6ee",
+        "sha256:0819df0b641e9a257bdf77150e4ddc842bbfdc3f455aad08ef25a2608b61b221",
+        "sha256:29bd1814e1bb5c599cb1c9a3b92a76ad83bd5e7b3d2bc9dbda2a436f49a5cce2",
+        "sha256:b92b0a48f30a2213a1d7955efad06d0dd82a76082c5c68071fdb825b92d86cb7",
+        "sha256:53642e5f0f4a12045823bcd400d2b5c220cab6112bc22ffd05189a6633a0eac1",
+        "sha256:d0e9d9d56b8c9a7cbd8422077fffc2d0315bdbd6bc80b9526dc46ca843166748",
+        "sha256:d884fbe12faaff8a22775ac2b83c33ed92d0acb251773a7c4c1ca2c80e99e1db",
+        "sha256:66d9e2ce52a9b9e30d90a2f3fe0c1030078caf0d09a7835e43b67dcfdbdd0687",
+        "sha256:7be5d771693044e721aa2e36ff1874e9f304a934f5e67ad949c64b6ca8dce3a2",
+        "sha256:53a9cffbcc9009939b7aa02fe31c37bb5d58071e34e00e950cd5b9b8c91cd8fd",
+        "sha256:e76a5d3a1d9e8dd19a7afdd7116080eab5d656e19ee117796e1f6873b028ca21",
+        "sha256:932095a66ff1f3f80c144a2a14ae632f49e63e7edc7b240386b92fa76c0f4e7c",
+        "sha256:d3e4c0ae126725ac0a84473017c497262f1728c8aab9094272da26c0689bfc46"
+    ],
+    "Env": [
+        "PATH=/usr/lib/rstudio-server/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "BUILD_DATE=2020-04-24",
+        "R_VERSION=3.6.3",
+        "CRAN=https://cran.rstudio.com",
+        "LC_ALL=en_US.UTF-8",
+        "LANG=en_US.UTF-8",
+        "TERM=xterm",
+        "RSTUDIO_VERSION=1.2.5042",
+        "S6_VERSION=v1.21.7.0",
+        "S6_BEHAVIOUR_IF_STAGE2_FAILS=2",
+        "PANDOC_TEMPLATES_VERSION=2.9"
+    ]
+}

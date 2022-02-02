@@ -1,0 +1,42 @@
+{
+    "Name": "docker.io/nipy/mindboggle",
+    "Digest": "sha256:47a7d8aeebf8de3142f9b0794b049c44b5ca89b24c420311be2e2bd5cda512ac",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-11-05T02:10:57.9585993Z",
+    "DockerVersion": "19.03.4",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:092586df92068bd6b59c497f379e48302aa1b27cf76b2de64d262ba7bc19e47b",
+        "sha256:86d0e95d86e417f246357ce83bce77a39f1578c7c231ac169c0aa2e3ad7688bf",
+        "sha256:bdac9b91349aa21cf41810f32dacf45675b1da4c74adbb6c8c09c221580c27f0",
+        "sha256:d13bb9ecd291994d67622a41bd221e90b158626c8b0edcc8d7a428a5f6fe8550",
+        "sha256:1ba1fdddcf29e131412770eb538306cb7a4ebe9a2aea33686a2eb20ce73f2915",
+        "sha256:e1580fff90174c3f23d288b84604d8684d605bcb992c1774fdbcea71b96ecbfe",
+        "sha256:5cd7f28c1d8611e6826b1dd002de1b2090a3f4e55224df535be416c2794b4551",
+        "sha256:65e4e61f0b60fbffaf733b5c0630e2c84ed42a07d0e2d4f9b955486c71791bfd",
+        "sha256:a3cbafe0ee17dfe2e10b5d5fa1593352902bb66f56b2749b886496b861164eb6",
+        "sha256:b431525e6de25e576889f2a07918c17a56029be1036fd7634967e4a6fc377961",
+        "sha256:c4ffc1fd3458fbe417834b1bab3d7e916909425e202780a64fb70020d4ed9307",
+        "sha256:2596c3f7d96ef93fd0a13727e7daad1de9be95db0dabac9b9b390d72eb7d35d7",
+        "sha256:ffa911fede7fd320bead912e242f862c3a99eacd3340b1b3b2790ecb865296e9",
+        "sha256:e82f17bd85cd84162651b9abb16e1bf1b609ac29e726cc6ad7dd4a0f904d3e7c",
+        "sha256:a5f2e79002526483e865c05575fcdea1b575d28e7c2300551c1a85c52ad253fc",
+        "sha256:b18558491267fdee3d59d28d24213b83a523a8ec65ab647a116796e545be6fbd",
+        "sha256:0c09e3a913ba75abd3b2ee77d564f489a8e929cfafe74a7c6c749f03d71d9e41"
+    ],
+    "Env": [
+        "PATH=/opt/freesurfer-6.0.0-min/bin:/opt/ants-b43df4bfc8/bin:/opt/miniconda-latest/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=en_US.UTF-8",
+        "LC_ALL=en_US.UTF-8",
+        "ND_ENTRYPOINT=/neurodocker/startup.sh",
+        "CONDA_DIR=/opt/miniconda-latest",
+        "vtk_cpp_tools=/opt/vtk_cpp_tools",
+        "ANTSPATH=/opt/ants-b43df4bfc8/bin",
+        "LD_LIBRARY_PATH=/opt/ants-b43df4bfc8/lib:",
+        "FREESURFER_HOME=/opt/freesurfer-6.0.0-min"
+    ]
+}

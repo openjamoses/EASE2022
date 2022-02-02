@@ -1,0 +1,47 @@
+FROM registry.access.redhat.com/ubi8/python-36
+
+# NOTE: This Dockerfile installs OpenJDK on top of the Python UBI image.
+# This is required for the JNI runtime.
+
+LABEL io.openshift.s2i.scripts-url="image:///s2i/bin" \
+      io.openshift.s2i.assemble-input-files="/home/jboss"
+
+# Get privileges to install Java
+USER root
+
+# Install OpenJDK (same version as Dockerfile.build)
+ENV JAVA_MAJOR_VERSION=11 \
+    JAVA_HOME=/usr/lib/jvm/jre-11
+
+RUN INSTALL_PKGS="java-11-openjdk-headless" && \
+    yum -y --setopt=tsflags=nodocs install $INSTALL_PKGS && \
+    rpm -V $INSTALL_PKGS && \
+    yum -y clean all --enablerepo='*'
+
+# Security upgrades
+RUN yum -y update-minimal --security --sec-severity=Important --sec-severity=Critical
+
+# CVE https://github.com/SeldonIO/seldon-core/issues/2960
+RUN yum remove -y nodejs httpd
+
+# Drop root and continue (base image uses 1001)
+USER default
+
+COPY ./s2i/bin/ /s2i/bin
+
+RUN pip install --upgrade pip setuptools wheel
+
+# Install Seldon Core
+COPY --chown=1001 _python .
+RUN make -C python install
+COPY --chown=1001 _python/python/licenses/license.txt .
+
+# Install extra requirements for the JNI server
+COPY --chown=1001 ./java-jni/requirements.txt ./requirements.txt
+RUN pip install -r requirements.txt
+
+# Copy JNI server
+COPY --chown=1001 ./java-jni ./
+
+EXPOSE 5000
+

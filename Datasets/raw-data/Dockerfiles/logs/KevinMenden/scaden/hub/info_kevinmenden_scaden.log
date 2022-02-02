@@ -1,0 +1,26 @@
+{
+    "Name": "docker.io/kevinmenden/scaden",
+    "Digest": "sha256:d48e8a36d9046056f67254b5baf6ee1759a7fcc3e84de6dbf86595c5a6371918",
+    "RepoTags": [
+        "dev-cpu",
+        "dev-gpu",
+        "latest"
+    ],
+    "Created": "2020-12-14T18:01:10.540453362Z",
+    "DockerVersion": "20.10.0",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:da7391352a9bb76b292a568c066aa4c3cbae8d494e6a3c68e3c596d34f7c75f8",
+        "sha256:14428a6d4bcdba49a64127900a0691fb00a3f329aced25eb77e3b65646638f8d",
+        "sha256:2c2d948710f21ad82dce71743b1654b45acb5c059cf5c19da491582cef6f2601",
+        "sha256:d5bd1d790bbc5f388902f5ae6c7aa652686c723af8071ca877dc021e249e946c",
+        "sha256:28547f5944c7dd7c07c9316463943d6c8379bea279328fcaeeb2fc8b9ebc8133",
+        "sha256:c0e972481f70d16b04ce9d548c7cacf4adb47e65d79c88fe1af81ac5db844b44",
+        "sha256:e9ee0fbace45958d3d4bd55057dd22dec58a12fdc8b19852a393199174e09754"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

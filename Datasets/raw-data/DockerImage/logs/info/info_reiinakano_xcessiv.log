@@ -1,0 +1,33 @@
+{
+    "Name": "docker.io/reiinakano/xcessiv",
+    "Digest": "sha256:d47623aea26a47bede214f9c6c18b2bffa7c2101ca1ad53dbf588c1c09bfc20b",
+    "RepoTags": [
+        "docker",
+        "latest"
+    ],
+    "Created": "2017-08-21T00:54:04.564180616Z",
+    "DockerVersion": "17.06.1-ce",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:ad74af05f5a24bcf9459ae1cf7718628c2aeb6b587eb51b6eeaf639aca3e566f",
+        "sha256:2b032b8bbe8bc215ad3337035d0183fc353841ec6478d1c481e6e13628ad9e00",
+        "sha256:a9a5b35f6ead105e66a9af969454ac09b5772eeb0c6281972c48d2ce882e8eba",
+        "sha256:3245b5a1c52cbf0ae23d948fb94ef7b321e3dc54e13c3f6cf79951ed8237f03e",
+        "sha256:032924b710ba95b71e9a2d971e705bab895ddf7a219994c2cf8761f6959e62ed",
+        "sha256:fd37168d02bb8082a71071fc60cd3532ec4f92ef3f1fe2a7cdbbe87ba66b8618",
+        "sha256:8804355f837124bed3a955307ad53b9bc5fdf955dd545d80e9242c9cb8451080",
+        "sha256:a19b278d4ccdad3de517aa7053410d76c056916f278103fe36aaf91504315303",
+        "sha256:5009cef35a6b536e0f09413ed20053649003aea47e5021c26d7cb70dab15ad78",
+        "sha256:da7430a4280eea671a06967b0fc501ebd94183963d815f23873bc90e8fbaff0c",
+        "sha256:adbdf7fff084c8253dda4b44425fd1bf10d14ec8cc06bcc461985271449017ba"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=C01E1CAD5EA2C4F0B8E3571504C367C218ADD4FF",
+        "PYTHON_VERSION=2.7.13",
+        "PYTHON_PIP_VERSION=9.0.1"
+    ]
+}

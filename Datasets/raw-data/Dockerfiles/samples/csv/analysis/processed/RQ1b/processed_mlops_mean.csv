@@ -1,0 +1,9 @@
+Topic,Repos,ProjectID,FileType,Sharedfiles,Memory
+MLops,kubeflow/kubeflow,P2,none,2.0300000000000002,0.00635
+MLops,bentoml/BentoML,P1,.tmpl,4.1499999999999995,0.2831
+MLops,bentoml/BentoML,P1,.gz,1.5883333333333332,0.94155
+MLops,bentoml/BentoML,P1,.tmpl,4.1499999999999995,0.2831
+MLops,bentoml/BentoML,P1,.gz,1.5883333333333332,0.94155
+MLops,SeldonIO/seldon-core,P0,.gz,4.158333333333334,0.7002333333333333
+MLops,tensorflow/tfx,P4,.png,0.7066666666666667,0.12003333333333331
+MLops,tensorflow/tfx,P4,.po,1.3516666666666668,0.11820000000000001

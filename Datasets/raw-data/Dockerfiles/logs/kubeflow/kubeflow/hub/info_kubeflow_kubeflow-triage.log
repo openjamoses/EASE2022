@@ -1,0 +1,35 @@
+{
+    "Name": "docker.io/kubeflow/kubeflow-triage",
+    "Digest": "sha256:cb632b6e9be9bc5549f69f09c26569cbae4bcd4a39f681362fa6541ec63b9f30",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-11-09T18:26:27.957978691Z",
+    "DockerVersion": "20.10.10+azure-1",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:c7b7d16361e00faca0e9393f3f43923f25ceb1210face87839dfc5de988905c1",
+        "sha256:b7a128769df1909f91b589d0a4a2e1c1671aebc047a9f46b4b30dfeb7308ea6a",
+        "sha256:1128949d0793d2435bb1f0640a777f32feee88b71d4fe234121c3cfb345a80c4",
+        "sha256:667692510b7038b74e221f92eb33610e4968b669c8a718378ecb1f78739c3713",
+        "sha256:bed4ecf88e6a7ee9d32994c60892873ab8a3e199abdfbad73488537b1d3d52dd",
+        "sha256:8a8c75f3996a158afe2d1f4562f0c7910d40e11602b4a51518cdde944aeab919",
+        "sha256:10b7379e55737ebb51c541d139966979706f06d06ddd340fa3842ddc50127137",
+        "sha256:ca1b6fe24628ef61e8ddde8ed9e277805297a4a0a8fdaabc7a42ae4be68b0613",
+        "sha256:9a90211ec083ce67805a225634f1839ceb68cb1d9b8bfa0bc93eeedc1de4677e",
+        "sha256:94a45021a30e8403055d66f301e16c98871c6444aef31106150996865d452dd1",
+        "sha256:16a3b245a7832f43498c651638437d8ef3f7529b78b4a6f7e2aa2edf510de173"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.7.4",
+        "PYTHON_PIP_VERSION=19.3",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/65986a26949050d26e6ec98915da4aade8d8679d/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=8d412752ae26b46a39a201ec618ef9ef7656c5b2d8529cdcbe60cd70dc94f40c",
+        "PYTHONPATH=:/py"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Name": "docker.io/k4yt3x/video2x",
+    "Digest": "sha256:67d03cdb44d92d20560b4a470339bbd38b8ea805985b80d53979e3882e0249f5",
+    "RepoTags": [
+        "4.6.0",
+        "latest"
+    ],
+    "Created": "2020-06-30T15:19:41.258971115Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "maintainer": "K4YT3X \u003ck4yt3x@k4yt3x.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:3f2411103a12c8e169df7a9ea00ff26ab07501858e3eff315a2e11c219e78ce1",
+        "sha256:4da04088b2c299c17ae8a78858846c6fd4a6c36717baa816974cc75bef632871",
+        "sha256:ab1184837b6f6f4a130c8b4eb72f576b86c4c46b3e33dada4740a966948d98e6",
+        "sha256:354c6da61dcc176c5b363ded571bea1de41b718131658fa0e563f2a749028cd1",
+        "sha256:00ada3a8a8cacdb3671515cf972f34b502a10d1aa8745d67c01c3763bb345826",
+        "sha256:d5d5371c1366cdf4a0a40e041f30a7e2161d110eba856303f72591ad36a2699e"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NVIDIA_DRIVER_CAPABILITIES=all",
+        "DEBIAN_FRONTEND=teletype"
+    ]
+}

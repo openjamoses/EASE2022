@@ -1,0 +1,25 @@
+FROM nvidia/cuda:11.0.3-cudnn8-devel-ubuntu18.04
+
+# In the Ubuntu 18.04 images, cudnn is placed in system paths. Move them to
+# /usr/local/cuda
+RUN cp -P /usr/include/cudnn.h /usr/local/cuda/include
+RUN cp -P /usr/lib/x86_64-linux-gnu/libcudnn* /usr/local/cuda/lib64
+
+# Copy and run the install script.
+COPY .circleci/images/install.sh /install.sh
+ARG DEBIAN_FRONTEND=noninteractive
+RUN /install.sh
+
+# Set up MPI
+ENV TF_NEED_MPI 1
+
+# Set up the master bazelrc configuration file.
+ENV LD_LIBRARY_PATH /usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+
+# Configure the build for our CUDA configuration.
+ENV TF_NEED_CUDA 1
+ENV TF_CUDA_COMPUTE_CAPABILITIES 3.0
+
+ENV JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
+# COPY . /tensorflow_scala

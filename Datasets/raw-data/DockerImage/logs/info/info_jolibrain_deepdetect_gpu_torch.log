@@ -1,0 +1,63 @@
+{
+    "Name": "docker.io/jolibrain/deepdetect_gpu_torch",
+    "Digest": "sha256:a5c49beb45b3a216c4c06c1b8cd99556c39ed6123f44a3e5c6ba24b2dcb61f3d",
+    "RepoTags": [
+        "ci-master",
+        "latest",
+        "v0.11.0",
+        "v0.12.0",
+        "v0.13.0",
+        "v0.14.0",
+        "v0.15.0",
+        "v0.16.0",
+        "v0.17.0",
+        "v0.18.0",
+        "v0.19.0"
+    ],
+    "Created": "2021-09-06T19:29:34.748506236+02:00",
+    "DockerVersion": "",
+    "Labels": {
+        "com.nvidia.cudnn.version": "8.0.5.39",
+        "description": "DeepDetect deep learning server \u0026 API / gpu version",
+        "maintainer": "emmanuel.benazera@jolibrain.com"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:da7391352a9bb76b292a568c066aa4c3cbae8d494e6a3c68e3c596d34f7c75f8",
+        "sha256:14428a6d4bcdba49a64127900a0691fb00a3f329aced25eb77e3b65646638f8d",
+        "sha256:2c2d948710f21ad82dce71743b1654b45acb5c059cf5c19da491582cef6f2601",
+        "sha256:0ebd322634c152b4ecbb5de4a47fa86965c34fadeb4c4b54552ff6ea0baf0fee",
+        "sha256:36520dd466acdd34058f9863bfa50ae1d851ceb0cae918256f16e76704f63bbc",
+        "sha256:fe6ccac2e64be7b88f47141db9285b3137acaacfcf0a4914c1fbdb1728434ea6",
+        "sha256:d98e4e0e26f4ff99bbfcd244a5d2aa5b521b1d8bfc5cbb98263a0b36f635d957",
+        "sha256:412f64f300b1fe968c6803cb073862c5d3e3862110bca65c1e783d8d43c8a96f",
+        "sha256:e30405f66334ef85ec034e66ae10f973299d106574fe3874cb789c5585471796",
+        "sha256:9a83b7ea7b8fe2dc8089b1f7334db80629713111e07009e3a646fd2075f630cd",
+        "sha256:1099228b73aa43b77790a1acc88b2aeaf996dc0c99d8e6249edae1e392386481",
+        "sha256:57d69905e0ba38940ed734ee99389b40a44eb8b611bb730c73858bad1b792bd7",
+        "sha256:9cba5c6bb79513fbe0349f08dd8734e5d71f14215f56f771df31ea2a5dcef16c",
+        "sha256:c50592f7449eba4ad804d860cc46734016756c251b2dec289c63884bedbca4e4",
+        "sha256:62b8f474057af292231b579a3c3779c9fb7bca5878741e9777a9c19eb1816cf7",
+        "sha256:b1337d9df69f1a0ef2bacee043db487d27d748cfaed01d022f0ffac34b67f314",
+        "sha256:c0c26ba36b63a48f474624921896471a9cdbceab08373472b226392c3798afaf",
+        "sha256:b38a68604ab5efef7c2eda094ba21805b51386405e325c3829833354050747cf",
+        "sha256:bdff1dfaeb770bc429b3a296c40516bbd739bca889b8698c41cafc58446295c2",
+        "sha256:c6fe270bcfabb25d23a9e221e7bcdbd130ea1c8b62588c71f7f6204a4f06297e",
+        "sha256:efa2131fc28e7b5225551b14c08ea885ae31d9a083efe7a1a5181b8caa759e43",
+        "sha256:f0591684b7d60a46fc832bac9278568ff9696d8d19056d4185348140bfc199b1",
+        "sha256:762d3a03a7af2ae8b68c8ea0c13365feaa28a418571432a0d7707dde83ccd792",
+        "sha256:65421068aa89d4368a9d7f8c63d5e048bbccaaaf80776f778895ddb3b62489fa",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=11.1.1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=11.1 brand=tesla,driver\u003e=418,driver\u003c419 brand=tesla,driver\u003e=440,driver\u003c441 brand=tesla,driver\u003e=450,driver\u003c451",
+        "NCCL_VERSION=2.7.8",
+        "CUDNN_VERSION=8.0.5.39"
+    ]
+}

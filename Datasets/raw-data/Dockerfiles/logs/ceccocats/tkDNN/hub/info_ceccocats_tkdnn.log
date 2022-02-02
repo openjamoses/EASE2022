@@ -1,0 +1,50 @@
+{
+    "Name": "docker.io/ceccocats/tkdnn",
+    "Digest": "sha256:68e0359c215abecc9f0ca415271fdf264deaf974f5504c3a1b3a7593b36e5abe",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-07-13T17:32:21.060115985Z",
+    "DockerVersion": "19.03.9",
+    "Labels": {
+        "com.nvidia.cudnn.version": "7.6.5.32",
+        "maintainer": "Francesco Gatti"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:d7c3167c320d7a820935f54cf4290890ea19567da496ecf774e8773b35d5f065",
+        "sha256:131f805ec7fd68d45a887e2ef82de61de0247b4eb934ab03b7c933650e854baa",
+        "sha256:322ed380e680a77f30528ba013e3a802a7b44948a0609c7d1d732dd46a9a310d",
+        "sha256:6ac240b130982ad1c3ba3188abbf18ba4e54bdd9e504ce2d5c2eff6d3e86b8dd",
+        "sha256:006053f4160f3c18257015705cf9d1fa990925c391044f2fe2006bd125c3f1f7",
+        "sha256:7f180dbff33063626181026e0206408993510efac932e02fa0145c885a29eaf9",
+        "sha256:36adb6171cb0cd81558e83e2a1b11c1be1a42b0d9a0d7acd853880358e88a0f8",
+        "sha256:d7cf778701d82f4188a1c35f6bbdfe3434d89d3a10453fbf677e74f09aa37021",
+        "sha256:19ebebfc9562cd8f644c1a15bd972c95ef9645ff9ec5c7fb8ec088a6b6189369",
+        "sha256:335ede31fbe93ca649e94fb12545669fb08edd8daf7e3f5ebb0f6ff142a5a01a",
+        "sha256:0d6c72ebfc16ad83839832201af7bf595a2b85552328fd3af6641d0c627cdcaa",
+        "sha256:0211dac530d333aea37952ff6057999d7d5718c07a6f9d143bb9c551b09252ba",
+        "sha256:e04f7e57fc62cfce950a0b43bb2ecea09194ae9614a8aae523eeb54282b15b92",
+        "sha256:25f0770a8145a5f0e05efd38bbfa1e940ef8f7483d038e9cae5f668e5f885b4d",
+        "sha256:8d5eabc9d0e3fe4fba76716224312d2ad6705f9a411ab18a25ff20b89ccb7724",
+        "sha256:1fb7fbd0c6e2e9f8a77cb19c5a37a8f4e0c1f64f44fa245dc8c98bd5c61ab88c",
+        "sha256:6a7c79fe938f7d60decfa6b1fbb5e0a0b31748b32893aee9eaf32f94ba399f46",
+        "sha256:fa3a50c7d9deefc62325ab6aea43e74b5047f9a3d5868fc35196016227bf7659",
+        "sha256:afa98fb45a32f90a9867d72de9021a9493e798bb24172a870ad109472670db30",
+        "sha256:20213feff8c8aa90298ddbf55781a088258bc801b20c5f916bc290f5a81bd0bb",
+        "sha256:9a224688b14094880e83f71371bfa14f52275d21b4f556385a1df49537a45b83",
+        "sha256:417656038cf1677d9c49475187aea0b57fe49cbaceffafae1bda489c6dda7b2e"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.2.89",
+        "CUDA_PKG_VERSION=10-2=10.2.89-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.2 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411 brand=tesla,driver\u003e=418,driver\u003c419 brand=tesla,driver\u003e=440,driver\u003c441",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CUDNN_VERSION=7.6.5.32"
+    ]
+}

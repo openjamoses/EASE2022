@@ -1,0 +1,69 @@
+version: "3.8"
+services:
+  coordinator:
+    image: xaynetwork/xaynet:development
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    depends_on:
+      - minio
+      - redis
+      - influxdb
+    volumes:
+      - ${PWD}/configs/docker-dev.toml:/app/config.toml
+    networks:
+      - xaynet
+    ports:
+      - "8081:8081"
+    # temporary fix:
+    # The coordinator crashes if Redis is not ready or busy at startup
+    restart: unless-stopped
+
+  influxdb:
+    image: influxdb:1.8
+    hostname: influxdb
+    container_name: influxdb
+    environment:
+      INFLUXDB_DB: metrics
+      INFLUXDB_DATA_QUERY_LOG_ENABLED: 'false'
+      INFLUXDB_HTTP_LOG_ENABLED: 'false'
+    volumes:
+      - influxdb-data:/var/lib/influxdb
+    networks:
+      - xaynet
+    ports:
+      - "8086:8086"
+
+  minio:
+    image: minio/minio
+    hostname: minio
+    container_name: minio
+    env_file:
+      - .dev.env
+    command: server /data
+    volumes:
+      - minio-data:/data
+    networks:
+      - xaynet
+    ports:
+      - "9000:9000"
+
+  redis:
+    image: redis:6
+    hostname: redis
+    container_name: redis
+    entrypoint: /usr/local/bin/redis-server --appendonly yes --appendfsync everysec # using combination of RDB and AOF for persistence: https://redis.io/topics/persistence
+    volumes:
+      - redis-data:/data
+    networks:
+      - xaynet
+    ports:
+      - "6379:6379"
+
+volumes:
+  minio-data:
+  redis-data:
+  influxdb-data:
+
+networks:
+  xaynet:

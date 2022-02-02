@@ -1,0 +1,37 @@
+{
+    "Name": "docker.io/mlovci/flotilla",
+    "Digest": "sha256:9589f8ad8e1ce611ec21fcd03bde87f4259856dde788292cc05c5b9376a4c6eb",
+    "RepoTags": [
+        "dev",
+        "latest",
+        "latest2"
+    ],
+    "Created": "2018-04-14T01:15:27.784141623Z",
+    "DockerVersion": "17.06.1-ce",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:d3938036b19cfa369e1081a6776b07b54be9612bc4c8fed7f139370c8142b79f",
+        "sha256:a9b30c108bda615dc10e402f62d712f413214ea92c7ec4354cd1cc0f3450bc58",
+        "sha256:67de21feec183fcd009a5eddc4de8c346ee0f4369a20047f1a302a90716fc741",
+        "sha256:817da545be2ba4bac8f6b4da584bca0fb4844938ecc462b9feab1001b5df7405",
+        "sha256:d967c497ce230b63996a7b1fc6ec95b741aea9348118d3328c676f13be789fa7",
+        "sha256:c5710ae378e3b73f951cb7df9a903e5cc11dbfe70a80e8ffdd6f248dd547f97c",
+        "sha256:697716188a7f86850379adf6e4b2224751d21c27e84b030340ef806ff3697cf2",
+        "sha256:ff11f88d1fa5e43242aa02853a73f1eb393e2393d8c64eb5635b99194aca399b",
+        "sha256:1c2aba7ab1ba3119693cce322b382874745cf0931e57b4a5f29cf45f93307b42",
+        "sha256:e27ba586a09faa1437cfd16743f1a393fb585b71d530be07099c63ae12f9a6e6",
+        "sha256:a42aa77caca79cfe91b6a9aec0d3fb2b2ae6350fc91a8dba78a3dd6f355c2165",
+        "sha256:d3479b12b47fc7815e426973bd44a421851d8813cb6bc22788056246e20b8c10",
+        "sha256:129aea8d0586ff0d3c8306c6c20281d9191384d221baf8331575f21906f18911",
+        "sha256:5b2134db87f7edaaf78878f80ab2e368d302499d92b5b4bd4e9450205dd70791",
+        "sha256:8f90e17cd1816a037821e14dc1ba250432fc34c39b946b28d70366a44261bf1c",
+        "sha256:016f8bdca445ab9c14147bc34efae77eb2caf5a20e936e540ab599330cb5c9cc",
+        "sha256:26793177c52874a006331ca3a26ee883ce4aad85ae3c1e850f199f47da32c655"
+    ],
+    "Env": [
+        "PATH=/usr/local/miniconda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/miniconda/bin",
+        "HOME=/root"
+    ]
+}

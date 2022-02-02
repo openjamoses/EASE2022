@@ -1,0 +1,24 @@
+{
+    "Name": "docker.io/yueguoguo/xlearn",
+    "Digest": "sha256:122c6a24f65558eba4886abc7dce79c753b4d6bac7385be8c24c624c4405996c",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-06-27T13:55:32.0437054Z",
+    "DockerVersion": "18.09.2",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5b7339215d1d5f8e68622d584a224f60339f5bef41dbd74330d081e912f0cddd",
+        "sha256:14ca88e9f6723ce82bc14b241cda8634f6d19677184691d086662641ab96fe68",
+        "sha256:a31c3b1caad473a474d574283741f880e37c708cc06ee620d3e93fa602125ee0",
+        "sha256:b054a26005b7f3b032577f811421fab5ec3b42ce45a4012dfa00cf6ed6191b0f",
+        "sha256:88688fcc826ad2f87f8956964ca333eff5ffae865f2d776ced93dcf9b8044e1a",
+        "sha256:8fcbe5d170c00a3396334330d992c948172c9b5c1acb7f7f84466da258b3b161"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "USER=root"
+    ]
+}

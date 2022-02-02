@@ -1,0 +1,32 @@
+{
+    "Name": "docker.io/freediscovery/freediscovery",
+    "Digest": "sha256:e0c1e28cff8d78a364701dd587f4318a585d9b841a4b4800f3184080d9d0f58c",
+    "RepoTags": [
+        "0.7",
+        "0.8",
+        "latest"
+    ],
+    "Created": "2017-10-16T08:59:46.593583145Z",
+    "DockerVersion": "17.09.0-ce",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:48b042a4691b27483afd6b309d6dd2fc12f2c1d388409709b418094a3a4cdf54",
+        "sha256:0940d4e4a0aa68d2c3e3e1e9724400d40762cb4908e2846e53a317ba935c1b75",
+        "sha256:5e1798599fd5110e5c1c05b60beb1f7d256abe5b20b11451208b327694f79c30",
+        "sha256:11b21c34f4c0c02b53a13e0aa438f25b8a84f7d87b98b2a7787af2a24d230113",
+        "sha256:7a6bb197b54271a4cc4c825d0c80145ac36af57c18838e4db4e1937ace37526d",
+        "sha256:da6a9798acfb4854eb3cd5a8e4a89cbfc6cfeb7efe4cf0b6173fcd79f490ad30",
+        "sha256:fc82db4959a82d5e59ae457f76bca0b0302fd986beb646171d4ce86503c83b45",
+        "sha256:0802ccd1dc8b7b314e93f6364af9a3b4fdb36ccfba9e83be3a9491627a3c6be8",
+        "sha256:c88c61e00d016510036193e32f406fdb820c366af38dafb1764a5584cf4ed93f",
+        "sha256:d9e813afb9ba236e074ccf26c0442a095963f351b3c651d91ecc8dc0ddeb28a4"
+    ],
+    "Env": [
+        "PATH=/root/miniconda3/bin/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANGUAGE=en_US.UTF-8",
+        "LANG=en_US.UTF-8",
+        "LC_ALL=en_US.UTF-8"
+    ]
+}

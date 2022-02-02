@@ -1,0 +1,35 @@
+{
+    "Name": "docker.io/ziggerzz/openspiel",
+    "Digest": "sha256:9b4b0fed906d502536e02b8a7437275e8f1432846d8e6e0a3df5fa6e875faee5",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-03-28T15:06:26.2271937Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5bed26d33875e6da1d9ff9a1054c5fef3bbeb22ee979e14b72acf72528de007b",
+        "sha256:f11b29a9c7306674a9479158c1b4259938af11b97359d9ac02030cc1095e9ed1",
+        "sha256:930bda195c84cf132344bf38edcad255317382f910503fef234a9ce3bff0f4dd",
+        "sha256:78bf9a5ad49e4ae42a83f4995ade4efc096f78fd38299cf05bc041e8cdda2a36",
+        "sha256:6f86c4c3c21d09ce7634b8c3427e562f1667dd4681ac097017cf8484bf0f467b",
+        "sha256:c8243f5cddb9d1ddc1cf96e48e439da775b33fc6c3064a835335cd63e6af64a9",
+        "sha256:dac231fe7689d12c3f4f154382303df27e19c0741db68a584adc7f1f7d657dbe",
+        "sha256:910a5db5fda002c2941524df0802ae0ffa6960bc6413a6c95de0b72cade3f1bc",
+        "sha256:5731e34aff53759fd6fd3cb48dc1d08b67e3da1c5fd2557468db9ced774e3ccb",
+        "sha256:7c86afe4696cfe948c7fee2ae7dabbb3b67aa98f5a3452c7869fef84f6e0173e",
+        "sha256:7ca540f8e65d6cc5e882caba1a4ae755b755e4062eb674619492fb41e843f817",
+        "sha256:dd4ee4bdcf226e2724ec2137bdcad4c65931640d658a7deea1289aeeaa82ba5f",
+        "sha256:5985bcdf2b3fbe36d4ba7ce34fb178fc1b1a2d08696f4f8e9ae2f83cbf9e6b72",
+        "sha256:1d7ab8fc3542548cb7f0372f8f3e134a7c7e5ecaa151725741124d6a73f4367c",
+        "sha256:45460bed84689f0d8f5d4cd985c544e6135c10ae037d172cd09bf07795e66bf4",
+        "sha256:706016d4972c6baec63c039d1c36c74f0d39baccff79bfafc0969efa7b095eb4",
+        "sha256:d4c0a7aed2132b96ab36f546e4410ec03586d1d6c3b1ab866f3c6089dd445051"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "PYTHONPATH=:/repo:/repo/build/python"
+    ]
+}

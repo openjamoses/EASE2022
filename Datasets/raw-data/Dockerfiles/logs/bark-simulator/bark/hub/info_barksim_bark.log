@@ -1,0 +1,42 @@
+{
+    "Name": "docker.io/barksim/bark",
+    "Digest": "sha256:31d58b1d9652df1144468ffa37d37b83aac5cf51baf421d9167a277782fbc087",
+    "RepoTags": [
+        "gcc7",
+        "latest"
+    ],
+    "Created": "2021-06-01T21:52:31.837910502Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:d960726af2bec62a87ceb07182f7b94c47be03909077e23d8226658f80b47f87",
+        "sha256:e8d62473a22dec9ffef056b2017968a9dc484c8f836fb6d79f46980b309e9138",
+        "sha256:8962bc0fad55b13afedfeb6ad5cb06fd065461cf3e1ae4e7aeae5eeb17b179df",
+        "sha256:65d943ee54c1fa196b54ab9a6673174c66eea04cfa1a4ac5b0328b74f066a4d9",
+        "sha256:532f6f7237092ebd79f21ccd3cf050138b31abeed1b29bac39cfdb30786a615b",
+        "sha256:1334e0fe2851ea7f3d2509a3907312a665d7c6b085e1f0671f6cd2dcf37b82db",
+        "sha256:ba365db42d143222de2a48c0c47039747bebe1a7858712d0320aa8a267da64ea",
+        "sha256:9c5512e22a8630d57cea37ba33500c8a84b79ea18af7fe854a419725301dcb60",
+        "sha256:9b39d3d20df6ad37460b111e70cb48153be0c4c097affc6382261993556b57df",
+        "sha256:793a00c3fb8b8faa4ab3f708ab7a3b7dc7c2cb6e2c17c4c01d3aa5d8c232b4f7",
+        "sha256:69bbc5e4feaec2040d232f36cad6eae2e9fc6052eca24165cb716dbe339efc30",
+        "sha256:573380ab4b6f54378e0c7cc729e104f4c1f015dc8221ba8b134f6ad295aac4d3",
+        "sha256:048f206ca5d921b4daaba9984389c9c8bbe568bca04c83def1ca55cf00076321",
+        "sha256:c3564616725e92d243ecc11da1cf014cba36b6382d3f4087996e0897d61b24fb",
+        "sha256:eb44650fe7784234ad41538b85802fed9fcd8438097402867f26b4efafccf5fe",
+        "sha256:4f1813085b463a4267961a6616ecd9650ebddd1ba57087ea745a8bc8a81e6c0a",
+        "sha256:a41f325bf8ca7f75d11f6e7d7b810a4cdb25f790a803d1a3b89cc3e7a7c7e584"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.7.10",
+        "PYTHON_PIP_VERSION=21.1.2",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/936e08ce004d0b2fae8952c50f7ccce1bc578ce5/public/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=8890955d56a8262348470a76dc432825f61a84a54e2985a86cd520f656a6e220",
+        "DISPLAY=:0"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "Name": "docker.io/nagadomi/waifu2x",
+    "Digest": "sha256:466b5a4e56a0398db11f39ec37dcd37b2e125b412411992fa9d00e7184d58457",
+    "RepoTags": [
+        "cuda10.1-cudnn7-devel-ubuntu18.04",
+        "latest"
+    ],
+    "Created": "2019-03-16T08:35:50.575115558Z",
+    "DockerVersion": "18.09.3",
+    "Labels": {
+        "com.nvidia.cudnn.version": "7.5.0.56",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:6cf436f81810f067c6d4ffca6793eae7cb6d38456715b0707d8a5a2d1acccf12",
+        "sha256:987088a85b9606eb474a365eb210db765ff0d011ee099a6e3de5087435c6f966",
+        "sha256:b4624b3efe0617e59ed3998407eafdbe1cb6451346a6cabd066b6e253f50efb1",
+        "sha256:d42beb8ded595df5627ad4ef31bf528a6fdbfbd11d82f9023152738d6b05a7fa",
+        "sha256:2780cd52f04a1539910584c129c4faca8ffb655065e8718dca43e9e1d15e5c34",
+        "sha256:278415ea3f33b31583d3e16eda673c42e81d424f0791eb112bb51d3a92990ad4",
+        "sha256:2349693097efc850a84b16266dc40dc9c8a93a81adc847f0729688d5a1678c62",
+        "sha256:f8d49d10c54bec177474aae0fceaf96e0f7fa6d2931b5a8e6e00917e711c395c",
+        "sha256:24db644cd1e75698d2388405bb4c23e71047675d223109fbcb7c1241918ce6da",
+        "sha256:c7c3df229da94987ae13b7c8228ea6b6afd5c6998c1ea4bff373fe6dbdb500a0",
+        "sha256:c77620cb601f7cba3a58ed0d0b38b5aa06ed4ab0d460fc2ca3fefa2f59443920",
+        "sha256:376fba510c1ebd7a54dd0bed95543ad709336b1cc388d060a06f623e24890945",
+        "sha256:2dfc46c24fb823ce0bd0dd415fa07a8ecb21512e61a2c3c7b93f57703b2ad8a2",
+        "sha256:4d5129d69608a8096c45fb4a2079c5388709fdc0f9b2e71463ddf1b7f7572541",
+        "sha256:a5320b5619140361ad5500419a67706bc6b26d1aba0bd27d0674f4e5e4f3d9c4"
+    ],
+    "Env": [
+        "PATH=/root/torch/install/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.1.105",
+        "CUDA_PKG_VERSION=10-1=10.1.105-1",
+        "LD_LIBRARY_PATH=/root/torch/install/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.1 brand=tesla,driver\u003e=418,driver\u003c419",
+        "NCCL_VERSION=2.4.2",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CUDNN_VERSION=7.5.0.56",
+        "LUA_PATH=/root/.luarocks/share/lua/5.1/?.lua;/root/.luarocks/share/lua/5.1/?/init.lua;/root/torch/install/share/lua/5.1/?.lua;/root/torch/install/share/lua/5.1/?/init.lua;./?.lua;/root/torch/install/share/luajit-2.1.0-beta1/?.lua;/usr/local/share/lua/5.1/?.lua;/usr/local/share/lua/5.1/?/init.lua",
+        "LUA_CPATH=/root/torch/install/lib/?.so;/root/.luarocks/lib/lua/5.1/?.so;/root/torch/install/lib/lua/5.1/?.so;/root/torch/install/lib/?.so;./?.so;/usr/local/lib/lua/5.1/?.so;/usr/local/lib/lua/5.1/loadall.so",
+        "DYLD_LIBRARY_PATH=/root/torch/install/lib:",
+        "TERM=xterm"
+    ]
+}

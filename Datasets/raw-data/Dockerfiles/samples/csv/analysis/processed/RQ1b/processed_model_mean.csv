@@ -1,0 +1,8 @@
+Topic,Repos,ProjectID,FileType,Sharedfiles,Memory
+Model,ultralytics/yolov5,P0,.svg,1.9600000000000002,0.07545
+Model,ultralytics/yolov5,P0,.d.1,2.351666666666667,0.11103333333333333
+Model,qubvel/segmentation_models.pytorch,P4,.Debian.1,3.591666666666667,0.15186666666666668
+Model,araffin/rl-baselines-zoo,P2,.pl,1.555,0.0
+Model,IntelAI/models,P1,.Debian.1,1.2133333333333332,0.11339999999999999
+Model,IntelAI/models,P1,.json,0.4816666666666667,0.06653333333333333
+Model,alexandrainst/danlp,P3,.mf,6.378333333333334,1.2683333333333333

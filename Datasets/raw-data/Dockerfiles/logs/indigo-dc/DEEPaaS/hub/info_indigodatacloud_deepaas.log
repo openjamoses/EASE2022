@@ -1,0 +1,47 @@
+{
+    "Name": "docker.io/indigodatacloud/deepaas",
+    "Digest": "sha256:309b4ee245044621e7eddb481d1ebd0e6ef86bbf5b90dbd47b2ee068e462eeb9",
+    "RepoTags": [
+        "0.1.0",
+        "0.1.1",
+        "0.1.2",
+        "0.2.0",
+        "0.3.0",
+        "0.4.0",
+        "0.4.1",
+        "0.5.0",
+        "1.0.0",
+        "1.0.0-rc.1",
+        "1.0.0.rc1",
+        "1.0.0.rc2",
+        "1.0.0.rc3",
+        "1.0.1",
+        "1.1.0",
+        "1.2.0",
+        "1.2.1",
+        "1.3.0",
+        "DEEP-1",
+        "DEEP-2",
+        "latest"
+    ],
+    "Created": "2020-06-29T08:19:09.835112527Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "description": "DEEP as a Service Generic Container",
+        "maintainer": "Alvaro Lopez Garcia \u003caloga@ifca.unican.es\u003e",
+        "version": "0.10.0"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:20b41457e78373de588448d9f97d98cb7d80c4abe0985bb727e8791e8afecaf5",
+        "sha256:09fa7daaa3416dec3da39ba4491ebda64a4aff05444f3a86308fd757e59fd945",
+        "sha256:0f2f1a62515fb80aa6094a0437dcc384789b7ae978f01a9b64c45e342753c753",
+        "sha256:ce3db7c5208d5282c2f7f07710fa4c7c437b77977bc4238167f847487f578836",
+        "sha256:66786ddf4529b4135e6d4986abd87fc5176164f26e15353c0550ce72c69fa244",
+        "sha256:5f053130d775f07ac74e4b37a398b808ddd5a5e9be1674db23ad1f9e8f75522e"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "Name": "docker.io/owlbarn/owl",
+    "Digest": "sha256:7c911670cb59411874dfad57d930885e5e830c1da6524f3740e4f29d276d53b2",
+    "RepoTags": [
+        "alpine",
+        "centos",
+        "debian",
+        "fedora",
+        "latest",
+        "opensuse",
+        "ubuntu"
+    ],
+    "Created": "2020-11-28T23:33:26.920299902Z",
+    "DockerVersion": "19.03.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:3f2411103a12c8e169df7a9ea00ff26ab07501858e3eff315a2e11c219e78ce1",
+        "sha256:4da04088b2c299c17ae8a78858846c6fd4a6c36717baa816974cc75bef632871",
+        "sha256:ab1184837b6f6f4a130c8b4eb72f576b86c4c46b3e33dada4740a966948d98e6",
+        "sha256:354c6da61dcc176c5b363ded571bea1de41b718131658fa0e563f2a749028cd1",
+        "sha256:8372b101604b2d6e8ab14cfc788695d3e6fabc8b5765e618f5c505ec19472ec0",
+        "sha256:2c08fe5fee90f614a9346b0890972009afb96ca260d0aae9009303b598d0be6e",
+        "sha256:57a43bb79bd8f602519220304090d15fe7e5bd8a6e43931e0151d4cfe30a4123",
+        "sha256:29b05bfe16bb8c49216549af6a302e1bc435eabc4fb737240a8c7df32a14fb5d",
+        "sha256:a052414f97bd8b6ae4eaf2d7850fea0f8e1b44afd58e69c7a6d52ae13108f3e4",
+        "sha256:a5f573bca4988e5c86910cd7f62f1ed5b38e9645369ee65d7dd457e5b1485fc4",
+        "sha256:739593e82e9c0ca78c9845cbb7a9a0eddaccf2c181d198e696d92a43e5dd3d4e",
+        "sha256:0d41ab378ba7ea1911c0e056237875bc896fa47d254a9eb220b794ad99a42de5",
+        "sha256:f466ef57443cba8fc0fcd1c4d8140a82ce37ef27059d47a482456cbded806570",
+        "sha256:0257549d1b0e781a0e1f22cc7e2ef136c75ec6d52c29678b674b9bdfa0e09bfb",
+        "sha256:19fd767c5c36f0f3fd6ef78f13abd3beb37b917fbffbf4352d55f445a44549bb",
+        "sha256:9789bf76c220ef3606e4941d87e92c239b21061b8d70e1468352e975d590e34d",
+        "sha256:0f5768e5287e3b268dec8ea464a9da415656ea94bb71613d495a82ab2c95f935",
+        "sha256:1bfeb52b38a3516d8f3f1ba2ff67c8bf3867254f39c8a81249df14d99ca286a3",
+        "sha256:4b2ffda32e2469cffe49f052a5dc090aa4d9e377e56ae1ff67a57ca329423032",
+        "sha256:be49bc7edf60d0167f64ba78e6e41649874a198cd501e603306b9c90a6e7a3c2",
+        "sha256:c71bf76c2e09a6cad277d7cc12d2d62d6ee2b1eb4fbfaf33bc7b66c9d840fb31",
+        "sha256:b64a766fd8bf6ee4525f3551eb72503cfd70a928cf677102e82ffbd61cf1b248",
+        "sha256:54ef13b8680ecd0825cbd5e377ea1cb2612d5c87964829fc5a7c9ff99284baf7"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "HOME=/home/opam",
+        "OPAMYES=1",
+        "DEBIAN_FRONTEND=noninteractive",
+        "OWLPATH=/home/opam/owl",
+        "OWL_DISABLE_LAPACKE_LINKING_FLAG=1",
+        "OWL_COMPILE_CFLAGS=-I/opt/OpenBLAS/include -I/home/opam/OpenBLAS/lapack-netlib/LAPACKE/include/ -L/opt/OpenBLAS/lib"
+    ]
+}

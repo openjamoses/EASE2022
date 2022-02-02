@@ -1,0 +1,40 @@
+version: "3"
+services:
+  postgres:
+    image: postgres:12-alpine
+    shm_size: '1gb'
+    restart: always
+    container_name: postgres
+    volumes:
+      - creddig_db:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d/
+    env_file:
+      - ./.env
+    # Postgres ports should never be exposed in production
+    # uncomment the ports only for development reasons
+    ports:
+      - "5432:${DBPORT}"
+  credential_digger:
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+      args:
+        - SSL_certificate=$SSL_certificate
+        - SSL_private_key=$SSL_private_key
+    container_name: credential_digger_backend
+    image: credential-digger_pg
+    restart: always
+    env_file:
+      - ./.env
+    environment:
+        - USE_PG=True
+    ports:
+      - "5000:5000"
+    deploy:
+      resources:
+        limits:
+          memory: 16G
+        reservations:
+          memory: 6G
+volumes:
+  creddig_db:

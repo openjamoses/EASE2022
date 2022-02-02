@@ -1,0 +1,22 @@
+{
+    "Name": "docker.io/defects4dl/segmentation_models.pytorch186",
+    "Digest": "sha256:152631d0e86ee1661f1bbe18f9e17ebb8704fab800c5cf903f6d1bbe3a32b22d",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-12-09T01:29:32.5995241Z",
+    "DockerVersion": "20.10.11",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:171857c49d0f5e2ebf623e6cb36a8bcad585ed0c2aa99c87a055df034c1e5848",
+        "sha256:419640447d267f068d2f84a093cb13a56ce77e130877f5b8bdb4294f4a90a84f",
+        "sha256:61e52f862619ab016d3bcfbd78e5c7aaaa1989b4c295e6dbcacddd2d7b93e1f5",
+        "sha256:ef615343f5f2d974d3f25b24ac6d2451fc8021063eed210c7cd38d269ee2e6c8",
+        "sha256:d53d3e42fd49ea4b1b5b9878bf5d193b271870d0af56bcca292ea2f94f8a911f"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

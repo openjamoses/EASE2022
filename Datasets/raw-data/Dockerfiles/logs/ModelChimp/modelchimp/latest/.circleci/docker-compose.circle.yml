@@ -1,0 +1,47 @@
+version: '3'
+
+services:
+  db:
+    image: postgres:10.6
+    restart: always
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+  redis:
+    image: redis
+    ports:
+      - 6379:6379
+  web:
+    build: ../
+    container_name: web
+    restart: always
+    command: ["bash", "./scripts/wait-for-postgres.sh", "db", "bash", "./scripts/wait-for-ui.sh", "bash", "runserver.sh"]
+    volumes:
+      - ./.env-dev:/code/.env
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+  celery:
+    build: ../
+    command: ["bash", "./scripts/wait-for-postgres.sh", "db", "bash", "./scripts/wait-for-ui.sh", "celery", "-A", "settings", "worker", "-l", "info", "-B"]
+    volumes:
+      - ./.env-dev:/code/.env
+    depends_on:
+      - db
+      - redis
+      - web
+  ui:
+    build:
+      context: ../client
+      dockerfile: Dockerfile
+    command: npm run start:local
+    environment:
+      - NODE_ENV=development
+    volumes:
+      - ./client:/frontend
+      - /frontend/node_modules
+    ports:
+      - 3000:3000

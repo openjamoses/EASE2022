@@ -1,0 +1,37 @@
+{
+    "Name": "docker.io/mycroftai/docker-mycroft",
+    "Digest": "sha256:691a99b35509a8f0bacbc6154336b77638cc24992ff488f59eec8bc234b893b9",
+    "RepoTags": [
+        "dev",
+        "latest",
+        "repo_testing",
+        "unstable"
+    ],
+    "Created": "2021-09-10T01:48:07.488378284Z",
+    "DockerVersion": "19.03.6",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5c939e3a4d1097af8d3292ad3a41d3caa846f6333b91f2dd22b972bc2d19c5b5",
+        "sha256:c63719cdbe7ae254b453dba06fb446f583b503f2a2c15becc83f8c5bc7a705e0",
+        "sha256:19a861ea6baff71b05cd577478984c3e62cf0177bf74468d0aca551f5fcb891c",
+        "sha256:651c9d2d6c4f37c56a221259e033e7e2353b698139c2ff950623ca28d64a9837",
+        "sha256:494f28b5c0f5471b165be9c1071bb2289c0147aa4682be83ff87462f6872a6e0",
+        "sha256:499a3d078bd6f4437c29366e9ea4aa135471a22ba9fb117fc629417ca397575d",
+        "sha256:8a4c812070e5d3ad5a836c23850c2ff8c599897fd68ea34c83c27d7e47fd1d9b",
+        "sha256:3622d1e2ac2467e3466336d0b9fba252fe406b862660598d35b0be8560615630",
+        "sha256:d326de90a193110e529fd8236c23a1dc215c905d53b381f80b32b1f1727c261d",
+        "sha256:e0ee75c9940a66da783c971a45164c486d6250bfed09b33e70f3589bce8b8ab1",
+        "sha256:c29764019298ed8f964a4697b77fc1c0352fed38c8d83a79ee2391be8ca62547"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "TERM=linux",
+        "DEBIAN_FRONTEND=noninteractive",
+        "LANG=en_US.UTF-8",
+        "LANGUAGE=en_US:en",
+        "LC_ALL=en_US.UTF-8",
+        "PYTHONPATH=:/mycroft/ai"
+    ]
+}

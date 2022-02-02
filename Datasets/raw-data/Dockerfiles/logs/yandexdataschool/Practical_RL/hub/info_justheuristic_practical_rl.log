@@ -1,0 +1,31 @@
+{
+    "Name": "docker.io/justheuristic/practical_rl",
+    "Digest": "sha256:38ac8f04283c18bbcc230f5eef1e8860fd2f828b4d323c411e0c7a80fcdefc10",
+    "RepoTags": [
+        "coursera",
+        "latest",
+        "spring19"
+    ],
+    "Created": "2019-03-11T14:55:48.797381219Z",
+    "DockerVersion": "18.03.1-ee-3",
+    "Labels": {
+        "maintainer": "Alexander Panin \u003cjustheuristic@gmail.com\u003e, Dmitry Mittov \u003cmittov@gmail.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7b722c1070cdf5188f1f9e43b8413157f8dfb2b4fe84db3c03cb492379a42fcc",
+        "sha256:5fbf74db61f1459176d8647ba8f53f8e6cf933a2e56f73f0e8da81213117b7e9",
+        "sha256:ed41cb72e5c918bdbd78e68f02930a3f1cf1d6079402b0a5b19de8508e67b766",
+        "sha256:7ea47a67709ebea8efed59fbda703dbd00a0d2cae7e2808959744bfa30bfc0e9",
+        "sha256:e987b30331e84bcec01c1a0d61be738d5b068d7af21c029124bd9fd4238f0641",
+        "sha256:ea2933ca90cb94a14f6e53f567b5cafd1fd5afaedae00df05c3fefd7667aff3b",
+        "sha256:68f7bbf8f12f76eae7e66b67d6d7a0bba36c373de1ae7431661a2445e2f69eba",
+        "sha256:4a3cb11af056671ee1ef2c92048f446c888c6b6d109d230851bd034b13a934f8",
+        "sha256:308d3d07fa30d30e577f0ca1f893c268eef9d238c23091bd9f35891899070ea6",
+        "sha256:1dd5590dd5fb2fc9e55d5b2746f05a53aba9dc21846e687206a8cd35673fb701"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

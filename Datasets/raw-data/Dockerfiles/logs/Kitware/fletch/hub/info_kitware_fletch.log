@@ -1,0 +1,43 @@
+{
+    "Name": "docker.io/kitware/fletch",
+    "Digest": "sha256:0ef2c6849830dd39a66928e426ce3aeffd590f92eca18b2ff185a0f01dbb2106",
+    "RepoTags": [
+        "1.2.0",
+        "1.3.0",
+        "1.4.0",
+        "latest",
+        "latest-ubuntu16.04-py2",
+        "latest-ubuntu16.04-py2-cuda10.0-cudnn7-devel",
+        "latest-ubuntu16.04-py2-cuda8.0-cudnn5-devel",
+        "latest-ubuntu16.04-py3",
+        "latest-ubuntu16.04-py3-cuda10.0-cudnn7-devel",
+        "latest-ubuntu16.04-py3-cuda9.0-cudnn7-devel",
+        "latest-ubuntu18.04-py2",
+        "latest-ubuntu18.04-py2-cuda10.0-cudnn7-devel",
+        "latest-ubuntu18.04-py3",
+        "latest-ubuntu18.04-py3-cuda10.0-cudnn7-devel",
+        "release",
+        "release-ubuntu18.04-py3"
+    ],
+    "Created": "2021-05-27T08:00:24.086930711Z",
+    "DockerVersion": "19.03.12",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5c939e3a4d1097af8d3292ad3a41d3caa846f6333b91f2dd22b972bc2d19c5b5",
+        "sha256:c63719cdbe7ae254b453dba06fb446f583b503f2a2c15becc83f8c5bc7a705e0",
+        "sha256:19a861ea6baff71b05cd577478984c3e62cf0177bf74468d0aca551f5fcb891c",
+        "sha256:651c9d2d6c4f37c56a221259e033e7e2353b698139c2ff950623ca28d64a9837",
+        "sha256:0e1e597234fb092e6a406323217fa80ba3fa8a30696b9b3dac554830a93bc59f",
+        "sha256:d53687d80dcf8793c21cb10b43965e42acc2d150d116a797caf85a8d872accd1",
+        "sha256:537305ff6cbde678a87e3b51bc92687841591cb46b2ee586095a9db269bd88ff",
+        "sha256:a55b44bc9e12bcaa9a0bd49b1b220b3d29bce850c36b467743017669603a1186",
+        "sha256:36df76f97624291c67b84954f30d0ce9fc47be1f6a147b12d326731648aea7c5",
+        "sha256:a81faa7d734d723025bde4f9457ae02b873200181415e67ef0d8d1850db9bb09"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LD_LIBRARY_PATH=/opt/kitware/fletch/lib/:"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Name": "docker.io/tnarihi/nnabla-examples",
+    "Digest": "sha256:b4b55c9484fb9b8501116a84de353631ba1b8b27f8a49cab3f513f7925766710",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-03-06T04:00:28.860828134Z",
+    "DockerVersion": "18.09.7",
+    "Labels": {
+        "com.nvidia.cudnn.version": "7.6.3.30",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:f7277927d38a1e97097bad567848b648a4b75175b63343f472259f7aa429f3b2",
+        "sha256:8d3eac894db4dc4154377ad28643dfe6625ff0e54bcfa63e0d04921f1a8ef7f8",
+        "sha256:edf72af6d6272f4361985009d4a191da77c0cbe241e0ba44255f7a8f0fd7dbcb",
+        "sha256:3e4f86211d23962822c21275a30ae579dbce9a4233ad31549f8253730395f77c",
+        "sha256:d6e9603ff777fcbfb8b4339245726943d68fd8d4592a868ba2c762cb17cef7de",
+        "sha256:5cad422780e2c8a4650b0660309abc2f7a4d004a3aef8b4dea59db0cadb41cae",
+        "sha256:8130687c8acb7dd7f64f2b7247afc9979d75e67e343a275261d0c767c182b4e2",
+        "sha256:c11e9246d621ac37b7f7764de4d8e399ddabb936562128e218e1ff22e2b774db",
+        "sha256:b6e32c6acdfe0865952282db762f47073be070c934139a9214e741e8072e1b12",
+        "sha256:ad1de97116e87eb6dafb925938b7b741d4444f3fadfb197dcfe3ef6cd592818f",
+        "sha256:9148c35bae9389e163e5f3995f0e6ba2a573f03e8dd02553bf39d7bae2c1232f",
+        "sha256:870afcd8b69dcb6e90d61c706a177b250a2c02f4dd3b94edad8c18d360465185",
+        "sha256:b64d1d85087282c042c2b6450899dc0be3d3a04e2d9c7aec17341bec0e797130"
+    ],
+    "Env": [
+        "PATH=/opt/miniconda3/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.0.130",
+        "CUDA_PKG_VERSION=10-0=10.0.130-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.0 brand=tesla,driver\u003e=384,driver\u003c385 brand=tesla,driver\u003e=410,driver\u003c411",
+        "NCCL_VERSION=2.4.8",
+        "CUDNN_VERSION=7.6.3.30",
+        "OMP_NUM_THREADS=1"
+    ]
+}

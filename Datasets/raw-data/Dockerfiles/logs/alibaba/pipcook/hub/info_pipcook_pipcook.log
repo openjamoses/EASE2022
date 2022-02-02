@@ -1,0 +1,54 @@
+{
+    "Name": "docker.io/pipcook/pipcook",
+    "Digest": "sha256:bf7b969df16071d6fb593a59f33418c906010f67ffd0f5938cf112757925bfd0",
+    "RepoTags": [
+        "1.0.0",
+        "1.2.0",
+        "1.3.0",
+        "latest",
+        "version-0.1",
+        "version-0.2",
+        "version-0.3",
+        "version-0.4"
+    ],
+    "Created": "2020-12-18T06:40:10.736110069Z",
+    "DockerVersion": "19.03.13+azure",
+    "Labels": {
+        "com.nvidia.cudnn.version": "7.6.5.32",
+        "description": "docker image for pipcook runtime",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e",
+        "version": "1.3.0"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:171857c49d0f5e2ebf623e6cb36a8bcad585ed0c2aa99c87a055df034c1e5848",
+        "sha256:419640447d267f068d2f84a093cb13a56ce77e130877f5b8bdb4294f4a90a84f",
+        "sha256:61e52f862619ab016d3bcfbd78e5c7aaaa1989b4c295e6dbcacddd2d7b93e1f5",
+        "sha256:c118dad7e37adfed9d523957d265827f029930243d4b5c1e6648a6bc7d1dced0",
+        "sha256:2e36372995f9dc309f3f3050a1a22ff8f0e63b61b02757d0f8c96e44a221dabd",
+        "sha256:0b8e00a4ba4e97e896b320bb3dfab4a19e04965c9f92088d3332526cdf2d38df",
+        "sha256:b3026b4f25816eab17815a385fb2c5aae8b3a958a4e7e69b1b92cd2d98ce3dcc",
+        "sha256:93cc193ccd9894c23471c5c2e3cfbe9f329774c12335bef5ebc751cca511eb5e",
+        "sha256:ee06e59a4314665331939693ca189f72be05efdf20416a1fd4285c83234bc9fa",
+        "sha256:b0ac690bb2f2ba3b05273a92932a6089ef0ffc976b21429b4b81fa768731e1bb",
+        "sha256:5f11ace0944ec2b25928dccf3ae85498f53b82fd0b6a6de1998ab1138db1c654",
+        "sha256:817788b81109424b526a21938668b42e6acc13c9d8366d565619845761fe9c9f",
+        "sha256:08943a73cd540696f5f40e798e57cbc0b43114ee07aa7b5944da98cda8a46861",
+        "sha256:8c68c9d4828d72a74ecd4e87fda8d10351f554395c8e46f589e84a257544dfb3",
+        "sha256:db11342f15acad9a783dcb1024594ec5aebe86d3adcedd095ada7ea16274e140"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.1.243",
+        "CUDA_PKG_VERSION=10-1=10.1.243-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.1 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411 brand=tesla,driver\u003e=418,driver\u003c419",
+        "NCCL_VERSION=2.7.8",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CUDNN_VERSION=7.6.5.32",
+        "TF_FORCE_GPU_ALLOW_GROWTH=true"
+    ]
+}

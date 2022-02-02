@@ -1,0 +1,8 @@
+version: '3.2'
+services:
+  spacechop:
+    container_name: spacechop
+    image: spacechop
+    build: .
+    ports:
+      - 8080:3000

@@ -1,0 +1,56 @@
+{
+    "Name": "docker.io/mmkamani/mmclassification",
+    "Digest": "sha256:c0de3fd1038967cc34730842d0c0fdbd5601ac3b4e47c8fe1df3dccfa699ee17",
+    "RepoTags": [
+        "kd",
+        "kd1",
+        "kd2",
+        "latest",
+        "tf"
+    ],
+    "Created": "2021-08-10T19:05:05.6304927Z",
+    "DockerVersion": "",
+    "Labels": {
+        "com.nvidia.cudnn.version": "7.6.5.32",
+        "com.nvidia.volumes.needed": "nvidia_driver",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7ddbc47eeb70dc7f08e410a6667948b87ff3883024eb41478b44ef9a81bf400c",
+        "sha256:c1bbdc448b7263673926b8fe2e88491e5083a8b4b06ddfabf311f2fc5f27e2ff",
+        "sha256:8c3b70e3904492c753652606df4726430426f42ea56e06ea924d6fea7ae162a1",
+        "sha256:45d437916d5781043432f2d72608049dcf74ddbd27daa01a25fa63c8f1b9adc4",
+        "sha256:d8f1569ddae616589c5a2dabf668fadd250ee9d89253ef16f0cb0c8a9459b322",
+        "sha256:85386706b02069c58ffaea9de66c360f9d59890e56f58485d05c1a532ca30db1",
+        "sha256:ee9b457b77d047ff322858e2de025e266ff5908aec569560e77e2e4451fc23f4",
+        "sha256:be4f3343ecd31ebf7ec8809f61b1d36c2c2f98fc4e63582401d9108575bc443a",
+        "sha256:30b4effda4fdab95ec4eba8873f86e7574c2edddf4dc5df8212e3eda1545aafa",
+        "sha256:b398e882f4149bf61faa8f2c1d47a4fe98b8fe1b2c9379da1d58ddc54fe67cf0",
+        "sha256:4fe309685765e289ef3f68799c3d8d17885a7e1b7a37fe7823890339e4e24f6a",
+        "sha256:8b87a3cb3232d5d99703617fe0333aa261ab8da245dc9c4d9ab94d964e2c9890",
+        "sha256:6cac8a6cf141fffb0ebddf813e3efdbf1c72b0e737284ebb8bfd95085b035cb6",
+        "sha256:439f8cab4a0b2b93ceaca53d9e7facf4b377ab640bf476bec65455e0849357dd",
+        "sha256:901cae0cdd0feba4dde93de3c4a0f45cfd63739488ee0c7338b7cac8407e566a",
+        "sha256:79117abd79a4df86e4a0f7a0c041e3b964b6446a7748aa48baac1675c13f01e0",
+        "sha256:b923c71567c27a9b04cc538a7a2897a65448a427c27a481ffcf4853c53390652",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:9919cf6c8c7c92a3623b26024e9b28f4c295fff81510cdebd49e3f17eaac2a7c"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.1.243",
+        "CUDA_PKG_VERSION=10-1=10.1.243-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.1 brand=tesla,driver\u003e=384,driver\u003c385 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411",
+        "NCCL_VERSION=2.4.8",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CUDNN_VERSION=7.6.5.32",
+        "TORCH_CUDA_ARCH_LIST=6.0 6.1 7.0+PTX",
+        "TORCH_NVCC_FLAGS=-Xfatbin -compress-all",
+        "CMAKE_PREFIX_PATH=(dirname(which conda))/../"
+    ]
+}

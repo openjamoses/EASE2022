@@ -1,0 +1,42 @@
+{
+    "Name": "docker.io/amor71/liu-db-in-a-box",
+    "Digest": "sha256:a66807093bbb0979728127193839248ba59a6c1792bdcecb59e2109cc94e819a",
+    "RepoTags": [
+        "0.0.50",
+        "latest"
+    ],
+    "Created": "2020-09-23T02:48:29.272864Z",
+    "DockerVersion": "19.03.12",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:d121f8d1c4128ebc1e95e5bfad90a0189b84eadbbb2fbaad20cbb26d20b2c8a2",
+        "sha256:9f045f1653de6c279998004b52c81dc572a7730c8598b0e8bd92765c5a2f35da",
+        "sha256:fa0c0f0a5534ba38022d0a9ed653c8e3649bbce0c6d1ecc5386dffb0502accd1",
+        "sha256:54e26c2eb3f16dfe589bc1837cb9d140a191941a03428073c39d58fcf002a964",
+        "sha256:cede939c738e137a9174bc553a90c9abf1536d29f19ed799de1b0acdf6541167",
+        "sha256:69f99b2ba105bbf15f26d57bb4d8364c445afce4cb6b48cbda46fff3eb23e818",
+        "sha256:218ae2bec541af35b0715c9957604d0da7f686cf0e8ff0cabfc69f36a098ab9e",
+        "sha256:70a48a74e7cf30aa661afa8601da61c9c1702edda898986131d9313de710c7d3",
+        "sha256:a5a0d51f9154911bcd35ebfd1e9284a883507e0f35709d5573039a1a6fbaf172",
+        "sha256:73e23a8be3f2dacfc0488a9e91837a415f6103d009c3987f670d4ba336892d4b",
+        "sha256:770413f2d2dac65cb9ba1739c01de807e3f6e4f6bf4aa62cdc27d63d305e63b4",
+        "sha256:8ff552bf08c65cae647d075dbe499f39b14c2b775532334cb14b1cc66e9cdf68",
+        "sha256:a367abe73a12ded5d567941571afdc73d572e1d841f60a754ea464fa93393974",
+        "sha256:007c3a47b37ed41d589cc0f8780d8237e2bfbba08f8a2df238cc38ae7db44472",
+        "sha256:a469eb4ef78334b1f0d15d908db907300966225d8b1e7043f959b2758178fbb4",
+        "sha256:a4af62ae5f5623da9f87bbfec5065ad1e9318ea240f5020280de43c6c8e8e7bb",
+        "sha256:a6dc0be5739338c6c21fc333c74dda5abef8423910f2ba794eb9859f48b420ca",
+        "sha256:88708f17fc26f45ec478c75fc6d78e3e6478177f43ed05ca98c59bff9a60b3dc",
+        "sha256:9ef76cb291cd29bdeaf4abb5490cbfdec26bcedf599519a377d46ad7515797e4"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/postgresql/12/bin",
+        "GOSU_VERSION=1.12",
+        "LANG=en_US.utf8",
+        "PG_MAJOR=12",
+        "PG_VERSION=12.4-1.pgdg100+1",
+        "PGDATA=/var/lib/postgresql/data"
+    ]
+}

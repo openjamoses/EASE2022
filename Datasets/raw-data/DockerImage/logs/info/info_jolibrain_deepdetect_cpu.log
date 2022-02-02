@@ -1,0 +1,52 @@
+{
+    "Name": "docker.io/jolibrain/deepdetect_cpu",
+    "Digest": "sha256:de9371e9ecb20cafb0f1e89fe787bee315f27539cfe8dd9bde414c2c5274d0fb",
+    "RepoTags": [
+        "ci-master",
+        "latest",
+        "v0.10.1",
+        "v0.11.0",
+        "v0.12.0",
+        "v0.13.0",
+        "v0.14.0",
+        "v0.15.0",
+        "v0.16.0",
+        "v0.17.0",
+        "v0.18.0",
+        "v0.19.0",
+        "v0.20.0",
+        "v0.9",
+        "v0.9.5"
+    ],
+    "Created": "2021-12-18T01:18:30.958606401+01:00",
+    "DockerVersion": "",
+    "Labels": {
+        "description": "DeepDetect deep learning server \u0026 API / cpu version",
+        "maintainer": "emmanuel.benazera@jolibrain.com"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7b1a6ab2e44dbac178598dabe7cff59bd67233dba0b27e4fbd1f9d4b3c877a54",
+        "sha256:f89cba69ce11d75767d3ed787a417adbc25afd3f34106e6ef3673a9d98f30592",
+        "sha256:491f223a609e4cf136285d2be2ce84f6e045dd51b3c1affcb9827daa4686e8b4",
+        "sha256:4f84a6caf730114f0492f40080f8ad13f51a7d00ea001f4fdd41fb052334edea",
+        "sha256:7bdad05b77dfda0aea1e9424f1ef40c6e569be0a1da33e41c3ee6bd3457e4022",
+        "sha256:38b4921c729d0dd0cf4b77fb9ecd6c10d08b075572eff873b1791b30f1b6b31c",
+        "sha256:9a776e3d9f529b2617b71250f328a9cd895b10a035453041c93e61e9a62e0581",
+        "sha256:b74016992d3bf55b75478bbcb2276ae9b4a925275c6718bfa47324b032b58d63",
+        "sha256:d643a46271a8f5e527a9c82c2b9937a894e946c0a5a15b418ff509e4d20378e6",
+        "sha256:12821c0887c3b7d543d00c2c16e78bfd1994d1b24b33625b4b3f35058db1371e",
+        "sha256:0ff7706474537c96de7f45aa7cb145c0724277c50e1f470d539ca723b2fe7d48",
+        "sha256:7a718e09f738caa002bc1fb178175aeda45e67fde4c779266f11ed5c53e93c3f",
+        "sha256:e5a413fa30dbbb7175023e3c959aefc81cee959427ee80ca9d3129d8c8fb17f6",
+        "sha256:28f1549d6d5aa015cfbe27b691c5ea6b55c0db59567322e85eb4a84e057220ff",
+        "sha256:3b21f07fc31079db69b4afcce76fe310f545500858d5b673610979f6bb1b93bf",
+        "sha256:18657d751bdd307c165c6d855d7d2530a8063dc435b5654faac80962860e1176",
+        "sha256:1aa346f68272495946bc5aaae2363bba9cbdc64f9b83637f3b267d8b5e4ce75d",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

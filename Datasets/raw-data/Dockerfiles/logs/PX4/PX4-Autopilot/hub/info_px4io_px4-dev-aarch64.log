@@ -1,0 +1,55 @@
+{
+    "Name": "docker.io/px4io/px4-dev-aarch64",
+    "Digest": "sha256:6e4f0aeeb2e5e25fcfc70c571fde8a044d16ab36cb0c8e0706eca917db522949",
+    "RepoTags": [
+        "2020-11-12",
+        "2020-11-12b",
+        "2020-11-18",
+        "2021-02-04",
+        "2021-03-15",
+        "2021-04-26",
+        "2021-04-29",
+        "2021-05-04",
+        "2021-05-09",
+        "2021-05-27",
+        "2021-05-31",
+        "2021-07-06",
+        "2021-07-07",
+        "2021-07-12",
+        "2021-07-13",
+        "2021-08-18",
+        "2021-09-08",
+        "2021-12-11",
+        "latest"
+    ],
+    "Created": "2021-12-11T17:04:48.831599674Z",
+    "DockerVersion": "20.10.11+azure-1",
+    "Labels": {
+        "maintainer": "SalimTerryLi \u003clhf2613@gmail.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:c4cc477c22ba7abce860198107408434dd7bd73ddbaf82f1e69ab941b9979405",
+        "sha256:4f10f6f526975bf215416d946138d59ba992f139ec5a7bbfbcff4f2dd68427be",
+        "sha256:48ddc52952ed31e708817ed0cc4acea4eaa726949c94ee81269314a81488d2ca",
+        "sha256:bd938534a3b4916862b72b0e5dec4773ea4e9be81eb8b12a1a0524598a1d47f7",
+        "sha256:7974db7839e631aff218c8db6c901784b05d9e53dc24e793077695b6cbd1f2b9",
+        "sha256:e33d3fdc0560bb22ffc7a5926acf561375148806173f484929cf0dd7e8784eea",
+        "sha256:5ed359bfff799ad6755948a96278da81980db0466c6aa1e693dd0fd4e8badd68",
+        "sha256:9ef2455380c40e6839d5c1cbae72b2f3b7a026022ceb40e3810a1d42554815ca",
+        "sha256:408047f273b1c97cb9920974e5db067248df7717518d43c0ed8c26736e59b1ba",
+        "sha256:2a274e05717a95e6982beee15bbadd5b644bdb855a8cc8fe9500ee675f7601ce",
+        "sha256:fa29ec21c3c0124af546762e845f982735e57e87a2b077175d82c722fbcf450b"
+    ],
+    "Env": [
+        "PATH=/usr/lib/ccache:/opt/gradle/gradle-5.6.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "DEBIAN_FRONTEND=noninteractive",
+        "LANG=C.UTF-8",
+        "LC_ALL=C.UTF-8",
+        "CCACHE_UMASK=000",
+        "FASTRTPSGEN_DIR=/usr/local/bin/",
+        "TERM=xterm",
+        "TZ=UTC"
+    ]
+}

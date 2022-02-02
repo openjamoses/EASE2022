@@ -1,0 +1,51 @@
+{
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "schemaVersion": 2,
+   "config": {
+      "mediaType": "application/vnd.docker.container.image.v1+json",
+      "digest": "sha256:6fa5f2d1f9063a252fbef78c7abdb8e2831b75302d3542eafccf2971c61d2315",
+      "size": 7497
+   },
+   "layers": [
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:5758d4e389a3f662e94a85fb76143dbe338b64f8d2a65f45536a9663b05305ad",
+         "size": 2822425
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:5033ac7b19c6db803a9162be281aa25e9d6d861085948b959a3e6297ff338a02",
+         "size": 5325565
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:e4af38c000ac2e395aae86126257c24813134e971cea7d67c215fe6169b46cb0",
+         "size": 9348311
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:6e7a9819a00a401a44b2e13b583af3b96f445e4d1cd8425889104c7e66df9c22",
+         "size": 181066226
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:c35420f118e664f4676fd1271ef6e1f9b0ada3984f68584cd6a8af37fdb86e46",
+         "size": 119012571
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:1dd73a988d58f0894e28aa8ce2306bbeec54052d1e2a5c884b577f0ef3097600",
+         "size": 19150295
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:04bed6f77b226fbb3739e5649a0b88dc6070098efa89f0f1e80be03287183e4a",
+         "size": 5987872
+      },
+      {
+         "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+         "digest": "sha256:019deeaa7811cf01740139869804aaa52082de4dcf624aac7e01329a36e6f347",
+         "size": 105
+      }
+   ]
+}

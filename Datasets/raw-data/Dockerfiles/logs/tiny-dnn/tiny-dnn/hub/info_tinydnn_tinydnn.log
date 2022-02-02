@@ -1,0 +1,34 @@
+{
+    "Name": "docker.io/tinydnn/tinydnn",
+    "Digest": "sha256:62abd68e0ba8e6b889dc5a0a7ea0b6a0a8edd69e3991873ed33eae828f85e423",
+    "RepoTags": [
+        "dev-env",
+        "dev-ubuntu17.04",
+        "latest"
+    ],
+    "Created": "2017-07-27T18:01:15.967809724Z",
+    "DockerVersion": "17.03.1-ce",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:e8a74323e913fcdecf4b97eaf9cdfe319efecd6e1cd30c1ff055bef20fbf0970",
+        "sha256:5fe91835aea80d04fbe0c1300d2d0573406ac2807004fd6453a59853da9a3040",
+        "sha256:4b2aac3e93a579b93195e10fd3196b349950bd22c8accf4b0588b65d3930584f",
+        "sha256:faefbf4d7e6d0bae260aaa58b596a2543d2e4c48c06dec22945a80400e69bda4",
+        "sha256:071e113a30b5e30ffac44385d213d79d09a709326414b01cc7e6828e78183d9b",
+        "sha256:904ff2f9afe43d69a2e94e148e8110dd2dff0b109a38b7b517146cd110270613",
+        "sha256:a33cc34c22a0559efd7472114912b7debe79f10f541e0038cd7642a51cd99296",
+        "sha256:840ad4bd7171061936905c88ef87182a9f1b4f50fbd83be5253916cb6e4cfd11",
+        "sha256:8fa6b18cf0a335752f239677e4dd44f76b73bdf9089eca8f456bdc3e840e86ec",
+        "sha256:2aae5c17708d694e3e444ba859e7d0dd8efa14845a8251867b7e18d7ea10ea5c",
+        "sha256:28d32f9e5384b3504cf16fcfd65983d7861fd274ee9e7f7c7ef21e5221c8a68c",
+        "sha256:36030b116e55245e8ab667fa8f6adbce999eb227e48c0547a40bd3776c0a89ed",
+        "sha256:def586191627db206725518425564000bc1276328d7cddb8d30ef9575e17aaa0",
+        "sha256:fb2de0fda181f41dddd9d6a82658595133edadce111c5807463309e45efd8062",
+        "sha256:9a98886d76892f4cb2f9912f31f3bc714a483a56f6b95eda0498cca730a87a1e"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

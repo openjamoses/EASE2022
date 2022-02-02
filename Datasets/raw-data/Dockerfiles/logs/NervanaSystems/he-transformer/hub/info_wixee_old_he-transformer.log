@@ -1,0 +1,23 @@
+{
+    "Name": "docker.io/wixee/old_he-transformer",
+    "Digest": "sha256:44ca064a12c829aac9d8e6671474fab32e0d05e0cf242f6d4229359a5214ed16",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-12-23T09:53:04.4708108Z",
+    "DockerVersion": "20.10.0",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:171857c49d0f5e2ebf623e6cb36a8bcad585ed0c2aa99c87a055df034c1e5848",
+        "sha256:419640447d267f068d2f84a093cb13a56ce77e130877f5b8bdb4294f4a90a84f",
+        "sha256:61e52f862619ab016d3bcfbd78e5c7aaaa1989b4c295e6dbcacddd2d7b93e1f5",
+        "sha256:fb9ed175d6f427fc766089ecd6da0c5e12e03009b74a03fb07a9d902fa71a46c",
+        "sha256:9c44005337cf9986d3f01bf65844372e15807b378098c8e70a23777e386f6aac",
+        "sha256:6aeba3f2eb0c684b7fc0346cfee9748fcfa19d0179f7ffa427c7bc231272152d"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

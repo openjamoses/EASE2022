@@ -1,0 +1,28 @@
+{
+    "Name": "docker.io/juliareinforcementlearning/reinforcementlearningenvironments",
+    "Digest": "sha256:24286adfa276698fb7527a04968955a1931da36088aa75695bc8da1eac2c01ab",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-03-27T09:13:44.9664608Z",
+    "DockerVersion": "18.09.1",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:22dbe790f71562dfd3d49406b1dfd1e85e50f3dd7cb2e97b3918376ca39cae4e",
+        "sha256:c68eba860cfdeef8f80a2bef77da20354df936d8a78570cd355d365a5e1f6e09",
+        "sha256:1010cbdf478c998e621db20097911659d5bd491e9785134307a6b3cc56d34e41",
+        "sha256:d0d604c2e24dd1a3fec9beb187b3d5ed74077686f367388765e72dd0ededd859",
+        "sha256:5d914ba50b59920884f8efd831c079484f97363909fa450a5a493324ae15435c",
+        "sha256:dcca0305d2cc055906db66d090cd960c89ef5f49a0d52863bc8ed793e8eeef34",
+        "sha256:086b4b5570620bed9d609c5817cd5f17c4a5a40d6ec410cf20dc7bec21850656",
+        "sha256:3b0724b591d7ec08383558379f3b6aa98fbfddeb71d205fc7e12795528e517e7"
+    ],
+    "Env": [
+        "PATH=/usr/local/julia/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "JULIA_PATH=/usr/local/julia",
+        "JULIA_GPG=3673DF529D9049477F76B37566E3C7DC03D6E495",
+        "JULIA_VERSION=1.1.0"
+    ]
+}

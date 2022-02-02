@@ -1,0 +1,26 @@
+{
+    "Name": "docker.io/cair/deeprts",
+    "Digest": "sha256:171deedf4d3111c69a30110e0c67d38241c08953e7dafee359e062162d08eda8",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2018-02-11T05:39:30.796808459Z",
+    "DockerVersion": "17.09.0-ce",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:1be7f2b886e89a58e59c4e685fcc5905a26ddef3201f290b96f1eff7d778e122",
+        "sha256:6fbc4a21b806838b63b774b338c6ad19d696a9e655f50b4e358cc4006c3baa79",
+        "sha256:c71a6f8e13782fed125f2247931c3eb20cc0e6428a5d79edb546f1f1405f0e49",
+        "sha256:4be3072e5a37392e32f632bb234c0b461ff5675ab7e362afad6359fbd36884af",
+        "sha256:06c6d2f5970057aef3aef6da60f0fde280db1c077f0cd88ca33ec1a70a9c7b58",
+        "sha256:55c38097f30244223f6ebebc1dc196363f09dbbdf57ce7631fe5110210bc3d04",
+        "sha256:fd00a710d54d97d33fe1b3cf7d49793fa1fc996df1704644863adb2d22e76595",
+        "sha256:b165c365c657fc6bb1b47e4f706c8ff249df7b285f44c0b3e5c45618454b4490"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "SDL_VIDEODRIVER=dummy"
+    ]
+}

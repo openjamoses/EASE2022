@@ -1,0 +1,54 @@
+{
+    "Name": "docker.io/cselab/korali",
+    "Digest": "sha256:a225d426e85e04680c19743a208d1e4ea87436c5e7f83dac12e6d15ada457387",
+    "RepoTags": [
+        "3.0.0",
+        "3.0.1",
+        "latest",
+        "v1.0.2-919-g6fd15337",
+        "v2.0.0-sshd"
+    ],
+    "Created": "2021-09-24T12:32:25.941398569Z",
+    "DockerVersion": "",
+    "Labels": {
+        "io.buildah.version": "1.19.6"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7ad7b5af4a5951c0f7c7fd8619354d2c6269055d061c6043ca554fb1f07df34d",
+        "sha256:c5150c529617573e51a4fd8c325085d0aafd9f6daba423bf775ee11e4c284494",
+        "sha256:afd52cc87af36c4950240259992afbbd0bb54907b6d363aa51fd6cfd9a662a91",
+        "sha256:7babe00fe3b22877bfa96adf07c2c24ef2710f9cfe511c841d41dadefedd1cc5",
+        "sha256:812bbf55049fee9f548a2141f550626e42839cadaa86b6c0837fe618981104a8",
+        "sha256:32c822e83ff30332bd71628834de30d60d5219b72cdee1316c07d6a2439300d3",
+        "sha256:95210ef7dac889dfa26f9eb7125cbdc09ca2dbb7a8c1ebc897545e9f9d753e6b",
+        "sha256:c898c5e44c1407cbb67c96a4d817ffd3f7c959d4befaddbbcd443c66be083878",
+        "sha256:3fcf90fc3368575cf0821d7a02a71f5d2e3c5364c4889021c0e93679444a83f7",
+        "sha256:dadd3f0a5fa7996ea52b4dda237f544278f4a9053de0bafd0c651e67c44150da",
+        "sha256:0af67acbf1451ab802769708e6f47dcd1037b8144ef9f8ee2a3c8aa6c0273d0c",
+        "sha256:47324fb3692b9d7bef6f418d0cec08bafd5cb8254f860baa0c5a63e448437669",
+        "sha256:40a3c8f1ddb43e9bc1bc202056e0dfbf8148158b61ff7260c4dafff7f66c44b7",
+        "sha256:5baa9de2a1c11dbfa586fba98ef3a6cca237222559d094bb7d082396f47eba2a",
+        "sha256:21c421839175c84d07d1565730ef9c72dc31f4d373d8bd7f06fbfc25ac2565cd",
+        "sha256:0b34dce06a59ff5c3b474fdae2283c2283e025af5eae14dc8d96f9aac53685cf",
+        "sha256:9ae13f8aae04a91feb5b87f4f9827783741ea521e495e497699ec5fcaa3d89f6",
+        "sha256:3d8ab411adc746e6182855d92230bcef1204764358a69b539a67de01713b92fe",
+        "sha256:408f8584cf89618d0398095eb0262e7a3748549cbcc9b3ef201faea9ba7cd6c3",
+        "sha256:7bc3de16b445bebeb4f700f816bf99d1c459d95617c3616ce836ed74d36ad632",
+        "sha256:5319a9468d7346e9cb3d71728321c834e52e07274fc9058ade4e4c336e997161",
+        "sha256:bbd44114bd6ea748253533e2654e469a0abbbad99e2df3cdc8440b077e380e09",
+        "sha256:d7b566ddea621a592cc962093c37c22af51fe31ed71eac25bc234448d548169b",
+        "sha256:966188bbab1c4691676be2cb67278b05904313b763586e853c0a3082c351c2f1",
+        "sha256:79e5201af4c4b81ff58600a924066a658cae0f599167829b481826e4ebdff686",
+        "sha256:ea3238077ad5c1140b173532f036862df481a6d23192a3de08b9ffdfd33dd185",
+        "sha256:234b652f323982588802372c81b85d79ca3d48d9a84ddbdc40a8df2ebaad7c5f",
+        "sha256:27888050ec530f8deb37d95eddddebc67b5f3414c6c1f324d811e5c1cf01907b",
+        "sha256:a2a17eb3dd308cb46a5ee2d7301cf55f266cfe54fece2bd3c438ff654191eb54"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "TZ=Europe/Zurich",
+        "PYTHONPATH=/usr/local/lib/python3.9/site-packages/:"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "Name": "docker.io/borispolonsky/vizdoom-pytorch",
+    "Digest": "sha256:5fe1dd2e9032d5b1baf8065683bccf9e5e1b04bc6c56ea351a747ede4b988167",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2018-11-19T13:14:37.063225373Z",
+    "DockerVersion": "18.09.0",
+    "Labels": {
+        "com.nvidia.cuda.version": "9.0.176",
+        "com.nvidia.cudnn.version": "7.1.4.18",
+        "com.nvidia.volumes.needed": "nvidia_driver",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:b234f539f7a1d65eabae1617e63c81ac01768abffd48b5cbbf7166efca6a3429",
+        "sha256:55172d420b43cf03feeec11bcc917c7ddfc192036102e065ab57aa9abb95311e",
+        "sha256:5ba5bbeb6b91e2676c98255c6babc66d7b05cac40185eeba4b3773199c701da0",
+        "sha256:43ae2841ad7a7fd1aeae30028105cac7f6ee0ec955e5229e52b3333fea3c17b5",
+        "sha256:f6c9c6de41905e9a66f2bc2c4a19858c8dc5b0a94f01e03eafc719afe25888aa",
+        "sha256:ae8674e81eb98160ee8743524cdc0ff409adc2a00f9d155d2537eb5e48276577",
+        "sha256:a7db0a31b4dea19da68203d37763383e167d8e8333fbb391d285f28bf5f637e6",
+        "sha256:9ff4bf740ec92ad41eed34c2f804847763f0db60ef0730bc90f03796d3889b12",
+        "sha256:1e42741324c225f7e6cd027b7e23855b2adbfb9b31ac7b37b8e5ef376204d2ea",
+        "sha256:25e2df48eaa70c34183738d01a319fd19fd0c52f2eb65f011f078f5b1781fcaf",
+        "sha256:bbd6645e8052ef1dac76aef5b52e905fd6bed7eadd291003df191825d97dfa27",
+        "sha256:5c5b430a90fb5d1baeebb073b2653cdfc7bec4b0faa1c616c2b5ae5788fe656f",
+        "sha256:3728af51f186d9a62b12a0ed92bcad47d239aec2b2e0bd9bd2ecd11e28a261aa",
+        "sha256:0e7a42f29f103a6510a36142eb3fc5388aab049caefe35aab945bf54f3d10657",
+        "sha256:671516c127774cd4a725526fd9e75bf88fe59dfa13495ab4acdbd6aa6f0b4fca",
+        "sha256:2d1839b50c7ae4db41b7244c5517fcb08c324cf3816ef75a71e466ae455565d4",
+        "sha256:64b244c1fc79bf12ba5a4a879f199706ece99d417346408cdf4ec8e3fecf2bde",
+        "sha256:c6981fb76857b209779f9d55ca4c9d25e9ef691fafe86a4ead7715124818f3ed",
+        "sha256:ce87985ff181c2e8d9bcd31d1b9c9088960bb767867c4eda7511db6666f1a249"
+    ],
+    "Env": [
+        "DISPLAY=:1",
+        "PATH=/opt/conda/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=9.0.176",
+        "CUDA_PKG_VERSION=9-0=9.0.176-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=9.0",
+        "NCCL_VERSION=2.2.12",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CUDNN_VERSION=7.1.4.18"
+    ]
+}

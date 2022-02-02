@@ -1,0 +1,48 @@
+{
+    "Name": "docker.io/chadockerxom/pyrocent",
+    "Digest": "sha256:541dabfd631fcf2858952381c27d118fcdc5881125aa29aad57e9af5beff3198",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-04-18T03:53:24.667078373Z",
+    "DockerVersion": "",
+    "Labels": {
+        "org.label-schema.build-date": "20190305",
+        "org.label-schema.license": "GPLv2",
+        "org.label-schema.name": "CentOS Base Image",
+        "org.label-schema.schema-version": "1.0",
+        "org.label-schema.vendor": "CentOS"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:52b8c05288da8d6fb365b6cfc325a4f817522e87723e00f71b08f9d77daa3c84",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:5329f1a34ad3807ea706dabef2e739d30410977e46bafcac2b1f6419eb6812d8",
+        "sha256:d6b544315218c4b39ea0ce81229e0bc3abf9543dbeeef4b1fd77867da326a217",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:32d5201e805b12f8aa47ccfed3db387ec99e72d4243c61f362f4407cad92cc05",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:26ae6c25139a10bc7d9a39c4c96a7769457ffd61f55b383bf4d4a4ebdf6de590",
+        "sha256:156393b611f313475aa26c78454b03c54c2b177db4f561381bdcf8d6228d804d",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7",
+        "sha256:1dbcab28ce46b65c0174e5e82658492107396fead31e9144c343e6bc96e471c7"
+    ],
+    "Env": [
+        "USER_NAME=pyromancer",
+        "CONDA_DIR=/opt/conda",
+        "WORK_DIR=/opt/workspace",
+        "PATH=/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

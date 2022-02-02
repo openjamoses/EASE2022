@@ -1,0 +1,47 @@
+{
+    "Name": "docker.io/sirimullalab/dlscore",
+    "Digest": "sha256:5be31debc4b735072d2aa77a31f6873458a6aae0f092385c59e0fdaa94d3bfd7",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-04-08T09:20:47.653619173Z",
+    "DockerVersion": "20.10.2",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:d121f8d1c4128ebc1e95e5bfad90a0189b84eadbbb2fbaad20cbb26d20b2c8a2",
+        "sha256:ca572574cc82ba635292c0aba70b719de39faffe7a40a802bb0f8c22663b51ac",
+        "sha256:751019d1acdcacab76aa905ae0dd283eb009c54257343d3d70ed05c225922c5d",
+        "sha256:ea5b087ab2e75b2112bf78ec39cc5e428b2e9323cae36c930f2f7a174a2b1caf",
+        "sha256:f399169f241c97b40b07bb231548b057ba866d0ffe63db8d2cebf615adc69195",
+        "sha256:5208d208d826f6bd59dc8d48e09edb614cf09d9595d4e409e32170ce4bbf0382",
+        "sha256:410f91968b9ebef9d0b6ce0a44a0e5f18a18ec866a003da97267a8de53424aa1",
+        "sha256:2f71b451063bf7e5ce4a4a0b13f07cd8d0f76d009000c9757b5660e4d8add775",
+        "sha256:8c9912d9613faa48c783e77f77ae3e52607d00dc0fd3ba2026ac22c21d25eacd",
+        "sha256:505dc987ea3aec68ed454cd7b66b2b229fc6b802c38dd0ee3da8d25b9cd052ee",
+        "sha256:2888760d47151fd97ac39187e94392ed95ba22c85164373445b8232b38a52c37",
+        "sha256:dab42e855e1257a2bf3c45f8e9115162ccb67dee27407b35bba942f234d5bcdf",
+        "sha256:75225a4ac7ea0b55fdc6a2a954bff601f6227580dd59f3aaffe5cf972612466e",
+        "sha256:5fc78978fc2b76ef178b6b64df46d14147c0d7a48834a6ee2f53228a2983712b",
+        "sha256:bd6e04a7fd1be845281370fd58537dbc1e28205559e6587e331f5d0e43c93ece",
+        "sha256:e77934812a99e7bb113e0af6d9f306d8c3a7ccd0e23b67f00384bc3d0a9c93f5",
+        "sha256:498354ead14576864927b8a072b628ff8451c0ef21a4506abcaa926e9bfe4ce1",
+        "sha256:6502673337d1ad7e99222734af9439e810b10a075828dfc1b28e0c92c97a9ab9",
+        "sha256:ee376415ae2f7d2b005ab920018d2683f4ed6f6da48f70e1407ce8401e520d9b",
+        "sha256:dcfb93a94df333b2b94c21df7fb8d6af40a226e7a7414f90656bb054dd7dbac6",
+        "sha256:da6195ae1931a1034a1cb2399d369afc5e0fc449614cc0543ad96a28c9dd5dff",
+        "sha256:158d83771eef429ad2db9a522200720cb1b26620238c3ad474454fcec7b39cea",
+        "sha256:561b716d6a698d71d4bc0cdea73d3df41ebaa312b6e1ff9cf21d1373b0dc9c46"
+    ],
+    "Env": [
+        "PATH=/app/mgltools_x86_64Linux2_1.5.6/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=97FC712E4C024BBEA48A61ED3A5CA953F73C700D",
+        "PYTHON_VERSION=3.5.10",
+        "PYTHON_PIP_VERSION=20.2.3",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/fa7dc83944936bf09a0e4cb5d5ec852c0d256599/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=6e0bb0a2c2533361d7f297ed547237caf1b7507f197835974c0dd7eba998c53c",
+        "DEBIAN_FRONTEND=noninteractive"
+    ]
+}

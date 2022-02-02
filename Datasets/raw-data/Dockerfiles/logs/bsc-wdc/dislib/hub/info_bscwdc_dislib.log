@@ -1,0 +1,41 @@
+{
+    "Name": "docker.io/bscwdc/dislib",
+    "Digest": "sha256:11d533d67d5de312fdb9d959a2e5b684cf18f11f6bb3a7cf4d22fa126789e977",
+    "RepoTags": [
+        "latest",
+        "v0.1.0",
+        "v0.2.0",
+        "v0.2.1",
+        "v0.3.0",
+        "v0.4.0",
+        "v0.4.1",
+        "v0.4.2",
+        "v0.5.0",
+        "v0.6.0",
+        "v0.6.1",
+        "v0.6.2",
+        "v0.6.3",
+        "v0.6.4"
+    ],
+    "Created": "2022-01-17T13:44:06.10826248Z",
+    "DockerVersion": "20.10.10",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:f22ccc0b8772d8e1bcb40f137b373686bc27427a70c0e41dd22b38016e09e7e0",
+        "sha256:3cf8fb62ba5ffb221a2edb2208741346eb4d2d99a174138e4afbb69ce1fd9966",
+        "sha256:e80c964ece6a3edf0db1cfc72ae0e6f0699fb776bbfcc92b708fbb945b0b9547",
+        "sha256:8dcd95c34211c5a7250f1fe8f4ab48855452d626ac3d5d3c963f62588924e307",
+        "sha256:161b645ad8744349c842dee628a41b038e1c2d176ae7d39249acc52d417a29e1",
+        "sha256:0bcc342c16cd39b249241c54e35ff9cbf99eb5d001daec3ec784eb7e9ecca423"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/COMPSs/Runtime/scripts/user:/opt/COMPSs/Bindings/c/bin:/opt/COMPSs/Runtime/scripts/utils",
+        "JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/",
+        "CLASSPATH=:/opt/COMPSs/Runtime/compss-engine.jar",
+        "LD_LIBRARY_PATH=/opt/COMPSs/Bindings/bindings-common/lib:/usr/lib/jvm/java-8-openjdk-amd64//jre/lib/amd64/server",
+        "PYTHONPATH=:/dislib",
+        "LC_ALL=C.UTF-8"
+    ]
+}

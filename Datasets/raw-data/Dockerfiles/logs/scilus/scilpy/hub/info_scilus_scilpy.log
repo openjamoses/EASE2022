@@ -1,0 +1,49 @@
+{
+    "Name": "docker.io/scilus/scilpy",
+    "Digest": "sha256:7efb9a19ad192c68d0bb20cb692e879a1d9b544ccf49b46729423f27f1607dd6",
+    "RepoTags": [
+        "1.1.0",
+        "1.2.0",
+        "1.2.1",
+        "dev",
+        "latest"
+    ],
+    "Created": "2021-08-23T18:58:02.198355787Z",
+    "DockerVersion": "20.10.8",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:4c25b3090c2685271afcffc2a4db73f15ab11a0124bfcde6085c934a4e6f4a51",
+        "sha256:1acf565088aae3ef2159885f29853bce88eb16082b0c98fcacd08fc9008c84b9",
+        "sha256:b95c0dd0dc0d3d367cc5b85f86d8881afb658e8eb341a86daf3835c2f14159ac",
+        "sha256:5cf06daf65610482c638dcc63479a8281e667e37f7842219d66f2dedf63718f4",
+        "sha256:942374d5c11438b68e78d44b36c9eac8fe0a2570c33681d7263b0f3f069c06b9",
+        "sha256:64c0f10e4cfa269d154d1eb6cacfe7f80c8752cdba00f38e25b0cb19dc7cc34a",
+        "sha256:900aa57aed6c9b38fcca6e94cda20d363b80b7f907ef4abd6bbbc8e86d5414c0",
+        "sha256:0217e5b051cb5b70e8bb9fd6e8858eeae65e078391607c8504fab7c62b4a8b80",
+        "sha256:6ded05eabf101385a98c3b1309e0272ad0caffd0cd1322a0616e284af11f556c",
+        "sha256:d697c09163cc6e4d3ddaea42ea777d0ce31a36364ccb58adbdf70aa946614e22",
+        "sha256:f3590b149ec48ed9b60234bedb52adf1538bd59a9b9b6fb22edcfa3ceba4a03e",
+        "sha256:e865edc89f827025d6f2b9bd9ea997b965b62f36ca5b4e04ddd5b487e5c9500e",
+        "sha256:cf8c66cf1c5d17ae36fcf75a2f00d7ed9381c3d50f6931dace021c60dcdf8bfe",
+        "sha256:1552c558aea75158cc2d997f9cb03e39b984eb9abb805948fefb26a809e74f89",
+        "sha256:4e3752a44cbcbc795c20450530806d9dd818c0801a84d54f92579eaeff311d16",
+        "sha256:58a9dffbea4a7ac35db42ec9c8f13107bd72e215ee422575df8d6f828df6997d",
+        "sha256:60e300c21c82063c797dc8f2a058485033d83692be2b4879009a773f6e7137f0",
+        "sha256:ff7edb573626002ef8262a58dc443c1ad7e306aab1b0ff78f191f81c1032347b",
+        "sha256:58fda353b86f712fe0b79ad8406d38f4a06a4d41d97d1455c4cbbddb0ed367df",
+        "sha256:c6f05b49330c6eb2132740943b24dad5518bb645794ac59e1e067d9b9eea7759",
+        "sha256:14628e96c6a4f3c3c7a9d17041764f43f8d65b923b3d49a4f2cda8148569b308"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.7.11",
+        "PYTHON_PIP_VERSION=21.2.4",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/c20b0cfd643cd4a19246ccf204e2997af70f6b21/public/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=fa6f3fb93cce234cd4e8dd2beb54a51ab9c247653b52855a48dd44e6b21ff28b",
+        "SCILPY_VERSION=1.2.1"
+    ]
+}

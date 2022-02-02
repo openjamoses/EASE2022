@@ -1,0 +1,50 @@
+{
+    "Name": "docker.io/claraomics/atacworks",
+    "Digest": "sha256:2dc947e54fb8e18eebac5e21a7fc1f7a1a8bfd12cca3e368034d29e2651d2516",
+    "RepoTags": [
+        "dev-v0.2.0",
+        "latest",
+        "source-latest",
+        "source-v0.3.0",
+        "test",
+        "v0.2.0",
+        "v0.2.3",
+        "v0.3.0"
+    ],
+    "Created": "2020-08-04T17:28:59.36699786Z",
+    "DockerVersion": "19.03.5",
+    "Labels": {
+        "com.nvidia.cudnn.version": "7.6.5.32",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7ddbc47eeb70dc7f08e410a6667948b87ff3883024eb41478b44ef9a81bf400c",
+        "sha256:c1bbdc448b7263673926b8fe2e88491e5083a8b4b06ddfabf311f2fc5f27e2ff",
+        "sha256:8c3b70e3904492c753652606df4726430426f42ea56e06ea924d6fea7ae162a1",
+        "sha256:45d437916d5781043432f2d72608049dcf74ddbd27daa01a25fa63c8f1b9adc4",
+        "sha256:d8f1569ddae616589c5a2dabf668fadd250ee9d89253ef16f0cb0c8a9459b322",
+        "sha256:85386706b02069c58ffaea9de66c360f9d59890e56f58485d05c1a532ca30db1",
+        "sha256:ee9b457b77d047ff322858e2de025e266ff5908aec569560e77e2e4451fc23f4",
+        "sha256:be4f3343ecd31ebf7ec8809f61b1d36c2c2f98fc4e63582401d9108575bc443a",
+        "sha256:51f6bbaddf3422de1bca5c2810a14590157769a50287b086e3f3a4c12285eac1",
+        "sha256:28ec6a571a6e94db7c356ab4c7272e0fcce2d8ce1de96375183eaedbc9732b3e",
+        "sha256:abc343d0d73187e3c01988d7b693857b0ca388343eb6699435f73be45f50d84a",
+        "sha256:ee69fc3a9fe702b73e965c900b9a542389e1b3f1823a42e7356575af6cedb1f2",
+        "sha256:2b2e2c273eb4cce07d03fa53c741e63c637a9a62bf8ac66ff147a61733f9e870",
+        "sha256:0da43f6d2e77272a0ab346cc2804c854d831b1823db6c684f8eb8dafc55bf3f2",
+        "sha256:6edc84498ad8381d2d4e5ba6f675ff8b3b4d9d416aa450c215a4546eec7d9803"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.1.243",
+        "CUDA_PKG_VERSION=10-1=10.1.243-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.1 brand=tesla,driver\u003e=384,driver\u003c385 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411",
+        "NCCL_VERSION=2.4.8",
+        "CUDNN_VERSION=7.6.5.32"
+    ]
+}

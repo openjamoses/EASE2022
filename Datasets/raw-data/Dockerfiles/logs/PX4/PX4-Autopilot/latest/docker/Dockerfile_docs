@@ -1,0 +1,67 @@
+#
+# PX4 docs build environment
+#
+
+FROM ubuntu:focal
+LABEL maintainer="Daniel Agar <daniel@agar.ca>"
+
+RUN apt-get update \
+	&& DEBIAN_FRONTEND=noninteractive apt-get -y --quiet --no-install-recommends install \
+		build-essential \
+		ca-certificates \
+		git \
+		gosu \
+		libfontconfig \
+		npm \
+		nodejs \
+		ruby-dev \
+		zlib1g-dev \
+		curl \
+		gnupg \
+		gnupg2 \
+		gnupg1 \
+	&& apt-get -y autoremove \
+	&& apt-get clean autoclean \
+	&& rm -rf /var/lib/apt/lists/{apt,dpkg,cache,log} /tmp/* /var/tmp/*
+
+# Setup sources for getting yarn
+RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
+RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+
+RUN apt-get update \
+	&& DEBIAN_FRONTEND=noninteractive apt-get -y --quiet --no-install-recommends install \
+		yarn \
+	&& apt-get -y autoremove \
+	&& apt-get clean autoclean \
+	&& rm -rf /var/lib/apt/lists/{apt,dpkg,cache,log} /tmp/* /var/tmp/*
+
+# Set up to install nodejs in version (12) required for worker scripts
+RUN curl -sL https://deb.nodesource.com/setup_12.x | bash -
+
+RUN apt-get update \
+	&& DEBIAN_FRONTEND=noninteractive apt-get -y --quiet --no-install-recommends install \
+		nodejs \
+	&& apt-get -y autoremove \
+	&& apt-get clean autoclean \
+	&& rm -rf /var/lib/apt/lists/{apt,dpkg,cache,log} /tmp/* /var/tmp/*
+
+RUN gem install html-proofer
+
+# create user with id 1001 (jenkins docker workflow default)
+RUN useradd --shell /bin/bash -u 1001 -c "" -m user && usermod -a -G dialout user
+
+USER user
+ENV NPM_CONFIG_PREFIX=/home/user/.npm-global
+ENV PATH=$PATH:/home/user/.npm-global/bin
+
+RUN npm config set registry http://registry.npmjs.org/ \
+	&& npm install gitbook-cli -g --unsafe-perm=true
+
+ENV TERM=xterm
+ENV TZ=UTC
+
+# create and start as LOCAL_USER_ID
+COPY scripts/entrypoint.sh /usr/local/bin/entrypoint.sh
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+
+CMD ["/bin/bash"]

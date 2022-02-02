@@ -1,0 +1,47 @@
+{
+    "Name": "docker.io/projectglow/glow-aws",
+    "Digest": "sha256:4e24d7874b7261620785f190abcc1653506e0ad9cbd35398326728993a19ac92",
+    "RepoTags": [
+        "1.0.1",
+        "latest"
+    ],
+    "Created": "2021-08-04T21:59:54.845387516Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:6e0aa5e7af40303f56126b1469d1f37525b3a55a788836a6c9b773f6ce8bc446",
+        "sha256:d47239a868b3375462d644f2ffb1b20114623fac03109d2950bdf0d57ab487d2",
+        "sha256:49cbb10cca8504e3dbd65eb5db3c1dd0cd27070154386f819c5936de321c14b1",
+        "sha256:36a74da85da0926a195fc0ec98d416c5301ca58d1b46f1b091ae36620e5a611b",
+        "sha256:b783a6562e3dd799adcdd0af28104fa7b75e806ced3ff0cdc1e2f2cd11948eb3",
+        "sha256:c629b07586be6f6521f742f034170c5c77f80d3742f54fe1e5268dcb461a3cc4",
+        "sha256:25b698676c892672bb601e5fbb231b351ecca267a692b7e924621d334dae5690",
+        "sha256:aa310aab728e1367777b1ec37e58a438d72a0d234f56ee399d91b7743794ca49",
+        "sha256:babd919fa10824f4053bb06e84def121c698667474dd1ab26fa8dbd3c8f98f7c",
+        "sha256:1aa27bf51db73c41fec1eb6452504063b66b2301d3392e3f1dd5fe069f4b6f0d",
+        "sha256:cc8c31361b5e6cafcfcd67919979a66191e1bdd2fe15a3d742861c7f4459732b",
+        "sha256:7df076b5a54709ce25854917de053c46d2b0fe82fd246e05cbce7441b152b32d",
+        "sha256:e0d2761cfb1f91290f9129c9427384253d9c4f8815642867a97e82d5914eb29e",
+        "sha256:4ef35ca4fba84f5c91497924ed76a02707a2f998ba2c27722239446a9746abc5",
+        "sha256:750579bafbb51b3fc9be4bd9509a4accf0c9ec135287496e74a4bafcf2e0dcd7",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:c2c5cc53299c8823d173b970e71a6a5d22df261f8f786430053d77c672f238a2",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:79e98e476ec3fb99cd6af63659e54e44886d83a9fafe91002fc6a6c55f49f17a",
+        "sha256:856a29273f6395fe80a343c3da0adf7e239b1d1817f04d6b771aa4244aab5ba3",
+        "sha256:3cb50e8b48e5978aaec75533bcd36419cdba6ae45cacdef9812b975e08cb26c4",
+        "sha256:fa13b2c3950b070ee661f9c85e47dbc616a61d0541ae8715df0797a932833630",
+        "sha256:c2dccb6002e4a33a330b7a1b2d8bd661a03ce552d39844fee8d99ffaf0887af0"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "DEFAULT_DATABRICKS_ROOT_CONDA_ENV=dcs-minimal",
+        "DATABRICKS_ROOT_CONDA_ENV=dcs-minimal",
+        "USER=root",
+        "OPT_SRC=/opt/vep/src",
+        "PERL5LIB=:/opt/vep/src/ensembl-vep:/opt/vep/src/ensembl-vep/modules",
+        "GLOW_VERSION=1.0.1"
+    ]
+}

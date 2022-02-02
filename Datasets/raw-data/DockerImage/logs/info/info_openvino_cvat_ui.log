@@ -1,0 +1,37 @@
+{
+    "Name": "docker.io/openvino/cvat_ui",
+    "Digest": "sha256:5ce3e3dce0d9867ccc214ca29657e9e188d51abedefe0109a315cd2f642ca686",
+    "RepoTags": [
+        "latest",
+        "v1.2.0",
+        "v1.3.0",
+        "v1.4.0",
+        "v1.5.0",
+        "v1.6.0",
+        "v1.7.0"
+    ],
+    "Created": "2021-11-15T09:30:55.000674175Z",
+    "DockerVersion": "20.10.10+azure-1",
+    "Labels": {
+        "maintainer": "NGINX Docker Maintainers \u003cdocker-maint@nginx.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:97518928ae5f3d52d4164b314a7e73654eb686ecd8aafa0b79acd980773a740d",
+        "sha256:a4e1564120377c57f6c7d13778f0b12977f485196ea2785ab2a71352cd7dd95d",
+        "sha256:e0bae2ade5ec5d4a95703ac5d449bb058ef7ed0076fbe81bf4bee15e7587d190",
+        "sha256:3f3577460f48b48cdb31034e3efd3969d4cfa788495ddc3c0c721d0cb4503ca8",
+        "sha256:e362c27513c3158f887a4eff0cea4b87b6b379be655a39c1e3c02e76e6b53678",
+        "sha256:a2402c2da4733ff9c5b44fee234b9407cd120a9817c6bb2ffc9d10e9508c1540",
+        "sha256:88cba11bd1f3426644420f5fa58f882c6e0147dbc3219d3092eb1f45c803938c",
+        "sha256:de6a82ef5d18935a26a956120648039c136c8502d469573ea674bdad92afd1f5",
+        "sha256:e88a6a3cccabb958abff7ff3e90a7c22a2016fa3ce6b1a79669a3a58838d79cb"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "NGINX_VERSION=1.21.4",
+        "NJS_VERSION=0.7.0",
+        "PKG_RELEASE=1"
+    ]
+}

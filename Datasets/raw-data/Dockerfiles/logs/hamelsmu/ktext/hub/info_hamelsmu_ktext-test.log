@@ -1,0 +1,35 @@
+{
+    "Name": "docker.io/hamelsmu/ktext-test",
+    "Digest": "sha256:e4e513a678b2d27b9d7b26497485cedf67faad7919e72c3772ec78111ab8579b",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-04-22T04:13:57.21497222Z",
+    "DockerVersion": "18.03.1-ee-3",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5e35bd43cf7898d036f8515be74d45b2e3abd2a5534fc280de63a9c22dd175bd",
+        "sha256:b5305ac98c6978b87656db162d5d8b48415e96b1bcdb5024e23f86abe92bb2fc",
+        "sha256:70d5c7242ea46b695ca4d55c00c82325cfbcb0a4263113d524a01a417b9c3188",
+        "sha256:1c73fd98674f4bcecd9d4dd00aafeacc716039fca802d271c219a8561187fa31",
+        "sha256:6722a60f0175613de831db9ab3e7bc55b609b2ed923679eded34a63b585d87ae",
+        "sha256:7d9e6613b8e234ac4a97a02fab3f9c47b0eb5b13ce9e020c78804e136650a937",
+        "sha256:65070d8077f9d9d6c9695bb940c512bc7e84d8b265c3bfc43f6e6b86121d362f",
+        "sha256:4f0287f2396bc5d087dd72650927d6f6ca5cda6342b36483954d703e1dc3dec1",
+        "sha256:7d955f97196ddc88cea09132fb3f72b787fb531b107f5bedfde526cbc188d9b7",
+        "sha256:e47f77cb730b2893ec4695f277f99fb88643e8aaa1a528a36e443879565a3854"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D",
+        "PYTHON_VERSION=3.6.10",
+        "PYTHON_PIP_VERSION=20.0.2",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/d59197a3c169cef378a22428a3fa99d33e080a5d/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=421ac1d44c0cf9730a088e337867d974b91bdce4ea2636099275071878cc189e",
+        "CXXFLAGS=-std=c++11",
+        "CFLAGS=-std=c99"
+    ]
+}

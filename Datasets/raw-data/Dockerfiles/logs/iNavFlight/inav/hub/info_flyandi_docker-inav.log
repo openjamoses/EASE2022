@@ -1,0 +1,28 @@
+{
+    "Name": "docker.io/flyandi/docker-inav",
+    "Digest": "sha256:5c15e0c84cbc8cce31f528333115ce246c210e426a446679a932f21203963bde",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2017-10-29T18:16:21.623615006Z",
+    "DockerVersion": "17.06.1-ce",
+    "Labels": {
+        "maintainer": "Andy Schwarz \u003cflyandi@yahoo.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:ae79f251470513c2a0ec750117a81f2d58a50727901ca416efecf297b8a03913",
+        "sha256:5ad56d5fc14905886c560200ab69f905b5c5287eaf12f8f761a7ab54f7a61c1b",
+        "sha256:170e558760e8b2e484a022b7d7272cf284fc4e1936ba7a0a671fc586440ad272",
+        "sha256:395460e233f5bdcd910d618a3b615e0d881e09ad27d58f3065eef53ecae6a808",
+        "sha256:6f01dc62e444044e3ce494269837ef0aedb80fef69c679416137f17812d2eb9c",
+        "sha256:de7010e9976fb9e4b7eb133e8f3a789fe8499001b672257fa30d56710ea504c8",
+        "sha256:c4c20946a5219773f1f0f6d39dbc6c5aef727ce8cb9222296ff7a55beecf0029",
+        "sha256:eedfd177a2bff8670042e29bcedacd44c02fd3ca97310081b611ab5b407771ad",
+        "sha256:95a9dd149ac59726efeb8e357572943ad1d36b5a7f85d8ec4decc71d3340d437"
+    ],
+    "Env": [
+        "PATH=/opt/gcc-arm-none-eabi-6-2017-q2-update/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Name": "docker.io/rscohn2/oneapi-spec",
+    "Digest": "sha256:a60f9dff20d817facf952a243e2a3bc5a5503d4f19d02d7d9c5af30e9869d7d6",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-08-27T13:56:28.095704204Z",
+    "DockerVersion": "19.03.11",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:3ff22d22a8554f746f90a78b501da38d56a46f2ddba0dfec8b260aebaa61b3ba",
+        "sha256:e7cb79d19722c46b9c0829811d7a5a0ae82c8771ab7f2f68e7d3a3ed6bd5d5d0",
+        "sha256:323d0d660b6a7da8df08a01dbc7250f38cfa2161db00c7c27c0b20be07a8236a",
+        "sha256:b7f616834fd07522cbfd33f0dfa848903599320b5c7191b59fe9aa7562f956a1",
+        "sha256:a48a8f14f14d603dc1f0e32b8cb5ac21bad0ca64f21cff873b3f847d24fd2901",
+        "sha256:34d90de28bffdcc5ed3a051b1a2168940c36ae78e7d9ba9a8af6b0b17138a91b"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

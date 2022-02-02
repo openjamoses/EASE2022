@@ -1,0 +1,56 @@
+{
+    "Name": "docker.io/ng1997/decord-pytorch",
+    "Digest": "sha256:c16d97861700ee7470b4453323f42a46434b62e11618e3d0d056301b7b4f35bb",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-07-16T08:03:58.637452172Z",
+    "DockerVersion": "20.10.7",
+    "Labels": {
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:3ff22d22a8554f746f90a78b501da38d56a46f2ddba0dfec8b260aebaa61b3ba",
+        "sha256:e7cb79d19722c46b9c0829811d7a5a0ae82c8771ab7f2f68e7d3a3ed6bd5d5d0",
+        "sha256:323d0d660b6a7da8df08a01dbc7250f38cfa2161db00c7c27c0b20be07a8236a",
+        "sha256:b7f616834fd07522cbfd33f0dfa848903599320b5c7191b59fe9aa7562f956a1",
+        "sha256:c2607e16e9336b53b7889d571c1e00a65023107311c99bf11e6009a053900638",
+        "sha256:46a16da628dc25a4ef9e004c51a6ced05ffc0e66716001d0d0b42224ebfe5e73",
+        "sha256:4871b8b750270053e411543c0a3998b7e213d11a3e6c2c70b194c4d52d071036",
+        "sha256:e45235afa76463877e6d3c2ba1ad9cac6a0bbec61fc3d4fbf60c271a721dd6b3",
+        "sha256:250da266cf64ee363e0988537d8216aeba90fdd0749ecb39fd4aa0359333fa6f",
+        "sha256:78f4b6d02e6caf343c29e87b795d9d909895de6092c09c1e911f14ec26f21fe0",
+        "sha256:ebf42dcedf4b70d17a49bdc77872213050f155e422fd28feb905919a506deb1e",
+        "sha256:7de8b26b865081d95147bb5856388ec2d2dde03720f6452e32519716377fb9ee",
+        "sha256:a2dfd28a15be7a59a7d4c8b6619114134063d5eb5bf49bb822c543b3ce06ea92",
+        "sha256:a67a1663fd44793217bf25d7959039b82b2c8d5009a2a733c19db65d3e6ef18a",
+        "sha256:7855d06edf0c503698d046be8f21ef3ca155d662d0a43640d10031c0a7d22a45",
+        "sha256:edf488e710de2c67a52a3490e21c43b34f7af7dd81d8e03463418efd0972829b",
+        "sha256:6310ae0b30c36aed7fd56b22e49c513d014afa5c81404f0b7202a68af053e967",
+        "sha256:ab8cca326515026f9268347ec9d8d6bb7a8f149a0bafa77fdc49f0eb7864f538",
+        "sha256:ff9200fe00945ac2e6d0c5d298c17916ebdebb0991b7e26c176ec4848141c845",
+        "sha256:5daa574f602a6596a22798806a7732f59ec86418f626c4c790cc65d15056c965",
+        "sha256:9e1192dcc9896bac2d88a78836093c9ab9dcf9000eb39c5a26252a411975ebdb",
+        "sha256:066307fec3e107346fe8bb9f2d14fc1306bfcaafa12ac2efd668629983f61ce0",
+        "sha256:6b96c78df640b62bedaa6cb1ada19ef66ccf7ce23d4acbe5b766ab425bf089b6",
+        "sha256:d72f9d8146bd174b800d24cd30d77b4880ac33a1b890a25040de97998a8852ab",
+        "sha256:c9aba377e436eb399c7a5b11e19c424890bdbfa8be703d0824f25f0985a9ccf9",
+        "sha256:9c26162a4cd7f214e371614f795faf0fb861d7a01dfdf884b35471ed4ce69411",
+        "sha256:f4bb7782ceda3642e1429a526ab997d39d733ff46ae4d4c24be74f4959914d7c",
+        "sha256:78eea04e47ffe0bec504ea7e8fbe6866eef55332d22ea649e713e2f71f67c2ef",
+        "sha256:ea7d22760070f3116acf4840c7308276a41bdf194f13e5818ae0db52ce50f6a5",
+        "sha256:098f9ed8f0b89bfc18a1021710deea5c465a109bbf96df83a088ba8feffd04e7"
+    ],
+    "Env": [
+        "PATH=/opt/conda/envs/ffmpeg-pytorch/bin:/opt/conda/bin:/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility,video",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=11.0 brand=tesla,driver\u003e=418,driver\u003c419 brand=tesla,driver\u003e=440,driver\u003c441",
+        "NCCL_VERSION=2.7.8",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CONDA_DEFAULT_ENV=-pytorch"
+    ]
+}

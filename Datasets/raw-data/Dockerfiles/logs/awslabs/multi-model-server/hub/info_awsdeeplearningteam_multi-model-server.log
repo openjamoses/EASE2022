@@ -1,0 +1,40 @@
+{
+    "Name": "docker.io/awsdeeplearningteam/multi-model-server",
+    "Digest": "sha256:b441cc6ec7ea882fbef85162b07c9f2ced6b935eaf70e8d085e0f47218a0263e",
+    "RepoTags": [
+        "latest",
+        "latest-gpu",
+        "nightly-base-cpu-py2.7",
+        "nightly-base-cpu-py3.6",
+        "nightly-base-gpu-py2.7",
+        "nightly-base-gpu-py3.6",
+        "nightly-mxnet-cpu",
+        "nightly-mxnet-gpu"
+    ],
+    "Created": "2020-01-30T20:50:47.897907875Z",
+    "DockerVersion": "18.03.1-ee-3",
+    "Labels": {
+        "maintainer": "dantu@amazon.com, rakvas@amazon.com, lufen@amazon.com, dden@amazon.com"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:5c939e3a4d1097af8d3292ad3a41d3caa846f6333b91f2dd22b972bc2d19c5b5",
+        "sha256:c63719cdbe7ae254b453dba06fb446f583b503f2a2c15becc83f8c5bc7a705e0",
+        "sha256:19a861ea6baff71b05cd577478984c3e62cf0177bf74468d0aca551f5fcb891c",
+        "sha256:651c9d2d6c4f37c56a221259e033e7e2353b698139c2ff950623ca28d64a9837",
+        "sha256:bb06cfbea42ed70196d46638fa8bf793624a3881f4bdf45efd8de0d5c10493e0",
+        "sha256:03d1540bb94ae33086d9f0c8072e38788819832e3a16c50bda5e68302c5dfd9f",
+        "sha256:17d6f3fcc82eafb8675c44e2a9aeeb6fd0f661459a27d9066c63125bd515c379",
+        "sha256:83cb75d883c57a5df44c89607e6fa506aee43afcc4524483af1787be748e0e04",
+        "sha256:aa38cc4d47bd6f55ebae98cc310b900b786b516e65949008d047ad5b86505eaa",
+        "sha256:fe0de0c5ec19d5035686f98b7bf14a58c67cd5a815de1bac2f54d09ea31cadc9",
+        "sha256:78c6316aa92545377798597c121033848e1f849bb8518cae04a19facd9877eaa",
+        "sha256:9316b2f9d7090a087c2a765124a0a31fd33a666ff6fa1f7544c1d333a6ab32cc"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "PYTHONUNBUFFERED=TRUE",
+        "TEMP=/home/model-server/tmp"
+    ]
+}

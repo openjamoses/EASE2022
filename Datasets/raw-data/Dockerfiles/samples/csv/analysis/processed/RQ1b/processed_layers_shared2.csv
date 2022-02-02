@@ -1,0 +1,409 @@
+Topic,Repos,ProjectID,Tag,Metrics,Values
+Application,wkentaro/labelme,P0,latest,Files shared,58
+Application,wkentaro/labelme,P0,latest,Memory,9
+DL Framwork,tensorflow/tensorflow,P3,1.10.0,Files shared,46
+DL Framwork,tensorflow/tensorflow,P3,1.10.0,Memory,7
+DL Framwork,tensorflow/tensorflow,P3,1.15.0-gpu,Files shared,36
+DL Framwork,tensorflow/tensorflow,P3,1.15.0-gpu,Memory,1
+DL Framwork,tensorflow/tensorflow,P3,2.3.0,Files shared,20
+DL Framwork,tensorflow/tensorflow,P3,2.3.0,Memory,1
+DL Framwork,tensorflow/tensorflow,P3,2.5.0-rc3-devel,Files shared,5
+DL Framwork,tensorflow/tensorflow,P3,2.5.0-rc3-devel,Memory,2
+DL Framwork,tensorflow/tensorflow,P3,nightlygpu,Files shared,42
+DL Framwork,tensorflow/tensorflow,P3,nightlygpu,Memory,1
+DL Framwork,tensorflow/tensorflow,P3,0.12.0,Files shared,13
+DL Framwork,tensorflow/tensorflow,P3,0.12.0,Memory,3
+DL Framwork,tensorflow/tensorflow,P3,0.22.0.dev20200228,Files shared,12
+DL Framwork,tensorflow/tensorflow,P3,0.22.0.dev20200228,Memory,2
+DL Framwork,tensorflow/tensorflow,P3,0.25.0.dev20201003,Files shared,8
+DL Framwork,tensorflow/tensorflow,P3,0.25.0.dev20201003,Memory,2
+DL Framwork,tensorflow/tensorflow,P3,0.29.0.dev20210327,Files shared,21
+DL Framwork,tensorflow/tensorflow,P3,0.29.0.dev20210327,Memory,3
+DL Framwork,tensorflow/tensorflow,P3,workshop-latest,Files shared,40
+DL Framwork,tensorflow/tensorflow,P3,workshop-latest,Memory,6
+DL Framwork,pytorch/pytorch,P2,0.4-cuda9-cudnn7-devel,Files shared,24
+DL Framwork,pytorch/pytorch,P2,0.4-cuda9-cudnn7-devel,Memory,1
+DL Framwork,pytorch/pytorch,P2,1.2-cuda10.0-cudnn7-devel,Files shared,23
+DL Framwork,pytorch/pytorch,P2,1.2-cuda10.0-cudnn7-devel,Memory,0
+DL Framwork,pytorch/pytorch,P2,1.6.0-cuda10.1-cudnn7-runtime,Files shared,16
+DL Framwork,pytorch/pytorch,P2,1.6.0-cuda10.1-cudnn7-runtime,Memory,0
+DL Framwork,pytorch/pytorch,P2,1.9.0-cuda10.2-cudnn7-devel,Files shared,17
+DL Framwork,pytorch/pytorch,P2,1.9.0-cuda10.2-cudnn7-devel,Memory,0
+DL Framwork,pytorch/pytorch,P2,v0.2,Files shared,13
+DL Framwork,pytorch/pytorch,P2,v0.2,Memory,1
+Machine Learning,scikit-learn/scikit-learn,P3,20200918.v1,Files shared,34
+Machine Learning,scikit-learn/scikit-learn,P3,20200918.v1,Memory,0
+Machine Learning,scikit-learn/scikit-learn,P3,20201209.v1,Files shared,28
+Machine Learning,scikit-learn/scikit-learn,P3,20201209.v1,Memory,0
+Machine Learning,scikit-learn/scikit-learn,P3,20210402.v1,Files shared,27
+Machine Learning,scikit-learn/scikit-learn,P3,20210402.v1,Memory,0
+Machine Learning,scikit-learn/scikit-learn,P3,20210811.v1,Files shared,28
+Machine Learning,scikit-learn/scikit-learn,P3,20210811.v1,Memory,0
+Machine Learning,scikit-learn/scikit-learn,P3,latest,Files shared,28
+Machine Learning,scikit-learn/scikit-learn,P3,latest,Memory,0
+Machine Learning,scikit-learn/scikit-learn,P3,20210517.v3,Files shared,37
+Machine Learning,scikit-learn/scikit-learn,P3,20210517.v3,Memory,1
+Machine Learning,scikit-learn/scikit-learn,P3,20210705.v1,Files shared,34
+Machine Learning,scikit-learn/scikit-learn,P3,20210705.v1,Memory,1
+Machine Learning,scikit-learn/scikit-learn,P3,20210816.v1,Files shared,34
+Machine Learning,scikit-learn/scikit-learn,P3,20210816.v1,Memory,2
+Machine Learning,scikit-learn/scikit-learn,P3,20210930.v4,Files shared,40
+Machine Learning,scikit-learn/scikit-learn,P3,20210930.v4,Memory,2
+Machine Learning,scikit-learn/scikit-learn,P3,latest,Files shared,34
+Machine Learning,scikit-learn/scikit-learn,P3,latest,Memory,2
+Application,ageitgey/face_recognition,P3,cpu,Files shared,27
+Application,ageitgey/face_recognition,P3,cpu,Memory,1
+Application,ageitgey/face_recognition,P3,cpu-jupyter-kubeflow-0.1,Files shared,12
+Application,ageitgey/face_recognition,P3,cpu-jupyter-kubeflow-0.1,Memory,2
+Application,ageitgey/face_recognition,P3,gpu,Files shared,11
+Application,ageitgey/face_recognition,P3,gpu,Memory,0
+Application,ageitgey/face_recognition,P3,gpu-jupyter-kubeflow-nightly,Files shared,6
+Application,ageitgey/face_recognition,P3,gpu-jupyter-kubeflow-nightly,Memory,0
+Application,ageitgey/face_recognition,P3,latest,Files shared,27
+Application,ageitgey/face_recognition,P3,latest,Memory,1
+Application,deepfakes/faceswap,P1,latest,Files shared,19
+Application,deepfakes/faceswap,P1,latest,Memory,0
+Application,nagadomi/waifu2x,P4,cuda10.1-cudnn7-devel-ubuntu18.04,Files shared,47
+Application,nagadomi/waifu2x,P4,cuda10.1-cudnn7-devel-ubuntu18.04,Memory,1
+Application,nagadomi/waifu2x,P4,latest,Files shared,47
+Application,nagadomi/waifu2x,P4,latest,Memory,1
+DL Framwork,fastai/fastai,P1,2020-09-11,Files shared,6
+DL Framwork,fastai/fastai,P1,2020-09-11,Memory,1
+DL Framwork,fastai/fastai,P1,2020-10-20,Files shared,6
+DL Framwork,fastai/fastai,P1,2020-10-20,Memory,1
+DL Framwork,fastai/fastai,P1,2020-11-28,Files shared,13
+DL Framwork,fastai/fastai,P1,2020-11-28,Memory,2
+DL Framwork,fastai/fastai,P1,2021-01-05,Files shared,9
+DL Framwork,fastai/fastai,P1,2021-01-05,Memory,2
+DL Framwork,fastai/fastai,P1,latest,Files shared,8
+DL Framwork,fastai/fastai,P1,latest,Memory,1
+DL Framwork,fastai/fastai,P1,2020-09-11,Files shared,22
+DL Framwork,fastai/fastai,P1,2020-09-11,Memory,5
+DL Framwork,fastai/fastai,P1,2020-10-20,Files shared,22
+DL Framwork,fastai/fastai,P1,2020-10-20,Memory,5
+DL Framwork,fastai/fastai,P1,2020-11-28,Files shared,27
+DL Framwork,fastai/fastai,P1,2020-11-28,Memory,5
+DL Framwork,fastai/fastai,P1,2021-01-05,Files shared,20
+DL Framwork,fastai/fastai,P1,2021-01-05,Memory,4
+DL Framwork,fastai/fastai,P1,latest,Files shared,19
+DL Framwork,fastai/fastai,P1,latest,Memory,4
+Application,numenta/nupic,P2,1.0.5,Files shared,28
+Application,numenta/nupic,P2,1.0.5,Memory,0
+Application,numenta/nupic,P2,latest,Files shared,28
+Application,numenta/nupic,P2,latest,Memory,0
+Model,ultralytics/yolov5,P3,latest,Files shared,18
+Model,ultralytics/yolov5,P3,latest,Memory,1
+Model,ultralytics/yolov5,P3,v9.0,Files shared,17
+Model,ultralytics/yolov5,P3,v9.0,Memory,1
+Model,ultralytics/yolov5,P3,v9.1,Files shared,17
+Model,ultralytics/yolov5,P3,v9.1,Memory,1
+Model,ultralytics/yolov5,P3,v9.5.0,Files shared,19
+Model,ultralytics/yolov5,P3,v9.5.0,Memory,2
+Model,ultralytics/yolov5,P3,v9.6.0,Files shared,18
+Model,ultralytics/yolov5,P3,v9.6.0,Memory,1
+Model,ultralytics/yolov5,P3,latest,Files shared,18
+Model,ultralytics/yolov5,P3,latest,Memory,1
+Model,ultralytics/yolov5,P3,v2.0,Files shared,36
+Model,ultralytics/yolov5,P3,v2.0,Memory,5
+Model,ultralytics/yolov5,P3,v3.1,Files shared,17
+Model,ultralytics/yolov5,P3,v3.1,Memory,1
+Model,ultralytics/yolov5,P3,v5.0,Files shared,19
+Model,ultralytics/yolov5,P3,v5.0,Memory,2
+Model,ultralytics/yolov5,P3,v6.0,Files shared,17
+Model,ultralytics/yolov5,P3,v6.0,Memory,1
+DL Framwork,PaddlePaddle/Paddle,P0,0.10.0,Files shared,45
+DL Framwork,PaddlePaddle/Paddle,P0,0.10.0,Memory,11
+DL Framwork,PaddlePaddle/Paddle,P0,1.2.1-noavx,Files shared,44
+DL Framwork,PaddlePaddle/Paddle,P0,1.2.1-noavx,Memory,6
+DL Framwork,PaddlePaddle/Paddle,P0,1.6.2,Files shared,15
+DL Framwork,PaddlePaddle/Paddle,P0,1.6.2,Memory,2
+DL Framwork,PaddlePaddle/Paddle,P0,2.0.1-gpu-cuda9.0-cudnn7,Files shared,10
+DL Framwork,PaddlePaddle/Paddle,P0,2.0.1-gpu-cuda9.0-cudnn7,Memory,1
+DL Framwork,PaddlePaddle/Paddle,P0,latest-openblas,Files shared,10
+DL Framwork,PaddlePaddle/Paddle,P0,latest-openblas,Memory,1
+DL Framwork,PaddlePaddle/Paddle,P0,2.0.0_beta,Files shared,26
+DL Framwork,PaddlePaddle/Paddle,P0,2.0.0_beta,Memory,1
+DL Framwork,PaddlePaddle/Paddle,P0,latest,Files shared,26
+DL Framwork,PaddlePaddle/Paddle,P0,latest,Memory,1
+DL Framwork,PaddlePaddle/Paddle,P0,0.6.2-devel,Files shared,29
+DL Framwork,PaddlePaddle/Paddle,P0,0.6.2-devel,Memory,0
+DL Framwork,PaddlePaddle/Paddle,P0,cube,Files shared,20
+DL Framwork,PaddlePaddle/Paddle,P0,cube,Memory,4
+DL Framwork,PaddlePaddle/Paddle,P0,latest-cuda10.0-cudnn7,Files shared,25
+DL Framwork,PaddlePaddle/Paddle,P0,latest-cuda10.0-cudnn7,Memory,2
+DL Framwork,PaddlePaddle/Paddle,P0,latest-gpu,Files shared,26
+DL Framwork,PaddlePaddle/Paddle,P0,latest-gpu,Memory,2
+DL Framwork,PaddlePaddle/Paddle,P0,serving-tmp,Files shared,28
+DL Framwork,PaddlePaddle/Paddle,P0,serving-tmp,Memory,0
+Machine Learning,microsoft/LightGBM,P1,latest,Files shared,31
+Machine Learning,microsoft/LightGBM,P1,latest,Memory,6
+ToolKit,JaidedAI/EasyOCR,P4,latest,Files shared,18
+ToolKit,JaidedAI/EasyOCR,P4,latest,Memory,0
+AutoML,microsoft/nni,P2,2.0rc1,Files shared,20
+AutoML,microsoft/nni,P2,2.0rc1,Memory,2
+AutoML,microsoft/nni,P2,v0.5.2,Files shared,34
+AutoML,microsoft/nni,P2,v0.5.2,Memory,2
+AutoML,microsoft/nni,P2,v1.0,Files shared,34
+AutoML,microsoft/nni,P2,v1.0,Memory,2
+AutoML,microsoft/nni,P2,v1.8,Files shared,21
+AutoML,microsoft/nni,P2,v1.8,Memory,2
+AutoML,microsoft/nni,P2,v2.5,Files shared,19
+AutoML,microsoft/nni,P2,v2.5,Memory,2
+AutoML,keras-team/autokeras,P4,latest,Files shared,12
+AutoML,keras-team/autokeras,P4,latest,Memory,1
+Machine Learning,catboost/catboost,P0,latest,Files shared,1
+Machine Learning,catboost/catboost,P0,latest,Memory,0
+Machine Learning,aksnzhy/xlearn,P2,latest,Files shared,34
+Machine Learning,aksnzhy/xlearn,P2,latest,Memory,2
+Machine Learning,pymc-devs/pymc,P4,latest,Files shared,55
+Machine Learning,pymc-devs/pymc,P4,latest,Memory,12
+Machine Learning,pymc-devs/pymc,P4,version-3.11.0,Files shared,57
+Machine Learning,pymc-devs/pymc,P4,version-3.11.0,Memory,12
+Machine Learning,pymc-devs/pymc,P4,version-3.11.2,Files shared,55
+Machine Learning,pymc-devs/pymc,P4,version-3.11.2,Memory,12
+Machine Learning,pymc-devs/pymc,P4,version-3.9.2,Files shared,73
+Machine Learning,pymc-devs/pymc,P4,version-3.9.2,Memory,25
+Machine Learning,pymc-devs/pymc,P4,version-3.9.3,Files shared,57
+Machine Learning,pymc-devs/pymc,P4,version-3.9.3,Memory,15
+Documentation,yandexdataschool/Practical_RL,P1,coursera,Files shared,18
+Documentation,yandexdataschool/Practical_RL,P1,coursera,Memory,0
+Documentation,yandexdataschool/Practical_RL,P1,latest,Files shared,17
+Documentation,yandexdataschool/Practical_RL,P1,latest,Memory,0
+Documentation,yandexdataschool/Practical_RL,P1,spring19,Files shared,17
+Documentation,yandexdataschool/Practical_RL,P1,spring19,Memory,0
+Model,qubvel/segmentation_models.pytorch,P2,latest,Files shared,28
+Model,qubvel/segmentation_models.pytorch,P2,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,8
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,18
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,0
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,3
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,36
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,23
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,28
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,14
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,8
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,18
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,0
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,3
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,36
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,23
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,28
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,14
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,8
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,18
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,0
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,3
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,36
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,23
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,28
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,14
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,8
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,18
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,16
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,1
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,0
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,9
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,3
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,7
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,2
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,36
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,23
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Files shared,28
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0,Memory,14
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,1.0.12,Memory,16
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Files shared,29
+ToolKit,IBM/fhe-toolkit-linux,P3,latest,Memory,16
+ToolKit,shogun-toolbox/shogun,P0,latest,Files shared,39
+ToolKit,shogun-toolbox/shogun,P0,latest,Memory,7
+ToolKit,shogun-toolbox/shogun,P0,master,Files shared,57
+ToolKit,shogun-toolbox/shogun,P0,master,Memory,17
+Documentation,prabhuomkar/pytorch-cpp,P0,latest,Files shared,30
+Documentation,prabhuomkar/pytorch-cpp,P0,latest,Memory,1
+Model,araffin/rl-baselines-zoo,P0,latest,Files shared,29
+Model,araffin/rl-baselines-zoo,P0,latest,Memory,0
+Model,araffin/rl-baselines-zoo,P0,v2.8.0,Files shared,29
+Model,araffin/rl-baselines-zoo,P0,v2.8.0,Memory,0
+Model,IntelAI/models,P4,1.15.2,Files shared,10
+Model,IntelAI/models,P4,1.15.2,Memory,2
+Model,IntelAI/models,P4,2.3.0-mkl-jupyter,Files shared,7
+Model,IntelAI/models,P4,2.3.0-mkl-jupyter,Memory,1
+Model,IntelAI/models,P4,2.4.0-mkl-jupyter,Files shared,7
+Model,IntelAI/models,P4,2.4.0-mkl-jupyter,Memory,2
+Model,IntelAI/models,P4,2.6.0,Files shared,4
+Model,IntelAI/models,P4,2.6.0,Memory,1
+Model,IntelAI/models,P4,ubuntu-20.04-mpi-horovod,Files shared,22
+Model,IntelAI/models,P4,ubuntu-20.04-mpi-horovod,Memory,2
+Model,IntelAI/models,P4,1.1,Files shared,4
+Model,IntelAI/models,P4,1.1,Memory,1
+Model,IntelAI/models,P4,latest,Files shared,4
+Model,IntelAI/models,P4,latest,Memory,1
+AutoML,autogoal/autogoal,P1,audio-command,Files shared,11
+AutoML,autogoal/autogoal,P1,audio-command,Memory,1
+AutoML,autogoal/autogoal,P1,basic,Files shared,26
+AutoML,autogoal/autogoal,P1,basic,Memory,9
+AutoML,autogoal/autogoal,P1,latest,Files shared,11
+AutoML,autogoal/autogoal,P1,latest,Memory,1
+Documentation,JdeRobot/RoboticsAcademy,P2,base,Files shared,25
+Documentation,JdeRobot/RoboticsAcademy,P2,base,Memory,5
+Documentation,JdeRobot/RoboticsAcademy,P2,latest,Files shared,21
+Documentation,JdeRobot/RoboticsAcademy,P2,latest,Memory,5
+Model,alexandrainst/danlp,P1,0.0.2,Files shared,28
+Model,alexandrainst/danlp,P1,0.0.2,Memory,5
+Model,alexandrainst/danlp,P1,0.0.2-notebook,Files shared,70
+Model,alexandrainst/danlp,P1,0.0.2-notebook,Memory,25
+Model,alexandrainst/danlp,P1,latest,Files shared,28
+Model,alexandrainst/danlp,P1,latest,Memory,5
+Model,alexandrainst/danlp,P1,latest-notebook,Files shared,70
+Model,alexandrainst/danlp,P1,latest-notebook,Memory,25
+MLops,kubeflow/kubeflow,P0,latest,Files shared,4
+MLops,kubeflow/kubeflow,P0,latest,Memory,0
+MLops,bentoml/BentoML,P3,0.10.0,Files shared,34
+MLops,bentoml/BentoML,P3,0.10.0,Memory,4
+MLops,bentoml/BentoML,P3,0.12.0-slim-py36,Files shared,18
+MLops,bentoml/BentoML,P3,0.12.0-slim-py36,Memory,1
+MLops,bentoml/BentoML,P3,0.8.1,Files shared,30
+MLops,bentoml/BentoML,P3,0.8.1,Memory,3
+MLops,bentoml/BentoML,P3,0.9.0-slim-py38,Files shared,18
+MLops,bentoml/BentoML,P3,0.9.0-slim-py38,Memory,1
+MLops,bentoml/BentoML,P3,latest-slim-py38,Files shared,17
+MLops,bentoml/BentoML,P3,latest-slim-py38,Memory,1
+MLops,bentoml/BentoML,P3,0.10.0,Files shared,20
+MLops,bentoml/BentoML,P3,0.10.0,Memory,9
+MLops,bentoml/BentoML,P3,0.13.1,Files shared,18
+MLops,bentoml/BentoML,P3,0.13.1,Memory,8
+MLops,bentoml/BentoML,P3,0.7.6,Files shared,31
+MLops,bentoml/BentoML,P3,0.7.6,Memory,10
+MLops,bentoml/BentoML,P3,0.8.5,Files shared,19
+MLops,bentoml/BentoML,P3,0.8.5,Memory,9
+MLops,bentoml/BentoML,P3,latest,Files shared,18
+MLops,bentoml/BentoML,P3,latest,Memory,8
+MLops,bentoml/BentoML,P3,0.10.0,Files shared,34
+MLops,bentoml/BentoML,P3,0.10.0,Memory,4
+MLops,bentoml/BentoML,P3,0.12.0-slim-py36,Files shared,18
+MLops,bentoml/BentoML,P3,0.12.0-slim-py36,Memory,1
+MLops,bentoml/BentoML,P3,0.8.1,Files shared,30
+MLops,bentoml/BentoML,P3,0.8.1,Memory,3
+MLops,bentoml/BentoML,P3,0.9.0-slim-py38,Files shared,18
+MLops,bentoml/BentoML,P3,0.9.0-slim-py38,Memory,1
+MLops,bentoml/BentoML,P3,latest-slim-py38,Files shared,17
+MLops,bentoml/BentoML,P3,latest-slim-py38,Memory,1
+MLops,bentoml/BentoML,P3,0.10.0,Files shared,20
+MLops,bentoml/BentoML,P3,0.10.0,Memory,9
+MLops,bentoml/BentoML,P3,0.13.1,Files shared,18
+MLops,bentoml/BentoML,P3,0.13.1,Memory,8
+MLops,bentoml/BentoML,P3,0.7.6,Files shared,31
+MLops,bentoml/BentoML,P3,0.7.6,Memory,10
+MLops,bentoml/BentoML,P3,0.8.5,Files shared,19
+MLops,bentoml/BentoML,P3,0.8.5,Memory,9
+MLops,bentoml/BentoML,P3,latest,Files shared,18
+MLops,bentoml/BentoML,P3,latest,Memory,8
+MLops,SeldonIO/seldon-core,P1,0.1,Files shared,38
+MLops,SeldonIO/seldon-core,P1,0.1,Memory,10
+MLops,SeldonIO/seldon-core,P1,1.1.1-SNAPSHOT_20200416102539,Files shared,32
+MLops,SeldonIO/seldon-core,P1,1.1.1-SNAPSHOT_20200416102539,Memory,4
+MLops,SeldonIO/seldon-core,P1,1.2.3-dev_20200817141105,Files shared,31
+MLops,SeldonIO/seldon-core,P1,1.2.3-dev_20200817141105,Memory,4
+MLops,SeldonIO/seldon-core,P1,1.3.0-dev_20200811141454,Files shared,31
+MLops,SeldonIO/seldon-core,P1,1.3.0-dev_20200811141454,Memory,4
+MLops,SeldonIO/seldon-core,P1,latest,Files shared,43
+MLops,SeldonIO/seldon-core,P1,latest,Memory,14
+MLops,tensorflow/tfx,P2,1.10.0,Files shared,46
+MLops,tensorflow/tfx,P2,1.10.0,Memory,7
+MLops,tensorflow/tfx,P2,1.15.0-gpu,Files shared,36
+MLops,tensorflow/tfx,P2,1.15.0-gpu,Memory,1
+MLops,tensorflow/tfx,P2,2.3.0,Files shared,20
+MLops,tensorflow/tfx,P2,2.3.0,Memory,1
+MLops,tensorflow/tfx,P2,2.5.0-rc3-devel,Files shared,5
+MLops,tensorflow/tfx,P2,2.5.0-rc3-devel,Memory,2
+MLops,tensorflow/tfx,P2,nightlygpu,Files shared,42
+MLops,tensorflow/tfx,P2,nightlygpu,Memory,1
+MLops,tensorflow/tfx,P2,0.12.0,Files shared,13
+MLops,tensorflow/tfx,P2,0.12.0,Memory,3
+MLops,tensorflow/tfx,P2,0.22.0.dev20200228,Files shared,12
+MLops,tensorflow/tfx,P2,0.22.0.dev20200228,Memory,2
+MLops,tensorflow/tfx,P2,0.25.0.dev20201003,Files shared,8
+MLops,tensorflow/tfx,P2,0.25.0.dev20201003,Memory,2
+MLops,tensorflow/tfx,P2,0.29.0.dev20210327,Files shared,21
+MLops,tensorflow/tfx,P2,0.29.0.dev20210327,Memory,3
+MLops,tensorflow/tfx,P2,workshop-latest,Files shared,40
+MLops,tensorflow/tfx,P2,workshop-latest,Memory,6

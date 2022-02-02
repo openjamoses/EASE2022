@@ -1,0 +1,19 @@
+{
+    "Name": "docker.io/kubeflow/mpi-operator",
+    "Digest": "sha256:d5f8dde5aae9e818f2da19ca22c243ed831868cf2926a7c690f0143f39618b7c",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2020-02-11T08:30:55.6581597Z",
+    "DockerVersion": "19.03.5",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:89d9c30c1d48bac627e5c6cb0d1ed1eec28e7dbdfbcc04712e4c79c0f83faf17",
+        "sha256:7c05f45aaf73f9af9f0089bf2faa24c977b2998ebfe36ae6601724edb6a074df"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

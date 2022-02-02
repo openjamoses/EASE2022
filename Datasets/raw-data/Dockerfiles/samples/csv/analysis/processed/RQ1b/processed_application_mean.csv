@@ -1,0 +1,6 @@
+Topic,Repos,ProjectID,FileType,Sharedfiles,Memory
+Application,wkentaro/labelme,P4,.pl,8.333333333333332,0.9414666666666668
+Application,ageitgey/face_recognition,P0,.py,2.0766666666666667,0.01788333333333333
+Application,deepfakes/faceswap,P2,.Debian.1,1.9283333333333335,0.0
+Application,nagadomi/waifu2x,P1,.cmake,5.738333333333333,0.13795
+Application,numenta/nupic,P3,.i,2.3666666666666667,0.0

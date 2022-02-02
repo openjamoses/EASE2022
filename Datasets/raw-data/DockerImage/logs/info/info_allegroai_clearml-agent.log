@@ -1,0 +1,46 @@
+{
+    "Name": "docker.io/allegroai/clearml-agent",
+    "Digest": "sha256:eadcef46cb6d95f1c720ace5413feaf3e840658e60720d79eef139d96cab47f0",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-01-12T17:13:26.336590639Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:7ddbc47eeb70dc7f08e410a6667948b87ff3883024eb41478b44ef9a81bf400c",
+        "sha256:c1bbdc448b7263673926b8fe2e88491e5083a8b4b06ddfabf311f2fc5f27e2ff",
+        "sha256:8c3b70e3904492c753652606df4726430426f42ea56e06ea924d6fea7ae162a1",
+        "sha256:45d437916d5781043432f2d72608049dcf74ddbd27daa01a25fa63c8f1b9adc4",
+        "sha256:d8f1569ddae616589c5a2dabf668fadd250ee9d89253ef16f0cb0c8a9459b322",
+        "sha256:85386706b02069c58ffaea9de66c360f9d59890e56f58485d05c1a532ca30db1",
+        "sha256:ee9b457b77d047ff322858e2de025e266ff5908aec569560e77e2e4451fc23f4",
+        "sha256:be4f3343ecd31ebf7ec8809f61b1d36c2c2f98fc4e63582401d9108575bc443a",
+        "sha256:30b4effda4fdab95ec4eba8873f86e7574c2edddf4dc5df8212e3eda1545aafa",
+        "sha256:6c96206e282e768ebd70d5147f1afd6e72fb7cbdca0ebaa5cf4cbc2ab0a5be9f",
+        "sha256:cf6455a2169032bb2c0ec3e4304f66bb20161bf3bc87f208babd4f85d812f3fe",
+        "sha256:1197145eb4d225b07c75821d8ae2308116b50ec748fb41bdff26bfdd1598385c",
+        "sha256:a0dde2efa98a10895ad5beb65c0a7f57c2b3e47c82ae166a675ccc17c4260b38",
+        "sha256:4cc7a92ddc45c902f7c40624af8866d581088cc7b57f58aee8741de9377b42be",
+        "sha256:39dc78374b7529407e19b827e0a0ec9780a5f5fb7064cc887b4919a8ce66afdd",
+        "sha256:066eed71637cd2520c3c00efbe91fa3f328ac5252982bfd46fd715aae0f5ac59",
+        "sha256:3da6a68b0e3d0bcb7fb705621849a7d125435cd3f663abddef6d09b3f1835afe",
+        "sha256:2258fb382285e2af8292cf4bb4d98e2a813cef7c06e1543bf3f91062e69f8eff"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=10.1.243",
+        "CUDA_PKG_VERSION=10-1=10.1.243-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=10.1 brand=tesla,driver\u003e=384,driver\u003c385 brand=tesla,driver\u003e=396,driver\u003c397 brand=tesla,driver\u003e=410,driver\u003c411",
+        "NCCL_VERSION=2.4.8",
+        "LIBRARY_PATH=/usr/local/cuda/lib64/stubs",
+        "CLEARML_DOCKER_SKIP_GPUS_FLAG=1"
+    ]
+}

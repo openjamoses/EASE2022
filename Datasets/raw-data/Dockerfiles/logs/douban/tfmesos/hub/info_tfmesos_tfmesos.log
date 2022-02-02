@@ -1,0 +1,43 @@
+{
+    "Name": "docker.io/tfmesos/tfmesos",
+    "Digest": "sha256:9bfa86d113ac1a0edc9d4eac9dbb3e610a6dd0be4f74b65c5aa27a7f01fa7178",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2018-08-23T09:47:37.882635787Z",
+    "DockerVersion": "18.03.1-ee-1-tp5",
+    "Labels": {
+        "com.nvidia.cuda.version": "8.0.61",
+        "com.nvidia.cudnn.version": "5.1.10",
+        "com.nvidia.volumes.needed": "nvidia_driver",
+        "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:8ee29e426c26c79e7ba03ccc8bbc7fe99db00ffcbccb679d9c643b5546d8dc8a",
+        "sha256:6e83b260b73b908ebabde46b72fc5790bf4f029b53acbbfe35da8ff8fba795ac",
+        "sha256:e26b65fd1143ee4f9b7b6b958aeafdb996172d10b723f0bba24335a8f7ae692c",
+        "sha256:40dca07f8222e24aab97f026444d66a7604e4ae2b708cf079ff67a90c42efa60",
+        "sha256:b420ae9e10b3f6a74f527914bc3c766b128435a62eca1061f41167205d5b0230",
+        "sha256:d96ac2114ef09f604f85c0ecd3e3330f6d87f70b88a8930dfbce5d2017dd1a2d",
+        "sha256:e1e52a7063805f44c1f672f5df905c9cdde951104b61c5da292dfb8cf72e2f93",
+        "sha256:8c519f84b56d48f7c7b8ad80c1c857d0bf025ffd3a520e59a135117620e74274",
+        "sha256:6bf0b52983b97ea8fb79e269e7e335899a9961baf2c97dadf1fd829121fca4fe",
+        "sha256:27707825feb6bff717039e01c3d16d7ca23143623c4ccc540e39dc9c54ffa86d",
+        "sha256:03594d04b3da0193aa7d173cdd9ea501b27e700853a2dde333bdce5c53599ee4",
+        "sha256:afb62495ff835c95264c91f99e0b977952dd23904be6fab7e85427ed8cc41c63",
+        "sha256:cb6fa9534b8ca7e4ec95d8611b4baa2fc4e622c62dc972f9a08e755e1e5bb5c7"
+    ],
+    "Env": [
+        "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "CUDA_VERSION=8.0.61",
+        "CUDA_PKG_VERSION=8-0=8.0.61-1",
+        "LD_LIBRARY_PATH=/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+        "NVIDIA_VISIBLE_DEVICES=all",
+        "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+        "NVIDIA_REQUIRE_CUDA=cuda\u003e=8.0",
+        "CUDNN_VERSION=5.1.10",
+        "DOCKER_IMAGE=tfmesos/tfmesos"
+    ]
+}

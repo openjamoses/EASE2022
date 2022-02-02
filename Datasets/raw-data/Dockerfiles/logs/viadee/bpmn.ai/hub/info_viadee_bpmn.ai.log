@@ -1,0 +1,33 @@
+{
+    "Name": "docker.io/viadee/bpmn.ai",
+    "Digest": "sha256:ce333f0eb1627b4971c0435f8b3daf813fc636d57ebaf4498b6948794a404d52",
+    "RepoTags": [
+        "1.1.1",
+        "1.2.0",
+        "1.2.1",
+        "1.2.2",
+        "latest",
+        "snapshot"
+    ],
+    "Created": "2020-12-23T13:53:19.513971957Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "maintainer": "mario.micudaj@viadee.de"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:f22ccc0b8772d8e1bcb40f137b373686bc27427a70c0e41dd22b38016e09e7e0",
+        "sha256:3cf8fb62ba5ffb221a2edb2208741346eb4d2d99a174138e4afbb69ce1fd9966",
+        "sha256:e80c964ece6a3edf0db1cfc72ae0e6f0699fb776bbfcc92b708fbb945b0b9547",
+        "sha256:ccf7c0e3196e502dc4e91c9e031766f2115ec6adc3d156e1db66e8ac07ef6966",
+        "sha256:823bc5b146f693989afb7ec300603c561aa9a66508155022d60944406f160f0e",
+        "sha256:bf68de2928425ef4d9eb2e2dbfc25fc2f783f63f1140ea806d89ee89b6c05140",
+        "sha256:f9889ab00650258b29dc3e8d5f4233d84c7502a72a412568d79dadab5fb1d933",
+        "sha256:fbf2fd44623a60ae844597b6afcee081416df5af706f4053072b005f20d3c552",
+        "sha256:740156aace53adf5055970f87ef48fd153cf47c1d1293a0c7f8bb97042b047d1"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ]
+}

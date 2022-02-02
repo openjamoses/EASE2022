@@ -1,0 +1,34 @@
+{
+    "Name": "docker.io/hybridgroup/gocv",
+    "Digest": "sha256:a773c4b46632a6f9d5877b07b57521c215b9bd64a2e1ee6b212b2bc6a059bd91",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2021-07-19T20:51:24.923856224Z",
+    "DockerVersion": "",
+    "Labels": {
+        "maintainer": "hybridgroup"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:004f1eed87df3f75f5e2a1a649fa7edd7f713d1300532fd0909bb39cd48437d7",
+        "sha256:5d6f1e8117dbb1c6a57603cb4f321a861a08105a81bcc6b01b0ec2b78c8523a5",
+        "sha256:48c2faf66abec3dce9f54d6722ff592fce6dd4fb58a0d0b72282936c6598a3b3",
+        "sha256:234b70d0479d7f16d7ee8d04e4ffdacc57d7d14313faf59d332f18b2e9418743",
+        "sha256:f5e9f83ff9bcf98a081ea281823c299a293e0870c4fd132c22cf425b01bd310e",
+        "sha256:9f49582262ce68c2d943f0abaa4475b84c5c44d36e2962327a79603fe837c6b4",
+        "sha256:c133b465a2528ea68235550dfdddf4862eb161f5152d819d72d8e0ce7ba2dfd1",
+        "sha256:62b0b5924b4e8b646b167831364349405f32a450de9565e62ac8570a122918ba",
+        "sha256:356cd8227cecea2543ceabcd6df9ff6ad344773c8c39ff75b8500d9884b9903b",
+        "sha256:d40dc5f92ace9baca0fe16f26935cd7cb1a56dc2cac25796b6bb3c7815d9dcf5",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:718ccfb7e9dfb1f392c4aa0c936cc605b7762dff8a1ea0c3fde20de63af34561"
+    ],
+    "Env": [
+        "PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "GOLANG_VERSION=1.16.3",
+        "GOPATH=/go",
+        "OPENCV_VERSION=4.5.3"
+    ]
+}

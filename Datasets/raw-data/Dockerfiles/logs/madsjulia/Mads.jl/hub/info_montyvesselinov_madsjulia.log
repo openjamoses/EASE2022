@@ -1,0 +1,29 @@
+{
+    "Name": "docker.io/montyvesselinov/madsjulia",
+    "Digest": "sha256:9aa97f084667b04943de3f6f49f1cd6fd7cd65e50c1bee8e62b6163114e0e44e",
+    "RepoTags": [
+        "latest"
+    ],
+    "Created": "2019-09-28T17:13:54.3863544Z",
+    "DockerVersion": "19.03.2",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:b8f262c62ec67f02536f49654de586c022043652bbb6bbf76a8dab1542627a8d",
+        "sha256:e8442fc15533b940683dd63b85d2406072e398312575b93745cb6d86315a2245",
+        "sha256:14eed999e1d00601050604f2cc12d6a80bb7a638f495ec067e757f57baf9106a",
+        "sha256:ffc8a4f8bdf7bf0f5109fb6beb1708b3b97331d32a86542c17673f1533569588",
+        "sha256:0746608001ec970ace850c848b103b0c6638381bee1d875dc7c49d8c71365c0c",
+        "sha256:e70cb0d7ff75e87ad53c97f16c400a8e23ad988730d7a622d0d87cda31a58b88",
+        "sha256:122c02dfed5d0b85b90c2656889a2da8de1b5e6a86bd5a18c1a960345ec1b1c4",
+        "sha256:a16b76302a19067275422fc1038d8f53eb06396ed6eb013e1d10bba1ebad101b",
+        "sha256:d2af04fb37a74d3ecd74cd6663451cde3c7ce5f60445fa413be92e6cc0b3a237"
+    ],
+    "Env": [
+        "PATH=/usr/local/julia/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "JULIA_PATH=/usr/local/julia",
+        "JULIA_GPG=3673DF529D9049477F76B37566E3C7DC03D6E495",
+        "JULIA_VERSION=1.2.0"
+    ]
+}

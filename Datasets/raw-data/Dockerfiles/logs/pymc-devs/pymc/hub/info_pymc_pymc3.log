@@ -1,0 +1,63 @@
+{
+    "Name": "docker.io/pymc/pymc3",
+    "Digest": "sha256:228c01a53746d11538ee28d4de5145523c71447fa402c9f1655f0967e9c986fa",
+    "RepoTags": [
+        "latest",
+        "version-3.10.0",
+        "version-3.11.0",
+        "version-3.11.1",
+        "version-3.11.2",
+        "version-3.9.0",
+        "version-3.9.1",
+        "version-3.9.2",
+        "version-3.9.3"
+    ],
+    "Created": "2021-06-05T14:24:25.13764911Z",
+    "DockerVersion": "19.03.8",
+    "Labels": {
+        "maintainer": "Jupyter Project \u003cjupyter@googlegroups.com\u003e"
+    },
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:345e3491a907bb7c6f1bdddcf4a94284b8b6ddd77eb7d93f09432b17b20f2bbe",
+        "sha256:57671312ef6fdbecf340e5fed0fb0863350cd806c92b1fdd7978adbd02afc5c3",
+        "sha256:5e9250ddb7d0fa6d13302c7c3e6a0aa40390e42424caed1e5289077ee4054709",
+        "sha256:89b549ea476ebff33b73e3c3cc0e7427472b54317c5ee1332b7564a9625ff47d",
+        "sha256:3dead672c27041bcb14eaa6989f9f915d1aae9a12f07e395b6c8c077693f69d9",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:2b4b1b6f1b0707dda0d2354caa154008388f41a2f071246a1a2f9b24907b889e",
+        "sha256:9a5ae6b126eb7937add78c50283c83159145545caaacbb634ee51c42d30d542d",
+        "sha256:c2cb066023c22cdd88da41ae9c35f5c4f20652fdeaadca78578d05b894d79619",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:4185dc4182861a4109d5a40350c882ff504b0936a0174e7ededfcdbfc3c790bb",
+        "sha256:37a1489aad3ceb1b63a34a8056c57d0f4e74d0fb8e74162cf0ff5da05b0c7d77",
+        "sha256:6b46519c17cff1e7eeb6552251b16b784db1d21fa9549c2feb0b05997ac2a272",
+        "sha256:fd47bddbb14bceca6a53c5891ffe6a6e62dccc9fc5e789236adb0c3920edc858",
+        "sha256:858f74c5f496e3836098f330b146fd969e28c4475159bb7752a43f1d046c6803",
+        "sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1",
+        "sha256:f97c17edb0ac2b5a5be7a26ee0a555bee918c55df05879b977cdac897518f0bf",
+        "sha256:7754f5c7391262e75919049d83dfb0285ecdad1c8a89fa72b0aa51c63fb652c4",
+        "sha256:beae27bb584979b40cdfafaece9a978f65ee2a487adc189b668a260b5dfa74c7",
+        "sha256:7e54db89619265788315df6b09d1fbfb193434725d2200b17ab50c192761b470",
+        "sha256:f004cc36c5dd77fe89e0bc732684da258106886f85ff2a4b3db0b1f738af52df"
+    ],
+    "Env": [
+        "PATH=/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "DEBIAN_FRONTEND=noninteractive",
+        "CONDA_DIR=/opt/conda",
+        "SHELL=/bin/bash",
+        "NB_USER=jovyan",
+        "NB_UID=1000",
+        "NB_GID=100",
+        "LC_ALL=en_US.UTF-8",
+        "LANG=en_US.UTF-8",
+        "LANGUAGE=en_US.UTF-8",
+        "HOME=/home/jovyan",
+        "CONDA_VERSION=4.10.1",
+        "MINIFORGE_VERSION=4.10.1-0",
+        "XDG_CACHE_HOME=/home/jovyan/.cache/",
+        "MPLBACKEND=Agg",
+        "PYTHONPATH=:/home/jovyan"
+    ]
+}

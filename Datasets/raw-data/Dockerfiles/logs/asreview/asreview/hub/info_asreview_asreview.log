@@ -1,0 +1,50 @@
+{
+    "Name": "docker.io/asreview/asreview",
+    "Digest": "sha256:74ff648438d39fc04764ff4d4f873a79585a491e376e5c2c069188000f327ea8",
+    "RepoTags": [
+        "0.19",
+        "development",
+        "latest",
+        "release-0.12",
+        "release-0.13",
+        "release-0.13.1",
+        "release-0.13.2",
+        "release-0.13.3",
+        "release-0.14",
+        "release-0.14.1",
+        "release-0.14.2",
+        "release-0.15",
+        "release-0.15.1",
+        "release-0.15.2",
+        "release-0.16",
+        "release-0.17",
+        "release-0.17.1"
+    ],
+    "Created": "2021-12-20T14:17:39.577385967Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "arm64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:6476cb406b24c94f24348db05d154b814b14ee38860dea1625080e7e08295a80",
+        "sha256:96565d527970b1cc982493f96d6b317b1fbfdd7bf0ea6fd58d44942bb4f597c5",
+        "sha256:aa8c15f93136056df893ba8088992a38e90dc37210fd6ebb712413fd045c58de",
+        "sha256:ee42e24e52cb2f9b50ab14328865298f5ae6ac159219db890afc6366ec641a46",
+        "sha256:3ac9532df0bb004dc05861cf06b71118340d756f7ce167e8394e1fd1137b0002",
+        "sha256:3685c02ef2f55e6b867b2aba9c194c3528a0bd84142e758dd7826b5844bd21a5",
+        "sha256:68572f05db90aac4662a3a1f8e5e8926753977b0178642569eddcc8b80642240",
+        "sha256:4b733e943bc7a3cab6d3b0f0b3e676f2f2f4229f1b65d4326551b5e430ce3600",
+        "sha256:be426653c1c55918252bcb77e05a91793452085fc0cb3b05208eeca379252aa4",
+        "sha256:fd4c051dc8f55b2d6f63a94f2fc9e47e3a6e1690de54186f891866c8042a4daa"
+    ],
+    "Env": [
+        "PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=C.UTF-8",
+        "GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568",
+        "PYTHON_VERSION=3.8.12",
+        "PYTHON_PIP_VERSION=21.2.4",
+        "PYTHON_SETUPTOOLS_VERSION=57.5.0",
+        "PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/3cb8888cc2869620f57d5d2da64da38f516078c7/public/get-pip.py",
+        "PYTHON_GET_PIP_SHA256=c518250e91a70d7b20cceb15272209a4ded2a0c263ae5776f129e0d9b5674309"
+    ]
+}

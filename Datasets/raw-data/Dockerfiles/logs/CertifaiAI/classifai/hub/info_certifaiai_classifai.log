@@ -1,0 +1,36 @@
+{
+    "Name": "docker.io/certifaiai/classifai",
+    "Digest": "sha256:578ca4984c6aca722046b074a5187987adb6f1ff4865af681b7001a1f9d45368",
+    "RepoTags": [
+        "2.0.0-snapshot",
+        "latest"
+    ],
+    "Created": "2021-01-27T05:58:30.436429584Z",
+    "DockerVersion": "",
+    "Labels": null,
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:83ee3a23efb7c75849515a6d46551c608b255d8402a4d3753752b88e0dc188fa",
+        "sha256:db98fc6f11f08950985a203e07755c3262c680d00084f601e7304b768c83b3b1",
+        "sha256:f611acd52c6cad803b06b5ba932e4aabd0f2d0d5a4d050c81de2832fcb781274",
+        "sha256:760a2f9af18be145e109b6ad9ca1c120bb9df3c4a67baae7d20e2fabb19fe484",
+        "sha256:c5557356607cbe141389f84513161daa5fcc664644d86afa584f6571b3ba915f",
+        "sha256:987a861328ad7ecd97ffac46d696f505b269af751677a0c08a79582b70c8a602",
+        "sha256:2ee8cf506992ed4080122a363c548466a3f5d758a90cf12e0c5c2ecae9309435",
+        "sha256:54207d331c30e5f1b3ea95d72c0f44f72c8904c376ab736bf29994dd22a42d7a",
+        "sha256:f52bd4b4f6f26eeac3e03749be60000f61ce81795788bf9ad0fa10df1a5736ea"
+    ],
+    "Env": [
+        "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "LANG=en_US.UTF-8",
+        "LANGUAGE=en_US:en",
+        "LC_ALL=en_US.UTF-8",
+        "JAVA_VERSION=jdk-14.0.2+12",
+        "JAVA_HOME=/opt/java/openjdk",
+        "projectname=",
+        "datapath=",
+        "projecttype=boundingbox",
+        "port=9999"
+    ]
+}

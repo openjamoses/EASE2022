@@ -1,0 +1,30 @@
+{
+    "Name": "docker.io/dmlc/mxnet",
+    "Tag": "latest",
+    "Digest": "sha256:25a03a487b7a332701933312e99cc32753a04808ea3fe60dd8b4abad7897dde4",
+    "RepoTags": [
+        "cpu",
+        "cuda",
+        "latest"
+    ],
+    "Created": "2016-04-21T20:20:23.225482592Z",
+    "DockerVersion": "1.11.0",
+    "Labels": {},
+    "Architecture": "amd64",
+    "Os": "linux",
+    "Layers": [
+        "sha256:759d6771041e35f923aa25fdb5e9ba81caad123d8392807711f570562f331f99",
+        "sha256:8836b825667b434cea3a8d3e057e87f503dcfa45eacee3e5b98f9b438490ee51",
+        "sha256:c2f5e51744e6ed631ec7e9b709371123750dd90c3d5be194b028cb60633b33b2",
+        "sha256:a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4",
+        "sha256:a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4",
+        "sha256:6e9a08e578bbd7f901ca49540d3c4c6e0f6307eadb678ca32c1741334b7eff6c",
+        "sha256:ead57e994817c63f53203689fb50d4c40e12ca5f6be2effaa88f22ae4ac2189f",
+        "sha256:1e649ded27f98d225dcdbcca39f76d665d8f1a9163edb3d36ab9318f5d3e5cc4",
+        "sha256:a3ed95caeb02ffe68cdd9fd84406680ae93d633cb16422d00e8a7c22955b46d4"
+    ],
+    "Env": [
+        "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+        "PYTHONPATH=/mxnet/python"
+    ]
+}

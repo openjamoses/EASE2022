@@ -8,7 +8,11 @@ Docker is a containerization service that allows for convenient deployment of we
 #### Table of Contents  
 
  [Study Design](#Reseach-Questions)  
-> We describe the methodology of this step as follows:
+> We describe the methodology of this step as follows: An overview of these step is presented in Figure 1.
+
+![Purposes](Datasets/general/Methodology.png "An overview of our study design/ methodology")
+> Figure 1: An overview of the methodology we followed in this study
+
 - Our methodology include generating the set of topics to identify ML repositories hosted on GitHub
 - Use the keywords to extract the ML based repositories then filtered out the ML repositories that do not employ docker in their deployment process.
 - We categoried the curated list of ML projects that used the docker in to six categoies representing the types of ML/ domain.
@@ -17,9 +21,7 @@ Docker is a containerization service that allows for convenient deployment of we
 
 - The final part of the methodology was to understant the characteristics of the actual images for building and deploying ML software projects.
 
-An overview of these step is presented in Figure 1.
-![Purposes](Datasets/general/Methodology.png "The purposes for using docker")
-> Figure 1: An overview of the methodology we followed in this study
+
 
 [Purpose for Using Docker](#Purpose)  
 ![Purposes](Datasets/RQ2/Purpose.png "The purposes for using docker")

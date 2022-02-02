@@ -24,6 +24,9 @@ Docker is a containerization service that allows for convenient deployment of we
 
 
 [Purpose for Using Docker](#Purpose)  
+> There is a broader range of 21 major purposes of using Docker in the deployment process of ML-based software projects (shown in Figure 2), such as model management, software testing, setting interactive development, data management, automate and running software or model tests, 
+checking the code quality, distribution of tutorials/ documentation, Continuous integration and continuous delivery/ deployment (CI/CD), and build/ packaging among others. Other ML engineers can learn from our observations and implement Docker in their deployment process for these similar purposes.
+
 ![Purposes](Datasets/RQ2/Purpose.png "The purposes for using docker")
 > Figure 2: The mindmap represing the main purposes for using docker in ML based software projects
 

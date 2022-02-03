@@ -47,3 +47,4 @@ Each folders contains the dataset answering the respective research questions. p
 We also include the raw dataset in a folder raw, that contains the raw data of the Dockerfiles and dockerimages. Both as a processed csv files and unprocessed Dockefiles or docker dockerimages.
 
 Sample examples of the Dockerfiles or docker images can be found in the folder named samples.
+> Please note that due to the storage limitation of Git, we could not store the docker images layers in Git, therefore in the folder sample-images only contain the examples of the docker image manifest and configuration files for the few randomly selected images. Moreover, using our code provided in the `analyse-docker` you can still download these images directly from docker hub and reproduce the similar results.

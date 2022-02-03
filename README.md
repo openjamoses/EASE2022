@@ -24,7 +24,7 @@ Docker is a containerization service that allows for convenient deployment of we
 
 
 [Purpose for Using Docker](#Purpose)  
-> There is a broader range of 21 major purposes of using Docker in the deployment process of ML-based software projects (shown in Figure 2), such as model management, software testing, setting interactive development, data management, automate and running software or model tests, 
+> There is a broader range of 21 major purposes of using Docker in the deployment process of ML-based software projects (shown in Figure 2), such as model management, software testing, setting interactive development, data management, automate and running software or model tests,
 checking the code quality, distribution of tutorials/ documentation, Continuous integration and continuous delivery/ deployment (CI/CD), and build/ packaging among others. Other ML engineers can learn from our observations and implement Docker in their deployment process for these similar purposes.
 
 ![Purposes](Datasets/RQ2/Purpose.png "The purposes for using docker")
@@ -32,7 +32,18 @@ checking the code quality, distribution of tutorials/ documentation, Continuous 
 
 
  [Source](#Source)  
-> Descriptions of the most important source codes contains in this repository
+> With this repository is included a complete working source code to reproduce the whole results reported in this Study i.e., analyse-docker.
+A simple configuration may be required before running the code.
+
+In the following, you will find a brief descriptions of what is contained in the source code and how to get started.
 
  [Datasets](#Datasets)  
-> This provides the descriptions of the datasets contains in this repository
+> All dataset used for this study can be found in the folder Dataset. The sub-directories are self-explainatory.
+
+There are four folders named RQ1, RQ2, RQ3, RQ4
+
+Each folders contains the dataset answering the respective research questions. please refer to our paper.
+
+We also include the raw dataset in a folder raw, that contains the raw data of the Dockerfiles and dockerimages. Both as a processed csv files and unprocessed Dockefiles or docker dockerimages.
+
+Sample examples of the Dockerfiles or docker images can be found in the folder named samples.

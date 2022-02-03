@@ -1,0 +1,986 @@
+Category,image,metrics,layer_size
+MLOps/ AIOps,kubeflow/kubeflow-triage,FLS,1671.3600000000001
+MLOps/ AIOps,kubeflow/kubeflow-triage,CLS,626.57
+MLOps/ AIOps,land007/tfjs-node,FLS,3562.91
+MLOps/ AIOps,land007/tfjs-node,CLS,2560.65
+MLOps/ AIOps,greatexpectations/great_expectations,FLS,1540.55
+MLOps/ AIOps,greatexpectations/great_expectations,CLS,1640.79
+MLOps/ AIOps,eugenefedorenko/mlopspython,FLS,1566.88
+MLOps/ AIOps,eugenefedorenko/mlopspython,CLS,1060.73
+MLOps/ AIOps,snapbuy/triton-inference-server,FLS,5807.799999999999
+MLOps/ AIOps,snapbuy/triton-inference-server,CLS,8646.8
+MLOps/ AIOps,quantumblacklabs/kedro_builder,FLS,3363.4700000000003
+MLOps/ AIOps,quantumblacklabs/kedro_builder,CLS,2761.29
+MLOps/ AIOps,nipreps/fmriprep,FLS,2971.9300000000003
+MLOps/ AIOps,nipreps/fmriprep,CLS,3271.4300000000003
+MLOps/ AIOps,awsdeeplearningteam/multi-model-server,FLS,4268.68
+MLOps/ AIOps,awsdeeplearningteam/multi-model-server,CLS,2328.34
+MLOps/ AIOps,selitvin/petastorm_ci_auto,FLS,2015.6200000000001
+MLOps/ AIOps,selitvin/petastorm_ci_auto,CLS,3134.8300000000004
+MLOps/ AIOps,awsdlcontainermirror/tensorflow-training,FLS,2546.6399999999994
+MLOps/ AIOps,awsdlcontainermirror/tensorflow-training,CLS,4507.83
+MLOps/ AIOps,universaldatatool/universaldatatool,FLS,2233.76
+MLOps/ AIOps,universaldatatool/universaldatatool,CLS,1726.18
+MLOps/ AIOps,flyteorg/flytesnacks,FLS,3436.17
+MLOps/ AIOps,flyteorg/flytesnacks,CLS,2075.4199999999996
+MLOps/ AIOps,kubeflow/mpi-operator,FLS,50.800000000000004
+MLOps/ AIOps,kubeflow/mpi-operator,CLS,18.65
+MLOps/ AIOps,wisechang1/nnstreamer,FLS,705.68
+MLOps/ AIOps,wisechang1/nnstreamer,CLS,1833.07
+MLOps/ AIOps,nabeeloz/qlik-py-tools,FLS,4138.12
+MLOps/ AIOps,nabeeloz/qlik-py-tools,CLS,3136.04
+MLOps/ AIOps,redislabs/redisai,FLS,1523.71
+MLOps/ AIOps,redislabs/redisai,CLS,1866.96
+MLOps/ AIOps,rscohn2/oneapi-spec,FLS,229.08999999999997
+MLOps/ AIOps,rscohn2/oneapi-spec,CLS,1074.3300000000002
+MLOps/ AIOps,intel/video-analytics-serving,FLS,5975.94
+MLOps/ AIOps,intel/video-analytics-serving,CLS,4879.33
+MLOps/ AIOps,allegroai/clearml-agent,FLS,3777.0099999999998
+MLOps/ AIOps,allegroai/clearml-agent,CLS,4056.6400000000003
+MLOps/ AIOps,petuum/adaptdl-sched,FLS,2583.18
+MLOps/ AIOps,petuum/adaptdl-sched,CLS,890.28
+MLOps/ AIOps,imjoy/imjoy-app-engine,FLS,1912.1699999999998
+MLOps/ AIOps,imjoy/imjoy-app-engine,CLS,651.2700000000001
+MLOps/ AIOps,aniketmaurya/chitra,FLS,2434.71
+MLOps/ AIOps,aniketmaurya/chitra,CLS,808.9300000000001
+MLOps/ AIOps,montyvesselinov/madsjulia,FLS,2132.67
+MLOps/ AIOps,montyvesselinov/madsjulia,CLS,576.39
+MLOps/ AIOps,nipreps/smriprep,FLS,1760.35
+MLOps/ AIOps,nipreps/smriprep,CLS,2775.9799999999996
+MLOps/ AIOps,hetao2019/kleveross-model-registr,FLS,155.98
+MLOps/ AIOps,hetao2019/kleveross-model-registr,CLS,55.870000000000005
+MLOps/ AIOps,ppl521/paddle-operator,FLS,2382.0299999999997
+MLOps/ AIOps,ppl521/paddle-operator,CLS,2520.84
+MLOps/ AIOps,zazrivec/dcos-jupyterlab-service,FLS,5425.139999999999
+MLOps/ AIOps,zazrivec/dcos-jupyterlab-service,CLS,7642.86
+MLOps/ AIOps,geekjr/quickai,FLS,90.85
+MLOps/ AIOps,geekjr/quickai,CLS,26.709999999999997
+MLOps/ AIOps,paperspace/gradient-base,FLS,1986.4699999999998
+MLOps/ AIOps,paperspace/gradient-base,CLS,2000.1299999999999
+MLOps/ AIOps,indigodatacloud/deepaas,FLS,816.71
+MLOps/ AIOps,indigodatacloud/deepaas,CLS,627.68
+MLOps/ AIOps,cortexlabs/neuron-scheduler,FLS,870.93
+MLOps/ AIOps,cortexlabs/autoscaler,FLS,63.67
+MLOps/ AIOps,cortexlabs/grafana,FLS,250.65
+MLOps/ AIOps,cortexlabs/istio-pilot,FLS,266.64
+MLOps/ AIOps,cortexlabs/nvidia-device-plugin,FLS,2009.93
+MLOps/ AIOps,cortexlabs/istio-proxy,FLS,562.3100000000001
+MLOps/ AIOps,cortexlabs/controller-manager,FLS,91.51
+MLOps/ AIOps,cortexlabs/cluster-autoscaler,FLS,649.86
+MLOps/ AIOps,cortexlabs/operator,FLS,189.67000000000002
+MLOps/ AIOps,cortexlabs/manager,FLS,954.62
+MLOps/ AIOps,cortexlabs/event-exporter,FLS,84.09
+MLOps/ AIOps,cortexlabs/activator,FLS,65.07
+MLOps/ AIOps,cortexlabs/metrics-server,FLS,62.2
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,FLS,870.7
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,665.61
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,807.7
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,337.74
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,815.45
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,672.94
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,251.51999999999998
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,69.99
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,935.97
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,950.53
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,666.3299999999999
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,482.57
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,482.49
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,2043.91
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,CLS,59.9
+MLOps/ AIOps,rayproject/ray,FLS,3503.6700000000005
+MLOps/ AIOps,rayproject/ray-ml,FLS,5569.150000000001
+MLOps/ AIOps,rayproject/ray-ml,CLS,3092.43
+MLOps/ AIOps,rayproject/ray-ml,CLS,6537.070000000001
+MLOps/ AIOps,alluxio/alluxio,FLS,2003.63
+MLOps/ AIOps,alluxio/alluxio-fuse,FLS,3885.2700000000004
+MLOps/ AIOps,alluxio/alluxio-fuse,CLS,1243.9399999999998
+MLOps/ AIOps,alluxio/alluxio-fuse,CLS,3099.03
+MLOps/ AIOps,larribas/mlflow,FLS,856.71
+MLOps/ AIOps,larribas/mlflow,CLS,524.63
+MLOps/ AIOps,tensorflow/serving,FLS,1867.9599999999998
+MLOps/ AIOps,tensorflow/serving,CLS,2835.8400000000006
+MLOps/ AIOps,rootproject/root,FLS,667.9499999999999
+MLOps/ AIOps,rootproject/root,CLS,954.14
+MLOps/ AIOps,intelanalytics/bigdl,FLS,1035.24
+MLOps/ AIOps,intelanalytics/bigdl,CLS,2012.53
+MLOps/ AIOps,ufoym/deepo,FLS,887.57
+MLOps/ AIOps,ufoym/deepo,CLS,1363.7799999999997
+MLOps/ AIOps,intelanalytics/analytics-zoo,FLS,2405.0
+MLOps/ AIOps,intelanalytics/analytics-zoo,CLS,2339.12
+MLOps/ AIOps,sqlflow/sqlflow,FLS,4968.110000000001
+MLOps/ AIOps,sqlflow/sqlflow,CLS,7572.900000000001
+MLOps/ AIOps,seldonio/seldon-core-operator,FLS,2019.9999999999998
+MLOps/ AIOps,seldonio/seldon-core-s2i-python3,FLS,4660.15
+MLOps/ AIOps,seldonio/seldon-core-s2i-python3,CLS,2937.2200000000003
+MLOps/ AIOps,seldonio/seldon-core-s2i-python3,CLS,1491.7399999999998
+MLOps/ AIOps,jolibrain/deepdetect_gpu,FLS,7095.76
+MLOps/ AIOps,jolibrain/deepdetect_gpu_torch,FLS,5900.8099999999995
+MLOps/ AIOps,jolibrain/deepdetect_cpu,FLS,6508.91
+MLOps/ AIOps,jolibrain/deepdetect_cpu_torch,FLS,7313.380000000001
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,FLS,8477.359999999999
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,CLS,4455.35
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,CLS,6562.389999999999
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,CLS,6245.2
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,CLS,7757.15
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,CLS,4695.82
+MLOps/ AIOps,tensorflow/tfx,FLS,5828.95
+MLOps/ AIOps,tensorflow/tfx,CLS,6441.459999999999
+MLOps/ AIOps,kserve/kserve-migration,FLS,176.38
+MLOps/ AIOps,kserve/kserve-controller,FLS,654.61
+MLOps/ AIOps,kserve/kserve-controller,CLS,834.6400000000001
+MLOps/ AIOps,kserve/kserve-controller,CLS,53.07
+MLOps/ AIOps,4pdosc/openmldb,FLS,1723.03
+MLOps/ AIOps,4pdosc/openmldb,CLS,3021.37
+MLOps/ AIOps,volcanosh/volcano-device-plugin,FLS,101.23
+MLOps/ AIOps,volcanosh/volcano-device-plugin,CLS,30.59
+MLOps/ AIOps,feastdev/feast-serving,FLS,633.38
+MLOps/ AIOps,feastdev/feast-serving,CLS,308.20000000000005
+MLOps/ AIOps,bentoml/model-server,FLS,5446.37
+MLOps/ AIOps,bentoml/yatai-service,FLS,3474.9900000000002
+MLOps/ AIOps,bentoml/yatai-service,CLS,2575.7200000000003
+MLOps/ AIOps,bentoml/yatai-service,CLS,1748.09
+MLOps/ AIOps,seldonio/seldon-server,FLS,3464.7999999999997
+MLOps/ AIOps,seldonio/seldon-server,CLS,3984.77
+MLOps/ AIOps,mltooling/ml-workspace,FLS,7665.719999999999
+MLOps/ AIOps,mltooling/ml-workspace,CLS,15428.96
+MLOps/ AIOps,polyaxon/polyaxon-sidecar,FLS,1363.62
+MLOps/ AIOps,polyaxon/polyaxon-hpsearch,FLS,1326.83
+MLOps/ AIOps,polyaxon/polyaxon-scheduler,FLS,2767.0600000000004
+MLOps/ AIOps,polyaxon/polyaxon-core,FLS,2390.6400000000003
+MLOps/ AIOps,polyaxon/polyaxon-api,FLS,2706.15
+MLOps/ AIOps,polyaxon/polyaxon-api,CLS,3440.8900000000003
+MLOps/ AIOps,polyaxon/polyaxon-api,CLS,5696.24
+MLOps/ AIOps,polyaxon/polyaxon-api,CLS,4819.209999999999
+MLOps/ AIOps,polyaxon/polyaxon-api,CLS,2106.49
+MLOps/ AIOps,polyaxon/polyaxon-api,CLS,2089.0299999999997
+MLOps/ AIOps,marsproject/mars-base,FLS,1300.47
+MLOps/ AIOps,marsproject/mars-base,CLS,903.52
+MLOps/ AIOps,vertaaiofficial/modeldb-backend,FLS,917.86
+MLOps/ AIOps,vertaaiofficial/modeldb-backend,CLS,735.78
+MLOps/ AIOps,wixee/old_he-transformer,FLS,870.4300000000001
+MLOps/ AIOps,wixee/old_he-transformer,CLS,1050.64
+MLOps/ AIOps,mesosphere/dcos-commons,FLS,1875.9699999999998
+MLOps/ AIOps,mesosphere/dcos-commons,CLS,2445.2999999999997
+MLOps/ AIOps,wasmedge/wasmedge,FLS,307.94
+MLOps/ AIOps,wasmedge/wasmedge,CLS,1625.32
+MLOps/ AIOps,blazingdb/blazingsql,FLS,660.5899999999999
+MLOps/ AIOps,blazingdb/blazingsql,CLS,558.66
+MLOps/ AIOps,paddlepaddle/serving,FLS,1085.13
+MLOps/ AIOps,paddlepaddle/serving,CLS,996.97
+MLOps/ AIOps,fedlearner/fedlearner,FLS,2597.3199999999997
+MLOps/ AIOps,fedlearner/fedlearner-apiserver,FLS,310.57
+MLOps/ AIOps,fedlearner/fedlearner-operator,FLS,312.0
+MLOps/ AIOps,fedlearner/fedlearner-operator,CLS,1092.2800000000002
+MLOps/ AIOps,fedlearner/fedlearner-operator,CLS,330.45
+MLOps/ AIOps,fedlearner/fedlearner-operator,CLS,329.07
+MLOps/ AIOps,openvino/model_server,FLS,767.69
+MLOps/ AIOps,openvino/model_server,CLS,594.11
+MLOps/ AIOps,orchest/orchest-ctl,FLS,1169.52
+MLOps/ AIOps,orchest/orchest-api,FLS,6211.130000000001
+MLOps/ AIOps,orchest/orchest-api,CLS,505.52
+MLOps/ AIOps,orchest/orchest-api,CLS,4749.5
+MLOps/ AIOps,mltooling/opyrator-playground,FLS,4434.87
+MLOps/ AIOps,mltooling/opyrator-playground,CLS,4130.240000000001
+MLOps/ AIOps,blueoil/blueoil,FLS,2104.73
+MLOps/ AIOps,blueoil/blueoil,CLS,5053.359999999999
+MLOps/ AIOps,zenmldocker/zenml,FLS,1198.72
+MLOps/ AIOps,zenmldocker/zenml,CLS,278.41
+MLOps/ AIOps,metabrainz/acousticbrainz,FLS,6696.499999999999
+MLOps/ AIOps,metabrainz/acousticbrainz,CLS,11806.93
+MLOps/ AIOps,learningathome/hivemind,FLS,6196.67
+MLOps/ AIOps,learningathome/hivemind,CLS,10705.470000000001
+MLOps/ AIOps,kubedl/kubedl,FLS,111.62
+MLOps/ AIOps,kubedl/kubedl,CLS,1468.3100000000002
+MLOps/ AIOps,mltooling/ml-hub,FLS,5599.1900000000005
+MLOps/ AIOps,mltooling/ml-hub,CLS,5580.44
+MLOps/ AIOps,novetta/adaptnlp,FLS,1560.15
+MLOps/ AIOps,novetta/adaptnlp,CLS,1285.25
+MLOps/ AIOps,s22s/rasterframes-notebook,FLS,8657.91
+MLOps/ AIOps,s22s/rasterframes-notebook,CLS,10264.42
+MLOps/ AIOps,asuprem/raydp,FLS,1815.8200000000002
+MLOps/ AIOps,asuprem/raydp,CLS,1993.33
+MLOps/ AIOps,cylondata/cylon,FLS,1305.8300000000002
+MLOps/ AIOps,cylondata/cylon,CLS,2283.5200000000004
+MLOps/ AIOps,huangrh9/autodist,FLS,3344.4199999999996
+MLOps/ AIOps,huangrh9/autodist,CLS,4520.17
+MLOps/ AIOps,milesg/gordo-model-server,FLS,372.7
+MLOps/ AIOps,milesg/gordo-model-server,CLS,1486.09
+MLOps/ AIOps,camazaqui/learningorchestra,FLS,4047.3999999999996
+MLOps/ AIOps,camazaqui/learningorchestra,CLS,2970.73
+MLOps/ AIOps,marsproject/mars,FLS,3616.1299999999997
+MLOps/ AIOps,marsproject/mars,CLS,2069.22
+MLOps/ AIOps,llnl/merlin,FLS,2579.87
+MLOps/ AIOps,llnl/merlin,CLS,1392.1200000000001
+MLOps/ AIOps,mcr.microsoft.com/azureml/aml-triton,FLS,8789.989999999998
+MLOps/ AIOps,mcr.microsoft.com/azureml/aml-triton,CLS,12215.300000000001
+MLOps/ AIOps,arangoml/arangopipe_ui,FLS,638.5500000000001
+MLOps/ AIOps,arangoml/arangopipe_ui,CLS,1988.99
+MLOps/ AIOps,bitnami/tensorflow-serving,FLS,1440.75
+MLOps/ AIOps,bitnami/tensorflow-serving,CLS,1561.44
+MLOps/ AIOps,augerai/a2ml,FLS,1455.1099999999997
+MLOps/ AIOps,augerai/a2ml,CLS,1620.8599999999997
+MLOps/ AIOps,omegaml/omegaml,FLS,4868.66
+MLOps/ AIOps,omegaml/omegaml-base,FLS,2642.67
+MLOps/ AIOps,omegaml/omegaml-base,CLS,5639.68
+MLOps/ AIOps,omegaml/omegaml-base,CLS,1647.5300000000002
+Application System,faceswap/faceswap,FLS,4229.85
+Application System,faceswap/faceswap,CLS,7049.21
+Application System,cmusatyalab/openface,FLS,2450.17
+Application System,cmusatyalab/openface,CLS,2466.5799999999995
+Application System,nagadomi/waifu2x,FLS,1246.9299999999998
+Application System,nagadomi/waifu2x,CLS,4982.8099999999995
+Application System,pmoulon/openmvg,FLS,1719.91
+Application System,pmoulon/openmvg,CLS,2945.53
+Application System,mycroftai/docker-mycroft,FLS,467.31000000000006
+Application System,mycroftai/docker-mycroft,CLS,2352.3099999999995
+Application System,robocarstore/donkeycar,FLS,6094.960000000001
+Application System,robocarstore/donkeycar,CLS,3018.79
+Application System,chadockerxom/pyrocent,FLS,1891.42
+Application System,chadockerxom/pyrocent,CLS,959.61
+Application System,alicevision/meshroom,FLS,8747.25
+Application System,alicevision/meshroom,CLS,10656.83
+Application System,tnarik/malmo,FLS,1771.71
+Application System,tnarik/malmo,CLS,3806.45
+Application System,jbarlow83/ocrmypdf-ss,FLS,4113.4800000000005
+Application System,jbarlow83/ocrmypdf,FLS,1647.6899999999998
+Application System,jbarlow83/ocrmypdf,CLS,889.83
+Application System,jbarlow83/ocrmypdf,CLS,3106.9599999999996
+Application System,cloudannotations/cloudannotations,FLS,771.2
+Application System,cloudannotations/cloudannotations,CLS,407.59
+Application System,k4yt3x/video2x,FLS,234.78
+Application System,k4yt3x/video2x,CLS,1069.84
+Application System,mapbox/robosat,FLS,3925.0
+Application System,mapbox/robosat,CLS,3349.3799999999997
+Application System,borispolonsky/vizdoom-pytorch,FLS,2346.2700000000004
+Application System,borispolonsky/vizdoom-pytorch,CLS,6256.339999999999
+Application System,mmkamani/mmclassification,FLS,2298.2799999999997
+Application System,mmkamani/mmclassification,CLS,4640.629999999999
+Application System,svarogcldo/make-sense,FLS,1626.3900000000003
+Application System,svarogcldo/make-sense,CLS,460.39
+Application System,hqkhan/bindsnet,FLS,2128.34
+Application System,hqkhan/bindsnet,CLS,3060.9
+Application System,pipcook/pipcook,FLS,2179.5299999999997
+Application System,pipcook/pipcook,CLS,4519.150000000001
+Application System,animcogn/face_recognition,FLS,364.28999999999996
+Application System,animcogn/face_recognition,CLS,405.26
+Application System,synesthesiam/mycroft-precise-trainer,FLS,403.91999999999996
+Application System,synesthesiam/mycroft-precise-trainer,CLS,2637.19
+Application System,oilpal/fastmot,FLS,8044.380000000001
+Application System,oilpal/fastmot,CLS,9332.659999999998
+Application System,robotology/yarp,FLS,996.5699999999999
+Application System,robotology/yarp,CLS,2471.23
+Application System,marccote19/textworld,FLS,788.38
+Application System,marccote19/textworld,CLS,1268.69
+Application System,probcomp/gen-quickstart,FLS,1375.29
+Application System,probcomp/gen-quickstart,CLS,1596.77
+Application System,koma1231/pypylon-python3.8,FLS,175.44
+Application System,koma1231/pypylon-python3.8,CLS,455.63
+Application System,owlbarn/owl,FLS,5381.37
+Application System,owlbarn/owl,CLS,2797.7599999999998
+Application System,zivkaziv/videoflow,FLS,1119.98
+Application System,zivkaziv/videoflow,CLS,1337.0300000000002
+Application System,kitware/kwiver,FLS,1909.31
+Application System,kitware/kwiver,CLS,3843.48
+Application System,kundajelab/dragonn,FLS,7002.76
+Application System,kundajelab/dragonn,CLS,7899.18
+Application System,alicevision/cctag,FLS,3160.17
+Application System,alicevision/cctag,CLS,3903.8
+Application System,jahi9791/paperai_repo1,FLS,4696.849999999999
+Application System,jahi9791/paperai_repo1,CLS,4285.429999999999
+Application System,devopsteampl/voice-cloning-app,FLS,1914.62
+Application System,devopsteampl/voice-cloning-app,CLS,1803.2600000000002
+Application System,libertem/libertem-dev,FLS,1812.2900000000002
+Application System,libertem/libertem-dev,CLS,638.3
+Application System,asreview/asreview,FLS,1587.6299999999999
+Application System,asreview/asreview,CLS,775.32
+Application System,alliander/imagetagger,FLS,1563.84
+Application System,alliander/imagetagger,CLS,977.07
+Application System,projectglow/glow-aws,FLS,3862.1299999999997
+Application System,projectglow/glow-azure,FLS,6436.47
+Application System,projectglow/glow-azure,CLS,4670.319999999999
+Application System,projectglow/glow-azure,CLS,8519.35
+Application System,nipy/mindboggle,FLS,2385.07
+Application System,nipy/mindboggle,CLS,2590.58
+Application System,cbica/captk,FLS,3731.3900000000003
+Application System,cbica/captk,CLS,3603.14
+Application System,weilbyte/esmbotmin,FLS,3540.4500000000003
+Application System,weilbyte/esmbotmin,CLS,2837.54
+Application System,barksim/bark,FLS,3698.1499999999996
+Application System,barksim/bark,CLS,2822.23
+Application System,rosetteapi/java-examples,FLS,274.77
+Application System,rosetteapi/java-examples,CLS,971.19
+Application System,hamelsmu/ktext-test,FLS,596.68
+Application System,hamelsmu/ktext-test,CLS,763.0
+Application System,marvinler/pypownet,FLS,1917.46
+Application System,marvinler/pypownet,CLS,769.14
+Application System,local0state/trojanzoo,FLS,1794.2699999999998
+Application System,local0state/trojanzoo,CLS,1239.05
+Application System,skkueslab/ant-build-test,FLS,1566.75
+Application System,skkueslab/ant-build-test,CLS,3155.7
+Application System,claraomics/atacworks,FLS,3691.62
+Application System,claraomics/atacworks,CLS,2564.5200000000004
+Application System,sirimullalab/dlscore,FLS,2690.22
+Application System,sirimullalab/dlscore,CLS,2290.38
+Application System,weiji14/deepbedmap,FLS,4966.1
+Application System,weiji14/deepbedmap,CLS,2834.84
+Application System,cair/deeprts,FLS,2233.37
+Application System,cair/deeprts,CLS,2908.1400000000003
+Application System,mlrun/mlrun-ui,FLS,1891.82
+Application System,mlrun/ml-models,FLS,6408.06
+Application System,mlrun/mlrun-api,FLS,1971.5900000000001
+Application System,mlrun/ml-models-gpu,FLS,6884.67
+Application System,mlrun/ml-models-gpu,CLS,3706.26
+Application System,mlrun/ml-models-gpu,CLS,3501.2599999999998
+Application System,mlrun/ml-models-gpu,CLS,7584.719999999999
+Application System,mlrun/ml-models-gpu,CLS,1790.6499999999996
+Application System,andrejorsula/drl_grasping,FLS,5155.58
+Application System,andrejorsula/drl_grasping,CLS,3965.04
+Application System,certifaiai/classifai,FLS,1368.9399999999998
+Application System,certifaiai/classifai,CLS,1424.52
+Application System,spacechop/spacechop,FLS,2500.71
+Application System,spacechop/spacechop,CLS,2622.2
+Application System,bscwdc/dislib,FLS,938.88
+Application System,bscwdc/dislib-base,FLS,841.2900000000001
+Application System,bscwdc/dislib-base,CLS,2277.9
+Application System,bscwdc/dislib-base,CLS,1850.8600000000001
+Application System,dcanlabs/abcd-hcp-pipeline,FLS,3910.1000000000004
+Application System,dcanlabs/abcd-hcp-pipeline,CLS,7084.240000000001
+Application System,aldro61/kover,FLS,2372.0899999999997
+Application System,aldro61/kover,CLS,2305.31
+Application System,dicegroup/tebaqa,FLS,2295.04
+Application System,dicegroup/tebaqa,CLS,2159.6400000000003
+Application System,vwxyzjn/gym-microrts,FLS,2165.4300000000003
+Application System,vwxyzjn/gym-microrts,CLS,2678.3
+Application System,erechtheus79/geolocation,FLS,2680.7
+Application System,erechtheus79/geolocation,CLS,2071.27
+Application System,hkubal/clair3,FLS,1495.96
+Application System,hkubal/clair3,CLS,2557.23
+Application System,viadee/bpmn.ai,FLS,2039.29
+Application System,viadee/bpmn.ai-ui,FLS,2659.34
+Application System,viadee/bpmn.ai-ui,CLS,1477.7400000000002
+Application System,viadee/bpmn.ai-ui,CLS,2041.6000000000001
+Application System,cselab/korali,FLS,603.6599999999999
+Application System,cselab/korali,CLS,2610.7400000000002
+Application System,librealsense/librealsense,FLS,1305.2
+Application System,librealsense/librealsense,CLS,1138.63
+Application System,openmined/pysyft-notebook,FLS,1784.87
+Application System,openmined/pysyft-notebook,CLS,2102.9
+Application System,deeplabcut/deeplabcut,FLS,2897.16
+Application System,deeplabcut/deeplabcut,CLS,3371.79
+Application System,photoprism/photoprism-arm64,FLS,2350.2700000000004
+Application System,photoprism/photoprism-arm64,CLS,3567.7200000000003
+Application System,alphacep/kaldi-en-in,FLS,960.89
+Application System,alphacep/vosk-unimrcp,FLS,342.59
+Application System,alphacep/kaldi-es,FLS,320.21999999999997
+Application System,alphacep/kaldi-en-gpu,FLS,1786.3700000000001
+Application System,alphacep/kaldi-manylinux,FLS,898.56
+Application System,alphacep/kaldi-grpc-en,FLS,297.46
+Application System,alphacep/kaldi-ru,FLS,269.90999999999997
+Application System,alphacep/kaldi-en-spk,FLS,270.09
+Application System,alphacep/kaldi-vosk-server,FLS,267.40999999999997
+Application System,alphacep/kaldi-cn,FLS,673.71
+Application System,alphacep/kaldi-de,FLS,269.4
+Application System,alphacep/kaldi-en,FLS,270.08
+Application System,alphacep/kaldi-fr,FLS,269.73999999999995
+Application System,alphacep/kaldi-fr,CLS,269.13
+Application System,alphacep/kaldi-fr,CLS,640.8199999999999
+Application System,alphacep/kaldi-fr,CLS,269.14000000000004
+Application System,alphacep/kaldi-fr,CLS,521.09
+Application System,alphacep/kaldi-fr,CLS,268.79
+Application System,alphacep/kaldi-fr,CLS,267.29
+Application System,alphacep/kaldi-fr,CLS,268.41
+Application System,alphacep/kaldi-fr,CLS,465.36
+Application System,alphacep/kaldi-fr,CLS,268.81
+Application System,alphacep/kaldi-fr,CLS,300.48
+Application System,alphacep/kaldi-fr,CLS,1452.51
+Application System,alphacep/kaldi-fr,CLS,284.49
+Application System,alphacep/kaldi-fr,CLS,283.83
+Application System,pytorchlightning/metrics-dev,FLS,2112.33
+Application System,pytorchlightning/metrics-dev,CLS,1057.15
+Application System,beammodel/beam,FLS,299.24
+Application System,beammodel/beam,CLS,172.66000000000003
+Application System,fetchai/aea-deploy,FLS,2115.08
+Application System,fetchai/aea-develop,FLS,663.6300000000001
+Application System,fetchai/aea-user,FLS,3033.82
+Application System,fetchai/aea-user,CLS,4051.2200000000003
+Application System,fetchai/aea-user,CLS,1482.28
+Application System,fetchai/aea-user,CLS,651.1199999999999
+Application System,jguweka/jguweka,FLS,1226.1799999999998
+Application System,jguweka/jguweka,CLS,3432.3899999999994
+Application System,projectmonai/monailabel,FLS,10795.890000000001
+Application System,projectmonai/monailabel,CLS,10035.17
+Application System,z1pti3/jimi_core,FLS,1416.89
+Application System,z1pti3/jimi_web,FLS,2198.84
+Application System,z1pti3/jimi_web,CLS,1050.89
+Application System,z1pti3/jimi_web,CLS,289.65000000000003
+Application System,masatoka/jetson-base,FLS,5342.44
+Application System,masatoka/jetson-nano-torch-sample,FLS,8011.200000000001
+Application System,masatoka/jetson-nano-base,FLS,8010.170000000001
+Application System,masatoka/jetson-nano-base,CLS,3535.9500000000003
+Application System,masatoka/jetson-nano-base,CLS,4780.53
+Application System,masatoka/jetson-nano-base,CLS,5371.53
+Application System,openalpr/openalpr,FLS,953.98
+Application System,openalpr/openalpr,CLS,2725.5699999999997
+Application System,farmng/base,FLS,5052.17
+Application System,farmng/devel,FLS,3280.39
+Application System,farmng/devel,CLS,5223.39
+Application System,farmng/devel,CLS,1456.0499999999997
+Application System,linonetwork/linox,FLS,1911.89
+Application System,linonetwork/linox,CLS,823.1400000000002
+Application System,ailemondocker/asrt_service,FLS,1694.17
+Application System,ailemondocker/asrt_service,CLS,1599.2300000000002
+Application System,g4challenge/mmocr,FLS,3217.72
+Application System,g4challenge/mmocr,CLS,2118.59
+Application System,shinyeyes/perceptualsimilarity,FLS,1773.9099999999999
+Application System,shinyeyes/perceptualsimilarity,CLS,4655.0
+Application System,rasa/financial-demo,FLS,912.39
+Application System,rasa/financial-demo,CLS,671.83
+Application System,mozilla/deepspeech-train,FLS,4555.929999999999
+Application System,mozilla/deepspeech-server,FLS,6831.7
+Application System,mozilla/deepspeech-server,CLS,4389.71
+Application System,mozilla/deepspeech-server,CLS,5874.8499999999985
+Application System,wkentaro/labelme,FLS,143.38000000000002
+Application System,wkentaro/labelme,CLS,333.88999999999993
+Application System,carlasim/carla,FLS,3901.9000000000005
+Application System,carlasim/carla,CLS,2969.6600000000003
+Application System,deezer/spleeter,FLS,2675.84
+Application System,deezer/spleeter-gpu,FLS,2679.7200000000003
+Application System,deezer/spleeter-gpu,CLS,2007.53
+Application System,openvino/workbench,FLS,4486.6500000000015
+Application System,openvino/cvat_server,FLS,1866.8800000000003
+Application System,openvino/cvat_ui,FLS,248.34
+Application System,openvino/cvat_ui,CLS,2671.12
+Application System,openvino/cvat_ui,CLS,2482.62
+Application System,openvino/cvat_ui,CLS,8406.800000000003
+Application System,numenta/nupic,FLS,2634.2
+Application System,numenta/nupic,CLS,2554.85
+Application System,silviostanzani/open3d-ml,FLS,7444.819999999999
+Application System,silviostanzani/open3d-ml,CLS,9467.089999999997
+Application System,doccano/doccano,FLS,1241.9299999999998
+Application System,doccano/doccano,CLS,580.81
+Application System,federatedai/fateboard,FLS,268.06
+Application System,federatedai/fateboard,CLS,291.71000000000004
+Application System,colmap/colmap,FLS,2581.85
+Application System,colmap/colmap,CLS,3230.93
+Application System,heartexlabs/label-studio,FLS,1611.15
+Application System,heartexlabs/label-studio,CLS,1577.95
+Application System,dany06/ai-chatbot-framework,FLS,2940.2300000000005
+Application System,dany06/ai-chatbot-framework,CLS,1576.56
+Application System,deepspeed/deepspeed,FLS,4937.080000000001
+Application System,deepspeed/deepspeed,CLS,7831.29
+Application System,google/deepvariant,FLS,4383.5
+Application System,google/deepvariant,CLS,9569.52
+Application System,interpretml/interpret,FLS,143.68
+Application System,interpretml/interpret,CLS,1551.88
+Application System,mindsdb/mindsdb,FLS,571.8700000000001
+Application System,mindsdb/mindsdb,CLS,388.72
+Application System,quantylab/rltrader,FLS,887.33
+Application System,quantylab/rltrader,CLS,1587.9699999999998
+Application System,zhenghaoz/gorse-master,FLS,73.77000000000001
+Application System,zhenghaoz/gorse-server,FLS,68.94
+Application System,zhenghaoz/gorse-worker,FLS,59.82
+Application System,zhenghaoz/gorse-worker,CLS,30.18
+Application System,zhenghaoz/gorse-worker,CLS,33.89
+Application System,zhenghaoz/gorse-worker,CLS,27.0
+Application System,daviddocker78/mxnet-ssd,FLS,7153.91
+Application System,daviddocker78/mxnet-ssd,CLS,10657.63
+Application System,hooram/ownphotos,FLS,3664.54
+Application System,hooram/ownphotos,CLS,6993.629999999999
+Application System,jsbroks/coco-annotator,FLS,3252.61
+Application System,jsbroks/coco-annotator,CLS,1659.8200000000002
+Application System,blakeblackshear/frigate,FLS,2127.2299999999996
+Application System,blakeblackshear/frigate,CLS,2562.1499999999996
+Application System,drakkarsoftware/octobot,FLS,1131.88
+Application System,drakkarsoftware/octobot,CLS,747.15
+Application System,vincentmatthys/grobid,FLS,1307.0700000000002
+Application System,vincentmatthys/grobid,CLS,1067.25
+Application System,oliviaai/olivia,FLS,1279.58
+Application System,oliviaai/olivia,CLS,330.78000000000003
+Application System,opendatacam/opendatacam,FLS,6165.640000000001
+Application System,opendatacam/opendatacam-darknet-base,FLS,5712.0199999999995
+Application System,opendatacam/opendatacam-darknet-base,CLS,8206.2
+Application System,opendatacam/opendatacam-darknet-base,CLS,6243.26
+Application System,sentinelhub/eolearn,FLS,2904.76
+Application System,sentinelhub/eolearn,CLS,1698.87
+Application System,dragoncomputer/dragonfire,FLS,1495.87
+Application System,dragoncomputer/dragonfire,CLS,255.56
+Application System,jonaswinkler/paperless-ng,FLS,1377.33
+Application System,jonaswinkler/paperless-ng,CLS,1677.8
+Application System,polakowo/vectorbt,FLS,4718.07
+Application System,polakowo/vectorbt-full,FLS,4942.72
+Application System,polakowo/vectorbt-full,CLS,6771.17
+Application System,polakowo/vectorbt-full,CLS,7769.52
+Application System,joorock12/tensorflowasr,FLS,3547.5499999999997
+Application System,joorock12/tensorflowasr,CLS,7266.6
+Application System,exadel/compreface-core-base,FLS,1370.5300000000002
+Application System,exadel/compreface-fe,FLS,215.32
+Application System,exadel/compreface-api,FLS,397.65
+Application System,exadel/compreface-core,FLS,2871.37
+Application System,exadel/compreface-core,CLS,3074.04
+Application System,exadel/compreface-core,CLS,2885.09
+Application System,exadel/compreface-core,CLS,414.78
+Application System,exadel/compreface-core,CLS,1352.2400000000002
+Application System,fcore/txtai,FLS,2948.09
+Application System,fcore/txtai,CLS,1787.1999999999998
+Application System,openml/openml-python,FLS,2819.2000000000003
+Application System,openml/openml-python,CLS,1281.25
+Application System,tiangolo/uwsgi-nginx-flask,FLS,5656.579999999999
+Application System,tiangolo/uwsgi-nginx-flask,CLS,6171.09
+Application System,nipreps/mriqc,FLS,3692.420000000001
+Application System,nipreps/mriqc,CLS,3382.33
+Application System,nelinski/reddit-karma-farming-bot,FLS,2611.5
+Application System,nelinski/reddit-karma-farming-bot,CLS,2366.12
+Application System,gnina/gnina,FLS,1535.89
+Application System,gnina/gnina,CLS,4741.14
+Application System,jeff1evesque/ml-default,FLS,1542.55
+Application System,jeff1evesque/ml-default,CLS,2980.5099999999998
+Application System,dsarchive/histomicstk,FLS,2552.3699999999994
+Application System,dsarchive/histomicstk,CLS,4114.349999999999
+Application System,bdonnot/grid2op,FLS,4780.37
+Application System,bdonnot/grid2op,CLS,2546.41
+Application System,erdosproject/pylot,FLS,7658.3600000000015
+Application System,erdosproject/pylot,CLS,5767.78
+Application System,modernmt/master,FLS,2319.1099999999997
+Application System,modernmt/master,CLS,3389.7299999999996
+Application System,deepquestai/deepstack-base,FLS,7190.31
+Application System,deepquestai/deepstack,FLS,5628.83
+Application System,deepquestai/deepstack,CLS,4038.81
+Application System,deepquestai/deepstack,CLS,6721.71
+Application System,obsei/obsei-ui-demo,FLS,952.1999999999999
+Application System,obsei/obsei-sdk,FLS,1798.2600000000002
+Application System,obsei/obsei-sdk,CLS,2166.35
+Application System,obsei/obsei-sdk,CLS,948.86
+Application System,intel/openfl,FLS,1417.2399999999998
+Application System,intel/openfl,CLS,3058.1400000000003
+Application System,msahraeian/neusomatic,FLS,3610.46
+Application System,msahraeian/neusomatic,CLS,4593.25
+Application System,generall/qdrant,FLS,143.84
+Application System,generall/qdrant,CLS,41.35
+Application System,opendilab/ding,FLS,1778.51
+Application System,opendilab/ding,CLS,1713.54
+Application System,recognai/rubrix,FLS,5134.88
+Application System,recognai/rubrix,CLS,5054.580000000001
+Application System,imaginative/credential-digger_credential_digger,FLS,3444.9800000000005
+Application System,imaginative/credential-digger_credential_digger,CLS,1704.6
+Application System,pascalbergeron/geo-deep-learning-cpu,FLS,4901.599999999999
+Application System,pascalbergeron/geo-deep-learning-cpu,CLS,5879.26
+Application System,neuralet/smart-social-distancing,FLS,4529.400000000001
+Application System,neuralet/smart-social-distancing,CLS,3815.8
+Application System,nnabla/nnabla-ext-cuda-multi-gpu,FLS,2803.4800000000005
+Application System,nnabla/nnabla-ext-cuda-multi-gpu,CLS,2747.13
+Application System,af01/bolero_dependencies,FLS,136.28
+Application System,af01/bolero,FLS,2431.61
+Application System,af01/bolero,CLS,2592.2
+Application System,af01/bolero,CLS,480.79999999999995
+Application System,mlovci/flotilla,FLS,2094.7699999999995
+Application System,mlovci/flotilla,CLS,4606.43
+Application System,rostlab/bio_embeddings,FLS,1998.0700000000002
+Application System,rostlab/bio_embeddings,CLS,3481.4100000000003
+Application System,kevinmenden/scaden,FLS,1332.57
+Application System,kevinmenden/scaden,CLS,1930.52
+Application System,pyronear/pyro-vision,FLS,2159.89
+Application System,pyronear/pyro-vision,CLS,1336.72
+Application System,will5448/camera-trap-classifier,FLS,5704.76
+Application System,will5448/camera-trap-classifier,CLS,7733.02
+Application System,cogstacksystems/medcat-trainer-nginx,FLS,685.6399999999999
+Application System,cogstacksystems/medcat-trainer,FLS,2283.06
+Application System,cogstacksystems/medcat-trainer,CLS,1378.1499999999999
+Application System,cogstacksystems/medcat-trainer,CLS,2795.68
+Application System,modelchimp/modelchimp-ui,FLS,2681.08
+Application System,modelchimp/modelchimp-server,FLS,2321.9199999999996
+Application System,modelchimp/modelchimp-server,CLS,1116.81
+Application System,modelchimp/modelchimp-server,CLS,620.63
+Application System,kitware/diva,FLS,7809.750000000001
+Application System,kitware/diva,CLS,7877.86
+Application System,milenapavlovic/immuneml,FLS,2087.6200000000003
+Application System,milenapavlovic/immuneml,CLS,3822.28
+Application System,unitytechnologies/datasetinsights,FLS,3050.5
+Application System,unitytechnologies/datasetinsights,CLS,2744.54
+Application System,ubcctlt/compair-app,FLS,2057.33
+Application System,ubcctlt/compair-app,CLS,2407.95
+Toolkit,intelotc/dffml,FLS,2163.45
+Toolkit,intelotc/dffml,CLS,1063.84
+Toolkit,optuna/optuna,FLS,2172.4
+Toolkit,optuna/optuna,CLS,851.2800000000001
+Toolkit,climbsrocks/auto_ml,FLS,496.03
+Toolkit,climbsrocks/auto_ml_tests,FLS,536.5899999999999
+Toolkit,climbsrocks/auto_ml_tests,CLS,2940.41
+Toolkit,climbsrocks/auto_ml_tests,CLS,2904.6
+Toolkit,nidhaloff/igel,FLS,2506.5499999999997
+Toolkit,nidhaloff/igel,CLS,1967.0200000000004
+Toolkit,funkey/gunpowder,FLS,7486.87
+Toolkit,funkey/gunpowder,CLS,7280.539999999999
+Toolkit,mlbazaar/autobazaar,FLS,1610.9700000000003
+Toolkit,mlbazaar/autobazaar,CLS,1607.62
+Toolkit,deepset/farm-inference-ui,FLS,462.08
+Toolkit,deepset/farm-gpu-electra,FLS,4616.49
+Toolkit,deepset/farm-onnxruntime-gpu,FLS,3073.2200000000003
+Toolkit,deepset/farm-onnx,FLS,3060.88
+Toolkit,deepset/farm-gpu,FLS,4481.45
+Toolkit,deepset/farm-inference-api,FLS,2281.6000000000004
+Toolkit,deepset/farm-inference-api,CLS,779.9399999999999
+Toolkit,deepset/farm-inference-api,CLS,384.39
+Toolkit,deepset/farm-inference-api,CLS,2177.8
+Toolkit,deepset/farm-inference-api,CLS,3583.39
+Toolkit,deepset/farm-inference-api,CLS,2047.8300000000002
+Toolkit,deepset/farm-inference-api,CLS,3583.9
+Toolkit,ppalmes/automlpipeline,FLS,1295.6999999999998
+Toolkit,ppalmes/automlpipeline,CLS,1112.3400000000001
+Toolkit,automlorg/autopytorch,FLS,1287.33
+Toolkit,automlorg/autopytorch,CLS,1438.4
+Toolkit,msranni/nni,FLS,3752.85
+Toolkit,msranni/nni,CLS,5645.9
+Toolkit,automlbenchmark/autosklearn,FLS,2831.95
+Toolkit,automlbenchmark/autosklearn,CLS,2272.87
+Toolkit,ludwigai/ludwig-ray,FLS,2293.94
+Toolkit,ludwigai/ludwig,FLS,1135.58
+Toolkit,ludwigai/ludwig-ray-gpu,FLS,2441.4500000000003
+Toolkit,ludwigai/ludwig-gpu,FLS,1360.5
+Toolkit,ludwigai/ludwig-gpu,CLS,429.97
+Toolkit,ludwigai/ludwig-gpu,CLS,1440.9599999999996
+Toolkit,ludwigai/ludwig-gpu,CLS,1370.2
+Toolkit,ludwigai/ludwig-gpu,CLS,2601.24
+Toolkit,autogoal/autogoal,FLS,4966.13
+Toolkit,autogoal/autogoal,CLS,5275.53
+Toolkit,snoe925/lightgbm,FLS,287.86
+Toolkit,snoe925/lightgbm,CLS,1563.77
+Toolkit,pymc/pymc3,FLS,2203.2
+Toolkit,pymc/pymc3,CLS,4343.22
+Toolkit,yueguoguo/xlearn,FLS,195.73
+Toolkit,yueguoguo/xlearn,CLS,1472.6000000000001
+Toolkit,rapidsai/rapidsai-nightly,FLS,896.53
+Toolkit,rapidsai/rapidsai,FLS,2887.56
+Toolkit,rapidsai/rapidsai,CLS,2751.13
+Toolkit,rapidsai/rapidsai,CLS,925.46
+Toolkit,sepandhaghighi/pycm,FLS,2630.0600000000004
+Toolkit,sepandhaghighi/pycm,CLS,2176.2200000000003
+Toolkit,rgfteam/rgf,FLS,883.51
+Toolkit,rgfteam/rgf,CLS,2193.96
+Toolkit,heidelbergcementds/hcrystalball,FLS,2528.23
+Toolkit,heidelbergcementds/hcrystalball,CLS,2626.8
+Toolkit,envest/rnaseq_titration_results,FLS,5479.62
+Toolkit,envest/rnaseq_titration_results,CLS,3457.41
+Toolkit,ikholopov/catboost-node-package-e2e-base,FLS,488.28999999999996
+Toolkit,ikholopov/catboost-node-package-e2e-base,CLS,558.98
+Toolkit,stellargraph/stellargraph,FLS,1260.59
+Toolkit,stellargraph/stellargraph,CLS,2485.36
+Toolkit,vearch/vearch,FLS,476.36
+Toolkit,vearch/vearch,CLS,145.86
+Toolkit,turinglang/turing,FLS,1016.58
+Toolkit,turinglang/turing,CLS,420.37
+Toolkit,reiinakano/xcessiv,FLS,1443.76
+Toolkit,reiinakano/xcessiv,CLS,366.87
+Toolkit,openmined/tenseal,FLS,162.98000000000002
+Toolkit,openmined/tenseal,CLS,282.96999999999997
+Toolkit,nlpodyssey/spago,FLS,234.7
+Toolkit,nlpodyssey/spago,CLS,736.74
+Toolkit,xaynetwork/xaynet,FLS,366.56
+Toolkit,xaynetwork/xaynet,CLS,97.46000000000001
+Model,ultralytics/yolov5,FLS,11002.17
+Model,ultralytics/yolov5,CLS,10529.339999999998
+Model,ultralytics/yolov3,FLS,10964.55
+Model,ultralytics/yolov3,CLS,10504.869999999999
+Model,deliah/bert-as-service,FLS,3886.2
+Model,deliah/bert-as-service,CLS,6501.81
+Model,defects4dl/segmentation_models.pytorch186,FLS,205.98999999999998
+Model,defects4dl/segmentation_models.pytorch186,CLS,1046.3400000000001
+Model,medipixel/rl_algorithms,FLS,3105.06
+Model,medipixel/rl_algorithms,CLS,3669.4500000000003
+Model,alexandrainst/danlp,FLS,1722.52
+Model,alexandrainst/danlp,CLS,1968.07
+Model,rickardhallerback/recurrent-neural-net,FLS,1343.06
+Model,rickardhallerback/recurrent-neural-net,CLS,1399.42
+Model,huggingface/transformers-pytorch-gpu,FLS,1095.4
+Model,huggingface/transformers-tensorflow-gpu,FLS,2266.0
+Model,huggingface/transformers-gpu,FLS,1038.62
+Model,huggingface/transformers-cpu,FLS,1073.22
+Model,huggingface/transformers-pytorch-cpu,FLS,1128.8400000000001
+Model,huggingface/transformers-tensorflow-cpu,FLS,1071.42
+Model,huggingface/transformers-tensorflow-cpu,CLS,2515.9999999999995
+Model,huggingface/transformers-tensorflow-cpu,CLS,1127.5800000000002
+Model,huggingface/transformers-tensorflow-cpu,CLS,2210.0899999999997
+Model,huggingface/transformers-tensorflow-cpu,CLS,283.15999999999997
+Model,huggingface/transformers-tensorflow-cpu,CLS,2499.0600000000004
+Model,kyiimn/pororo,FLS,2784.9300000000003
+Model,kyiimn/pororo,CLS,2011.6100000000001
+Model,shinyeyes/keras-ocr,FLS,5424.35
+Model,shinyeyes/keras-ocr,CLS,4007.06
+Model,araffin/rl-baselines-zoo,FLS,2081.44
+Model,araffin/rl-baselines-zoo-cpu,FLS,1431.5
+Model,araffin/rl-baselines-zoo-cpu,CLS,4679.8
+Model,araffin/rl-baselines-zoo-cpu,CLS,4011.21
+Model,intel/intel-optimized-tensorflow,FLS,1083.3799999999999
+Model,intel/intel-optimized-tensorflow,CLS,482.91999999999996
+DL Framwork,arunothia/cs-221,FLS,1707.0500000000002
+DL Framwork,arunothia/cs-221,CLS,3889.3399999999997
+DL Framwork,datmo/xgboost,FLS,1935.6599999999999
+DL Framwork,datmo/xgboost,CLS,2092.02
+DL Framwork,apulistech/mmdetection,FLS,2824.31
+DL Framwork,apulistech/mmdetection,CLS,4538.290000000001
+DL Framwork,allennlp/allennlp,FLS,2287.98
+DL Framwork,allennlp/allennlp,CLS,1786.28
+DL Framwork,nvidia/digits,FLS,3268.93
+DL Framwork,nvidia/digits,CLS,3274.7099999999996
+DL Framwork,tinydnn/tinydnn,FLS,1862.8500000000004
+DL Framwork,tinydnn/tinydnn,CLS,4893.969999999999
+DL Framwork,hybridgroup/gocv,FLS,2787.08
+DL Framwork,hybridgroup/gocv,CLS,969.97
+DL Framwork,catalystteam/catalyst,FLS,145.31
+DL Framwork,catalystteam/catalyst,CLS,39.87
+DL Framwork,principialabs/torch-points3d,FLS,2987.22
+DL Framwork,principialabs/torch-points3d,CLS,5266.849999999999
+DL Framwork,kengz/slm_lab,FLS,1924.95
+DL Framwork,kengz/slm_lab,CLS,2928.4800000000005
+DL Framwork,datacanvas/deeptables-example,FLS,2947.13
+DL Framwork,datacanvas/deeptables-example,CLS,2260.7200000000003
+DL Framwork,sourabhbhide/stardist-tf24-gpu,FLS,3468.9599999999996
+DL Framwork,sourabhbhide/stardist-tf24-gpu,CLS,3128.91
+DL Framwork,flexflowai/cuda110,FLS,2254.2200000000003
+DL Framwork,flexflowai/cuda110,CLS,2202.0699999999997
+DL Framwork,alicevision/popsift,FLS,2602.7
+DL Framwork,alicevision/popsift,CLS,3004.2999999999997
+DL Framwork,juliareinforcementlearning/reinforcementlearningenvironments,FLS,2482.62
+DL Framwork,juliareinforcementlearning/reinforcementlearningenvironments,CLS,1259.04
+DL Framwork,baguasys/bagua,FLS,2444.7000000000003
+DL Framwork,baguasys/bagua,CLS,3323.2999999999997
+DL Framwork,smartdataanalytics/dl-learner,FLS,2183.9800000000005
+DL Framwork,smartdataanalytics/dl-learner,CLS,2057.22
+DL Framwork,rlgraph/rlgraph,FLS,2398.33
+DL Framwork,rlgraph/rlgraph,CLS,4868.99
+DL Framwork,tinyms/tinyms,FLS,3199.97
+DL Framwork,tinyms/tinyms,CLS,3521.9900000000002
+DL Framwork,carefree0910/carefree-learn-apps,FLS,1519.73
+DL Framwork,carefree0910/carefree-learn-deploy,FLS,6347.280000000001
+DL Framwork,carefree0910/carefree-learn,FLS,11588.62
+DL Framwork,carefree0910/carefree-learn,CLS,888.86
+DL Framwork,carefree0910/carefree-learn,CLS,8861.7
+DL Framwork,carefree0910/carefree-learn,CLS,6371.0
+DL Framwork,neuronets/nobrainer,FLS,5473.000000000001
+DL Framwork,neuronets/nobrainer-zoo,FLS,2474.82
+DL Framwork,neuronets/nobrainer-zoo,CLS,7110.37
+DL Framwork,neuronets/nobrainer-zoo,CLS,4387.36
+DL Framwork,fastestimator/fastestimator,FLS,5646.16
+DL Framwork,fastestimator/fastestimator,CLS,3959.8499999999995
+DL Framwork,ridgerun/r2inference,FLS,2080.15
+DL Framwork,ridgerun/r2inference-ubuntu-18.04,FLS,2080.15
+DL Framwork,ridgerun/r2inference-ubuntu-18.04,CLS,1883.8700000000001
+DL Framwork,ridgerun/r2inference-ubuntu-18.04,CLS,1883.8700000000001
+DL Framwork,artifacts/variationanalysis-app,FLS,4814.1
+DL Framwork,artifacts/variationanalysis-app,CLS,4243.549999999999
+DL Framwork,apache/singa,FLS,3215.44
+DL Framwork,apache/singa,CLS,3503.66
+DL Framwork,deepchemio/deepchem,FLS,1873.53
+DL Framwork,deepchemio/deepchem,CLS,2440.27
+DL Framwork,achaiah/pywick,FLS,3342.5100000000007
+DL Framwork,achaiah/pywick,CLS,2700.16
+DL Framwork,tensorflow/tensorflow,FLS,3849.9300000000003
+DL Framwork,tensorflow/tensorflow,CLS,1833.27
+DL Framwork,bvlc/caffe,FLS,2949.2
+DL Framwork,bvlc/caffe,CLS,3416.05
+DL Framwork,pytorch/pytorch,FLS,137.28
+DL Framwork,pytorch/pytorch,CLS,37.69
+DL Framwork,paddlepaddle/paddle,FLS,9753.459999999997
+DL Framwork,paddlepaddle/paddle,CLS,11667.49
+DL Framwork,horovod/horovod,FLS,3711.68
+DL Framwork,horovod/horovod,CLS,4507.170000000001
+DL Framwork,pytorchlightning/pytorch_lightning,FLS,2071.4900000000002
+DL Framwork,pytorchlightning/pytorch_lightning,CLS,3299.12
+DL Framwork,tensorlayer/tensorlayer,FLS,2203.42
+DL Framwork,tensorlayer/tensorlayer,CLS,3755.4
+DL Framwork,chainer/chainer,FLS,3459.7400000000002
+DL Framwork,chainer/chainer,CLS,3554.19
+DL Framwork,jinaai/jina,FLS,970.9100000000002
+DL Framwork,jinaai/jina,CLS,1194.92
+DL Framwork,paddlepaddle/paddle-lite,FLS,5851.999999999999
+DL Framwork,paddlepaddle/paddle-lite,CLS,5774.200000000001
+DL Framwork,gordinmitya/mnn,FLS,3276.1099999999997
+DL Framwork,gordinmitya/mnn,CLS,2552.97
+DL Framwork,okdokey/flink-yarn,FLS,5453.049999999999
+DL Framwork,sequenceiq/hadoop-docker,FLS,5807.159999999999
+DL Framwork,sequenceiq/hadoop-docker,CLS,10579.779999999999
+DL Framwork,pytorchignite/base,FLS,557.61
+DL Framwork,pytorchignite/base,CLS,94.67
+DL Framwork,stablebaselines/stable-baselines3,FLS,3114.7
+DL Framwork,stablebaselines/stable-baselines3-cpu,FLS,2895.6600000000003
+DL Framwork,stablebaselines/stable-baselines3-cpu,CLS,3494.5700000000006
+DL Framwork,stablebaselines/stable-baselines3-cpu,CLS,2091.06
+DL Framwork,deepjavalibrary/djl-serving,FLS,752.4300000000001
+DL Framwork,deepjavalibrary/djl-serving,CLS,1015.92
+DL Framwork,nnabla/nnabla,FLS,900.55
+DL Framwork,nnabla/nnabla,CLS,1922.35
+DL Framwork,tensorlayer/hyperpose,FLS,3651.2299999999996
+DL Framwork,tensorlayer/hyperpose,CLS,4985.87
+DL Framwork,rlworkgroup/garage-base,FLS,2430.9300000000003
+DL Framwork,rlworkgroup/garage-headless,FLS,3879.29
+DL Framwork,rlworkgroup/garage-ci,FLS,3691.94
+DL Framwork,rlworkgroup/garage-nvidia,FLS,2771.17
+DL Framwork,rlworkgroup/garage,FLS,1682.5000000000002
+DL Framwork,rlworkgroup/garage-intel,FLS,2672.67
+DL Framwork,rlworkgroup/garage-intel,CLS,2345.4700000000003
+DL Framwork,rlworkgroup/garage-intel,CLS,5336.96
+DL Framwork,rlworkgroup/garage-intel,CLS,3547.2799999999997
+DL Framwork,rlworkgroup/garage-intel,CLS,5426.57
+DL Framwork,rlworkgroup/garage-intel,CLS,6364.1
+DL Framwork,rlworkgroup/garage-intel,CLS,4300.94
+DL Framwork,determinedai/determined-master,FLS,623.8
+DL Framwork,determinedai/determined-dev,FLS,623.8
+DL Framwork,determinedai/determined-agent,FLS,509.36
+DL Framwork,determinedai/determined-agent,CLS,1369.99
+DL Framwork,determinedai/determined-agent,CLS,140.81
+DL Framwork,determinedai/determined-agent,CLS,140.81
+DL Framwork,stablebaselines/rl-baselines3-zoo-cpu,FLS,5058.97
+DL Framwork,stablebaselines/rl-baselines3-zoo,FLS,5279.93
+DL Framwork,stablebaselines/rl-baselines3-zoo,CLS,4953.3099999999995
+DL Framwork,stablebaselines/rl-baselines3-zoo,CLS,3483.0099999999998
+DL Framwork,eaplatanios/tensorflow_scala,FLS,1598.2899999999997
+DL Framwork,eaplatanios/tensorflow_scala,CLS,2595.58
+DL Framwork,nnfusion/pytorch,FLS,3916.2799999999997
+DL Framwork,nnfusion/pytorch,CLS,4899.53
+DL Framwork,tlkh/ai-lab,FLS,4347.0
+DL Framwork,tlkh/ai-lab,CLS,7373.400000000001
+DL Framwork,pyhf/pyhf,FLS,441.07000000000005
+DL Framwork,pyhf/pyhf,CLS,368.75
+DL Framwork,takuseno/d3rlpy,FLS,1031.0
+DL Framwork,takuseno/d3rlpy,CLS,1764.25
+DL Framwork,vanvalenlab/deepcell-tf,FLS,2638.16
+DL Framwork,vanvalenlab/deepcell-tf,CLS,2058.0099999999998
+DL Framwork,spiceai/spiceai,FLS,720.29
+DL Framwork,spiceai/spiceai,CLS,1101.21
+DL Framwork,diegoferigo/gym-ignition,FLS,3172.36
+DL Framwork,diegoferigo/gym-ignition,CLS,1833.9599999999998
+DL Framwork,datamachines/cuda_tensorflow_opencv,FLS,4286.0599999999995
+DL Framwork,datamachines/tensorflow_opencv,FLS,4387.6
+DL Framwork,datamachines/tensorflow_opencv,CLS,5161.19
+DL Framwork,datamachines/tensorflow_opencv,CLS,7994.21
+DL Framwork,bluefoglib/bluefog,FLS,4360.43
+DL Framwork,bluefoglib/bluefog,CLS,7147.33
+Toolkit,challisa/easyocr,FLS,3773.11
+Toolkit,challisa/easyocr,CLS,1996.93
+Toolkit,ziggerzz/openspiel,FLS,3709.1200000000003
+Toolkit,ziggerzz/openspiel,CLS,3411.98
+Toolkit,alicevision/alicevision,FLS,4866.65
+Toolkit,alicevision/alicevision,CLS,4894.08
+Toolkit,jkim57/torch2trt,FLS,3970.59
+Toolkit,jkim57/torch2trt,CLS,3417.38
+Toolkit,lilydedbb/mmdetection3d,FLS,6866.67
+Toolkit,lilydedbb/mmdetection3d,CLS,7828.1900000000005
+Toolkit,ceccocats/tkdnn,FLS,5970.240000000001
+Toolkit,ceccocats/tkdnn,CLS,6522.209999999998
+Toolkit,asciidoctor/docker-asciidoctor,FLS,957.3700000000001
+Toolkit,asciidoctor/docker-asciidoctor,CLS,327.15999999999997
+Toolkit,ng1997/decord-pytorch,FLS,5261.49
+Toolkit,ng1997/decord-pytorch,CLS,5761.59
+Toolkit,fuzzylite/fuzzylite,FLS,1399.0
+Toolkit,fuzzylite/fuzzylite,CLS,2542.63
+Toolkit,kitware/fletch,FLS,2151.46
+Toolkit,kitware/fletch,CLS,2462.42
+Toolkit,scilus/scilpy,FLS,2792.4
+Toolkit,scilus/scilpy,CLS,5194.3
+Toolkit,pccl/holodeck,FLS,4158.570000000001
+Toolkit,pccl/holodeck,CLS,3383.5900000000006
+Toolkit,plstcharles/litiv,FLS,3127.6500000000005
+Toolkit,plstcharles/litiv,CLS,3268.8599999999997
+Toolkit,kmaehashi/onnx-chainer,FLS,2057.21
+Toolkit,kmaehashi/onnx-chainer,CLS,4749.58
+Toolkit,knorth55/coral_usb_ros,FLS,4591.14
+Toolkit,knorth55/coral_usb_ros,CLS,4667.49
+Toolkit,espnet/espnet,FLS,501.53000000000003
+Toolkit,espnet/espnet,CLS,3714.67
+Toolkit,openvino/ubuntu20_dev_no_samples,FLS,2801.7599999999998
+Toolkit,openvino/ubuntu20_data_runtime,FLS,4062.0199999999995
+Toolkit,openvino/onnxruntime_ep_ubuntu18,FLS,3420.41
+Toolkit,openvino/ubuntu20_data_dev,FLS,2172.75
+Toolkit,openvino/ubuntu20_data_dev,CLS,1177.39
+Toolkit,openvino/ubuntu20_data_dev,CLS,3164.88
+Toolkit,openvino/ubuntu20_data_dev,CLS,0.0
+Toolkit,openvino/ubuntu20_data_dev,CLS,2839.48
+Toolkit,openvino/ubuntu20_data_dev,CLS,0.0
+Toolkit,openvino/ubuntu20_data_dev,CLS,2508.75
+Toolkit,projectmonai/monai,FLS,10462.780000000002
+Toolkit,projectmonai/monai,CLS,9956.23
+Toolkit,nvidia/tensorrt-labs,FLS,2462.34
+Toolkit,nvidia/tensorrt-labs,CLS,4139.13
+Toolkit,stillwater/universal,FLS,2508.5399999999995
+Toolkit,stillwater/universal,CLS,1096.34
+Toolkit,berlius/face-alignment,FLS,3378.1600000000003
+Toolkit,berlius/face-alignment,CLS,4919.489999999999
+Toolkit,erdosproject/erdos,FLS,5192.74
+Toolkit,erdosproject/erdos,CLS,3452.26
+Toolkit,shogun/shogun-dev,FLS,732.16
+Toolkit,shogun/shogun-dev,CLS,2535.7299999999996
+Toolkit,nvidia/cuda,FLS,851.5500000000001
+Toolkit,nvidia/cuda,CLS,621.2900000000001
+Toolkit,flml/flashlight,FLS,2543.8199999999997
+Toolkit,flml/flashlight,CLS,3437.29
+Toolkit,waikato/moa,FLS,814.9499999999999
+Toolkit,waikato/moa,CLS,196.8
+Toolkit,ibmcom/helayers-lab,FLS,7591.889999999999
+Toolkit,ibmcom/helayers-pylab,FLS,5862.08
+Toolkit,ibmcom/helayers-pylab-s390x,FLS,8128.459999999999
+Toolkit,ibmcom/helayers-lab-s390x,FLS,10009.449999999999
+Toolkit,ibmcom/helayers-lab-s390x,CLS,7473.97
+Toolkit,ibmcom/helayers-lab-s390x,CLS,8507.53
+Toolkit,ibmcom/helayers-lab-s390x,CLS,10050.96
+Toolkit,ibmcom/helayers-lab-s390x,CLS,10552.84
+Application System,px4io/px4-dev-armhf,FLS,2157.0499999999997
+Application System,px4io/px4-dev-simulation-bionic,FLS,2067.37
+Application System,px4io/px4-dev-clang,FLS,1977.6499999999999
+Application System,px4io/px4-dev-nuttx-focal,FLS,3136.92
+Application System,px4io/px4-dev-aarch64,FLS,2157.06
+Application System,px4io/px4-dev-aarch64,CLS,3700.4100000000003
+Application System,px4io/px4-dev-aarch64,CLS,1806.99
+Application System,px4io/px4-dev-aarch64,CLS,1806.4199999999998
+Application System,px4io/px4-dev-aarch64,CLS,2297.3199999999997
+Application System,px4io/px4-dev-aarch64,CLS,2375.9799999999996
+Application System,apolloauto/apollo,FLS,6973.399999999999
+Application System,apolloauto/apollo,CLS,6703.8
+Application System,commaai/openpilot-apks,FLS,1591.6500000000003
+Application System,commaai/openpilot-apks,CLS,2308.6600000000003
+Application System,flyandi/docker-inav,FLS,2146.55
+Application System,flyandi/docker-inav,CLS,2894.49
+Application System,huaweinoah/smarts,FLS,1118.6799999999998
+Application System,huaweinoah/smarts,CLS,1700.73
+Application System,araffin/racing-robot-cpu,FLS,3231.3600000000006
+Application System,araffin/racing-robot-rpi3-base,FLS,2733.48
+Application System,araffin/racing-robot-rpi3,FLS,5189.030000000001
+Application System,araffin/racing-robot-rpi3,CLS,4680.349999999999
+Application System,araffin/racing-robot-rpi3,CLS,3040.44
+Application System,araffin/racing-robot-rpi3,CLS,6188.67
+Application System,paparazziuav/pprz-dep,FLS,1475.79
+Application System,paparazziuav/pprz-ci,FLS,2528.81
+Application System,paparazziuav/pprz-dev,FLS,2970.0099999999998
+Application System,paparazziuav/pprz-dev,CLS,2271.0
+Application System,paparazziuav/pprz-dev,CLS,2896.8600000000006
+Application System,paparazziuav/pprz-dev,CLS,3537.26
+Application System,ardupilot/ardupilot-dev-chibios,FLS,1193.09
+Application System,ardupilot/ardupilot-dev-periph,FLS,265.05
+Application System,ardupilot/ardupilot-dev-clang,FLS,622.93
+Application System,ardupilot/ardupilot-dev-aarch64,FLS,329.45
+Application System,ardupilot/ardupilot-dev-armhf-musl,FLS,637.3
+Application System,ardupilot/ardupilot-dev-coverage,FLS,128.23
+Application System,ardupilot/ardupilot-dev-armhf,FLS,286.74
+Application System,ardupilot/ardupilot-dev-chibios-py2,FLS,1201.8700000000001
+Application System,ardupilot/ardupilot-dev-base,FLS,120.89
+Application System,ardupilot/ardupilot-dev-bloaty,FLS,1857.1599999999999
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,626.03
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,839.28
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,208.62
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,253.63
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,554.44
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,211.22
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,839.79
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,987.1
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,258.33
+Application System,ardupilot/ardupilot-dev-bloaty,CLS,244.61
+Application System,gaas/mavros-gazebo7-px4,FLS,6011.22
+Application System,gaas/mavros-gazebo7-px4,CLS,9032.62
+Application System,juhaoming/sustechpoints,FLS,1117.08
+Application System,juhaoming/sustechpoints,CLS,411.42999999999995
+Documentation,justheuristic/practical_rl,FLS,1105.23
+Documentation,justheuristic/practical_rl,CLS,3322.08
+Documentation,0xbadb100d/computervision-recipes,FLS,4811.16
+Documentation,0xbadb100d/computervision-recipes,CLS,5986.01
+Documentation,prabhuomkar/pytorch-cpp,FLS,4317.53
+Documentation,prabhuomkar/pytorch-cpp,CLS,2614.57
+Documentation,tnarihi/nnabla-examples,FLS,2420.35
+Documentation,tnarihi/nnabla-examples,CLS,2764.67

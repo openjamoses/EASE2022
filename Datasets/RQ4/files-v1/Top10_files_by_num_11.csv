@@ -1,0 +1,2373 @@
+Category,file_type,perc_number
+Model,C/C++,22.0385
+Model,C/C++,22.0449
+Model,C/C++,20.898
+Model,C/C++,13.7679
+Model,C/C++,17.6684
+Model,C/C++,11.7722
+Model,C/C++,23.3213
+Model,C/C++,20.1647
+Model,C/C++,30.0702
+Model,C/C++,15.209
+Model,C/C++,11.717
+Model,C/C++,26.5234
+Model,Python,18.3632
+Model,Python,18.3598
+Model,Python,22.0472
+Model,Python,13.8958
+Model,Python,9.4988
+Model,Python,24.0087
+Model,Python,3.6514
+Model,Python,26.3891
+Model,Python,15.3016
+Model,Python,27.5581
+Model,Python,17.1916
+Model,Python,26.5705
+Model,PEP,13.6122
+Model,PEP,13.6093
+Model,PEP,22.5708
+Model,PEP,12.5526
+Model,PEP,8.4735
+Model,PEP,16.9769
+Model,PEP,3.5948
+Model,PEP,19.8182
+Model,PEP,15.1947
+Model,PEP,22.8819
+Model,PEP,14.9197
+Model,PEP,26.1275
+Model,Perl,1.1032
+Model,Perl,1.1035
+Model,Perl,4.1048
+Model,Perl,13.5441
+Model,Perl,10.9309
+Model,Perl,4.4657
+Model,Perl,22.123
+Model,Perl,6.2447
+Model,Perl,3.3588
+Model,Perl,4.8272
+Model,Perl,3.8824
+Model,Perl,3.412
+Model,ELF/COFF,2.0112
+Model,ELF/COFF,2.0113
+Model,ELF/COFF,3.5563
+Model,ELF/COFF,6.748
+Model,ELF/COFF,5.9184
+Model,ELF/COFF,5.5518
+Model,ELF/COFF,11.8359
+Model,ELF/COFF,3.158
+Model,ELF/COFF,2.8954
+Model,ELF/COFF,3.32
+Model,ELF/COFF,3.996
+Model,ELF/COFF,2.8371
+Model,Data/ DB,2.0136
+Model,Data/ DB,2.0137
+Model,Data/ DB,1.3826
+Model,Data/ DB,4.9198
+Model,Data/ DB,5.479
+Model,Data/ DB,3.5479
+Model,Data/ DB,0.8818
+Model,Data/ DB,3.0597
+Model,Data/ DB,2.8306
+Model,Data/ DB,3.7399
+Model,Data/ DB,3.2586
+Model,Data/ DB,0.6645
+Model,DOC,2.244
+Model,DOC,2.2441
+Model,DOC,1.9379
+Model,DOC,3.2568
+Model,DOC,3.8516
+Model,DOC,2.6939
+Model,DOC,4.9288
+Model,DOC,2.7954
+Model,DOC,2.6329
+Model,DOC,2.5981
+Model,DOC,2.479
+Model,DOC,1.805
+Model,archive,3.6515
+Model,archive,0.0906
+Model,archive,0.1031
+Model,archive,6.3589
+Model,archive,0.113
+Model,archive,0.1498
+Model,archive,0.4472
+Model,archive,0.0966
+Model,archive,9.9278
+Model,archive,0.0189
+Model,Js,5.8624
+Model,Js,5.8641
+Model,Js,2.5907
+Model,Js,0.8083
+Model,Js,1.4375
+Model,Js,0.1809
+Model,Js,1.792
+Model,Js,0.1766
+Model,Js,2.5085
+Model,Js,0.1576
+Model,Js,0.0236
+Model,.urdf,1.9293
+Model,.mtl,1.8927
+Model,Config,0.8304
+Model,Config,0.8306
+Model,Config,0.4397
+Model,Config,6.9026
+Model,Config,7.063
+Model,Config,0.4962
+Model,Config,0.7687
+Model,Config,0.2757
+Model,Config,2.7091
+Model,Config,0.6078
+Model,Config,0.7805
+Model,Config,0.3063
+Model,Rust,3.6676
+Model,Rust,3.6687
+Model,Rust,0.1337
+Model,Rust,0.1001
+Model,Rust,0.4052
+Model,Rust,2.3332
+Model,Rust,0.1159
+Model,Rust,2.2463
+Model,Rust,0.0189
+Model,Model/ Weight,4.7332
+Model,Model/ Weight,4.7346
+Model,Model/ Weight,0.9157
+Model,Model/ Weight,0.6343
+Model,Model/ Weight,0.613
+Model,Model/ Weight,0.394
+Model,Model/ Weight,1.2661
+Model,Model/ Weight,0.8021
+Model,Model/ Weight,0.2965
+Model,Model/ Weight,0.5973
+Model,Model/ Weight,0.5387
+Model,Model/ Weight,0.8954
+Model,debian,0.2222
+Model,debian,0.2222
+Model,debian,0.9248
+Model,debian,1.7909
+Model,debian,2.3706
+Model,debian,1.4311
+Model,debian,2.2948
+Model,debian,1.1069
+Model,debian,1.0661
+Model,debian,0.9468
+Model,debian,1.4429
+Model,debian,0.7588
+MLOps/ AIOps,Python,12.1655
+MLOps/ AIOps,Python,3.7963
+MLOps/ AIOps,Python,23.9149
+MLOps/ AIOps,Python,39.1366
+MLOps/ AIOps,Python,3.6059
+MLOps/ AIOps,Python,19.6268
+MLOps/ AIOps,Python,13.9704
+MLOps/ AIOps,Python,13.9304
+MLOps/ AIOps,Python,14.709
+MLOps/ AIOps,Python,27.9358
+MLOps/ AIOps,Python,20.0086
+MLOps/ AIOps,Python,1.1543
+MLOps/ AIOps,Python,17.2115
+MLOps/ AIOps,Python,7.932
+MLOps/ AIOps,Python,15.8609
+MLOps/ AIOps,Python,15.0269
+MLOps/ AIOps,Python,1.8394
+MLOps/ AIOps,Python,4.6285
+MLOps/ AIOps,Python,10.314
+MLOps/ AIOps,Python,18.5196
+MLOps/ AIOps,Python,13.9922
+MLOps/ AIOps,Python,18.2762
+MLOps/ AIOps,Python,4.8615
+MLOps/ AIOps,Python,13.8568
+MLOps/ AIOps,Python,0.0955
+MLOps/ AIOps,Python,3.5813
+MLOps/ AIOps,Python,16.4913
+MLOps/ AIOps,Python,20.0901
+MLOps/ AIOps,Python,28.029
+MLOps/ AIOps,Python,27.8098
+MLOps/ AIOps,Python,13.3539
+MLOps/ AIOps,Python,15.0196
+MLOps/ AIOps,Python,30.4914
+MLOps/ AIOps,Python,2.967
+MLOps/ AIOps,Python,36.4752
+MLOps/ AIOps,Python,3.3265
+MLOps/ AIOps,Python,3.6391
+MLOps/ AIOps,Python,23.8551
+MLOps/ AIOps,Python,22.3131
+MLOps/ AIOps,Python,27.1991
+MLOps/ AIOps,Python,21.398
+MLOps/ AIOps,Python,18.9339
+MLOps/ AIOps,Python,2.3382
+MLOps/ AIOps,Python,31.033
+MLOps/ AIOps,Python,21.9464
+MLOps/ AIOps,Python,0.1459
+MLOps/ AIOps,Python,25.3833
+MLOps/ AIOps,Python,27.5384
+MLOps/ AIOps,Python,6.9405
+MLOps/ AIOps,Python,30.3251
+MLOps/ AIOps,Python,24.9361
+MLOps/ AIOps,Python,25.6176
+MLOps/ AIOps,Python,13.5081
+MLOps/ AIOps,Python,15.712
+MLOps/ AIOps,Python,3.3258
+MLOps/ AIOps,Python,30.2461
+MLOps/ AIOps,Python,27.559
+MLOps/ AIOps,Python,19.6337
+MLOps/ AIOps,Python,13.6716
+MLOps/ AIOps,Python,31.0539
+MLOps/ AIOps,Python,19.6666
+MLOps/ AIOps,Python,27.4719
+MLOps/ AIOps,Python,13.3112
+MLOps/ AIOps,Python,25.7151
+MLOps/ AIOps,Python,16.408
+MLOps/ AIOps,Python,32.5246
+MLOps/ AIOps,Python,13.3771
+MLOps/ AIOps,Python,21.8426
+MLOps/ AIOps,Python,8.0332
+MLOps/ AIOps,Python,21.6138
+MLOps/ AIOps,Python,30.8046
+MLOps/ AIOps,Python,5.2547
+MLOps/ AIOps,Python,14.904
+MLOps/ AIOps,Python,33.612
+MLOps/ AIOps,Python,13.1769
+MLOps/ AIOps,Python,0.1558
+MLOps/ AIOps,Python,32.9471
+MLOps/ AIOps,Python,24.9598
+MLOps/ AIOps,PEP,5.6244
+MLOps/ AIOps,PEP,1.1596
+MLOps/ AIOps,PEP,16.4711
+MLOps/ AIOps,PEP,38.5434
+MLOps/ AIOps,PEP,0.2589
+MLOps/ AIOps,PEP,16.4518
+MLOps/ AIOps,PEP,13.0398
+MLOps/ AIOps,PEP,14.0869
+MLOps/ AIOps,PEP,13.639
+MLOps/ AIOps,PEP,25.8502
+MLOps/ AIOps,PEP,23.9884
+MLOps/ AIOps,PEP,0.2879
+MLOps/ AIOps,PEP,17.3072
+MLOps/ AIOps,PEP,8.4004
+MLOps/ AIOps,PEP,12.141
+MLOps/ AIOps,PEP,14.9046
+MLOps/ AIOps,PEP,1.8715
+MLOps/ AIOps,PEP,4.1808
+MLOps/ AIOps,PEP,9.5041
+MLOps/ AIOps,PEP,17.0287
+MLOps/ AIOps,PEP,12.3111
+MLOps/ AIOps,PEP,12.3895
+MLOps/ AIOps,PEP,5.1251
+MLOps/ AIOps,PEP,13.9685
+MLOps/ AIOps,PEP,13.799
+MLOps/ AIOps,PEP,17.2841
+MLOps/ AIOps,PEP,25.0299
+MLOps/ AIOps,PEP,8.6666
+MLOps/ AIOps,PEP,14.3099
+MLOps/ AIOps,PEP,14.8973
+MLOps/ AIOps,PEP,29.4044
+MLOps/ AIOps,PEP,3.1257
+MLOps/ AIOps,PEP,35.4561
+MLOps/ AIOps,PEP,1.1984
+MLOps/ AIOps,PEP,2.9037
+MLOps/ AIOps,PEP,21.3135
+MLOps/ AIOps,PEP,19.8735
+MLOps/ AIOps,PEP,23.4237
+MLOps/ AIOps,PEP,19.3087
+MLOps/ AIOps,PEP,21.4808
+MLOps/ AIOps,PEP,2.3225
+MLOps/ AIOps,PEP,19.3061
+MLOps/ AIOps,PEP,21.9318
+MLOps/ AIOps,PEP,24.3105
+MLOps/ AIOps,PEP,1.2938
+MLOps/ AIOps,PEP,22.0271
+MLOps/ AIOps,PEP,21.021
+MLOps/ AIOps,PEP,2.7756
+MLOps/ AIOps,PEP,12.9237
+MLOps/ AIOps,PEP,2.8887
+MLOps/ AIOps,PEP,5.2904
+MLOps/ AIOps,PEP,11.4039
+MLOps/ AIOps,PEP,17.6769
+MLOps/ AIOps,PEP,10.9166
+MLOps/ AIOps,PEP,23.5054
+MLOps/ AIOps,PEP,16.9399
+MLOps/ AIOps,PEP,27.3256
+MLOps/ AIOps,PEP,1.1779
+MLOps/ AIOps,PEP,24.3657
+MLOps/ AIOps,PEP,11.6798
+MLOps/ AIOps,PEP,28.4329
+MLOps/ AIOps,PEP,5.9987
+MLOps/ AIOps,PEP,21.8139
+MLOps/ AIOps,PEP,6.4593
+MLOps/ AIOps,PEP,20.8728
+MLOps/ AIOps,PEP,29.3648
+MLOps/ AIOps,PEP,1.2757
+MLOps/ AIOps,PEP,11.3013
+MLOps/ AIOps,PEP,21.9352
+MLOps/ AIOps,PEP,6.7266
+MLOps/ AIOps,PEP,2.8376
+MLOps/ AIOps,PEP,23.3506
+MLOps/ AIOps,C/C++,11.4007
+MLOps/ AIOps,C/C++,5.5024
+MLOps/ AIOps,C/C++,8.5362
+MLOps/ AIOps,C/C++,3.4502
+MLOps/ AIOps,C/C++,20.4182
+MLOps/ AIOps,C/C++,5.7723
+MLOps/ AIOps,C/C++,9.0659
+MLOps/ AIOps,C/C++,14.0561
+MLOps/ AIOps,C/C++,14.6521
+MLOps/ AIOps,C/C++,20.125
+MLOps/ AIOps,C/C++,12.6987
+MLOps/ AIOps,C/C++,1.6094
+MLOps/ AIOps,C/C++,11.534
+MLOps/ AIOps,C/C++,31.5728
+MLOps/ AIOps,C/C++,1.5256
+MLOps/ AIOps,C/C++,35.241
+MLOps/ AIOps,C/C++,21.0702
+MLOps/ AIOps,C/C++,10.6192
+MLOps/ AIOps,C/C++,12.6995
+MLOps/ AIOps,C/C++,11.195
+MLOps/ AIOps,C/C++,6.0064
+MLOps/ AIOps,C/C++,14.0761
+MLOps/ AIOps,C/C++,3.0574
+MLOps/ AIOps,C/C++,30.4091
+MLOps/ AIOps,C/C++,14.7472
+MLOps/ AIOps,C/C++,11.5926
+MLOps/ AIOps,C/C++,0.7405
+MLOps/ AIOps,C/C++,3.9627
+MLOps/ AIOps,C/C++,7.0297
+MLOps/ AIOps,C/C++,8.0618
+MLOps/ AIOps,C/C++,0.61
+MLOps/ AIOps,C/C++,24.6199
+MLOps/ AIOps,C/C++,18.9757
+MLOps/ AIOps,C/C++,8.8707
+MLOps/ AIOps,C/C++,28.6988
+MLOps/ AIOps,C/C++,11.1361
+MLOps/ AIOps,C/C++,5.9893
+MLOps/ AIOps,C/C++,6.5421
+MLOps/ AIOps,C/C++,8.0942
+MLOps/ AIOps,C/C++,8.2701
+MLOps/ AIOps,C/C++,0.6934
+MLOps/ AIOps,C/C++,0.1119
+MLOps/ AIOps,C/C++,7.4538
+MLOps/ AIOps,C/C++,0.6183
+MLOps/ AIOps,C/C++,14.3923
+MLOps/ AIOps,C/C++,9.143
+MLOps/ AIOps,C/C++,10.3639
+MLOps/ AIOps,C/C++,0.9524
+MLOps/ AIOps,C/C++,24.0367
+MLOps/ AIOps,C/C++,3.5665
+MLOps/ AIOps,C/C++,48.548
+MLOps/ AIOps,C/C++,4.675
+MLOps/ AIOps,C/C++,8.6199
+MLOps/ AIOps,C/C++,11.5012
+MLOps/ AIOps,C/C++,10.0128
+MLOps/ AIOps,C/C++,10.9009
+MLOps/ AIOps,C/C++,18.8996
+MLOps/ AIOps,C/C++,11.0912
+MLOps/ AIOps,C/C++,7.3928
+MLOps/ AIOps,C/C++,11.238
+MLOps/ AIOps,C/C++,16.888
+MLOps/ AIOps,C/C++,9.1129
+MLOps/ AIOps,C/C++,10.4826
+MLOps/ AIOps,C/C++,3.4126
+MLOps/ AIOps,C/C++,30.1224
+MLOps/ AIOps,C/C++,21.9388
+MLOps/ AIOps,C/C++,10.6352
+MLOps/ AIOps,C/C++,0.0338
+MLOps/ AIOps,C/C++,5.2164
+MLOps/ AIOps,C/C++,6.8094
+MLOps/ AIOps,C/C++,17.5969
+MLOps/ AIOps,C/C++,0.4973
+MLOps/ AIOps,C/C++,2.0686
+MLOps/ AIOps,C/C++,11.9398
+MLOps/ AIOps,C/C++,10.0683
+MLOps/ AIOps,Julia,11.0126
+MLOps/ AIOps,.ll,9.5717
+MLOps/ AIOps,.ll,5.4818
+MLOps/ AIOps,Goland,0.1082
+MLOps/ AIOps,Goland,0.2822
+MLOps/ AIOps,Goland,45.8234
+MLOps/ AIOps,Goland,2.3035
+MLOps/ AIOps,Goland,10.3938
+MLOps/ AIOps,Goland,0.2008
+MLOps/ AIOps,Goland,0.1882
+MLOps/ AIOps,Goland,6.4078
+MLOps/ AIOps,Goland,0.6627
+MLOps/ AIOps,Goland,0.8077
+MLOps/ AIOps,ELF/COFF,6.6674
+MLOps/ AIOps,ELF/COFF,6.6836
+MLOps/ AIOps,ELF/COFF,5.0579
+MLOps/ AIOps,ELF/COFF,1.5578
+MLOps/ AIOps,ELF/COFF,9.0374
+MLOps/ AIOps,ELF/COFF,5.1585
+MLOps/ AIOps,ELF/COFF,4.7197
+MLOps/ AIOps,ELF/COFF,4.2959
+MLOps/ AIOps,ELF/COFF,5.7937
+MLOps/ AIOps,ELF/COFF,1.5885
+MLOps/ AIOps,ELF/COFF,3.342
+MLOps/ AIOps,ELF/COFF,1.2097
+MLOps/ AIOps,ELF/COFF,3.9223
+MLOps/ AIOps,ELF/COFF,6.599
+MLOps/ AIOps,ELF/COFF,14.9781
+MLOps/ AIOps,ELF/COFF,4.2445
+MLOps/ AIOps,ELF/COFF,13.2893
+MLOps/ AIOps,ELF/COFF,1.2938
+MLOps/ AIOps,ELF/COFF,5.1164
+MLOps/ AIOps,ELF/COFF,7.2521
+MLOps/ AIOps,ELF/COFF,6.8601
+MLOps/ AIOps,ELF/COFF,8.1113
+MLOps/ AIOps,ELF/COFF,7.4777
+MLOps/ AIOps,ELF/COFF,2.8016
+MLOps/ AIOps,ELF/COFF,4.23
+MLOps/ AIOps,ELF/COFF,17.2288
+MLOps/ AIOps,ELF/COFF,3.0828
+MLOps/ AIOps,ELF/COFF,2.7937
+MLOps/ AIOps,ELF/COFF,2.5167
+MLOps/ AIOps,ELF/COFF,2.0929
+MLOps/ AIOps,ELF/COFF,4.081
+MLOps/ AIOps,ELF/COFF,8.5018
+MLOps/ AIOps,ELF/COFF,13.2828
+MLOps/ AIOps,ELF/COFF,1.6968
+MLOps/ AIOps,ELF/COFF,7.7028
+MLOps/ AIOps,ELF/COFF,2.1721
+MLOps/ AIOps,ELF/COFF,0.6225
+MLOps/ AIOps,ELF/COFF,5.2253
+MLOps/ AIOps,ELF/COFF,2.2877
+MLOps/ AIOps,ELF/COFF,1.9809
+MLOps/ AIOps,ELF/COFF,2.6649
+MLOps/ AIOps,ELF/COFF,2.3933
+MLOps/ AIOps,ELF/COFF,3.5307
+MLOps/ AIOps,ELF/COFF,8.1237
+MLOps/ AIOps,ELF/COFF,1.2752
+MLOps/ AIOps,ELF/COFF,4.275
+MLOps/ AIOps,ELF/COFF,3.8161
+MLOps/ AIOps,ELF/COFF,12.9103
+MLOps/ AIOps,ELF/COFF,16.9334
+MLOps/ AIOps,ELF/COFF,3.2031
+MLOps/ AIOps,ELF/COFF,13.5908
+MLOps/ AIOps,ELF/COFF,2.0608
+MLOps/ AIOps,ELF/COFF,6.23
+MLOps/ AIOps,ELF/COFF,4.2252
+MLOps/ AIOps,ELF/COFF,8.0952
+MLOps/ AIOps,ELF/COFF,1.0916
+MLOps/ AIOps,ELF/COFF,8.249
+MLOps/ AIOps,ELF/COFF,4.7446
+MLOps/ AIOps,ELF/COFF,7.9051
+MLOps/ AIOps,ELF/COFF,6.4858
+MLOps/ AIOps,ELF/COFF,5.6769
+MLOps/ AIOps,ELF/COFF,13.7484
+MLOps/ AIOps,ELF/COFF,7.8336
+MLOps/ AIOps,ELF/COFF,1.9738
+MLOps/ AIOps,ELF/COFF,3.4274
+MLOps/ AIOps,ELF/COFF,3.2526
+MLOps/ AIOps,ELF/COFF,5.2951
+MLOps/ AIOps,ELF/COFF,2.3804
+MLOps/ AIOps,ELF/COFF,3.4289
+MLOps/ AIOps,ELF/COFF,3.5805
+MLOps/ AIOps,ELF/COFF,2.1101
+MLOps/ AIOps,ELF/COFF,1.8887
+MLOps/ AIOps,ELF/COFF,3.1063
+MLOps/ AIOps,ELF/COFF,2.889
+MLOps/ AIOps,ELF/COFF,2.9558
+MLOps/ AIOps,ELF/COFF,2.5449
+MLOps/ AIOps,ELF/COFF,7.278
+MLOps/ AIOps,ELF/COFF,2.1639
+MLOps/ AIOps,ELF/COFF,4.0822
+MLOps/ AIOps,ELF/COFF,6.6167
+MLOps/ AIOps,ELF/COFF,0.0774
+MLOps/ AIOps,ELF/COFF,13.1012
+MLOps/ AIOps,ELF/COFF,3.6696
+MLOps/ AIOps,ELF/COFF,2.8072
+MLOps/ AIOps,.nii.1,4.9892
+MLOps/ AIOps,.nii.1,4.9001
+MLOps/ AIOps,Perl,5.3977
+MLOps/ AIOps,Perl,3.7837
+MLOps/ AIOps,Perl,4.0525
+MLOps/ AIOps,Perl,1.4557
+MLOps/ AIOps,Perl,12.7792
+MLOps/ AIOps,Perl,2.4665
+MLOps/ AIOps,Perl,2.7684
+MLOps/ AIOps,Perl,2.7715
+MLOps/ AIOps,Perl,12.4739
+MLOps/ AIOps,Perl,1.9821
+MLOps/ AIOps,Perl,3.6246
+MLOps/ AIOps,Perl,0.7576
+MLOps/ AIOps,Perl,8.2813
+MLOps/ AIOps,Perl,0.5076
+MLOps/ AIOps,Perl,6.7814
+MLOps/ AIOps,Perl,2.6681
+MLOps/ AIOps,Perl,16.4709
+MLOps/ AIOps,Perl,1.6268
+MLOps/ AIOps,Perl,3.8592
+MLOps/ AIOps,Perl,15.4339
+MLOps/ AIOps,Perl,5.5235
+MLOps/ AIOps,Perl,6.6153
+MLOps/ AIOps,Perl,5.3134
+MLOps/ AIOps,Perl,5.2931
+MLOps/ AIOps,Perl,2.806
+MLOps/ AIOps,Perl,10.4359
+MLOps/ AIOps,Perl,2.1605
+MLOps/ AIOps,Perl,0.7058
+MLOps/ AIOps,Perl,2.6886
+MLOps/ AIOps,Perl,4.1536
+MLOps/ AIOps,Perl,10.6906
+MLOps/ AIOps,Perl,2.5775
+MLOps/ AIOps,Perl,16.4628
+MLOps/ AIOps,Perl,1.6923
+MLOps/ AIOps,Perl,7.321
+MLOps/ AIOps,Perl,2.3555
+MLOps/ AIOps,Perl,0.7707
+MLOps/ AIOps,Perl,4.9755
+MLOps/ AIOps,Perl,2.0868
+MLOps/ AIOps,Perl,2.0972
+MLOps/ AIOps,Perl,4.1313
+MLOps/ AIOps,Perl,3.0733
+MLOps/ AIOps,Perl,1.6779
+MLOps/ AIOps,Perl,6.0285
+MLOps/ AIOps,Perl,0.9346
+MLOps/ AIOps,Perl,3.6755
+MLOps/ AIOps,Perl,15.9494
+MLOps/ AIOps,Perl,3.8693
+MLOps/ AIOps,Perl,4.2873
+MLOps/ AIOps,Perl,1.3323
+MLOps/ AIOps,Perl,7.8878
+MLOps/ AIOps,Perl,5.2021
+MLOps/ AIOps,Perl,0.3571
+MLOps/ AIOps,Perl,0.5417
+MLOps/ AIOps,Perl,2.3037
+MLOps/ AIOps,Perl,5.5013
+MLOps/ AIOps,Perl,3.7412
+MLOps/ AIOps,Perl,5.6778
+MLOps/ AIOps,Perl,4.046
+MLOps/ AIOps,Perl,12.6486
+MLOps/ AIOps,Perl,9.5839
+MLOps/ AIOps,Perl,2.0607
+MLOps/ AIOps,Perl,3.97
+MLOps/ AIOps,Perl,7.9972
+MLOps/ AIOps,Perl,3.3045
+MLOps/ AIOps,Perl,3.2695
+MLOps/ AIOps,Perl,7.262
+MLOps/ AIOps,Perl,4.1949
+MLOps/ AIOps,Perl,0.9748
+MLOps/ AIOps,Perl,2.8729
+MLOps/ AIOps,Perl,4.2595
+MLOps/ AIOps,Perl,5.6978
+MLOps/ AIOps,Perl,2.6497
+MLOps/ AIOps,Perl,3.092
+MLOps/ AIOps,Perl,2.6149
+MLOps/ AIOps,Perl,5.163
+MLOps/ AIOps,Perl,6.7665
+MLOps/ AIOps,Perl,11.3354
+MLOps/ AIOps,Perl,3.2734
+MLOps/ AIOps,Perl,1.2203
+MLOps/ AIOps,Js,19.0788
+MLOps/ AIOps,Js,3.6639
+MLOps/ AIOps,Js,0.3063
+MLOps/ AIOps,Js,1.353
+MLOps/ AIOps,Js,1.6292
+MLOps/ AIOps,Js,0.5282
+MLOps/ AIOps,Js,9.5154
+MLOps/ AIOps,Js,1.747
+MLOps/ AIOps,Js,1.2147
+MLOps/ AIOps,Js,59.2461
+MLOps/ AIOps,Js,4.9788
+MLOps/ AIOps,Js,0.1584
+MLOps/ AIOps,Js,0.5495
+MLOps/ AIOps,Js,0.1444
+MLOps/ AIOps,Js,0.5909
+MLOps/ AIOps,Js,0.1692
+MLOps/ AIOps,Js,0.2688
+MLOps/ AIOps,Js,9.6671
+MLOps/ AIOps,Js,0.6413
+MLOps/ AIOps,Js,4.5057
+MLOps/ AIOps,Js,0.1695
+MLOps/ AIOps,Js,2.3906
+MLOps/ AIOps,Js,0.3236
+MLOps/ AIOps,Js,1.3283
+MLOps/ AIOps,Js,1.6493
+MLOps/ AIOps,Js,2.9303
+MLOps/ AIOps,Js,0.3848
+MLOps/ AIOps,Js,0.4313
+MLOps/ AIOps,Js,1.7204
+MLOps/ AIOps,Js,1.4422
+MLOps/ AIOps,Js,2.4174
+MLOps/ AIOps,Js,0.3028
+MLOps/ AIOps,Js,0.9078
+MLOps/ AIOps,Js,0.2116
+MLOps/ AIOps,Js,5.0882
+MLOps/ AIOps,Js,0.4219
+MLOps/ AIOps,Js,3.8045
+MLOps/ AIOps,Js,7.494
+MLOps/ AIOps,Js,1.1299
+MLOps/ AIOps,Js,0.5894
+MLOps/ AIOps,Js,0.4762
+MLOps/ AIOps,Js,1.7733
+MLOps/ AIOps,Js,1.0177
+MLOps/ AIOps,Js,0.1278
+MLOps/ AIOps,Js,4.8008
+MLOps/ AIOps,Js,0.381
+MLOps/ AIOps,Js,0.1262
+MLOps/ AIOps,Js,1.6809
+MLOps/ AIOps,Js,0.2537
+MLOps/ AIOps,Js,0.0854
+MLOps/ AIOps,Js,23.9151
+MLOps/ AIOps,Js,1.1597
+MLOps/ AIOps,Js,14.5781
+MLOps/ AIOps,Js,2.6498
+MLOps/ AIOps,Js,4.0155
+MLOps/ AIOps,Js,1.0908
+MLOps/ AIOps,Js,0.8057
+MLOps/ AIOps,Js,0.5045
+MLOps/ AIOps,Js,0.2944
+MLOps/ AIOps,Js,0.1098
+MLOps/ AIOps,Js,32.7985
+MLOps/ AIOps,Js,0.7008
+MLOps/ AIOps,Js,0.8055
+MLOps/ AIOps,Js,59.501
+MLOps/ AIOps,Js,5.1206
+MLOps/ AIOps,Js,5.3168
+MLOps/ AIOps,image,13.3605
+MLOps/ AIOps,image,0.1858
+MLOps/ AIOps,image,0.2397
+MLOps/ AIOps,image,0.0587
+MLOps/ AIOps,image,1.7868
+MLOps/ AIOps,image,9.0451
+MLOps/ AIOps,image,16.6963
+MLOps/ AIOps,image,0.6292
+MLOps/ AIOps,image,0.3293
+MLOps/ AIOps,image,0.1026
+MLOps/ AIOps,image,0.3886
+MLOps/ AIOps,image,3.0568
+MLOps/ AIOps,image,0.0333
+MLOps/ AIOps,image,0.1629
+MLOps/ AIOps,image,8.0843
+MLOps/ AIOps,image,8.0091
+MLOps/ AIOps,image,22.1759
+MLOps/ AIOps,image,0.2975
+MLOps/ AIOps,image,0.2683
+MLOps/ AIOps,image,0.1881
+MLOps/ AIOps,image,0.3813
+MLOps/ AIOps,image,2.0728
+MLOps/ AIOps,image,0.675
+MLOps/ AIOps,image,0.5429
+MLOps/ AIOps,image,0.8432
+MLOps/ AIOps,image,14.7306
+MLOps/ AIOps,image,0.3886
+MLOps/ AIOps,image,0.1152
+MLOps/ AIOps,image,1.9925
+MLOps/ AIOps,image,3.3147
+MLOps/ AIOps,image,0.4724
+MLOps/ AIOps,image,0.1128
+MLOps/ AIOps,image,3.0271
+MLOps/ AIOps,image,31.0785
+MLOps/ AIOps,image,0.5037
+MLOps/ AIOps,image,0.4876
+MLOps/ AIOps,image,0.6708
+MLOps/ AIOps,image,14.8549
+MLOps/ AIOps,image,0.3356
+MLOps/ AIOps,image,35.8871
+MLOps/ AIOps,image,5.7006
+MLOps/ AIOps,image,0.5964
+MLOps/ AIOps,image,0.2015
+MLOps/ AIOps,image,0.1996
+MLOps/ AIOps,image,10.3571
+MLOps/ AIOps,image,9.978
+MLOps/ AIOps,image,0.1924
+MLOps/ AIOps,image,0.1911
+MLOps/ AIOps,image,9.406
+MLOps/ AIOps,image,13.8896
+MLOps/ AIOps,image,0.0358
+MLOps/ AIOps,image,0.637
+MLOps/ AIOps,image,0.079
+MLOps/ AIOps,image,0.2853
+MLOps/ AIOps,image,0.2982
+MLOps/ AIOps,image,0.1221
+MLOps/ AIOps,image,0.6929
+MLOps/ AIOps,image,0.0285
+MLOps/ AIOps,image,0.3775
+MLOps/ AIOps,image,0.4207
+MLOps/ AIOps,image,0.0902
+MLOps/ AIOps,image,0.2487
+MLOps/ AIOps,image,5.9855
+MLOps/ AIOps,image,17.501
+MLOps/ AIOps,image,0.2725
+MLOps/ AIOps,image,0.3762
+MLOps/ AIOps,image,0.121
+MLOps/ AIOps,image,51.0222
+MLOps/ AIOps,image,0.0996
+MLOps/ AIOps,image,0.266
+MLOps/ AIOps,image,1.1583
+MLOps/ AIOps,image,3.2944
+MLOps/ AIOps,image,0.3516
+MLOps/ AIOps,image,4.2086
+MLOps/ AIOps,.vf,11.6489
+MLOps/ AIOps,.vf,0.2829
+MLOps/ AIOps,.vf,5.7977
+MLOps/ AIOps,.vf,0.1918
+MLOps/ AIOps,DOC,2.8714
+MLOps/ AIOps,DOC,5.0389
+MLOps/ AIOps,DOC,2.5638
+MLOps/ AIOps,DOC,1.5057
+MLOps/ AIOps,DOC,3.9878
+MLOps/ AIOps,DOC,2.0669
+MLOps/ AIOps,DOC,2.0458
+MLOps/ AIOps,DOC,2.9093
+MLOps/ AIOps,DOC,3.4762
+MLOps/ AIOps,DOC,1.4971
+MLOps/ AIOps,DOC,1.6425
+MLOps/ AIOps,DOC,6.2219
+MLOps/ AIOps,DOC,2.8949
+MLOps/ AIOps,DOC,4.022
+MLOps/ AIOps,DOC,1.6656
+MLOps/ AIOps,DOC,5.3108
+MLOps/ AIOps,DOC,4.5486
+MLOps/ AIOps,DOC,2.4339
+MLOps/ AIOps,DOC,3.9959
+MLOps/ AIOps,DOC,2.8301
+MLOps/ AIOps,DOC,3.3441
+MLOps/ AIOps,DOC,3.3689
+MLOps/ AIOps,DOC,4.0293
+MLOps/ AIOps,DOC,3.0589
+MLOps/ AIOps,DOC,2.9112
+MLOps/ AIOps,DOC,3.0495
+MLOps/ AIOps,DOC,1.9326
+MLOps/ AIOps,DOC,2.0769
+MLOps/ AIOps,DOC,2.0133
+MLOps/ AIOps,DOC,3.3679
+MLOps/ AIOps,DOC,1.6759
+MLOps/ AIOps,DOC,5.3082
+MLOps/ AIOps,DOC,1.7072
+MLOps/ AIOps,DOC,3.1257
+MLOps/ AIOps,DOC,1.5903
+MLOps/ AIOps,DOC,0.89
+MLOps/ AIOps,DOC,2.6492
+MLOps/ AIOps,DOC,1.4092
+MLOps/ AIOps,DOC,1.753
+MLOps/ AIOps,DOC,2.3663
+MLOps/ AIOps,DOC,1.8454
+MLOps/ AIOps,DOC,1.2275
+MLOps/ AIOps,DOC,3.3192
+MLOps/ AIOps,DOC,3.2122
+MLOps/ AIOps,DOC,0.2494
+MLOps/ AIOps,DOC,2.7639
+MLOps/ AIOps,DOC,3.7442
+MLOps/ AIOps,DOC,3.3128
+MLOps/ AIOps,DOC,2.9768
+MLOps/ AIOps,DOC,3.4513
+MLOps/ AIOps,DOC,3.5441
+MLOps/ AIOps,DOC,2.2119
+MLOps/ AIOps,DOC,1.4694
+MLOps/ AIOps,DOC,21.5476
+MLOps/ AIOps,DOC,2.007
+MLOps/ AIOps,DOC,1.6558
+MLOps/ AIOps,DOC,2.5027
+MLOps/ AIOps,DOC,2.9843
+MLOps/ AIOps,DOC,1.1329
+MLOps/ AIOps,DOC,2.5182
+MLOps/ AIOps,DOC,5.5349
+MLOps/ AIOps,DOC,3.5532
+MLOps/ AIOps,DOC,1.7482
+MLOps/ AIOps,DOC,2.4944
+MLOps/ AIOps,DOC,2.7606
+MLOps/ AIOps,DOC,4.8764
+MLOps/ AIOps,DOC,2.2286
+MLOps/ AIOps,DOC,0.3215
+MLOps/ AIOps,DOC,4.1471
+MLOps/ AIOps,DOC,2.2703
+MLOps/ AIOps,DOC,4.1366
+MLOps/ AIOps,DOC,1.6132
+MLOps/ AIOps,DOC,2.2532
+MLOps/ AIOps,DOC,2.6365
+MLOps/ AIOps,DOC,1.6979
+MLOps/ AIOps,DOC,2.5978
+MLOps/ AIOps,DOC,2.72
+MLOps/ AIOps,DOC,2.3092
+MLOps/ AIOps,DOC,2.676
+MLOps/ AIOps,DOC,9.6573
+MLOps/ AIOps,DOC,4.2886
+MLOps/ AIOps,DOC,3.0456
+MLOps/ AIOps,DOC,2.4712
+MLOps/ AIOps,Data/ DB,3.5075
+MLOps/ AIOps,Data/ DB,2.9829
+MLOps/ AIOps,Data/ DB,3.5053
+MLOps/ AIOps,Data/ DB,1.2167
+MLOps/ AIOps,Data/ DB,2.4924
+MLOps/ AIOps,Data/ DB,2.2935
+MLOps/ AIOps,Data/ DB,2.1567
+MLOps/ AIOps,Data/ DB,2.9264
+MLOps/ AIOps,Data/ DB,1.602
+MLOps/ AIOps,Data/ DB,3.2889
+MLOps/ AIOps,Data/ DB,2.4196
+MLOps/ AIOps,Data/ DB,0.7464
+MLOps/ AIOps,Data/ DB,3.889
+MLOps/ AIOps,Data/ DB,0.5076
+MLOps/ AIOps,Data/ DB,8.044
+MLOps/ AIOps,Data/ DB,2.1116
+MLOps/ AIOps,Data/ DB,1.4195
+MLOps/ AIOps,Data/ DB,1.2451
+MLOps/ AIOps,Data/ DB,1.9662
+MLOps/ AIOps,Data/ DB,3.6033
+MLOps/ AIOps,Data/ DB,4.1667
+MLOps/ AIOps,Data/ DB,4.6064
+MLOps/ AIOps,Data/ DB,4.0154
+MLOps/ AIOps,Data/ DB,2.9412
+MLOps/ AIOps,Data/ DB,2.9653
+MLOps/ AIOps,Data/ DB,0.7636
+MLOps/ AIOps,Data/ DB,1.6319
+MLOps/ AIOps,Data/ DB,1.9439
+MLOps/ AIOps,Data/ DB,1.7533
+MLOps/ AIOps,Data/ DB,2.8342
+MLOps/ AIOps,Data/ DB,7.5695
+MLOps/ AIOps,Data/ DB,2.5825
+MLOps/ AIOps,Data/ DB,1.4188
+MLOps/ AIOps,Data/ DB,1.8503
+MLOps/ AIOps,Data/ DB,5.6013
+MLOps/ AIOps,Data/ DB,1.3329
+MLOps/ AIOps,Data/ DB,2.2639
+MLOps/ AIOps,Data/ DB,2.1448
+MLOps/ AIOps,Data/ DB,3.3711
+MLOps/ AIOps,Data/ DB,1.9409
+MLOps/ AIOps,Data/ DB,3.3398
+MLOps/ AIOps,Data/ DB,3.095
+MLOps/ AIOps,Data/ DB,2.916
+MLOps/ AIOps,Data/ DB,3.0329
+MLOps/ AIOps,Data/ DB,2.9118
+MLOps/ AIOps,Data/ DB,0.1781
+MLOps/ AIOps,Data/ DB,2.6524
+MLOps/ AIOps,Data/ DB,0.2431
+MLOps/ AIOps,Data/ DB,8.1813
+MLOps/ AIOps,Data/ DB,2.1263
+MLOps/ AIOps,Data/ DB,4.3599
+MLOps/ AIOps,Data/ DB,2.7612
+MLOps/ AIOps,Data/ DB,0.955
+MLOps/ AIOps,Data/ DB,2.9415
+MLOps/ AIOps,Data/ DB,2.2619
+MLOps/ AIOps,Data/ DB,2.625
+MLOps/ AIOps,Data/ DB,2.2011
+MLOps/ AIOps,Data/ DB,2.9552
+MLOps/ AIOps,Data/ DB,3.4935
+MLOps/ AIOps,Data/ DB,3.3241
+MLOps/ AIOps,Data/ DB,3.214
+MLOps/ AIOps,Data/ DB,1.0289
+MLOps/ AIOps,Data/ DB,3.7345
+MLOps/ AIOps,Data/ DB,1.5546
+MLOps/ AIOps,Data/ DB,4.3858
+MLOps/ AIOps,Data/ DB,0.8253
+MLOps/ AIOps,Data/ DB,3.0162
+MLOps/ AIOps,Data/ DB,2.4489
+MLOps/ AIOps,Data/ DB,3.4541
+MLOps/ AIOps,Data/ DB,4.4142
+MLOps/ AIOps,Data/ DB,1.8361
+MLOps/ AIOps,Data/ DB,2.057
+MLOps/ AIOps,Data/ DB,2.2512
+MLOps/ AIOps,Data/ DB,1.7871
+MLOps/ AIOps,Data/ DB,1.3188
+MLOps/ AIOps,Data/ DB,3.5017
+MLOps/ AIOps,Data/ DB,1.5512
+MLOps/ AIOps,Data/ DB,5.526
+MLOps/ AIOps,Data/ DB,1.9471
+MLOps/ AIOps,Data/ DB,0.5603
+MLOps/ AIOps,Data/ DB,0.4205
+MLOps/ AIOps,Data/ DB,5.7495
+MLOps/ AIOps,Data/ DB,1.5023
+MLOps/ AIOps,BUILD,6.9673
+MLOps/ AIOps,BUILD,0.5858
+MLOps/ AIOps,BUILD,0.321
+DL Framwork,Python,21.3231
+DL Framwork,Python,36.3928
+DL Framwork,Python,24.8706
+DL Framwork,Python,30.6305
+DL Framwork,Python,26.56
+DL Framwork,Python,14.1214
+DL Framwork,Python,5.0721
+DL Framwork,Python,28.9773
+DL Framwork,Python,33.648
+DL Framwork,Python,17.8667
+DL Framwork,Python,36.5059
+DL Framwork,Python,22.9487
+DL Framwork,Python,14.7564
+DL Framwork,Python,0.1166
+DL Framwork,Python,5.2837
+DL Framwork,Python,12.26
+DL Framwork,Python,7.1128
+DL Framwork,Python,9.4415
+DL Framwork,Python,23.4015
+DL Framwork,Python,23.0311
+DL Framwork,Python,25.8348
+DL Framwork,Python,23.015
+DL Framwork,Python,6.4204
+DL Framwork,Python,7.015
+DL Framwork,Python,18.8856
+DL Framwork,Python,16.8437
+DL Framwork,Python,28.755
+DL Framwork,Python,16.4546
+DL Framwork,Python,15.015
+DL Framwork,Python,21.1734
+DL Framwork,Python,28.6903
+DL Framwork,Python,19.0994
+DL Framwork,Python,20.9858
+DL Framwork,Python,20.4533
+DL Framwork,Python,20.029
+DL Framwork,Python,12.8513
+DL Framwork,Python,21.9237
+DL Framwork,Python,6.6171
+DL Framwork,Python,4.5619
+DL Framwork,Python,2.6302
+DL Framwork,Python,27.4265
+DL Framwork,Python,21.1558
+DL Framwork,Python,31.224
+DL Framwork,Python,0.1349
+DL Framwork,Python,25.14
+DL Framwork,Python,4.4848
+DL Framwork,Python,20.2674
+DL Framwork,Python,0.2075
+DL Framwork,Python,31.5594
+DL Framwork,Python,16.7178
+DL Framwork,Python,24.0311
+DL Framwork,Python,28.0081
+DL Framwork,Python,31.303
+DL Framwork,Python,22.6617
+DL Framwork,Python,27.6845
+DL Framwork,Python,28.513
+DL Framwork,Python,8.7019
+DL Framwork,Python,21.3334
+DL Framwork,Python,20.8284
+DL Framwork,C/C++,16.2449
+DL Framwork,C/C++,7.2672
+DL Framwork,C/C++,14.4902
+DL Framwork,C/C++,11.5364
+DL Framwork,C/C++,12.6605
+DL Framwork,C/C++,13.3149
+DL Framwork,C/C++,18.9578
+DL Framwork,C/C++,14.8904
+DL Framwork,C/C++,10.1169
+DL Framwork,C/C++,18.5548
+DL Framwork,C/C++,7.3364
+DL Framwork,C/C++,23.2832
+DL Framwork,C/C++,13.6164
+DL Framwork,C/C++,56.7383
+DL Framwork,C/C++,29.0372
+DL Framwork,C/C++,10.9431
+DL Framwork,C/C++,0.2907
+DL Framwork,C/C++,29.4799
+DL Framwork,C/C++,6.5303
+DL Framwork,C/C++,17.3655
+DL Framwork,C/C++,15.4283
+DL Framwork,C/C++,14.7816
+DL Framwork,C/C++,11.5612
+DL Framwork,C/C++,28.5508
+DL Framwork,C/C++,11.7678
+DL Framwork,C/C++,3.1112
+DL Framwork,C/C++,17.2981
+DL Framwork,C/C++,7.2136
+DL Framwork,C/C++,21.8913
+DL Framwork,C/C++,33.0519
+DL Framwork,C/C++,15.1529
+DL Framwork,C/C++,7.7598
+DL Framwork,C/C++,24.7912
+DL Framwork,C/C++,17.0735
+DL Framwork,C/C++,16.1351
+DL Framwork,C/C++,17.9129
+DL Framwork,C/C++,8.8576
+DL Framwork,C/C++,17.4993
+DL Framwork,C/C++,14.2308
+DL Framwork,C/C++,1.391
+DL Framwork,C/C++,13.5555
+DL Framwork,C/C++,33.0415
+DL Framwork,C/C++,10.405
+DL Framwork,C/C++,0.1349
+DL Framwork,C/C++,17.8887
+DL Framwork,C/C++,20.1898
+DL Framwork,C/C++,12.1217
+DL Framwork,C/C++,8.1912
+DL Framwork,C/C++,23.3877
+DL Framwork,C/C++,17.4034
+DL Framwork,C/C++,18.8463
+DL Framwork,C/C++,1.7031
+DL Framwork,C/C++,13.4851
+DL Framwork,C/C++,23.917
+DL Framwork,C/C++,20.9463
+DL Framwork,C/C++,35.7637
+DL Framwork,C/C++,22.6812
+DL Framwork,C/C++,14.8163
+DL Framwork,PEP,23.4318
+DL Framwork,PEP,2.5221
+DL Framwork,PEP,17.6689
+DL Framwork,PEP,24.3472
+DL Framwork,PEP,0.5468
+DL Framwork,PEP,0.2758
+DL Framwork,PEP,1.2038
+DL Framwork,PEP,20.0481
+DL Framwork,PEP,29.3116
+DL Framwork,PEP,14.6489
+DL Framwork,PEP,34.6278
+DL Framwork,PEP,23.0296
+DL Framwork,PEP,13.6909
+DL Framwork,PEP,3.5528
+DL Framwork,PEP,9.6929
+DL Framwork,PEP,0.0411
+DL Framwork,PEP,8.2283
+DL Framwork,PEP,29.3653
+DL Framwork,PEP,13.9719
+DL Framwork,PEP,21.5128
+DL Framwork,PEP,20.2593
+DL Framwork,PEP,4.0016
+DL Framwork,PEP,6.0309
+DL Framwork,PEP,12.8258
+DL Framwork,PEP,15.8416
+DL Framwork,PEP,26.2356
+DL Framwork,PEP,24.463
+DL Framwork,PEP,12.1828
+DL Framwork,PEP,1.6415
+DL Framwork,PEP,19.5903
+DL Framwork,PEP,14.6457
+DL Framwork,PEP,19.4985
+DL Framwork,PEP,17.3141
+DL Framwork,PEP,20.1637
+DL Framwork,PEP,11.9085
+DL Framwork,PEP,17.4508
+DL Framwork,PEP,0.0972
+DL Framwork,PEP,19.2838
+DL Framwork,PEP,1.6401
+DL Framwork,PEP,21.8322
+DL Framwork,PEP,25.5182
+DL Framwork,PEP,3.4126
+DL Framwork,PEP,22.1676
+DL Framwork,PEP,27.5813
+DL Framwork,PEP,12.9737
+DL Framwork,PEP,15.4809
+DL Framwork,PEP,1.1911
+DL Framwork,PEP,22.1702
+DL Framwork,PEP,18.2738
+DL Framwork,PEP,24.7879
+DL Framwork,PEP,26.5407
+DL Framwork,PEP,6.1393
+DL Framwork,PEP,20.0237
+DL Framwork,PEP,17.8707
+DL Framwork,.ri,12.5676
+DL Framwork,.pass.1,8.3075
+DL Framwork,Perl,1.3659
+DL Framwork,Perl,9.232
+DL Framwork,Perl,3.7302
+DL Framwork,Perl,2.5115
+DL Framwork,Perl,4.8436
+DL Framwork,Perl,10.0942
+DL Framwork,Perl,3.608
+DL Framwork,Perl,1.3091
+DL Framwork,Perl,3.8634
+DL Framwork,Perl,1.9478
+DL Framwork,Perl,3.3591
+DL Framwork,Perl,6.778
+DL Framwork,Perl,4.5727
+DL Framwork,Perl,7.2413
+DL Framwork,Perl,2.746
+DL Framwork,Perl,2.0808
+DL Framwork,Perl,6.0416
+DL Framwork,Perl,2.2034
+DL Framwork,Perl,4.8096
+DL Framwork,Perl,1.7414
+DL Framwork,Perl,3.4036
+DL Framwork,Perl,2.4459
+DL Framwork,Perl,4.3523
+DL Framwork,Perl,2.1869
+DL Framwork,Perl,5.5908
+DL Framwork,Perl,3.0286
+DL Framwork,Perl,1.5632
+DL Framwork,Perl,1.2442
+DL Framwork,Perl,4.1442
+DL Framwork,Perl,3.9354
+DL Framwork,Perl,1.3336
+DL Framwork,Perl,3.052
+DL Framwork,Perl,3.0342
+DL Framwork,Perl,1.3485
+DL Framwork,Perl,4.7773
+DL Framwork,Perl,11.6964
+DL Framwork,Perl,9.2567
+DL Framwork,Perl,3.0624
+DL Framwork,Perl,3.762
+DL Framwork,Perl,1.8695
+DL Framwork,Perl,3.2758
+DL Framwork,Perl,3.9321
+DL Framwork,Perl,3.4746
+DL Framwork,Perl,15.3587
+DL Framwork,Perl,1.986
+DL Framwork,Perl,4.5161
+DL Framwork,Perl,2.5365
+DL Framwork,Perl,20.1585
+DL Framwork,Perl,2.3473
+DL Framwork,Perl,5.5125
+DL Framwork,Perl,3.1332
+DL Framwork,Perl,2.4976
+DL Framwork,Perl,5.4366
+DL Framwork,Perl,2.5557
+DL Framwork,Perl,3.432
+DL Framwork,Perl,2.5269
+DL Framwork,Perl,3.68
+DL Framwork,Perl,1.8749
+DL Framwork,Perl,6.5033
+DL Framwork,Goland,12.4512
+DL Framwork,Goland,0.3557
+DL Framwork,Goland,8.3993
+DL Framwork,Goland,0.0779
+DL Framwork,Goland,0.164
+DL Framwork,ELF/COFF,4.7874
+DL Framwork,ELF/COFF,5.5984
+DL Framwork,ELF/COFF,3.4318
+DL Framwork,ELF/COFF,2.4579
+DL Framwork,ELF/COFF,5.9278
+DL Framwork,ELF/COFF,4.8806
+DL Framwork,ELF/COFF,5.4884
+DL Framwork,ELF/COFF,3.2257
+DL Framwork,ELF/COFF,2.2273
+DL Framwork,ELF/COFF,3.0979
+DL Framwork,ELF/COFF,1.5983
+DL Framwork,ELF/COFF,3.559
+DL Framwork,ELF/COFF,3.6455
+DL Framwork,ELF/COFF,3.8776
+DL Framwork,ELF/COFF,4.6056
+DL Framwork,ELF/COFF,2.5869
+DL Framwork,ELF/COFF,11.05
+DL Framwork,ELF/COFF,4.0176
+DL Framwork,ELF/COFF,3.5496
+DL Framwork,ELF/COFF,2.301
+DL Framwork,ELF/COFF,3.4207
+DL Framwork,ELF/COFF,1.6309
+DL Framwork,ELF/COFF,5.738
+DL Framwork,ELF/COFF,2.8208
+DL Framwork,ELF/COFF,6.9738
+DL Framwork,ELF/COFF,3.0492
+DL Framwork,ELF/COFF,2.2103
+DL Framwork,ELF/COFF,2.9352
+DL Framwork,ELF/COFF,2.7241
+DL Framwork,ELF/COFF,4.4108
+DL Framwork,ELF/COFF,3.2859
+DL Framwork,ELF/COFF,3.1418
+DL Framwork,ELF/COFF,2.2493
+DL Framwork,ELF/COFF,4.6272
+DL Framwork,ELF/COFF,4.21
+DL Framwork,ELF/COFF,5.4033
+DL Framwork,ELF/COFF,3.879
+DL Framwork,ELF/COFF,5.2686
+DL Framwork,ELF/COFF,8.6375
+DL Framwork,ELF/COFF,5.8517
+DL Framwork,ELF/COFF,3.2498
+DL Framwork,ELF/COFF,4.4263
+DL Framwork,ELF/COFF,2.6198
+DL Framwork,ELF/COFF,15.0888
+DL Framwork,ELF/COFF,2.2949
+DL Framwork,ELF/COFF,4.2908
+DL Framwork,ELF/COFF,2.4933
+DL Framwork,ELF/COFF,14.6213
+DL Framwork,ELF/COFF,2.352
+DL Framwork,ELF/COFF,4.3524
+DL Framwork,ELF/COFF,3.0812
+DL Framwork,ELF/COFF,2.6302
+DL Framwork,ELF/COFF,4.678
+DL Framwork,ELF/COFF,2.9987
+DL Framwork,ELF/COFF,1.9845
+DL Framwork,ELF/COFF,2.4402
+DL Framwork,ELF/COFF,4.5275
+DL Framwork,ELF/COFF,2.7586
+DL Framwork,ELF/COFF,3.8715
+DL Framwork,Ruby,0.8262
+DL Framwork,Ruby,12.449
+DL Framwork,Ruby,0.8617
+DL Framwork,Ruby,1.7802
+DL Framwork,.htf,3.4214
+DL Framwork,.htf,3.191
+DL Framwork,image,1.0613
+DL Framwork,image,0.7179
+DL Framwork,image,0.7234
+DL Framwork,image,0.5087
+DL Framwork,image,1.6568
+DL Framwork,image,0.359
+DL Framwork,image,7.5162
+DL Framwork,image,0.4056
+DL Framwork,image,0.4478
+DL Framwork,image,0.25
+DL Framwork,image,0.3116
+DL Framwork,image,0.456
+DL Framwork,image,0.4945
+DL Framwork,image,0.2624
+DL Framwork,image,8.6938
+DL Framwork,image,0.3237
+DL Framwork,image,26.4196
+DL Framwork,image,13.5089
+DL Framwork,image,0.409
+DL Framwork,image,1.7023
+DL Framwork,image,6.0378
+DL Framwork,image,0.4969
+DL Framwork,image,23.3499
+DL Framwork,image,0.3371
+DL Framwork,image,0.5436
+DL Framwork,image,0.3224
+DL Framwork,image,0.4241
+DL Framwork,image,0.9476
+DL Framwork,image,12.3603
+DL Framwork,image,0.6971
+DL Framwork,image,0.4132
+DL Framwork,image,0.4227
+DL Framwork,image,0.3329
+DL Framwork,image,0.6835
+DL Framwork,image,0.9249
+DL Framwork,image,0.0825
+DL Framwork,image,0.2181
+DL Framwork,image,10.2926
+DL Framwork,image,14.1028
+DL Framwork,image,4.032
+DL Framwork,image,0.4038
+DL Framwork,image,0.6965
+DL Framwork,image,0.2738
+DL Framwork,image,0.1799
+DL Framwork,image,0.0404
+DL Framwork,image,27.9871
+DL Framwork,image,0.6757
+DL Framwork,image,1.4999
+DL Framwork,image,0.2655
+DL Framwork,image,0.2396
+DL Framwork,image,0.4424
+DL Framwork,image,0.7925
+DL Framwork,image,0.476
+DL Framwork,image,0.4673
+DL Framwork,image,0.2478
+DL Framwork,image,0.0797
+DL Framwork,image,0.6176
+DL Framwork,image,10.1039
+DL Framwork,image,0.4733
+DL Framwork,Data/ DB,1.7858
+DL Framwork,Data/ DB,3.3124
+DL Framwork,Data/ DB,2.6688
+DL Framwork,Data/ DB,1.475
+DL Framwork,Data/ DB,3.3793
+DL Framwork,Data/ DB,3.3977
+DL Framwork,Data/ DB,4.2169
+DL Framwork,Data/ DB,1.263
+DL Framwork,Data/ DB,1.4267
+DL Framwork,Data/ DB,2.4263
+DL Framwork,Data/ DB,2.4443
+DL Framwork,Data/ DB,1.2547
+DL Framwork,Data/ DB,2.0382
+DL Framwork,Data/ DB,0.5685
+DL Framwork,Data/ DB,2.5656
+DL Framwork,Data/ DB,1.9263
+DL Framwork,Data/ DB,4.0825
+DL Framwork,Data/ DB,3.0443
+DL Framwork,Data/ DB,3.1688
+DL Framwork,Data/ DB,2.3064
+DL Framwork,Data/ DB,1.8849
+DL Framwork,Data/ DB,1.5573
+DL Framwork,Data/ DB,3.6471
+DL Framwork,Data/ DB,2.8365
+DL Framwork,Data/ DB,4.1491
+DL Framwork,Data/ DB,4.6405
+DL Framwork,Data/ DB,1.0311
+DL Framwork,Data/ DB,3.68
+DL Framwork,Data/ DB,1.6035
+DL Framwork,Data/ DB,2.3386
+DL Framwork,Data/ DB,1.2768
+DL Framwork,Data/ DB,3.3871
+DL Framwork,Data/ DB,1.3697
+DL Framwork,Data/ DB,2.424
+DL Framwork,Data/ DB,2.2591
+DL Framwork,Data/ DB,1.0665
+DL Framwork,Data/ DB,1.0301
+DL Framwork,Data/ DB,6.9119
+DL Framwork,Data/ DB,9.1281
+DL Framwork,Data/ DB,3.3235
+DL Framwork,Data/ DB,1.2323
+DL Framwork,Data/ DB,2.3367
+DL Framwork,Data/ DB,2.5469
+DL Framwork,Data/ DB,1.1019
+DL Framwork,Data/ DB,0.9699
+DL Framwork,Data/ DB,2.8369
+DL Framwork,Data/ DB,2.496
+DL Framwork,Data/ DB,3.8581
+DL Framwork,Data/ DB,2.5445
+DL Framwork,Data/ DB,2.5598
+DL Framwork,Data/ DB,1.4648
+DL Framwork,Data/ DB,1.6327
+DL Framwork,Data/ DB,1.9932
+DL Framwork,Data/ DB,1.484
+DL Framwork,Data/ DB,2.0447
+DL Framwork,Data/ DB,0.5927
+DL Framwork,Data/ DB,2.7944
+DL Framwork,Data/ DB,1.2484
+DL Framwork,Data/ DB,1.6082
+DL Framwork,DOC,1.3127
+DL Framwork,DOC,2.1443
+DL Framwork,DOC,1.8132
+DL Framwork,DOC,1.6488
+DL Framwork,DOC,4.1865
+DL Framwork,DOC,3.1896
+DL Framwork,DOC,2.0642
+DL Framwork,DOC,1.0842
+DL Framwork,DOC,2.1517
+DL Framwork,DOC,2.0257
+DL Framwork,DOC,1.5045
+DL Framwork,DOC,2.3124
+DL Framwork,DOC,1.7164
+DL Framwork,DOC,2.5838
+DL Framwork,DOC,2.1546
+DL Framwork,DOC,3.6797
+DL Framwork,DOC,2.6701
+DL Framwork,DOC,2.2681
+DL Framwork,DOC,2.2967
+DL Framwork,DOC,2.2616
+DL Framwork,DOC,2.5214
+DL Framwork,DOC,3.7854
+DL Framwork,DOC,2.978
+DL Framwork,DOC,0.5897
+DL Framwork,DOC,3.0725
+DL Framwork,DOC,0.8735
+DL Framwork,DOC,1.05
+DL Framwork,DOC,1.18
+DL Framwork,DOC,2.4009
+DL Framwork,DOC,1.3004
+DL Framwork,DOC,1.0829
+DL Framwork,DOC,2.753
+DL Framwork,DOC,2.0096
+DL Framwork,DOC,2.2964
+DL Framwork,DOC,2.4638
+DL Framwork,DOC,3.4942
+DL Framwork,DOC,2.603
+DL Framwork,DOC,1.8691
+DL Framwork,DOC,2.4126
+DL Framwork,DOC,2.9177
+DL Framwork,DOC,1.2843
+DL Framwork,DOC,1.2993
+DL Framwork,DOC,1.442
+DL Framwork,DOC,7.016
+DL Framwork,DOC,1.6569
+DL Framwork,DOC,2.9975
+DL Framwork,DOC,2.1447
+DL Framwork,DOC,5.5089
+DL Framwork,DOC,1.4667
+DL Framwork,DOC,3.2784
+DL Framwork,DOC,1.771
+DL Framwork,DOC,4.6272
+DL Framwork,DOC,2.5807
+DL Framwork,DOC,1.662
+DL Framwork,DOC,1.895
+DL Framwork,DOC,1.4662
+DL Framwork,DOC,3.0841
+DL Framwork,DOC,1.8055
+DL Framwork,DOC,2.5286
+DL Framwork,.rg,2.1545
+DL Framwork,Rust,0.0991
+DL Framwork,Rust,0.2078
+DL Framwork,Rust,0.0378
+DL Framwork,Rust,0.069
+DL Framwork,Rust,0.0868
+DL Framwork,Rust,6.5664
+DL Framwork,Rust,2.6193
+DL Framwork,Rust,0.0308
+DL Framwork,Rust,0.0795
+DL Framwork,Rust,1.2219
+DL Framwork,Rust,0.0955
+DL Framwork,Rust,6.2418
+DL Framwork,Rust,6.1224
+DL Framwork,Rust,1.7379
+DL Framwork,Rust,9.6914
+DL Framwork,Rust,1.4381
+DL Framwork,Rust,0.0752
+DL Framwork,Rust,2.4681
+DL Framwork,Rust,0.0428
+DL Framwork,Rust,2.597
+DL Framwork,Rust,1.5178
+DL Framwork,Rust,0.2017
+DL Framwork,Rust,0.0812
+DL Framwork,Rust,2.256
+DL Framwork,Rust,2.4921
+DL Framwork,Rust,0.0313
+DL Framwork,Rust,3.6806
+DL Framwork,Rust,2.9731
+DL Framwork,Rust,0.9796
+DL Framwork,Rust,0.1865
+DL Framwork,Rust,8.0196
+DL Framwork,Rust,0.0742
+DL Framwork,Rust,6.2282
+DL Framwork,Rust,4.4238
+DL Framwork,Rust,0.0312
+DL Framwork,Rust,2.49
+DL Framwork,Rust,1.9319
+DL Framwork,Rust,0.0346
+DL Framwork,Rust,2.8411
+DL Framwork,Rust,1.7241
+DL Framwork,Rust,1.319
+DL Framwork,Rust,3.6714
+DL Framwork,Rust,2.7184
+DL Framwork,Rust,1.3513
+DL Framwork,Rust,1.7938
+DL Framwork,Rust,0.0688
+DL Framwork,Rust,2.4684
+DL Framwork,Rust,1.3564
+DL Framwork,Rust,4.4824
+Toolkit,.csl,39.4564
+Toolkit,Python,30.6651
+Toolkit,Python,26.9755
+Toolkit,Python,13.3837
+Toolkit,Python,30.0799
+Toolkit,Python,32.7534
+Toolkit,Python,4.4355
+Toolkit,Python,15.8286
+Toolkit,Python,9.2851
+Toolkit,Python,25.0039
+Toolkit,Python,23.2999
+Toolkit,Python,18.107
+Toolkit,Python,28.0194
+Toolkit,Python,1.7701
+Toolkit,Python,18.7028
+Toolkit,Python,30.4917
+Toolkit,Python,5.6714
+Toolkit,Python,14.4819
+Toolkit,Python,20.4156
+Toolkit,Python,4.4124
+Toolkit,Python,13.5041
+Toolkit,Python,2.0646
+Toolkit,Python,31.3333
+Toolkit,Python,21.4535
+Toolkit,Python,15.0063
+Toolkit,Python,4.5483
+Toolkit,Python,10.0484
+Toolkit,Python,30.9416
+Toolkit,Python,18.7984
+Toolkit,Python,26.0139
+Toolkit,Python,3.5625
+Toolkit,Python,19.8683
+Toolkit,Python,11.7153
+Toolkit,Python,20.3013
+Toolkit,Python,18.4339
+Toolkit,Python,21.1572
+Toolkit,Python,6.4527
+Toolkit,Python,0.0595
+Toolkit,Python,15.7221
+Toolkit,Python,5.5658
+Toolkit,Python,36.2174
+Toolkit,Python,22.5547
+Toolkit,Python,21.3231
+Toolkit,Python,21.3226
+Toolkit,Python,7.637
+Toolkit,Python,28.752
+Toolkit,Python,6.6612
+Toolkit,Python,7.7722
+Toolkit,Python,2.5277
+Toolkit,Python,32.5051
+Toolkit,Python,0.0817
+Toolkit,Python,25.097
+Toolkit,Python,0.0422
+Toolkit,Python,23.6514
+Toolkit,Python,7.1185
+Toolkit,Python,25.7042
+Toolkit,Python,21.1241
+Toolkit,Python,33.9976
+Toolkit,Python,13.5084
+Toolkit,Python,0.176
+Toolkit,C/C++,3.2806
+Toolkit,C/C++,12.3953
+Toolkit,C/C++,4.1372
+Toolkit,C/C++,14.7604
+Toolkit,C/C++,11.3017
+Toolkit,C/C++,41.7429
+Toolkit,C/C++,13.7759
+Toolkit,C/C++,11.7034
+Toolkit,C/C++,22.4346
+Toolkit,C/C++,18.1232
+Toolkit,C/C++,23.3901
+Toolkit,C/C++,15.3677
+Toolkit,C/C++,36.8443
+Toolkit,C/C++,11.1841
+Toolkit,C/C++,12.5388
+Toolkit,C/C++,2.5109
+Toolkit,C/C++,9.1141
+Toolkit,C/C++,16.7448
+Toolkit,C/C++,10.3782
+Toolkit,C/C++,4.9417
+Toolkit,C/C++,42.535
+Toolkit,C/C++,30.4158
+Toolkit,C/C++,7.709
+Toolkit,C/C++,13.5403
+Toolkit,C/C++,29.9695
+Toolkit,C/C++,17.0184
+Toolkit,C/C++,18.0045
+Toolkit,C/C++,24.6734
+Toolkit,C/C++,13.3746
+Toolkit,C/C++,40.8879
+Toolkit,C/C++,21.1195
+Toolkit,C/C++,28.7678
+Toolkit,C/C++,21.4255
+Toolkit,C/C++,9.4207
+Toolkit,C/C++,3.5332
+Toolkit,C/C++,15.1469
+Toolkit,C/C++,9.9322
+Toolkit,C/C++,26.3672
+Toolkit,C/C++,6.0812
+Toolkit,C/C++,5.8461
+Toolkit,C/C++,12.6052
+Toolkit,C/C++,16.2449
+Toolkit,C/C++,8.1294
+Toolkit,C/C++,10.3229
+Toolkit,C/C++,10.0084
+Toolkit,C/C++,10.3074
+Toolkit,C/C++,19.3887
+Toolkit,C/C++,31.8507
+Toolkit,C/C++,8.696
+Toolkit,C/C++,0.3046
+Toolkit,C/C++,17.8714
+Toolkit,C/C++,35.3808
+Toolkit,C/C++,10.2842
+Toolkit,C/C++,14.3433
+Toolkit,C/C++,9.0489
+Toolkit,C/C++,24.0361
+Toolkit,C/C++,3.6607
+Toolkit,PEP,7.2606
+Toolkit,PEP,19.8673
+Toolkit,PEP,9.5736
+Toolkit,PEP,28.6713
+Toolkit,PEP,29.6224
+Toolkit,PEP,11.6349
+Toolkit,PEP,0.2289
+Toolkit,PEP,15.8796
+Toolkit,PEP,19.8277
+Toolkit,PEP,15.5543
+Toolkit,PEP,0.0643
+Toolkit,PEP,0.9897
+Toolkit,PEP,13.1446
+Toolkit,PEP,9.0912
+Toolkit,PEP,9.9717
+Toolkit,PEP,15.528
+Toolkit,PEP,17.791
+Toolkit,PEP,4.6432
+Toolkit,PEP,13.7788
+Toolkit,PEP,1.7448
+Toolkit,PEP,1.4961
+Toolkit,PEP,18.404
+Toolkit,PEP,13.9501
+Toolkit,PEP,25.8174
+Toolkit,PEP,3.7743
+Toolkit,PEP,14.8252
+Toolkit,PEP,20.8856
+Toolkit,PEP,1.9433
+Toolkit,PEP,17.7207
+Toolkit,PEP,10.24
+Toolkit,PEP,14.0151
+Toolkit,PEP,16.7703
+Toolkit,PEP,19.4379
+Toolkit,PEP,3.4738
+Toolkit,PEP,18.6319
+Toolkit,PEP,2.4959
+Toolkit,PEP,33.2575
+Toolkit,PEP,22.587
+Toolkit,PEP,23.4318
+Toolkit,PEP,21.7844
+Toolkit,PEP,5.0835
+Toolkit,PEP,25.3529
+Toolkit,PEP,14.1011
+Toolkit,PEP,19.5617
+Toolkit,PEP,2.3034
+Toolkit,PEP,28.0599
+Toolkit,PEP,19.5498
+Toolkit,PEP,6.0581
+Toolkit,PEP,0.0793
+Toolkit,PEP,16.5504
+Toolkit,PEP,23.937
+Toolkit,PEP,2.7757
+Toolkit,.pass.1,8.5393
+Toolkit,.nii.1,8.1753
+Toolkit,Julia,4.8161
+Toolkit,Julia,10.8679
+Toolkit,.htf,6.8371
+Toolkit,Ruby,12.8532
+Toolkit,Ruby,0.2506
+Toolkit,Ruby,1.7185
+Toolkit,ELF/COFF,7.7575
+Toolkit,ELF/COFF,3.8555
+Toolkit,ELF/COFF,2.1979
+Toolkit,ELF/COFF,1.8755
+Toolkit,ELF/COFF,2.7593
+Toolkit,ELF/COFF,3.4253
+Toolkit,ELF/COFF,4.9663
+Toolkit,ELF/COFF,5.5067
+Toolkit,ELF/COFF,1.5192
+Toolkit,ELF/COFF,2.2999
+Toolkit,ELF/COFF,2.9653
+Toolkit,ELF/COFF,4.3326
+Toolkit,ELF/COFF,3.2664
+Toolkit,ELF/COFF,6.6413
+Toolkit,ELF/COFF,4.3046
+Toolkit,ELF/COFF,2.6384
+Toolkit,ELF/COFF,8.2641
+Toolkit,ELF/COFF,5.1207
+Toolkit,ELF/COFF,9.0275
+Toolkit,ELF/COFF,2.6419
+Toolkit,ELF/COFF,3.5343
+Toolkit,ELF/COFF,3.8677
+Toolkit,ELF/COFF,5.3106
+Toolkit,ELF/COFF,8.2881
+Toolkit,ELF/COFF,4.2412
+Toolkit,ELF/COFF,4.8647
+Toolkit,ELF/COFF,3.4261
+Toolkit,ELF/COFF,3.1376
+Toolkit,ELF/COFF,4.4665
+Toolkit,ELF/COFF,4.7671
+Toolkit,ELF/COFF,2.5869
+Toolkit,ELF/COFF,3.2397
+Toolkit,ELF/COFF,1.9812
+Toolkit,ELF/COFF,3.238
+Toolkit,ELF/COFF,2.8497
+Toolkit,ELF/COFF,3.9384
+Toolkit,ELF/COFF,6.1972
+Toolkit,ELF/COFF,4.6642
+Toolkit,ELF/COFF,3.6766
+Toolkit,ELF/COFF,1.9483
+Toolkit,ELF/COFF,1.9382
+Toolkit,ELF/COFF,4.7874
+Toolkit,ELF/COFF,4.2023
+Toolkit,ELF/COFF,6.465
+Toolkit,ELF/COFF,1.7661
+Toolkit,ELF/COFF,0.6549
+Toolkit,ELF/COFF,7.1378
+Toolkit,ELF/COFF,3.4948
+Toolkit,ELF/COFF,2.4172
+Toolkit,ELF/COFF,10.4604
+Toolkit,ELF/COFF,9.4791
+Toolkit,ELF/COFF,3.229
+Toolkit,ELF/COFF,4.1774
+Toolkit,ELF/COFF,0.9538
+Toolkit,ELF/COFF,9.0534
+Toolkit,ELF/COFF,3.3647
+Toolkit,ELF/COFF,1.7784
+Toolkit,ELF/COFF,1.0914
+Toolkit,ELF/COFF,18.1274
+Toolkit,Perl,1.5967
+Toolkit,Perl,3.499
+Toolkit,Perl,2.5322
+Toolkit,Perl,2.6149
+Toolkit,Perl,1.8304
+Toolkit,Perl,2.2585
+Toolkit,Perl,6.2561
+Toolkit,Perl,6.8502
+Toolkit,Perl,2.3636
+Toolkit,Perl,1.3804
+Toolkit,Perl,2.6862
+Toolkit,Perl,5.7242
+Toolkit,Perl,3.1347
+Toolkit,Perl,5.2548
+Toolkit,Perl,1.7642
+Toolkit,Perl,11.5332
+Toolkit,Perl,2.6797
+Toolkit,Perl,3.8215
+Toolkit,Perl,3.0631
+Toolkit,Perl,2.9988
+Toolkit,Perl,3.2508
+Toolkit,Perl,3.8941
+Toolkit,Perl,11.4683
+Toolkit,Perl,5.8005
+Toolkit,Perl,10.4205
+Toolkit,Perl,1.3435
+Toolkit,Perl,2.0632
+Toolkit,Perl,3.5224
+Toolkit,Perl,2.7409
+Toolkit,Perl,3.9423
+Toolkit,Perl,2.5816
+Toolkit,Perl,0.9742
+Toolkit,Perl,4.1887
+Toolkit,Perl,1.9349
+Toolkit,Perl,3.4978
+Toolkit,Perl,8.4572
+Toolkit,Perl,3.2855
+Toolkit,Perl,4.4247
+Toolkit,Perl,2.7271
+Toolkit,Perl,2.7929
+Toolkit,Perl,1.3659
+Toolkit,Perl,8.3063
+Toolkit,Perl,5.0868
+Toolkit,Perl,2.2128
+Toolkit,Perl,0.0961
+Toolkit,Perl,3.3282
+Toolkit,Perl,2.5033
+Toolkit,Perl,9.4797
+Toolkit,Perl,0.0715
+Toolkit,Perl,3.1306
+Toolkit,Perl,3.2306
+Toolkit,Perl,1.3578
+Toolkit,Perl,4.2983
+Toolkit,Perl,5.5474
+Toolkit,Perl,2.5885
+Toolkit,Perl,0.5417
+Toolkit,Perl,25.0264
+Toolkit,archive,8.0668
+Toolkit,archive,0.2882
+Toolkit,archive,2.5722
+Toolkit,archive,0.3596
+Toolkit,archive,20.4147
+Toolkit,archive,0.1791
+Toolkit,archive,0.2282
+Toolkit,archive,12.2338
+Toolkit,archive,0.0732
+Toolkit,archive,7.5062
+Toolkit,archive,4.5401
+Toolkit,archive,7.7869
+Toolkit,archive,20.5482
+Toolkit,archive,6.4123
+Toolkit,archive,0.0372
+Toolkit,archive,3.2403
+Toolkit,archive,4.8883
+Toolkit,archive,0.0808
+Toolkit,archive,9.2631
+Toolkit,archive,0.0904
+Toolkit,archive,0.5029
+Toolkit,archive,4.9361
+Toolkit,archive,3.9657
+Toolkit,archive,0.0576
+Toolkit,archive,0.0686
+Toolkit,archive,1.2625
+Toolkit,archive,0.1761
+Toolkit,archive,3.493
+Toolkit,archive,3.2004
+Toolkit,archive,0.3565
+Toolkit,archive,0.074
+Toolkit,archive,1.5088
+Toolkit,archive,0.9007
+Toolkit,archive,5.3367
+Toolkit,archive,0.0522
+Toolkit,archive,1.1982
+Toolkit,archive,0.1534
+Toolkit,archive,0.5039
+Toolkit,archive,2.2574
+Toolkit,archive,0.0516
+Toolkit,archive,4.4875
+Toolkit,archive,8.1271
+Toolkit,archive,0.3572
+Toolkit,archive,0.0704
+Toolkit,.make,0.9079
+Toolkit,.make,1.2339
+Toolkit,.make,0.2215
+Toolkit,.make,0.9824
+Toolkit,.make,0.0461
+Toolkit,.make,0.3547
+Toolkit,.make,1.3172
+Toolkit,.make,25.4312
+Toolkit,.make,0.5181
+Toolkit,.make,0.7553
+Toolkit,.make,0.1225
+Toolkit,Data/ DB,1.9107
+Toolkit,Data/ DB,2.8999
+Toolkit,Data/ DB,2.4566
+Toolkit,Data/ DB,2.4177
+Toolkit,Data/ DB,2.8599
+Toolkit,Data/ DB,9.3264
+Toolkit,Data/ DB,1.2178
+Toolkit,Data/ DB,3.6988
+Toolkit,Data/ DB,1.521
+Toolkit,Data/ DB,5.4828
+Toolkit,Data/ DB,2.6445
+Toolkit,Data/ DB,2.6792
+Toolkit,Data/ DB,2.3514
+Toolkit,Data/ DB,5.9994
+Toolkit,Data/ DB,2.208
+Toolkit,Data/ DB,3.4036
+Toolkit,Data/ DB,3.269
+Toolkit,Data/ DB,2.7023
+Toolkit,Data/ DB,4.722
+Toolkit,Data/ DB,2.3458
+Toolkit,Data/ DB,1.8356
+Toolkit,Data/ DB,2.2458
+Toolkit,Data/ DB,3.9908
+Toolkit,Data/ DB,4.8944
+Toolkit,Data/ DB,4.0119
+Toolkit,Data/ DB,1.159
+Toolkit,Data/ DB,2.5681
+Toolkit,Data/ DB,2.8997
+Toolkit,Data/ DB,3.4706
+Toolkit,Data/ DB,3.1555
+Toolkit,Data/ DB,1.9168
+Toolkit,Data/ DB,1.7929
+Toolkit,Data/ DB,2.485
+Toolkit,Data/ DB,2.2698
+Toolkit,Data/ DB,3.5805
+Toolkit,Data/ DB,2.7682
+Toolkit,Data/ DB,5.5906
+Toolkit,Data/ DB,2.2523
+Toolkit,Data/ DB,1.7065
+Toolkit,Data/ DB,1.6431
+Toolkit,Data/ DB,2.1738
+Toolkit,Data/ DB,1.7858
+Toolkit,Data/ DB,6.8488
+Toolkit,Data/ DB,3.6483
+Toolkit,Data/ DB,1.4267
+Toolkit,Data/ DB,0.3658
+Toolkit,Data/ DB,2.2746
+Toolkit,Data/ DB,2.3424
+Toolkit,Data/ DB,1.6052
+Toolkit,Data/ DB,0.7491
+Toolkit,Data/ DB,7.7017
+Toolkit,Data/ DB,0.2952
+Toolkit,Data/ DB,3.1579
+Toolkit,Data/ DB,1.7152
+Toolkit,Data/ DB,4.7329
+Toolkit,Data/ DB,1.2198
+Toolkit,Data/ DB,1.8167
+Toolkit,Data/ DB,2.6249
+Toolkit,Data/ DB,1.0208
+Toolkit,.ll,0.0422
+Toolkit,.ll,5.4819
+Application System,gorse-,100.0
+Application System,opam,20.3204
+Application System,Python,22.3513
+Application System,Python,21.3564
+Application System,Python,6.8824
+Application System,Python,5.3895
+Application System,Python,16.1074
+Application System,Python,22.7468
+Application System,Python,36.7914
+Application System,Python,5.1269
+Application System,Python,4.7326
+Application System,Python,13.8729
+Application System,Python,0.1683
+Application System,Python,6.3558
+Application System,Python,21.5535
+Application System,Python,9.4574
+Application System,Python,23.7295
+Application System,Python,0.1587
+Application System,Python,20.2794
+Application System,Python,9.6136
+Application System,Python,26.5081
+Application System,Python,24.779
+Application System,Python,7.8297
+Application System,Python,5.5487
+Application System,Python,22.2399
+Application System,Python,13.5146
+Application System,Python,21.8016
+Application System,Python,0.88
+Application System,Python,0.1458
+Application System,Python,3.4933
+Application System,Python,35.4905
+Application System,Python,0.0976
+Application System,Python,29.9292
+Application System,Python,28.5459
+Application System,Python,34.7099
+Application System,Python,17.1235
+Application System,Python,14.1782
+Application System,Python,22.4505
+Application System,Python,16.9255
+Application System,Python,4.5109
+Application System,Python,9.5131
+Application System,Python,3.3085
+Application System,Python,24.1456
+Application System,Python,10.6704
+Application System,Python,28.4328
+Application System,Python,25.9424
+Application System,Python,5.0524
+Application System,Python,25.0341
+Application System,Python,29.3767
+Application System,Python,15.8707
+Application System,Python,9.5227
+Application System,Python,28.9304
+Application System,Python,11.8972
+Application System,Python,0.0873
+Application System,Python,2.9881
+Application System,Python,12.6995
+Application System,Python,5.5415
+Application System,Python,30.3846
+Application System,Python,5.2555
+Application System,Python,32.7035
+Application System,Python,20.4482
+Application System,Python,20.587
+Application System,Python,0.1269
+Application System,Python,6.2874
+Application System,Python,8.4929
+Application System,Python,8.4481
+Application System,Python,5.5596
+Application System,Python,8.6972
+Application System,Python,23.1326
+Application System,Python,25.5255
+Application System,Python,8.1713
+Application System,Python,0.0369
+Application System,Python,7.8073
+Application System,Python,24.6462
+Application System,Python,22.7637
+Application System,Python,11.79
+Application System,Python,23.9328
+Application System,Python,20.3844
+Application System,Python,25.1854
+Application System,Python,14.3565
+Application System,Python,1.7652
+Application System,Python,3.6528
+Application System,Python,5.5493
+Application System,Python,11.4704
+Application System,Python,21.3967
+Application System,Python,9.3853
+Application System,Python,25.8392
+Application System,Python,15.9539
+Application System,Python,9.4453
+Application System,Python,22.001
+Application System,Python,26.502
+Application System,Python,25.7734
+Application System,Python,11.9221
+Application System,Python,8.6378
+Application System,Python,3.0343
+Application System,Python,22.2154
+Application System,Python,21.417
+Application System,Python,11.4195
+Application System,Python,16.1573
+Application System,Python,24.7187
+Application System,Python,1.6739
+Application System,Python,22.8269
+Application System,Python,31.0364
+Application System,Python,13.7137
+Application System,Python,16.6833
+Application System,Python,38.7725
+Application System,Python,32.937
+Application System,Python,24.7751
+Application System,Python,23.9216
+Application System,Python,15.5545
+Application System,Python,21.2998
+Application System,Python,24.0494
+Application System,Python,27.832
+Application System,Python,7.1264
+Application System,Python,2.0977
+Application System,Python,21.7866
+Application System,Python,19.8787
+Application System,Python,23.0434
+Application System,Python,23.3474
+Application System,Python,23.871
+Application System,Python,16.6275
+Application System,Python,19.4432
+Application System,Python,25.5134
+Application System,Python,13.4881
+Application System,Python,16.4709
+Application System,Python,15.7418
+Application System,Python,3.5326
+Application System,Python,7.3125
+Application System,Python,26.9473
+Application System,Python,31.2417
+Application System,Python,8.9146
+Application System,Python,7.8222
+Application System,Python,13.2788
+Application System,Python,29.0074
+Application System,Python,37.9251
+Application System,Python,27.5502
+Application System,Python,16.5707
+Application System,Python,30.0075
+Application System,Python,17.6258
+Application System,Python,23.1684
+Application System,Python,21.5741
+Application System,Python,11.9242
+Application System,Python,24.0458
+Application System,Python,14.4117
+Application System,Python,24.0463
+Application System,Python,29.0767
+Application System,Python,39.1042
+Application System,Python,22.5488
+Application System,Python,19.9882
+Application System,Python,20.8483
+Application System,Python,10.8325
+Application System,Python,10.1083
+Application System,Python,3.2754
+Application System,Python,23.5447
+Application System,Python,35.6183
+Application System,Python,18.1533
+Application System,.uexp,28.2561
+Application System,.uexp,3.7918
+Application System,.uasset,28.0814
+Application System,.uasset,3.7885
+Application System,requires,15.6721
+Application System,sha1,15.6721
+Application System,C/C++,16.6168
+Application System,C/C++,22.1859
+Application System,C/C++,14.465
+Application System,C/C++,19.0425
+Application System,C/C++,9.8853
+Application System,C/C++,11.1838
+Application System,C/C++,6.1618
+Application System,C/C++,30.5597
+Application System,C/C++,27.8164
+Application System,C/C++,10.3021
+Application System,C/C++,1.4538
+Application System,C/C++,30.3246
+Application System,C/C++,13.8666
+Application System,C/C++,13.9267
+Application System,C/C++,14.7267
+Application System,C/C++,1.0162
+Application System,C/C++,6.0687
+Application System,C/C++,8.2379
+Application System,C/C++,2.2877
+Application System,C/C++,20.2521
+Application System,C/C++,16.3126
+Application System,C/C++,17.0407
+Application System,C/C++,5.6169
+Application System,C/C++,12.9081
+Application System,C/C++,11.3558
+Application System,C/C++,10.8379
+Application System,C/C++,0.384
+Application System,C/C++,39.731
+Application System,C/C++,9.5059
+Application System,C/C++,54.5618
+Application System,C/C++,11.5959
+Application System,C/C++,13.1505
+Application System,C/C++,7.3271
+Application System,C/C++,11.0229
+Application System,C/C++,9.9985
+Application System,C/C++,4.732
+Application System,C/C++,14.6826
+Application System,C/C++,18.8728
+Application System,C/C++,0.3888
+Application System,C/C++,19.9905
+Application System,C/C++,8.8779
+Application System,C/C++,0.1838
+Application System,C/C++,18.3911
+Application System,C/C++,10.2317
+Application System,C/C++,8.533
+Application System,C/C++,13.2097
+Application System,C/C++,9.1303
+Application System,C/C++,13.8432
+Application System,C/C++,29.9565
+Application System,C/C++,9.8431
+Application System,C/C++,14.5334
+Application System,C/C++,25.0138
+Application System,C/C++,0.1164
+Application System,C/C++,8.1806
+Application System,C/C++,24.9368
+Application System,C/C++,20.1119
+Application System,C/C++,11.7125
+Application System,C/C++,0.0686
+Application System,C/C++,9.5068
+Application System,C/C++,15.5617
+Application System,C/C++,24.1745
+Application System,C/C++,14.182
+Application System,C/C++,20.1642
+Application System,C/C++,16.7308
+Application System,C/C++,8.5954
+Application System,C/C++,0.375
+Application System,C/C++,20.9506
+Application System,C/C++,13.0218
+Application System,C/C++,12.0295
+Application System,C/C++,0.2819
+Application System,C/C++,15.0723
+Application System,C/C++,7.6361
+Application System,C/C++,10.4753
+Application System,C/C++,15.8523
+Application System,C/C++,1.5018
+Application System,C/C++,12.2043
+Application System,C/C++,21.2645
+Application System,C/C++,0.8864
+Application System,C/C++,11.0648
+Application System,C/C++,10.5913
+Application System,C/C++,14.3845
+Application System,C/C++,0.4659
+Application System,C/C++,17.9166
+Application System,C/C++,27.6047
+Application System,C/C++,21.0255
+Application System,C/C++,12.4739
+Application System,C/C++,16.8835
+Application System,C/C++,18.659
+Application System,C/C++,25.2212
+Application System,C/C++,2.2872
+Application System,C/C++,1.4941
+Application System,C/C++,23.48
+Application System,C/C++,6.4835
+Application System,C/C++,4.8273
+Application System,C/C++,16.6778
+Application System,C/C++,15.3648
+Application System,C/C++,32.813
+Application System,C/C++,10.0445
+Application System,C/C++,0.7814
+Application System,C/C++,39.9703
+Application System,C/C++,8.4499
+Application System,C/C++,12.5864
+Application System,C/C++,26.676
+Application System,C/C++,30.1157
+Application System,C/C++,4.6066
+Application System,C/C++,12.1649
+Application System,C/C++,9.6178
+Application System,C/C++,11.918
+Application System,C/C++,17.8597
+Application System,C/C++,11.5113
+Application System,C/C++,1.7795
+Application System,C/C++,9.1025
+Application System,C/C++,8.1657
+Application System,C/C++,9.5838
+Application System,C/C++,24.6169
+Application System,C/C++,11.7427
+Application System,C/C++,6.8821
+Application System,C/C++,2.9978
+Application System,C/C++,20.1664
+Application System,C/C++,12.4217
+Application System,C/C++,14.7839
+Application System,C/C++,9.1287
+Application System,C/C++,14.5613
+Application System,C/C++,19.1188
+Application System,C/C++,12.9785
+Application System,C/C++,23.2141
+Application System,C/C++,5.7288
+Application System,C/C++,17.8264
+Application System,C/C++,5.4667
+Application System,C/C++,7.1746
+Application System,C/C++,9.1449
+Application System,C/C++,13.2546
+Application System,C/C++,8.7015
+Application System,C/C++,0.3229
+Application System,C/C++,21.9444
+Application System,C/C++,12.4397
+Application System,C/C++,11.1848
+Application System,C/C++,10.6858
+Application System,C/C++,16.5384
+Application System,C/C++,14.4847
+Application System,C/C++,27.1599
+Application System,C/C++,18.2975
+Application System,C/C++,32.0987
+Application System,C/C++,1.7793
+Application System,C/C++,9.7896
+Application System,C/C++,2.6863
+Application System,C/C++,24.9586
+Application System,C/C++,15.0337
+Application System,C/C++,15.3715
+Application System,C/C++,6.2874
+Application System,C/C++,4.5944
+Application System,C/C++,47.3501
+Application System,C/C++,7.3975
+Application System,C/C++,4.2724
+Application System,C/C++,13.1797
+Application System,PEP,19.3715
+Application System,PEP,0.394
+Application System,PEP,1.5461
+Application System,PEP,0.3152
+Application System,PEP,14.582
+Application System,PEP,19.3289
+Application System,PEP,0.1666
+Application System,PEP,3.3528
+Application System,PEP,1.6192
+Application System,PEP,13.672
+Application System,PEP,4.1078
+Application System,PEP,21.0762
+Application System,PEP,8.4441
+Application System,PEP,16.0159
+Application System,PEP,21.0814
+Application System,PEP,7.3983
+Application System,PEP,13.4532
+Application System,PEP,20.5511
+Application System,PEP,7.3382
+Application System,PEP,2.1456
+Application System,PEP,18.72
+Application System,PEP,11.2534
+Application System,PEP,22.2793
+Application System,PEP,0.791
+Application System,PEP,2.8941
+Application System,PEP,0.0919
+Application System,PEP,30.0173
+Application System,PEP,22.1092
+Application System,PEP,26.4867
+Application System,PEP,16.0718
+Application System,PEP,5.1619
+Application System,PEP,21.1279
+Application System,PEP,14.3324
+Application System,PEP,0.0549
+Application System,PEP,7.1015
+Application System,PEP,16.7613
+Application System,PEP,0.6935
+Application System,PEP,21.4387
+Application System,PEP,22.0009
+Application System,PEP,1.9001
+Application System,PEP,20.6583
+Application System,PEP,17.6569
+Application System,PEP,12.3431
+Application System,PEP,10.3549
+Application System,PEP,25.5522
+Application System,PEP,10.1279
+Application System,PEP,6.4046
+Application System,PEP,8.8563
+Application System,PEP,2.5347
+Application System,PEP,0.1282
+Application System,PEP,15.614
+Application System,PEP,18.2538
+Application System,PEP,15.1665
+Application System,PEP,14.6297
+Application System,PEP,6.2021
+Application System,PEP,5.9422
+Application System,PEP,7.4349
+Application System,PEP,7.4252
+Application System,PEP,9.3262
+Application System,PEP,15.574
+Application System,PEP,23.1254
+Application System,PEP,3.2779
+Application System,PEP,4.324
+Application System,PEP,22.3832
+Application System,PEP,20.2068
+Application System,PEP,7.6219
+Application System,PEP,20.0983
+Application System,PEP,14.1468
+Application System,PEP,24.8501
+Application System,PEP,11.9179
+Application System,PEP,0.5884
+Application System,PEP,2.3458
+Application System,PEP,9.9784
+Application System,PEP,1.0372
+Application System,PEP,21.6129
+Application System,PEP,7.4659
+Application System,PEP,21.0147
+Application System,PEP,14.454
+Application System,PEP,0.5674
+Application System,PEP,21.9733
+Application System,PEP,13.4502
+Application System,PEP,16.1096
+Application System,PEP,10.5753
+Application System,PEP,8.2052
+Application System,PEP,1.6301
+Application System,PEP,18.689
+Application System,PEP,16.2247
+Application System,PEP,0.2446
+Application System,PEP,12.091
+Application System,PEP,21.7651
+Application System,PEP,1.2079
+Application System,PEP,21.7385
+Application System,PEP,1.4874
+Application System,PEP,10.4932
+Application System,PEP,14.6355
+Application System,PEP,35.4148
+Application System,PEP,27.03
+Application System,PEP,24.3915
+Application System,PEP,2.6781
+Application System,PEP,14.2599
+Application System,PEP,16.628
+Application System,PEP,24.4463
+Application System,PEP,23.4619
+Application System,PEP,0.0447
+Application System,PEP,0.6332
+Application System,PEP,15.6654
+Application System,PEP,17.9349
+Application System,PEP,21.1073
+Application System,PEP,21.1228
+Application System,PEP,21.7564
+Application System,PEP,16.1468
+Application System,PEP,13.8476
+Application System,PEP,16.6987
+Application System,PEP,5.0436
+Application System,PEP,14.8562
+Application System,PEP,8.6034
+Application System,PEP,1.7984
+Application System,PEP,0.3485
+Application System,PEP,25.7389
+Application System,PEP,25.7917
+Application System,PEP,7.7466
+Application System,PEP,7.0938
+Application System,PEP,11.5298
+Application System,PEP,24.6291
+Application System,PEP,31.6015
+Application System,PEP,18.9519
+Application System,PEP,15.9699
+Application System,PEP,21.1934
+Application System,PEP,16.2763
+Application System,PEP,19.2939
+Application System,PEP,17.8884
+Application System,PEP,9.191
+Application System,PEP,24.4333
+Application System,PEP,1.3261
+Application System,PEP,24.4432
+Application System,PEP,39.6981
+Application System,PEP,23.0586
+Application System,PEP,12.968
+Application System,PEP,21.497
+Application System,PEP,9.9026
+Application System,PEP,6.9548
+Application System,PEP,1.7684
+Application System,PEP,28.3963
+Application System,PEP,33.1966
+Application System,PEP,12.5007
+Application System,.ll,12.9263
+Application System,Goland,0.0984
+Application System,Goland,9.5365
+Application System,Goland,6.6416
+Application System,Goland,39.9753
+Application System,Goland,0.3221
+Application System,Goland,27.522
+Application System,Goland,6.3366
+Application System,Goland,0.0746
+Application System,Goland,0.2795
+Application System,.v.1,8.0691
+Application System,.pass.1,6.476
+Application System,.ri,5.4457
+Application System,.ml,9.5398
+Application System,.ml,0.1874
+Documentation,Python,31.2727
+Documentation,Python,13.6471
+Documentation,Python,17.2158
+Documentation,Python,25.954
+Documentation,Python,19.6068
+Documentation,Python,16.835
+Documentation,C/C++,23.2548
+Documentation,C/C++,26.0432
+Documentation,C/C++,11.5036
+Documentation,C/C++,13.647
+Documentation,C/C++,12.2641
+Documentation,C/C++,20.3466
+Documentation,PEP,10.0606
+Documentation,PEP,1.8561
+Documentation,PEP,17.3115
+Documentation,PEP,21.1244
+Documentation,PEP,18.7604
+Documentation,PEP,12.8352
+Documentation,Js,2.3276
+Documentation,Js,14.0125
+Documentation,Js,4.98
+Documentation,Js,3.0268
+Documentation,Js,1.1518
+Documentation,Js,4.7102
+Documentation,ELF/COFF,2.768
+Documentation,ELF/COFF,3.7723
+Documentation,ELF/COFF,3.9233
+Documentation,ELF/COFF,4.0156
+Documentation,ELF/COFF,2.991
+Documentation,ELF/COFF,6.7379
+Documentation,Rust,1.3191
+Documentation,Rust,0.817
+Documentation,Rust,10.5217
+Documentation,Rust,0.0833
+Documentation,Rust,3.0785
+Documentation,Perl,1.8765
+Documentation,Perl,1.2953
+Documentation,Perl,8.2834
+Documentation,Perl,1.4693
+Documentation,Perl,3.516
+Documentation,Perl,0.8782
+Documentation,Data/ DB,2.4328
+Documentation,Data/ DB,2.8291
+Documentation,Data/ DB,3.89
+Documentation,Data/ DB,1.6494
+Documentation,Data/ DB,1.2178
+Documentation,Data/ DB,1.8753
+Documentation,image,0.752
+Documentation,image,10.0063
+Documentation,image,0.0333
+Documentation,image,0.8988
+Documentation,image,0.4089
+Documentation,image,1.0358
+Documentation,archive,6.0599
+Documentation,archive,0.1481
+Documentation,archive,0.0749
+Documentation,archive,1.5095
+Documentation,archive,1.5937
+Documentation,DOC,2.0495
+Documentation,DOC,1.9706
+Documentation,DOC,2.8957
+Documentation,DOC,1.3395
+Documentation,DOC,1.15
+Documentation,DOC,1.1004
+Documentation,Model/ Weight,0.4325
+Documentation,Model/ Weight,0.5965
+Documentation,Model/ Weight,0.4909
+Documentation,Model/ Weight,0.2423
+Documentation,Model/ Weight,0.2732
+Documentation,Model/ Weight,3.4755
+Documentation,Makefile,0.8267
+Documentation,Makefile,1.6697
+Documentation,Makefile,0.0374
+Documentation,Makefile,0.4055
+Documentation,Makefile,1.7107
+Documentation,Makefile,0.6328
+Documentation,certif/ keys,0.4699
+Documentation,certif/ keys,0.2466
+Documentation,certif/ keys,1.3272
+Documentation,certif/ keys,0.6223
+Documentation,certif/ keys,1.25
+Documentation,certif/ keys,0.7904
+Documentation,debian,1.0105
+Documentation,debian,1.0295
+Documentation,debian,1.3688
+Documentation,debian,0.2356
+Documentation,debian,0.3357
+Documentation,debian,0.4042

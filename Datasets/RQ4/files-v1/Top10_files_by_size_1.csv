@@ -1,0 +1,764 @@
+Category,file_type,perc_size
+Model,ELF/COFF,73.9824
+Model,ELF/COFF,0.0024
+Model,59289d1622a57731acff6181861325e771dee7a4ec15a9b349cab9fe,21.9458
+Model,e0e10909911e0df1655a24b1bd415152da29e54deb70bf12a8f4f769,14.6806
+Model,Git,9.7723
+Model,Git,2.6607
+Model,Git,3.1412
+Model,Ubuntu,7.6775
+Model,Ubuntu,0.7289
+Model,Ubuntu,2.8306
+Model,.a,3.5804
+Model,.a,0.0
+Model,.a,10.8172
+Model,.a,0.0901
+Model,cc1,0.0
+Model,cc1,1.3745
+Model,cc1,10.7187
+Model,cc1,0.8751
+Model,cc1,0.5258
+Model,6m,2.0603
+Model,Js,3.5263
+Model,Js,0.4323
+Model,PEP,6.5723
+Model,PEP,0.0191
+Model,PEP,0.0156
+Model,PEP,0.0108
+Model,PEP,0.0104
+Model,PEP,0.0191
+Model,PEP,0.0156
+Model,PEP,0.0152
+Model,PEP,0.0108
+Model,PEP,0.0104
+Model,PEP,0.0
+Model,PEP,10.9561
+Model,PEP,0.1266
+Model,PEP,0.0938
+Model,PEP,0.0611
+Model,PEP,0.0603
+Model,PEP,0.0516
+Model,PEP,0.0278
+Model,PEP,0.0208
+Model,PEP,3.5347
+Model,PEP,0.9157
+Model,PEP,0.1114
+Model,PEP,0.0003
+Model,Java,0.2166
+Model,Java,1.2656
+Model,Java,0.3703
+Model,cicc,0.8769
+Model,cicc,0.3352
+Model,Model/ Weight,0.5189
+Model,gcc,0.1025
+Model,gcc,0.1025
+Model,gcc,0.0
+Model,gcc,0.0
+Model,gcc,0.3331
+Model,gcc,0.014
+Model,gcc,0.009
+Model,gcc,0.6362
+Model,gcc,0.0257
+Model,gcc,4.943
+Model,gcc,0.2007
+Model,gcc,0.1287
+Model,gcc,0.2338
+Model,gcc,0.1945
+Model,.net,0.4306
+MLOps/ AIOps,manager,94.4512
+MLOps/ AIOps,Model/ Weight,0.0035
+MLOps/ AIOps,Model/ Weight,25.4704
+MLOps/ AIOps,Model/ Weight,2.0739
+MLOps/ AIOps,Model/ Weight,81.8228
+MLOps/ AIOps,Model/ Weight,0.705
+MLOps/ AIOps,kubectl,3.5983
+MLOps/ AIOps,kubectl,0.2708
+MLOps/ AIOps,kubectl,59.659
+MLOps/ AIOps,ELF/COFF,2.0759
+MLOps/ AIOps,ELF/COFF,0.3321
+MLOps/ AIOps,ELF/COFF,0.152
+MLOps/ AIOps,ELF/COFF,0.0381
+MLOps/ AIOps,ELF/COFF,56.9639
+MLOps/ AIOps,ELF/COFF,37.9995
+MLOps/ AIOps,ELF/COFF,32.6127
+MLOps/ AIOps,ELF/COFF,1.0891
+MLOps/ AIOps,ELF/COFF,13.5402
+MLOps/ AIOps,ELF/COFF,50.5695
+MLOps/ AIOps,ELF/COFF,28.714
+MLOps/ AIOps,ELF/COFF,30.4482
+MLOps/ AIOps,ELF/COFF,18.862
+MLOps/ AIOps,ELF/COFF,72.7358
+MLOps/ AIOps,ELF/COFF,55.1889
+MLOps/ AIOps,ELF/COFF,53.1391
+MLOps/ AIOps,ELF/COFF,56.2861
+MLOps/ AIOps,ELF/COFF,47.1962
+MLOps/ AIOps,ELF/COFF,0.2562
+MLOps/ AIOps,ELF/COFF,7.145
+MLOps/ AIOps,ELF/COFF,3.2383
+MLOps/ AIOps,ELF/COFF,2.0941
+MLOps/ AIOps,ELF/COFF,1.4389
+MLOps/ AIOps,ELF/COFF,0.3495
+MLOps/ AIOps,ELF/COFF,0.1726
+MLOps/ AIOps,ELF/COFF,0.1256
+MLOps/ AIOps,ELF/COFF,0.1088
+MLOps/ AIOps,ELF/COFF,0.1064
+MLOps/ AIOps,ELF/COFF,0.0706
+MLOps/ AIOps,ELF/COFF,0.0705
+MLOps/ AIOps,ELF/COFF,0.0703
+MLOps/ AIOps,ELF/COFF,0.0429
+MLOps/ AIOps,ELF/COFF,0.0498
+MLOps/ AIOps,ELF/COFF,0.0058
+MLOps/ AIOps,ELF/COFF,4.7327
+MLOps/ AIOps,ELF/COFF,3.0911
+MLOps/ AIOps,ELF/COFF,2.3451
+MLOps/ AIOps,ELF/COFF,0.5453
+MLOps/ AIOps,ELF/COFF,0.2665
+MLOps/ AIOps,ELF/COFF,0.1962
+MLOps/ AIOps,ELF/COFF,0.1695
+MLOps/ AIOps,ELF/COFF,0.1676
+MLOps/ AIOps,ELF/COFF,0.1347
+MLOps/ AIOps,ELF/COFF,0.1239
+MLOps/ AIOps,ELF/COFF,0.1096
+MLOps/ AIOps,ELF/COFF,0.1077
+MLOps/ AIOps,ELF/COFF,0.067
+MLOps/ AIOps,ELF/COFF,0.0399
+MLOps/ AIOps,ELF/COFF,0.0336
+MLOps/ AIOps,ELF/COFF,0.0268
+MLOps/ AIOps,ELF/COFF,0.0254
+MLOps/ AIOps,ELF/COFF,0.0217
+MLOps/ AIOps,ELF/COFF,0.0146
+MLOps/ AIOps,ELF/COFF,0.0107
+MLOps/ AIOps,ELF/COFF,0.0088
+MLOps/ AIOps,ELF/COFF,0.0078
+MLOps/ AIOps,ELF/COFF,0.0057
+MLOps/ AIOps,ELF/COFF,3.7333
+MLOps/ AIOps,ELF/COFF,0.5741
+MLOps/ AIOps,ELF/COFF,0.4307
+MLOps/ AIOps,ELF/COFF,0.2386
+MLOps/ AIOps,ELF/COFF,32.2996
+MLOps/ AIOps,ELF/COFF,40.4628
+MLOps/ AIOps,ELF/COFF,18.8307
+MLOps/ AIOps,ELF/COFF,77.3296
+MLOps/ AIOps,ELF/COFF,94.9964
+MLOps/ AIOps,ELF/COFF,0.0037
+MLOps/ AIOps,.linux-bionic-x64.1.2.3.4,9.9124
+MLOps/ AIOps,.linux-bionic-x64.1.2.3.4,9.9131
+MLOps/ AIOps,.linux-bionic-x64.1.2,9.9124
+MLOps/ AIOps,.linux-bionic-x64.1.2,9.9131
+MLOps/ AIOps,.pcm,9.8597
+MLOps/ AIOps,/manager,2.3701
+MLOps/ AIOps,/manager,1.6298
+MLOps/ AIOps,/manager,24.2538
+MLOps/ AIOps,Git,4.9686
+MLOps/ AIOps,Git,21.2585
+MLOps/ AIOps,Git,24.1388
+MLOps/ AIOps,Git,14.5268
+MLOps/ AIOps,Git,5.9344
+MLOps/ AIOps,Git,4.2295
+MLOps/ AIOps,Git,43.3061
+MLOps/ AIOps,Git,0.0117
+MLOps/ AIOps,Git,0.0107
+MLOps/ AIOps,Git,0.0103
+MLOps/ AIOps,Git,24.0481
+MLOps/ AIOps,Git,2.3539
+MLOps/ AIOps,Git,22.2553
+MLOps/ AIOps,Git,0.0368
+MLOps/ AIOps,Git,0.2795
+MLOps/ AIOps,Git,3.9412
+MLOps/ AIOps,Git,4.5011
+MLOps/ AIOps,Git,0.0248
+MLOps/ AIOps,Git,0.0194
+MLOps/ AIOps,Git,1.0276
+MLOps/ AIOps,Python,7.2298
+MLOps/ AIOps,29c6859f0ee838dbbfa7c1b7b983b63456908f1ec919c87f7c42bb37,7.2235
+MLOps/ AIOps,Web,6.2506
+MLOps/ AIOps,Java,1.032
+MLOps/ AIOps,Java,0.0588
+MLOps/ AIOps,Java,10.0135
+MLOps/ AIOps,Java,1.7738
+MLOps/ AIOps,Java,0.4742
+MLOps/ AIOps,Java,1.1722
+MLOps/ AIOps,Java,1.1605
+MLOps/ AIOps,Java,1.0965
+MLOps/ AIOps,Java,1.0533
+MLOps/ AIOps,Java,51.3092
+MLOps/ AIOps,Java,6.7644
+MLOps/ AIOps,Java,0.1216
+MLOps/ AIOps,Java,0.139
+MLOps/ AIOps,Java,0.1373
+MLOps/ AIOps,Java,17.5001
+MLOps/ AIOps,Java,0.3942
+MLOps/ AIOps,Java,11.2959
+MLOps/ AIOps,Java,0.2052
+MLOps/ AIOps,Java,1.069
+MLOps/ AIOps,Java,0.0053
+MLOps/ AIOps,Java,6.6356
+MLOps/ AIOps,Java,20.6715
+MLOps/ AIOps,Java,0.0409
+MLOps/ AIOps,Java,0.014
+MLOps/ AIOps,.a,8.7736
+MLOps/ AIOps,.a,0.2726
+MLOps/ AIOps,.a,6.4911
+MLOps/ AIOps,.a,1.3029
+MLOps/ AIOps,.a,0.2272
+MLOps/ AIOps,.a,2.1153
+MLOps/ AIOps,.a,22.4134
+MLOps/ AIOps,.a,6.5703
+MLOps/ AIOps,.a,0.022
+MLOps/ AIOps,.a,0.5863
+MLOps/ AIOps,.a,24.2577
+MLOps/ AIOps,.a,0.675
+MLOps/ AIOps,.a,5.7622
+MLOps/ AIOps,.a,0.0515
+MLOps/ AIOps,.a,0.3117
+MLOps/ AIOps,.a,27.5102
+MLOps/ AIOps,.a,0.0764
+MLOps/ AIOps,.a,0.0101
+MLOps/ AIOps,.a,26.2001
+MLOps/ AIOps,.a,0.1109
+MLOps/ AIOps,.a,0.0588
+MLOps/ AIOps,.a,5.6574
+MLOps/ AIOps,.a,0.6651
+MLOps/ AIOps,.a,0.2657
+MLOps/ AIOps,.a,0.09
+MLOps/ AIOps,.a,0.0784
+MLOps/ AIOps,.a,0.056
+MLOps/ AIOps,.a,0.056
+MLOps/ AIOps,.a,17.8046
+MLOps/ AIOps,.a,0.8416
+MLOps/ AIOps,.a,30.8594
+MLOps/ AIOps,.a,0.1512
+MLOps/ AIOps,.a,0.2096
+MLOps/ AIOps,.a,1.2714
+MLOps/ AIOps,.a,0.8187
+MLOps/ AIOps,.a,0.3578
+MLOps/ AIOps,.a,0.0261
+MLOps/ AIOps,.a,0.103
+MLOps/ AIOps,.a,4.9206
+MLOps/ AIOps,.a,12.0482
+MLOps/ AIOps,.a,4.3453
+MLOps/ AIOps,yq,5.1497
+DL Framwork,determined-master,28.6741
+DL Framwork,ELF/COFF,0.0026
+DL Framwork,ELF/COFF,54.5642
+DL Framwork,ELF/COFF,80.1429
+DL Framwork,ELF/COFF,49.7986
+DL Framwork,ELF/COFF,7.1111
+DL Framwork,ELF/COFF,76.4786
+DL Framwork,ELF/COFF,73.6238
+DL Framwork,ELF/COFF,83.5882
+DL Framwork,ELF/COFF,0.0
+DL Framwork,ELF/COFF,0.2187
+DL Framwork,ELF/COFF,0.1537
+DL Framwork,ELF/COFF,0.0946
+DL Framwork,ELF/COFF,0.6902
+DL Framwork,ELF/COFF,0.0711
+DL Framwork,ELF/COFF,0.0463
+DL Framwork,ELF/COFF,0.0116
+DL Framwork,ELF/COFF,0.0056
+DL Framwork,ELF/COFF,82.399
+DL Framwork,1a008818806306c066bce7f8ee317276859fbcaf08de19417f3f6b2f,22.0022
+DL Framwork,.bsp,18.2488
+DL Framwork,a9db9699ff4fe27071053b9ab84bce5abea7a3d3b4effc46cb18d46b,12.5107
+DL Framwork,/opt/flink/flink.tgz,5.7914
+DL Framwork,Git,0.0576
+DL Framwork,Git,0.1709
+DL Framwork,Git,0.8712
+DL Framwork,Git,0.0192
+DL Framwork,Git,0.0116
+DL Framwork,Git,0.0116
+DL Framwork,Git,0.0116
+DL Framwork,Git,13.6837
+DL Framwork,Git,2.6305
+DL Framwork,Git,0.4015
+DL Framwork,Git,14.0154
+DL Framwork,Git,5.0081
+DL Framwork,Git,53.4021
+DL Framwork,Git,0.0209
+DL Framwork,Git,6.983
+DL Framwork,Git,0.0001
+DL Framwork,Git,0.5572
+DL Framwork,Git,0.7626
+DL Framwork,Git,0.3173
+DL Framwork,Git,9.0698
+DL Framwork,Git,5.0194
+DL Framwork,.3-199.1.2,4.3826
+DL Framwork,Java,0.0
+DL Framwork,Java,2.5216
+DL Framwork,Java,0.1456
+DL Framwork,Java,0.1352
+DL Framwork,Java,0.101
+DL Framwork,Java,15.4373
+DL Framwork,Java,0.0092
+DL Framwork,Java,0.0148
+DL Framwork,Java,0.0995
+DL Framwork,Java,0.0201
+DL Framwork,Java,1.038
+DL Framwork,Java,1.1091
+DL Framwork,Java,2.3552
+DL Framwork,Java,0.1348
+DL Framwork,Java,42.2937
+DL Framwork,.rpm,2.5875
+DL Framwork,.a,0.0011
+DL Framwork,.a,1.3337
+DL Framwork,.a,0.1087
+DL Framwork,.a,17.5526
+DL Framwork,.a,0.6809
+DL Framwork,.a,0.5202
+DL Framwork,.a,0.3942
+DL Framwork,.a,0.279
+DL Framwork,.a,0.1907
+DL Framwork,.a,0.1894
+DL Framwork,.a,0.1888
+DL Framwork,.a,0.1602
+DL Framwork,.a,0.136
+DL Framwork,.a,0.1287
+DL Framwork,.a,0.1229
+DL Framwork,.a,0.1226
+DL Framwork,.a,0.1169
+DL Framwork,.a,0.1166
+DL Framwork,.a,0.0866
+DL Framwork,.a,10.8615
+DL Framwork,.a,0.0121
+DL Framwork,.a,0.0118
+DL Framwork,.a,0.0093
+DL Framwork,.a,0.2049
+DL Framwork,.a,0.0221
+DL Framwork,.a,0.0196
+DL Framwork,.a,0.0138
+DL Framwork,.a,0.0153
+DL Framwork,.a,0.9217
+DL Framwork,.a,6.4546
+DL Framwork,.a,1.2255
+DL Framwork,.a,9.8009
+DL Framwork,.a,7.9825
+DL Framwork,.a,27.6542
+DL Framwork,.a,0.7675
+DL Framwork,.a,0.0
+DL Framwork,.a,22.1929
+DL Framwork,.a,0.0
+DL Framwork,.a,0.0
+DL Framwork,.a,0.0
+DL Framwork,.a,0.0
+DL Framwork,.a,0.0531
+DL Framwork,.a,17.3667
+DL Framwork,.a,0.0462
+DL Framwork,.a,0.0453
+DL Framwork,.a,0.4552
+DL Framwork,.a,0.0677
+DL Framwork,.a,0.0
+DL Framwork,.a,9.9014
+DL Framwork,.a,0.0121
+DL Framwork,.a,0.0114
+DL Framwork,.a,0.2074
+DL Framwork,.a,0.1619
+DL Framwork,.a,1.0792
+DL Framwork,.a,0.0454
+DL Framwork,.a,0.6053
+DL Framwork,.bam,2.3445
+DL Framwork,.1493a970.1.2.3,2.2063
+DL Framwork,determined-gotmpl,1.4401
+DL Framwork,.3c978dec.1.2.3,1.4307
+Toolkit,docker,99.0361
+Toolkit,core,99.999
+Toolkit,core,99.9987
+Toolkit,core,0.165
+Toolkit,core,99.9957
+Toolkit,core,99.9994
+Toolkit,core,99.9972
+Toolkit,core,0.4816
+Toolkit,/app/coordinator,60.02
+Toolkit,ELF/COFF,0.0004
+Toolkit,ELF/COFF,0.0602
+Toolkit,ELF/COFF,71.7258
+Toolkit,ELF/COFF,50.0085
+Toolkit,ELF/COFF,3.8365
+Toolkit,ELF/COFF,0.5767
+Toolkit,ELF/COFF,0.242
+Toolkit,ELF/COFF,0.0609
+Toolkit,ELF/COFF,0.029
+Toolkit,ELF/COFF,0.1486
+Toolkit,ELF/COFF,50.557
+Toolkit,ELF/COFF,23.1676
+Toolkit,ELF/COFF,17.3925
+Toolkit,/vearch/vearch,12.5688
+Toolkit,.rlib,11.4631
+Toolkit,.ttc,9.1559
+Toolkit,.SIFT.1,6.8873
+Toolkit,.Hsapiens.1.2,5.9801
+Toolkit,Html/Xml,5.1947
+Toolkit,a9db9699ff4fe27071053b9ab84bce5abea7a3d3b4effc46cb18d46b,4.1926
+Toolkit,912e8c132b56542f5c9a0aa1ca2b2043bac5eda26e5bde5d4880f962,3.9158
+Toolkit,/var/lib/rpm/Packages,3.7926
+Toolkit,.4-243.1.2,3.6044
+Toolkit,.a,0.337
+Toolkit,.a,15.7106
+Toolkit,.a,0.0001
+Toolkit,.a,0.0591
+Toolkit,.a,15.9387
+Toolkit,.a,0.0879
+Toolkit,.a,3.1366
+Toolkit,.a,0.0001
+Toolkit,.a,16.2354
+Toolkit,.a,0.0822
+Toolkit,.a,0.0
+Toolkit,.a,0.0462
+Toolkit,.a,0.3404
+Toolkit,.a,14.8165
+Toolkit,.a,0.8084
+Toolkit,.a,27.4084
+Toolkit,.a,0.278
+Toolkit,.a,13.769
+Toolkit,.a,0.0492
+Toolkit,.a,0.0431
+Toolkit,.a,0.0306
+Toolkit,.a,0.576
+Toolkit,.a,7.406
+Toolkit,.a,0.1798
+Toolkit,.a,0.8934
+Toolkit,.a,0.1373
+Toolkit,.a,0.0011
+Toolkit,.a,0.0726
+Toolkit,.a,0.0637
+Toolkit,.a,0.0452
+Toolkit,.a,10.2556
+Toolkit,.a,0.0371
+Toolkit,.a,0.0173
+Toolkit,.a,9.7961
+Toolkit,.a,0.0549
+Toolkit,.a,0.0482
+Toolkit,.a,0.0342
+Toolkit,.a,0.0588
+Toolkit,.a,1.7063
+Application System,gorse-,100.0
+Application System,.magnitude,41.2784
+Application System,core,99.9942
+Application System,core,99.9974
+Application System,core,99.9902
+Application System,core,99.9973
+Application System,core,0.504
+Application System,core,0.4024
+Application System,core,0.2969
+Application System,core,0.2077
+Application System,core,1.4988
+Application System,core,0.2241
+Application System,core,0.2787
+Application System,core,0.2349
+Application System,core,0.1341
+Application System,core,2.4736
+Application System,core,99.9975
+Application System,core,0.0
+Application System,core,0.0
+Application System,core,99.9943
+Application System,core,99.9958
+Application System,core,0.0237
+Application System,core,0.1715
+Application System,core,0.1594
+Application System,core,0.1123
+Application System,core,1.4391
+Application System,core,0.3973
+Application System,core,0.136
+Application System,qdrant,26.1017
+Application System,.carpa,25.6339
+Application System,3D,0.0661
+Application System,3D,0.0339
+Application System,3D,74.706
+Application System,3D,0.3906
+Application System,.11-2.1.2.3,15.9045
+Application System,ELF/COFF,64.7604
+Application System,ELF/COFF,0.0
+Application System,ELF/COFF,0.0069
+Application System,ELF/COFF,28.6571
+Application System,ELF/COFF,31.5769
+Application System,ELF/COFF,0.0626
+Application System,ELF/COFF,0.0623
+Application System,ELF/COFF,0.0615
+Application System,ELF/COFF,0.0613
+Application System,ELF/COFF,0.0582
+Application System,ELF/COFF,0.0563
+Application System,ELF/COFF,0.0553
+Application System,ELF/COFF,0.0516
+Application System,ELF/COFF,0.0493
+Application System,ELF/COFF,0.0442
+Application System,ELF/COFF,0.0395
+Application System,ELF/COFF,0.0362
+Application System,ELF/COFF,0.0483
+Application System,ELF/COFF,0.036
+Application System,ELF/COFF,0.0039
+Application System,ELF/COFF,90.7973
+Application System,ELF/COFF,0.0309
+Application System,ELF/COFF,0.0197
+Application System,ELF/COFF,90.1835
+Application System,ELF/COFF,23.219
+Application System,ELF/COFF,3.7402
+Application System,ELF/COFF,2.4308
+Application System,ELF/COFF,1.7483
+Application System,ELF/COFF,0.407
+Application System,ELF/COFF,0.1987
+Application System,ELF/COFF,0.1469
+Application System,ELF/COFF,0.1282
+Application System,ELF/COFF,0.1249
+Application System,ELF/COFF,0.0924
+Application System,ELF/COFF,0.0821
+Application System,ELF/COFF,0.0803
+Application System,ELF/COFF,0.0504
+Application System,ELF/COFF,0.0297
+Application System,ELF/COFF,0.0323
+Application System,ELF/COFF,0.9987
+Application System,ELF/COFF,0.6556
+Application System,ELF/COFF,0.499
+Application System,ELF/COFF,0.1106
+Application System,ELF/COFF,1.6174
+Application System,ELF/COFF,0.1472
+Application System,ELF/COFF,0.0925
+Application System,ELF/COFF,0.0233
+Application System,ELF/COFF,0.0111
+Application System,ELF/COFF,0.0083
+Application System,ELF/COFF,0.0081
+Application System,ELF/COFF,0.0071
+Application System,ELF/COFF,0.0068
+Application System,ELF/COFF,0.0539
+Application System,ELF/COFF,83.0727
+Application System,ELF/COFF,0.0111
+Application System,ELF/COFF,0.0101
+Application System,ELF/COFF,0.0099
+Application System,ELF/COFF,0.0094
+Application System,ELF/COFF,0.0093
+Application System,ELF/COFF,0.0093
+Application System,ELF/COFF,0.0088
+Application System,ELF/COFF,0.0075
+Application System,ELF/COFF,88.103
+Application System,ELF/COFF,21.571
+Application System,ELF/COFF,0.0427
+Application System,ELF/COFF,0.1796
+Application System,ELF/COFF,70.7731
+Application System,ELF/COFF,56.3744
+Application System,ELF/COFF,42.5821
+Application System,ELF/COFF,81.6254
+Application System,ELF/COFF,0.0924
+Application System,ELF/COFF,0.0924
+Application System,ELF/COFF,0.0924
+Application System,ELF/COFF,43.2603
+Application System,ELF/COFF,7.5498
+Application System,ELF/COFF,0.0199
+Application System,ELF/COFF,14.6143
+Application System,ELF/COFF,0.2078
+Application System,ELF/COFF,0.0027
+Application System,ELF/COFF,28.3988
+Application System,ELF/COFF,70.0834
+Application System,ELF/COFF,0.3656
+Application System,ELF/COFF,72.2407
+Application System,ELF/COFF,27.4912
+Application System,ELF/COFF,0.0096
+Application System,ELF/COFF,0.0096
+Application System,ELF/COFF,78.1051
+Application System,ELF/COFF,0.0264
+Application System,ELF/COFF,67.3357
+Application System,.fst,12.0424
+Application System,89d0bbe36a0f0ca557bad26c88606913c2a3e65d8a4521dc9b6c82b3,11.8375
+Application System,.wapiti,10.1426
+Application System,.magmmap,9.6357
+Application System,/usr/lib/jvm/java-1.8-openjdk/lib/ct.sym,9.5552
+Application System,/tmp/qt/qt.run,8.7597
+Application System,.exe,0.0
+Application System,.exe,15.6104
+Documentation,ELF/COFF,73.5681
+Documentation,cc1,3.3723
+Documentation,pandoc,0.0003
+Documentation,pandoc,2.459
+Documentation,.conda,0.0013
+Documentation,.conda,2.0705
+Documentation,.mgc,0.0
+Documentation,.mgc,1.0919
+Documentation,gcc,0.0
+Documentation,gcc,0.0
+Documentation,gcc,1.5625
+Documentation,gcc,0.0655
+Documentation,gcc,0.0424
+Documentation,gcc,0.4408
+Documentation,gcc,0.0179
+Documentation,gcc,0.0115
+Documentation,ld,0.4911
+Documentation,ld,0.237
+Documentation,ld,0.0487
+Documentation,apt,0.2371
+Documentation,cache,0.0001
+Documentation,cache,0.0001
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,0.0
+Documentation,cache,4.2797
+Documentation,cache,1.87
+Documentation,cache,1.4941
+Documentation,cache,0.7682
+Documentation,cache,0.4164
+Documentation,cache,0.1644
+Documentation,cache,0.1285
+Documentation,cache,0.0838
+Documentation,cache,0.0393
+Documentation,cache,0.3758
+Documentation,cache,0.2548
+Documentation,cache,0.186
+Documentation,cache,0.1693
+Documentation,cache,0.0581
+Documentation,cache,0.0467
+Documentation,cache,0.0323
+Documentation,cache,0.0281
+Documentation,cache,0.0206
+Documentation,cache,0.0203
+Documentation,cache,0.0123
+Documentation,cache,0.0081
+Documentation,cache,0.0057
+Documentation,cache,0.0054
+Documentation,Goland,0.0
+Documentation,Goland,0.4606
+Documentation,Goland,0.1219
+Documentation,.min,0.1851
+Documentation,PEP,0.0
+Documentation,PEP,0.3676
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.23
+Documentation,bin,0.2301
+Documentation,bin,0.2301
+Documentation,bin,0.2136
+Documentation,bin,0.2136
+Documentation,bin,0.1539
+Documentation,bin,0.1305
+Documentation,bin,0.0817
+Documentation,bin,0.0741
+Documentation,bin,0.0741
+Documentation,bin,0.0741
+Documentation,bin,0.0741
+Documentation,bin,0.0741
+Documentation,bin,0.0673
+Documentation,bin,0.0673
+Documentation,bin,0.0457
+Documentation,bin,0.0457
+Documentation,bin,0.0457
+Documentation,bin,0.0457
+Documentation,bin,0.0437
+Documentation,bin,0.0437
+Documentation,bin,0.0401
+Documentation,bin,0.0379
+Documentation,bin,0.0379
+Documentation,bin,0.0379
+Documentation,bin,0.0379
+Documentation,bin,0.036
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.0
+Documentation,bin,0.061
+Documentation,bin,0.061
+Documentation,bin,0.0566
+Documentation,bin,0.0566
+Documentation,bin,0.0411
+Documentation,bin,0.0349
+Documentation,bin,0.0218
+Documentation,bin,0.0205
+Documentation,bin,0.0205
+Documentation,bin,0.0205
+Documentation,bin,0.0205
+Documentation,bin,0.0205
+Documentation,bin,0.018
+Documentation,bin,0.018
+Documentation,bin,0.0124
+Documentation,bin,0.0124
+Documentation,bin,0.0124
+Documentation,bin,0.0124
+Documentation,bin,0.0117
+Documentation,bin,0.0117
+Documentation,bin,0.0108
+Documentation,bin,0.0108
+Documentation,bin,0.0108
+Documentation,bin,0.0108
+Documentation,bin,0.01
+Documentation,bin,0.01
+Documentation,bin,0.01
+Documentation,bin,0.01
+Documentation,bin,0.0187
+Documentation,bin,0.0187
+Documentation,bin,0.0101
+Documentation,bin,0.0091
+Documentation,ninja,0.0
+Documentation,ninja,0.2285
+Documentation,.bfd,0.261
+Documentation,.bfd,0.0
+Documentation,.bfd,0.0699

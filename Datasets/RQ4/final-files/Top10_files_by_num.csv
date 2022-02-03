@@ -1,0 +1,61 @@
+Category,file_type,perc_number,perc_storage
+DL Framwork,PEP,15.22804259,4.787750943
+DL Framwork,python,19.03319322,2.093575862
+DL Framwork,C/C++,16.31980345,1.794170175
+DL Framwork,.ri,12.5676,0
+DL Framwork,goland,3.582033333,0.643883333
+DL Framwork,.rs,3.98145,0.12505
+DL Framwork,browser,2.596103448,0.747819298
+DL Framwork,htf,3.3062,0.0607
+DL Framwork,lib,3.676598305,49.41326724
+DL Framwork,Julia,1.5681,0.27515
+Toolkit,.csl,39.4564,3.317
+Toolkit,python,16.74758305,2.397076271
+Toolkit,ruby,3.733875,0.511475
+Toolkit,.rs,9.2183,1.2862
+Toolkit,.nii,8.6451,0.4745
+Toolkit,archive,3.296023913,0.36478913
+Toolkit,PEP,13.70513462,5.122115385
+Toolkit,image,2.662455172,0.708412069
+Toolkit,htf,6.8371,0.128
+Toolkit,.mo,1.093486111,0.683991667
+MLOps/ AIOps,image,4.544205405,0.780434247
+MLOps/ AIOps,python,17.41065513,3.730403896
+MLOps/ AIOps,vf,4.480325,0.215225
+MLOps/ AIOps,C/C++,11.402708,2.065278378
+MLOps/ AIOps,Julia,11.0126,1.6468
+MLOps/ AIOps,.ll,7.52675,1.0741
+MLOps/ AIOps,archive,2.07558169,0.806055714
+MLOps/ AIOps,BUILD,2.6247,0.1
+MLOps/ AIOps,PEP,14.31970972,7.247649296
+MLOps/ AIOps,perl,4.89418,0.719003797
+Application System,gorse-master,33.3333,36.4265
+Application System,gorse-server,33.3333,34.0371
+Application System,gorse-worker,33.3333,29.5364
+Application System,.uexp,16.02395,20.13915
+Application System,.uasset,15.93495,0.1037
+Application System,python,16.96691299,3.023009804
+Application System,opam,20.3204,0.7696
+Application System,PEP,13.50382778,6.987471329
+Application System,C/C++,13.54922387,2.015209091
+Application System,requires,15.6721,0
+Documentation,python,20.75523333,1.922016667
+Documentation,C/C++,17.84321667,1.964733333
+Documentation,PEP,13.64891667,4.289083333
+Documentation,archive,1.87364,0.01128
+Documentation,doc,4.38295,0.217066667
+Documentation,browser,5.50675,2.227016667
+Documentation,lib,3.2478,32.56816667
+Documentation,data/ database,2.350766667,0.715366667
+Documentation,perl,2.889383333,0.398733333
+Documentation,debian,0.730633333,0.014066667
+Model,C/C++,19.59939167,2.082683333
+Model,python,18.56965,2.261133333
+Model,PEP,15.85461667,4.692983333
+Model,browser,2.868981818,0.759354545
+Model,doc,3.853333333,0.280058333
+Model,model/ weights,1.368166667,0.300633333
+Model,archive,2.09492,0.14992
+Model,image,0.707854545,0.165363636
+Model,data/ database,2.818016667,0.659816667
+Model,mtl,1.8927,0

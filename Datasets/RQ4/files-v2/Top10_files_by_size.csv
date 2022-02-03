@@ -1,0 +1,71 @@
+Category,file_type,perc_size,size
+Toolkit,docker,99.0361,21.4
+Toolkit,core,62.5806375,144
+Toolkit,/app/coordinator,60.02,220.01
+Toolkit,ELF/COFF,35.45543333,3.89
+Toolkit,/vearch/vearch,12.5688,59.87
+Toolkit,.rlib,11.4631,575.09
+Toolkit,.ttc,9.1559,87.66
+Toolkit,.SIFT.1,6.8873,507.32
+Toolkit,.Hsapiens.1.2,5.9801,332.59
+Toolkit,Html/Xml,5.1947,42.33
+Toolkit,PEP,5.061718182,562.63
+Toolkit,.cache/pip/http/*,4.1926,1.4
+MLOps/ AIOps,manager,94.4512,105.43
+MLOps/ AIOps,Model/ Weight,22.01502,265.2
+MLOps/ AIOps,kubectl,21.17603333,148.73
+MLOps/ AIOps,ELF/COFF,18.56447556,2.7
+MLOps/ AIOps,.linux-bionic-,9.91275,212.08
+MLOps/ AIOps,.linux-bionic-,9.91275,212.08
+MLOps/ AIOps,.pcm,9.8597,267.85
+MLOps/ AIOps,/manager,9.4179,65
+MLOps/ AIOps,Java,8.917344444,483.32
+MLOps/ AIOps,Git,7.370983333,175.42
+MLOps/ AIOps,.cache/pip/http/*,7.2235,804.55
+MLOps/ AIOps,yq,5.1497,11.59
+Model,ELF/COFF,36.98645,9.83
+Model,.cache/pip/http/*,18.3132,499.36
+Model,Git,5.1914,217.64
+Model,C/C++,3.988,51.26
+Model,Ubuntu,3.745666667,48.11
+Model,.a,3.09454,872.87
+Model,cc1,2.69882,93
+Model,PEP,2.653875,470.53
+Model,6m,2.0603,125.64
+Model,Node/js,1.9793,9.99
+Model,gcc,1.2332,17.3
+Application System,gorse-,100,202.52
+Application System,.magnitude,41.2784,6.44
+Application System,qdrant,26.1017,36.84
+Application System,.carpa,25.6339,12.52
+Application System,core,25.31075714,36.57
+Application System,3D,18.79915,1.77
+Application System,ELF/COFF,18.69330972,3.08
+Application System,.jar,15.9045,178.05
+Application System,.fst,12.0424,5.88
+Application System,.cache/pip/http/*,11.8375,1.37
+Application System,.magmmap,9.6357,1.5
+Application System,/tmp/qt/qt.run,8.7597,1.23
+Documentation,ELF/COFF,73.5442,7.01
+Documentation,cc1,3.3723,43.85
+Documentation,.a,2.892066667,155.29
+Documentation,.conda,2.0705,202.08
+Documentation,pandoc,1.22965,342.53
+Documentation,gcc,0.60505,12.56
+Documentation,.mgc,0.54595,10.8
+Documentation,certif/ keys,0.4657,6.05
+Documentation,Data/ DB,0.26445,13.02
+Documentation,ld,0.258933333,7.56
+Documentation,apt,0.2371,26.71
+Documentation,.cache/pip/http/*,0.210408,12.05
+DL Framwork,ELF/COFF,56.23279,16.27
+DL Framwork,determined-master,28.6741,192.74
+DL Framwork,.cache/pip/http/*,17.25645,467.65
+DL Framwork,.bsp,18.2488,2.21
+DL Framwork,Java,7.213811111,333.06
+DL Framwork,/opt/flink/flink.tgz,5.7914,273.53
+DL Framwork,Git,5.64969,517.15
+DL Framwork,pkgs,4.3826,204.2
+DL Framwork,.a,2.913015493,478.6
+DL Framwork,.rpm,2.5875,122.21
+DL Framwork,.bam,2.3445,241.08

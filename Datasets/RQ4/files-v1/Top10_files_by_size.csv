@@ -1,0 +1,91 @@
+Category,file_type,perc_size,size
+Model,ELF/COFF,36.992399999999996,9.83
+Model,59289d1622a57731acff6181861325e771dee7a4ec15a9b349cab9fe,21.9458,1.46
+Model,e0e10909911e0df1655a24b1bd415152da29e54deb70bf12a8f4f769,14.6806,997.26
+Model,Git,5.1914,217.64
+Model,Ubuntu,3.7456666666666667,48.11
+Model,.a,3.621925,1.05
+Model,cc1,2.69882,93.0
+Model,6m,2.0603,125.64
+Model,Js,1.9793,9.99
+Model,PEP,0.9851956521739131,169.88
+Model,Java,0.6175,150.84
+Model,cicc,0.60605,80.21
+Model,Model/ Weight,0.5189,47.62
+Model,gcc,0.49455,12.73
+Model,.net,0.4306,1.87
+MLOps/ AIOps,manager,94.4512,105.43
+MLOps/ AIOps,Model/ Weight,22.01512,265.2
+MLOps/ AIOps,kubectl,21.176033333333333,148.73
+MLOps/ AIOps,ELF/COFF,12.752835820895521,1.83
+MLOps/ AIOps,.linux-bionic-x64.1.2.3.4,9.912749999999999,212.08
+MLOps/ AIOps,.linux-bionic-x64.1.2,9.912749999999999,212.08
+MLOps/ AIOps,.pcm,9.8597,267.85
+MLOps/ AIOps,/manager,9.4179,65.0
+MLOps/ AIOps,Git,8.844154999999999,210.38
+MLOps/ AIOps,Python,7.2298,86.66
+MLOps/ AIOps,29c6859f0ee838dbbfa7c1b7b983b63456908f1ec919c87f7c42bb37,7.2235,804.55
+MLOps/ AIOps,Web,6.2506,98.1
+MLOps/ AIOps,Java,5.589083333333334,339.39
+MLOps/ AIOps,.a,5.229887804878048,965.82
+MLOps/ AIOps,yq,5.1497,11.59
+DL Framwork,determined-master,28.6741,192.74
+DL Framwork,ELF/COFF,28.277822222222223,8.96
+DL Framwork,1a008818806306c066bce7f8ee317276859fbcaf08de19417f3f6b2f,22.0022,933.9
+DL Framwork,.bsp,18.2488,2.21
+DL Framwork,a9db9699ff4fe27071053b9ab84bce5abea7a3d3b4effc46cb18d46b,12.5107,1.4
+DL Framwork,/opt/flink/flink.tgz,5.7914,273.53
+DL Framwork,Git,5.382157142857143,493.23
+DL Framwork,.3-199.1.2,4.3826,204.2
+DL Framwork,Java,4.3610066666666665,202.65
+DL Framwork,.rpm,2.5875,122.21
+DL Framwork,.a,2.511755357142857,442.53
+DL Framwork,.bam,2.3445,241.08
+DL Framwork,.1493a970.1.2.3,2.2063,14.83
+DL Framwork,determined-gotmpl,1.4401,9.68
+DL Framwork,.3c978dec.1.2.3,1.4307,9.62
+Toolkit,docker,99.0361,21.4
+Toolkit,core,71.5195142857143,164.57
+Toolkit,/app/coordinator,60.02,220.01
+Toolkit,ELF/COFF,16.754284615384616,1.81
+Toolkit,/vearch/vearch,12.5688,59.87
+Toolkit,.rlib,11.4631,575.09
+Toolkit,.ttc,9.1559,87.66
+Toolkit,.SIFT.1,6.8873,507.32
+Toolkit,.Hsapiens.1.2,5.9801,332.59
+Toolkit,Html/Xml,5.1947,42.33
+Toolkit,a9db9699ff4fe27071053b9ab84bce5abea7a3d3b4effc46cb18d46b,4.1926,1.4
+Toolkit,912e8c132b56542f5c9a0aa1ca2b2043bac5eda26e5bde5d4880f962,3.9158,866.8
+Toolkit,/var/lib/rpm/Packages,3.7926,18.07
+Toolkit,.4-243.1.2,3.6044,204.94
+Toolkit,.a,3.6041307692307694,410.03
+Application System,gorse-,100.0,202.52
+Application System,.magnitude,41.2784,6.44
+Application System,core,27.256199999999996,39.38
+Application System,qdrant,26.1017,36.84
+Application System,.carpa,25.6339,12.52
+Application System,3D,18.79915,1.77
+Application System,.11-2.1.2.3,15.9045,178.05
+Application System,ELF/COFF,13.459634831460674,2.42
+Application System,.fst,12.0424,5.88
+Application System,89d0bbe36a0f0ca557bad26c88606913c2a3e65d8a4521dc9b6c82b3,11.8375,1.37
+Application System,.wapiti,10.1426,125.07
+Application System,.magmmap,9.6357,1.5
+Application System,/usr/lib/jvm/java-1.8-openjdk/lib/ct.sym,9.5552,16.92
+Application System,/tmp/qt/qt.run,8.7597,1.23
+Application System,.exe,7.8052,99.29
+Documentation,ELF/COFF,73.5681,7.01
+Documentation,cc1,3.3723,43.85
+Documentation,pandoc,1.2296500000000001,342.53
+Documentation,.conda,1.0359,996.0
+Documentation,.mgc,0.54595,10.8
+Documentation,gcc,0.267575,10.56
+Documentation,ld,0.2589333333333333,7.56
+Documentation,apt,0.2371,26.71
+Documentation,cache,0.2227255319148936,12.78
+Documentation,Goland,0.19416666666666668,5.84
+Documentation,.min,0.1851,18.07
+Documentation,PEP,0.1838,4.56
+Documentation,bin,0.11648196721311475,11.27
+Documentation,ninja,0.11425,16.67
+Documentation,.bfd,0.11030000000000001,4.17

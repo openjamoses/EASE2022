@@ -1,0 +1,58 @@
+Category,file_type,perc_size,size
+DL Framwork,core,54.55829091,106.67
+DL Framwork,determined-master,28.6741,192.74
+DL Framwork,.bsp,18.2488,2.21
+DL Framwork,.cache/pip/*,0.374313613,35.61
+DL Framwork,6m,0.8699,92.49
+DL Framwork,./gcc,0.11123622,7.9
+DL Framwork,.min.1.2,0.1718,9.74
+DL Framwork,disc/media,0.23665,14.19
+DL Framwork,cpack,0.086468966,10.61
+DL Framwork,.mgc,0.21792381,18.45
+Toolkit,./core,63.69986364,128
+Toolkit,docker,99.0361,21.4
+Toolkit,./coordinator,60.02,220.01
+Toolkit,./vearch,12.5688,59.87
+Toolkit,.rlib,11.4631,575.09
+Toolkit,.ttc,9.1559,87.66
+Toolkit,PEP,2.845392308,257.37
+Toolkit,.SIFT,6.8873,507.32
+Toolkit,font,1.67945,17.58
+Toolkit,.Hsapiens,5.9801,332.59
+MLOps/ AIOps,manager,94.4512,105.43
+MLOps/ AIOps,.mo,4.98915,11.6
+MLOps/ AIOps,.pcm,9.8597,267.85
+MLOps/ AIOps,.a,5.057312195,961.7
+MLOps/ AIOps,.cache/pip/*,7.2235,804.55
+MLOps/ AIOps,yq,5.1497,11.59
+MLOps/ AIOps,.jmod,3.9119,16.07
+MLOps/ AIOps,dede,4.3635,3.56
+MLOps/ AIOps,.history,3.6804,82.41
+Application System,./core,36.59068485,50.42
+Application System,.magnitude,41.2784,6.44
+Application System,gorse-master,36.4265,73.77
+Application System,.cache/pip/*,9.0924,376.805
+Application System,.magmmap,9.6357,1.5
+Application System,qt.run,8.7597,1.23
+Application System,java,5.169835185,129.46
+Application System,.cache/{}/*,5.2524,838.72
+Application System,.SIFT,5.2951,760.98
+Documentation,./core,66.77473333,85.33
+Documentation,cc1,3.3723,43.85
+Documentation,pandoc,2.603,254.06
+Documentation,ld,0.258933333,7.56
+Documentation,.bfd,0.1103,4.17
+Documentation,apt,0.2371,26.71
+Documentation,.conda,0.2286,11.13
+Documentation,.30-system,0.095733333,2.93
+Documentation,.min.1,0.18,17.57
+Documentation,./lib/*,10.43188571,1016.59
+Model,./core,99.99665,192
+Model,./lib/*,8.268977778,2.18
+Model,.cache/pip/*,18.3132,499.36
+Model,git,5.1914,217.64
+Model,.ubuntu,3.745666667,48.11
+Model,PEP,2.7573125,481.63
+Model,.a,3.621925,1.05
+Model,6m,2.0603,125.64
+Model,cicc,0.60605,80.21

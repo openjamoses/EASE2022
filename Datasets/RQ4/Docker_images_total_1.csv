@@ -1,0 +1,493 @@
+Category,image,total_layers
+Application System,px4io/px4-dev-aarch64,11
+Application System,px4io/px4-dev-aarch64,11
+Application System,px4io/px4-dev-aarch64,11
+Application System,px4io/px4-dev-aarch64,11
+Application System,px4io/px4-dev-aarch64,11
+Application System,apolloauto/apollo,36
+Application System,commaai/openpilot-apks,11
+Application System,flyandi/docker-inav,8
+Application System,huaweinoah/smarts,13
+Application System,araffin/racing-robot-rpi3,19
+Application System,araffin/racing-robot-rpi3,19
+Application System,araffin/racing-robot-rpi3,19
+Application System,paparazziuav/pprz-dev,15
+Application System,paparazziuav/pprz-dev,15
+Application System,paparazziuav/pprz-dev,15
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,ardupilot/ardupilot-dev-bloaty,9
+Application System,gaas/mavros-gazebo7-px4,40
+Application System,juhaoming/sustechpoints,6
+Toolkit,optuna/optuna,13
+Toolkit,climbsrocks/auto_ml_tests,8
+Toolkit,climbsrocks/auto_ml_tests,8
+Toolkit,nidhaloff/igel,21
+Toolkit,funkey/gunpowder,31
+Toolkit,mlbazaar/autobazaar,13
+Toolkit,deepset/farm-inference-api,13
+Toolkit,deepset/farm-inference-api,13
+Toolkit,deepset/farm-inference-api,13
+Toolkit,deepset/farm-inference-api,13
+Toolkit,deepset/farm-inference-api,13
+Toolkit,deepset/farm-inference-api,13
+Toolkit,ppalmes/automlpipeline,8
+Toolkit,automlorg/autopytorch,16
+Toolkit,msranni/nni,25
+Toolkit,automlbenchmark/autosklearn,14
+Toolkit,ludwigai/ludwig-gpu,15
+Toolkit,ludwigai/ludwig-gpu,15
+Toolkit,ludwigai/ludwig-gpu,15
+Toolkit,ludwigai/ludwig-gpu,15
+Toolkit,autogoal/autogoal,30
+Model,ultralytics/yolov5,62
+Model,ultralytics/yolov3,62
+Model,deliah/bert-as-service,22
+Model,defects4dl/segmentation_models.pytorch186,5
+Model,medipixel/rl_algorithms,17
+Model,alexandrainst/danlp,14
+Model,rickardhallerback/recurrent-neural-net,7
+Model,huggingface/transformers-tensorflow-cpu,4
+Model,huggingface/transformers-tensorflow-cpu,4
+Model,huggingface/transformers-tensorflow-cpu,4
+Model,huggingface/transformers-tensorflow-cpu,4
+Model,huggingface/transformers-tensorflow-cpu,4
+Model,kyiimn/pororo,18
+Model,shinyeyes/keras-ocr,21
+Model,araffin/rl-baselines-zoo-cpu,8
+Model,araffin/rl-baselines-zoo-cpu,8
+Model,intel/intel-optimized-tensorflow,7
+Toolkit,intelotc/dffml,16
+DL Framwork,arunothia/cs-221,15
+DL Framwork,datmo/xgboost,16
+DL Framwork,apulistech/mmdetection,19
+DL Framwork,allennlp/allennlp,10
+DL Framwork,nvidia/digits,17
+DL Framwork,tinydnn/tinydnn,15
+DL Framwork,hybridgroup/gocv,11
+DL Framwork,catalystteam/catalyst,4
+DL Framwork,principialabs/torch-points3d,20
+DL Framwork,kengz/slm_lab,11
+DL Framwork,datacanvas/deeptables-example,10
+DL Framwork,sourabhbhide/stardist-tf24-gpu,16
+DL Framwork,flexflowai/cuda110,15
+DL Framwork,alicevision/popsift,14
+DL Framwork,juliareinforcementlearning/reinforcementlearningenvironments,8
+DL Framwork,baguasys/bagua,29
+DL Framwork,smartdataanalytics/dl-learner,13
+DL Framwork,rlgraph/rlgraph,24
+DL Framwork,tinyms/tinyms,19
+DL Framwork,carefree0910/carefree-learn,65
+DL Framwork,carefree0910/carefree-learn,65
+DL Framwork,carefree0910/carefree-learn,65
+DL Framwork,neuronets/nobrainer-zoo,34
+DL Framwork,neuronets/nobrainer-zoo,34
+DL Framwork,fastestimator/fastestimator,21
+DL Framwork,ridgerun/r2inference-ubuntu-18.04,9
+DL Framwork,ridgerun/r2inference-ubuntu-18.04,9
+DL Framwork,artifacts/variationanalysis-app,30
+DL Framwork,apache/singa,14
+DL Framwork,deepchemio/deepchem,14
+DL Framwork,achaiah/pywick,23
+DL Framwork,tensorflow/tensorflow,24
+DL Framwork,bvlc/caffe,11
+DL Framwork,pytorch/pytorch,3
+DL Framwork,paddlepaddle/paddle,61
+DL Framwork,horovod/horovod,25
+DL Framwork,pytorchlightning/pytorch_lightning,18
+DL Framwork,tensorlayer/tensorlayer,16
+DL Framwork,chainer/chainer,12
+DL Framwork,jinaai/jina,10
+DL Framwork,paddlepaddle/paddle-lite,22
+DL Framwork,gordinmitya/mnn,16
+DL Framwork,sequenceiq/hadoop-docker,43
+DL Framwork,pytorchignite/base,7
+DL Framwork,stablebaselines/stable-baselines3-cpu,9
+DL Framwork,stablebaselines/stable-baselines3-cpu,9
+DL Framwork,deepjavalibrary/djl-serving,6
+DL Framwork,nnabla/nnabla,9
+DL Framwork,tensorlayer/hyperpose,21
+DL Framwork,rlworkgroup/garage-intel,18
+DL Framwork,rlworkgroup/garage-intel,18
+DL Framwork,rlworkgroup/garage-intel,18
+DL Framwork,rlworkgroup/garage-intel,18
+DL Framwork,rlworkgroup/garage-intel,18
+DL Framwork,rlworkgroup/garage-intel,18
+DL Framwork,determinedai/determined-agent,7
+DL Framwork,determinedai/determined-agent,7
+DL Framwork,determinedai/determined-agent,7
+DL Framwork,stablebaselines/rl-baselines3-zoo,20
+DL Framwork,stablebaselines/rl-baselines3-zoo,20
+DL Framwork,eaplatanios/tensorflow_scala,15
+DL Framwork,nnfusion/pytorch,20
+DL Framwork,tlkh/ai-lab,24
+DL Framwork,pyhf/pyhf,7
+DL Framwork,takuseno/d3rlpy,13
+DL Framwork,vanvalenlab/deepcell-tf,14
+DL Framwork,spiceai/spiceai,13
+DL Framwork,diegoferigo/gym-ignition,7
+DL Framwork,datamachines/tensorflow_opencv,22
+DL Framwork,datamachines/tensorflow_opencv,22
+DL Framwork,bluefoglib/bluefog,38
+Documentation,justheuristic/practical_rl,9
+Documentation,0xbadb100d/computervision-recipes,39
+Documentation,prabhuomkar/pytorch-cpp,10
+Documentation,tnarihi/nnabla-examples,13
+Toolkit,snoe925/lightgbm,7
+Toolkit,pymc/pymc3,17
+Toolkit,yueguoguo/xlearn,6
+Toolkit,rapidsai/rapidsai,13
+Toolkit,rapidsai/rapidsai,13
+Toolkit,sepandhaghighi/pycm,12
+Toolkit,rgfteam/rgf,5
+Toolkit,heidelbergcementds/hcrystalball,19
+Toolkit,envest/rnaseq_titration_results,15
+Toolkit,ikholopov/catboost-node-package-e2e-base,7
+Toolkit,stellargraph/stellargraph,12
+Toolkit,vearch/vearch,2
+Toolkit,turinglang/turing,6
+Toolkit,reiinakano/xcessiv,10
+Toolkit,openmined/tenseal,8
+Toolkit,nlpodyssey/spago,5
+Toolkit,xaynetwork/xaynet,3
+MLOps/ AIOps,kubeflow/kubeflow-triage,11
+MLOps/ AIOps,land007/tfjs-node,32
+MLOps/ AIOps,greatexpectations/great_expectations,12
+MLOps/ AIOps,eugenefedorenko/mlopspython,7
+MLOps/ AIOps,snapbuy/triton-inference-server,44
+MLOps/ AIOps,quantumblacklabs/kedro_builder,23
+MLOps/ AIOps,nipreps/fmriprep,23
+MLOps/ AIOps,awsdeeplearningteam/multi-model-server,12
+MLOps/ AIOps,selitvin/petastorm_ci_auto,28
+MLOps/ AIOps,awsdlcontainermirror/tensorflow-training,19
+MLOps/ AIOps,universaldatatool/universaldatatool,14
+MLOps/ AIOps,flyteorg/flytesnacks,13
+MLOps/ AIOps,kubeflow/mpi-operator,2
+MLOps/ AIOps,wisechang1/nnstreamer,9
+MLOps/ AIOps,nabeeloz/qlik-py-tools,26
+MLOps/ AIOps,redislabs/redisai,13
+MLOps/ AIOps,rscohn2/oneapi-spec,6
+MLOps/ AIOps,intel/video-analytics-serving,37
+MLOps/ AIOps,allegroai/clearml-agent,18
+MLOps/ AIOps,petuum/adaptdl-sched,16
+MLOps/ AIOps,imjoy/imjoy-app-engine,12
+MLOps/ AIOps,aniketmaurya/chitra,10
+MLOps/ AIOps,montyvesselinov/madsjulia,9
+MLOps/ AIOps,nipreps/smriprep,20
+MLOps/ AIOps,hetao2019/kleveross-model-registr,2
+MLOps/ AIOps,ppl521/paddle-operator,18
+MLOps/ AIOps,zazrivec/dcos-jupyterlab-service,27
+MLOps/ AIOps,geekjr/quickai,2
+MLOps/ AIOps,paperspace/gradient-base,10
+MLOps/ AIOps,indigodatacloud/deepaas,6
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,cortexlabs/neuron-device-plugin,5
+MLOps/ AIOps,rayproject/ray-ml,26
+MLOps/ AIOps,rayproject/ray-ml,26
+MLOps/ AIOps,alluxio/alluxio-fuse,18
+MLOps/ AIOps,alluxio/alluxio-fuse,18
+MLOps/ AIOps,larribas/mlflow,6
+MLOps/ AIOps,tensorflow/serving,23
+MLOps/ AIOps,rootproject/root,3
+MLOps/ AIOps,intelanalytics/bigdl,10
+MLOps/ AIOps,ufoym/deepo,11
+MLOps/ AIOps,intelanalytics/analytics-zoo,9
+MLOps/ AIOps,sqlflow/sqlflow,24
+MLOps/ AIOps,seldonio/seldon-core-s2i-python3,20
+MLOps/ AIOps,seldonio/seldon-core-s2i-python3,20
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,54
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,54
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,54
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,54
+MLOps/ AIOps,jolibrain/deepdetect_gpu_tensorrt,54
+MLOps/ AIOps,tensorflow/tfx,36
+MLOps/ AIOps,kserve/kserve-controller,3
+MLOps/ AIOps,kserve/kserve-controller,3
+MLOps/ AIOps,4pdosc/openmldb,8
+MLOps/ AIOps,volcanosh/volcano-device-plugin,2
+MLOps/ AIOps,feastdev/feast-serving,4
+MLOps/ AIOps,bentoml/yatai-service,14
+MLOps/ AIOps,bentoml/yatai-service,14
+MLOps/ AIOps,seldonio/seldon-server,19
+MLOps/ AIOps,mltooling/ml-workspace,76
+MLOps/ AIOps,polyaxon/polyaxon-api,31
+MLOps/ AIOps,polyaxon/polyaxon-api,31
+MLOps/ AIOps,polyaxon/polyaxon-api,31
+MLOps/ AIOps,polyaxon/polyaxon-api,31
+MLOps/ AIOps,polyaxon/polyaxon-api,31
+MLOps/ AIOps,marsproject/mars-base,6
+MLOps/ AIOps,vertaaiofficial/modeldb-backend,7
+MLOps/ AIOps,wixee/old_he-transformer,6
+MLOps/ AIOps,mesosphere/dcos-commons,6
+MLOps/ AIOps,wasmedge/wasmedge,5
+MLOps/ AIOps,blazingdb/blazingsql,9
+MLOps/ AIOps,paddlepaddle/serving,5
+MLOps/ AIOps,fedlearner/fedlearner-operator,5
+MLOps/ AIOps,fedlearner/fedlearner-operator,5
+MLOps/ AIOps,fedlearner/fedlearner-operator,5
+MLOps/ AIOps,openvino/model_server,8
+MLOps/ AIOps,orchest/orchest-api,25
+MLOps/ AIOps,orchest/orchest-api,25
+MLOps/ AIOps,mltooling/opyrator-playground,26
+MLOps/ AIOps,blueoil/blueoil,27
+MLOps/ AIOps,zenmldocker/zenml,3
+MLOps/ AIOps,metabrainz/acousticbrainz,48
+MLOps/ AIOps,learningathome/hivemind,40
+MLOps/ AIOps,kubedl/kubedl,4
+MLOps/ AIOps,mltooling/ml-hub,39
+MLOps/ AIOps,novetta/adaptnlp,16
+MLOps/ AIOps,s22s/rasterframes-notebook,35
+MLOps/ AIOps,asuprem/raydp,10
+MLOps/ AIOps,cylondata/cylon,14
+MLOps/ AIOps,huangrh9/autodist,27
+MLOps/ AIOps,milesg/gordo-model-server,9
+MLOps/ AIOps,camazaqui/learningorchestra,13
+MLOps/ AIOps,marsproject/mars,12
+MLOps/ AIOps,llnl/merlin,6
+MLOps/ AIOps,mcr.microsoft.com/azureml/aml-triton,53
+MLOps/ AIOps,arangoml/arangopipe_ui,7
+MLOps/ AIOps,bitnami/tensorflow-serving,9
+MLOps/ AIOps,augerai/a2ml,13
+MLOps/ AIOps,omegaml/omegaml-base,10
+MLOps/ AIOps,omegaml/omegaml-base,10
+Toolkit,challisa/easyocr,11
+Toolkit,ziggerzz/openspiel,17
+Toolkit,alicevision/alicevision,24
+Toolkit,jkim57/torch2trt,31
+Toolkit,lilydedbb/mmdetection3d,42
+Toolkit,ceccocats/tkdnn,22
+Toolkit,asciidoctor/docker-asciidoctor,7
+Toolkit,ng1997/decord-pytorch,30
+Toolkit,fuzzylite/fuzzylite,6
+Toolkit,kitware/fletch,10
+Toolkit,scilus/scilpy,21
+Toolkit,pccl/holodeck,20
+Toolkit,plstcharles/litiv,16
+Toolkit,kmaehashi/onnx-chainer,14
+Toolkit,knorth55/coral_usb_ros,23
+Toolkit,espnet/espnet,17
+Toolkit,openvino/ubuntu20_data_dev,25
+Toolkit,openvino/ubuntu20_data_dev,25
+Toolkit,openvino/ubuntu20_data_dev,25
+Toolkit,openvino/ubuntu20_data_dev,25
+Toolkit,openvino/ubuntu20_data_dev,25
+Toolkit,openvino/ubuntu20_data_dev,25
+Toolkit,projectmonai/monai,65
+Toolkit,nvidia/tensorrt-labs,20
+Toolkit,stillwater/universal,22
+Toolkit,berlius/face-alignment,19
+Toolkit,erdosproject/erdos,18
+Toolkit,shogun/shogun-dev,11
+Toolkit,nvidia/cuda,9
+Toolkit,flml/flashlight,17
+Toolkit,waikato/moa,3
+Toolkit,ibmcom/helayers-lab-s390x,57
+Toolkit,ibmcom/helayers-lab-s390x,57
+Toolkit,ibmcom/helayers-lab-s390x,57
+Toolkit,ibmcom/helayers-lab-s390x,57
+Application System,faceswap/faceswap,32
+Application System,cmusatyalab/openface,18
+Application System,nagadomi/waifu2x,15
+Application System,pmoulon/openmvg,12
+Application System,mycroftai/docker-mycroft,11
+Application System,robocarstore/donkeycar,31
+Application System,chadockerxom/pyrocent,6
+Application System,alicevision/meshroom,50
+Application System,tnarik/malmo,8
+Application System,jbarlow83/ocrmypdf,10
+Application System,jbarlow83/ocrmypdf,10
+Application System,cloudannotations/cloudannotations,9
+Application System,k4yt3x/video2x,5
+Application System,mapbox/robosat,17
+Application System,borispolonsky/vizdoom-pytorch,17
+Application System,mmkamani/mmclassification,18
+Application System,svarogcldo/make-sense,6
+Application System,hqkhan/bindsnet,21
+Application System,pipcook/pipcook,15
+Application System,animcogn/face_recognition,8
+Application System,synesthesiam/mycroft-precise-trainer,9
+Application System,oilpal/fastmot,55
+Application System,robotology/yarp,9
+Application System,marccote19/textworld,12
+Application System,probcomp/gen-quickstart,9
+Application System,koma1231/pypylon-python3.8,3
+Application System,owlbarn/owl,22
+Application System,zivkaziv/videoflow,10
+Application System,kitware/kwiver,21
+Application System,kundajelab/dragonn,31
+Application System,alicevision/cctag,22
+Application System,jahi9791/paperai_repo1,18
+Application System,devopsteampl/voice-cloning-app,11
+Application System,libertem/libertem-dev,9
+Application System,asreview/asreview,10
+Application System,alliander/imagetagger,11
+Application System,projectglow/glow-azure,41
+Application System,projectglow/glow-azure,41
+Application System,nipy/mindboggle,18
+Application System,cbica/captk,19
+Application System,weilbyte/esmbotmin,20
+Application System,barksim/bark,15
+Application System,rosetteapi/java-examples,8
+Application System,hamelsmu/ktext-test,10
+Application System,marvinler/pypownet,13
+Application System,local0state/trojanzoo,10
+Application System,skkueslab/ant-build-test,9
+Application System,claraomics/atacworks,15
+Application System,sirimullalab/dlscore,21
+Application System,weiji14/deepbedmap,17
+Application System,cair/deeprts,8
+Application System,mlrun/ml-models-gpu,31
+Application System,mlrun/ml-models-gpu,31
+Application System,mlrun/ml-models-gpu,31
+Application System,mlrun/ml-models-gpu,31
+Application System,andrejorsula/drl_grasping,29
+Application System,certifaiai/classifai,9
+Application System,spacechop/spacechop,17
+Application System,bscwdc/dislib-base,4
+Application System,bscwdc/dislib-base,4
+Application System,dcanlabs/abcd-hcp-pipeline,44
+Application System,aldro61/kover,11
+Application System,dicegroup/tebaqa,8
+Application System,vwxyzjn/gym-microrts,18
+Application System,erechtheus79/geolocation,14
+Application System,hkubal/clair3,9
+Application System,viadee/bpmn.ai-ui,10
+Application System,viadee/bpmn.ai-ui,10
+Application System,cselab/korali,11
+Application System,librealsense/librealsense,7
+Application System,openmined/pysyft-notebook,8
+Application System,deeplabcut/deeplabcut,16
+Application System,photoprism/photoprism-arm64,19
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,alphacep/kaldi-fr,4
+Application System,pytorchlightning/metrics-dev,17
+Application System,beammodel/beam,4
+Application System,fetchai/aea-user,14
+Application System,fetchai/aea-user,14
+Application System,fetchai/aea-user,14
+Application System,jguweka/jguweka,19
+Application System,projectmonai/monailabel,67
+Application System,z1pti3/jimi_web,14
+Application System,z1pti3/jimi_web,14
+Application System,masatoka/jetson-nano-base,38
+Application System,masatoka/jetson-nano-base,38
+Application System,masatoka/jetson-nano-base,38
+Application System,openalpr/openalpr,8
+Application System,farmng/devel,21
+Application System,farmng/devel,21
+Application System,linonetwork/linox,11
+Application System,ailemondocker/asrt_service,9
+Application System,g4challenge/mmocr,22
+Application System,shinyeyes/perceptualsimilarity,12
+Application System,rasa/financial-demo,11
+Application System,mozilla/deepspeech-server,20
+Application System,mozilla/deepspeech-server,20
+Application System,wkentaro/labelme,4
+Application System,carlasim/carla,20
+Application System,deezer/spleeter-gpu,13
+Application System,openvino/cvat_ui,9
+Application System,openvino/cvat_ui,9
+Application System,openvino/cvat_ui,9
+Application System,numenta/nupic,16
+Application System,silviostanzani/open3d-ml,61
+Application System,doccano/doccano,12
+Application System,federatedai/fateboard,5
+Application System,colmap/colmap,15
+Application System,heartexlabs/label-studio,9
+Application System,dany06/ai-chatbot-framework,17
+Application System,deepspeed/deepspeed,33
+Application System,google/deepvariant,46
+Application System,interpretml/interpret,7
+Application System,mindsdb/mindsdb,5
+Application System,quantylab/rltrader,5
+Application System,zhenghaoz/gorse-worker,2
+Application System,zhenghaoz/gorse-worker,2
+Application System,zhenghaoz/gorse-worker,2
+Application System,daviddocker78/mxnet-ssd,38
+Application System,hooram/ownphotos,26
+Application System,jsbroks/coco-annotator,17
+Application System,blakeblackshear/frigate,17
+Application System,drakkarsoftware/octobot,9
+Application System,vincentmatthys/grobid,13
+Application System,oliviaai/olivia,11
+Application System,opendatacam/opendatacam-darknet-base,29
+Application System,opendatacam/opendatacam-darknet-base,29
+Application System,sentinelhub/eolearn,27
+Application System,dragoncomputer/dragonfire,7
+Application System,jonaswinkler/paperless-ng,16
+Application System,polakowo/vectorbt-full,26
+Application System,polakowo/vectorbt-full,26
+Application System,joorock12/tensorflowasr,32
+Application System,exadel/compreface-core,17
+Application System,exadel/compreface-core,17
+Application System,exadel/compreface-core,17
+Application System,exadel/compreface-core,17
+Application System,fcore/txtai,16
+Application System,openml/openml-python,15
+Application System,tiangolo/uwsgi-nginx-flask,30
+Application System,nipreps/mriqc,22
+Application System,nelinski/reddit-karma-farming-bot,14
+Application System,gnina/gnina,13
+Application System,jeff1evesque/ml-default,22
+Application System,dsarchive/histomicstk,15
+Application System,bdonnot/grid2op,16
+Application System,erdosproject/pylot,47
+Application System,modernmt/master,11
+Application System,deepquestai/deepstack,44
+Application System,deepquestai/deepstack,44
+Application System,obsei/obsei-sdk,14
+Application System,obsei/obsei-sdk,14
+Application System,intel/openfl,10
+Application System,msahraeian/neusomatic,18
+Application System,generall/qdrant,4
+Application System,opendilab/ding,12
+Application System,recognai/rubrix,22
+Application System,imaginative/credential-digger_credential_digger,16
+Application System,pascalbergeron/geo-deep-learning-cpu,23
+Application System,neuralet/smart-social-distancing,26
+Application System,nnabla/nnabla-ext-cuda-multi-gpu,21
+Application System,af01/bolero,9
+Application System,af01/bolero,9
+Application System,mlovci/flotilla,16
+Application System,rostlab/bio_embeddings,12
+Application System,kevinmenden/scaden,7
+Application System,pyronear/pyro-vision,22
+Application System,will5448/camera-trap-classifier,30
+Application System,cogstacksystems/medcat-trainer,16
+Application System,cogstacksystems/medcat-trainer,16
+Application System,modelchimp/modelchimp-server,15
+Application System,modelchimp/modelchimp-server,15
+Application System,kitware/diva,35
+Application System,milenapavlovic/immuneml,14
+Application System,unitytechnologies/datasetinsights,17
+Application System,ubcctlt/compair-app,13

@@ -38,7 +38,7 @@ A simple configuration may be required before running the code.
 In the following, you will find a brief descriptions of what is contained in the source code and how to get started.
 
  [Datasets](#Datasets)  
-> All dataset used for this study can be found in the folder Dataset. The sub-directories are self-explainatory. In addition we provide a single spreadsheet file (ML_Docker_repositories.xlsx in the folder RQ1) containing all the details of the repository described in our methodology. In this dataset you will find the list of repositories from the initial data collection until the final list of repositories that was considered in this study.
+> All dataset used for this study can be found in the folder Dataset. The sub-directories are self-explainatory. In addition we provide a single spreadsheet file (`ML_Docker_repositories.xlsx in the folder RQ1`) containing all the details of the repository described in our methodology. In this dataset you will find the list of repositories from the initial data collection until the final list of repositories that was considered in this study.
 
 There are four folders named RQ1, RQ2, RQ3, RQ4
 
